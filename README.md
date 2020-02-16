@@ -1,1 +1,1 @@
-# serenade-wind
+# Serenade Wind online platform
