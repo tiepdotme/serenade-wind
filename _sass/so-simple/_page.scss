@@ -242,7 +242,7 @@
     margin-bottom: 1em;
 
     @include breakpoint($large) {
-      float: left; // display: grid fallback
+      float: right; // display: grid fallback
       width: 18%; // display: grid fallback
     }
 
@@ -262,7 +262,7 @@
 
   .page-content {
     @include breakpoint($large) {
-      float: right; // display: grid fallback
+      float: left; // display: grid fallback
       width: 78%; // display: grid fallback
       min-width: 0;
     }
