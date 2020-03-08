@@ -6,7 +6,7 @@
   margin: 0 auto;
   padding-left: 1em;
   padding-right: 1em;
-  max-width: $main-sidebar-max-width;
+  max-width: $main-max-width;
 }
 
 .page-title {
@@ -218,7 +218,9 @@
   }
 }
 
+
 .layout--post {
+/*  
   .page-wrapper {
     @include breakpoint($large) {
       display: grid;
@@ -230,7 +232,7 @@
       justify-content: space-between;
     }
   }
-
+*/
   .page-header {
     @include breakpoint($large) {
       grid-column: 1 / -1;
@@ -281,6 +283,6 @@
 
 .page--wide {
   .page-wrapper {
-    max-width: $main-sidebar-max-width;
+    max-width: $main-max-width;
   }
 }
