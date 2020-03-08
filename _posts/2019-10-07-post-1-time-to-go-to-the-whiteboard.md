@@ -6,13 +6,16 @@ author: serenadewind niculescu
 layout: post
 guid: https://www.serenadewind.com/uncategorized/post-1-time-to-go-to-the-whiteboard/
 permalink: /sailing/post-1-time-to-go-to-the-whiteboard/
+post_img_path: /images/
 categories:
   - Sailing Adventures
+  - Life Planning
 tags:
   - Transition
 excerpt: >-
   Borrowing from *modern* work planning methodologies, we decided to lay out some answers to *What is life now?* and *What do we want life to be?*
 ---
+
 Complacency had settled in only after a few years of getting married. We had grown accustomed to a routine of working anywhere between 60 to 80 hour weeks with personal time together relegated to a couple stolen hours each day during the week and of course there were the weekends&#8230; when we would work out, visit with family, host an occasional BBQ, and run errands or take care of chores.
 
 Many of you may also have jam-packed itineraries chauffeuring your kids to soccer practice, piano lessons, gymnastics and all sorts of kids birthday parties in various assorted venues.
@@ -25,16 +28,16 @@ If you really break down how you spend your time in a given week, it may look so
 ---
 We took a hard look at this distribution of time and while we didn’t like the reality we were living, we also saw this as an opportunity to <em>not </em>be complacent. So, we spent a few hours on a sunny Sunday morning asking and challenging ourselves with the following questions:
 
--  *Is this all there is?*
--  *What do we want to do with the rest of our lives?*
+-  Is this all there is?
+-  What do we want to do with the rest of our lives?
 -  How do we spend more time together?
 -  How can we do the work that we love so it doesn’t feel like work?
 -  How long do we want to live in our current home versus live abroad?
 -  How do we reduce our commute time?
 -  What do we want to do more of?
 
----
-<img class="img-circle align-right" src="/wp-content/uploads/2020/02/129_0_400_401.04438642298_2018-Whiteboard-1st-1024x768.jpeg" alt="" width="400" height="401" srcset="/wp-content/uploads/2020/02/129_0_400_401.04438642298_2018-Whiteboard-1st-1024x768.jpeg 400w, /wp-content/uploads/2020/02/2018-Whiteboard-1st-150x150.jpeg 150w, /wp-content/uploads/2020/02/2018-Whiteboard-1st-48x48.jpeg 48w, /wp-content/uploads/2020/02/2018-Whiteboard-1st-300x300.jpeg 300w, /wp-content/uploads/2020/02/96_0_166_166_2018-Whiteboard-1st-768x576.jpeg 166w" sizes="(max-width: 400px) 100vw, 400px" />
+{% include post-wide-image.html image = "/images/serenade-wind-whiteboard-main.jpg" %}
+
 
 There were many more questions and ideas that were thrown up on a whiteboard with a bunch of colorful stickies. We organized these ideas between short term goals and long term goals. We wrote down our non-negotiables. We also had a parking lot for things we would want to explore later. Essentially, we used tools often taken for granted in a business setting and applied it to our own personal lives and it worked for us because it really helped to crystalize our goals.
 
