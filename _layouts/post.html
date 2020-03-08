@@ -13,6 +13,13 @@ layout: default
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {% endif %}
+
+        <div class="page-stats-bar">
+          {% include page-author.html %}
+          {% include page-categories.html %}
+          {% include page-tags.html %}
+      </div>
+
       </header>
 
 

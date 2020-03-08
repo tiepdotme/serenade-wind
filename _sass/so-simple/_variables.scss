@@ -98,3 +98,6 @@ $border-radius: 0.25rem !default;
 
 /* Global transition */
 $global-transition: all 0.4s ease !default;
+
+/* Global spacing: Headers, paragraphs, tables, etc. see _reset.scss */
+$site-elements-default-margin-bottom: 1.5rem !default;
