@@ -12,6 +12,7 @@ categories:
   - Life Planning
 tags:
   - Transition
+author: sw
 excerpt: >-
   Borrowing from *modern* work planning methodologies, we decided to lay out some answers to *What is life now?* and *What do we want life to be?*
 ---
@@ -37,7 +38,6 @@ We took a hard look at this distribution of time and while we didn’t like the 
 -  What do we want to do more of?
 
 {% include post-wide-image.html image = "/images/serenade-wind-whiteboard-main.jpg" %}
-
 
 There were many more questions and ideas that were thrown up on a whiteboard with a bunch of colorful stickies. We organized these ideas between short term goals and long term goals. We wrote down our non-negotiables. We also had a parking lot for things we would want to explore later. Essentially, we used tools often taken for granted in a business setting and applied it to our own personal lives and it worked for us because it really helped to crystalize our goals.
 

@@ -1,5 +1,6 @@
 title: Serenade Wind
-email: your-email@example.com
+email: serenadewind@gmail.com
+locale: "en-US"
 description: >-
   description
 baseurl: ''
@@ -8,17 +9,23 @@ social:
   name: Serenade Wind
   links:
     - https://twitter.com/serenade_wind
-    - https://www.facebook.com/serenade.wind.adventures
+    - https://www.facebook.com/serenade.wind.ventures
 
 markdown: kramdown
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/dark.css"
+author:
+  name: John Doe
+  twitter: johndoetwitter
+  picture: /images/johndoe.png
 read_time: true
 words_per_minute: 200
 google_fonts:
   - name: "Princess Sofia"
     weights: "400,500,600"
   - name: "Montez"
+  - name: "Poiret One"
+    weights: "400,500,600"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
