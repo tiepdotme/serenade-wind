@@ -1,0 +1,13 @@
+sw:
+  name: SW (Denise)
+  picture: http://0.gravatar.com/avatar/0d222f5c5bc1a9c406378f4f77524a34?s=100
+  links:
+    - title: Instagram
+      url: https://instagram.com/serenade.wind
+      icon: fab fa-instagram-square
+    - title: Facebook
+      url: https://www.facebook.com/pg/serenade.wind.ventures/
+      icon: fab fa-facebook-square
+    - title: Twitter
+      url: https://twitter.com/serenade_wind
+      icon: fab fa-twitter-square
