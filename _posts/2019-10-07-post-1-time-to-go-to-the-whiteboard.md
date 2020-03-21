@@ -12,7 +12,11 @@ categories:
   - Life Planning
 tags:
   - Transition
+  - Life
+  - Sailing
+  - Boats
 author: sw
+share: true
 excerpt: >-
   Borrowing from *modern* work planning methodologies, we decided to lay out some answers to *What is life now?* and *What do we want life to be?*
 ---
@@ -23,7 +27,7 @@ Many of you may also have jam-packed itineraries chauffeuring your kids to socce
 
 Sound familiar?
 
-### Where does the time go?
+## Where does the time go?
 <img class="align-right" src="../wp-content/uploads/2019/10/vertical-pie-e1582456462613-205x300.jpeg" alt="" width="205" height="300" srcset="/wp-content/uploads/2019/10/vertical-pie-e1582456462613-205x300.jpeg 205w, /wp-content/uploads/2019/10/vertical-pie-e1582456462613-123x180.jpeg 123w, /wp-content/uploads/2019/10/vertical-pie-e1582456462613.jpeg 219w" sizes="(max-width: 205px) 100vw, 205px" />
 If you really break down how you spend your time in a given week, it may look something similar to the chart here.
 ---
@@ -43,7 +47,7 @@ There were many more questions and ideas that were thrown up on a whiteboard wit
 
 That Sunday morning session concluded with a decision to start knocking out some short-term goals, and in that case sacrifice our usual Sunday climbing session at our gym and in doing that, we felt great. We left the whiteboard up as a visual reminder that we would see each day and help to keep us on track.
 
-### One year later&#8230;
+## One year later&#8230;
 
 On the whole, the pie chart was largely unchanged. I would venture to say that even the segment for Work increased and the quality of the segment for Personal was spent stressing about Work. No bueno. For me, much of that had to do with a new role I had taken on at work which was undergoing a lot of changes with not a lot of resources. I had estimated it would take 6 months before work would stabilize and unfortunately it continued to grow more chaotic and demanding.
 

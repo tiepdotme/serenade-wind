@@ -3,34 +3,34 @@
    ========================================================================== */
 
 .author-avatar {
-  display: none;
-
+  display: inline;
+  border-radius:100px;
+  width: 100px;
+  height: 100px;
   @include breakpoint($large) {
-    display: inline;
     margin-bottom: 1em;
-    width: 100px;
-    height: 100px;
-    border-radius: 100px;
   }
 }
+.author-info {
+  margin-left:1em;
+  font-size:0.75em;
+  .author-name {
+    @include breakpoint($large) {
+      margin-bottom: 0.5em;
+    }
+  }
 
-.author-name {
-  @include breakpoint($large) {
-    margin-bottom: 0.5em;
+  .author-links {
+    display: none;
+    margin: 0 0 1.5em;
+    padding: 0;
+    list-style: none;
+
+    @include breakpoint($large) {
+      display: block;
+    }
   }
 }
-
-.author-links {
-  display: none;
-  margin: 0 0 1.5em;
-  padding: 0;
-  list-style: none;
-
-  @include breakpoint($large) {
-    display: block;
-  }
-}
-
 .author-link {
   display: inline;
   padding-right: 0.5em;

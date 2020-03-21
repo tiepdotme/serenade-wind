@@ -76,23 +76,23 @@
   }
 }
 
-.page-sidebar {
+.page-stats-bar {
   font-size: 0.75em;
 
   @include breakpoint($large) {
-    text-align: center;
+    font-size: 1em;
   }
 
   .page-date,
   .read-time {
-    font-family: $meta-font-family;
+    font-family: $base-font-family;
     font-style: italic;
     white-space: nowrap;
   }
 
   .read-time {
     @include breakpoint($large) {
-      display: block;
+      
     }
   }
 
@@ -101,8 +101,8 @@
     padding: 0 0.5em;
 
     @include breakpoint($large) {
-      content: "";
-      padding: 0;
+
+
     }
   }
 }
@@ -118,7 +118,35 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    display: block;
+    
+  }
+}
+.page-taxonomy-container {
+  display:inline-block;
+
+  h3 {
+    border-right: 2px solid #888;
+    border-top-right-radius:10% 50%;
+    border-bottom-right-radius:10% 50%;
+    padding:4px 8px 4px 0;
+    background-color:#00adb5;
+    background: linear-gradient(90deg, #252a34 30%, #666 100%);
+    font-size:0.5em;
+  }
+
+  li.page-taxonomy {
+    padding:3px 2px 2px 2px;
+    font-size:0.5em;
+    display:inline-block;
+    text-transform:uppercase;
+    font-weight:bold;
+    margin:0.75em 0.5em;
+
+    &:not(:last-child)::after{
+      content:"//";
+      color: #666;
+      padding-left:8px;
+    }
   }
 }
 
@@ -146,7 +174,7 @@
   list-style: none;
 
   @include breakpoint($large) {
-    display: block;
+    display: inline-block;
     margin: 0 0 1.5em 0;
   }
 }
@@ -160,8 +188,11 @@
 }
 
 .page-share {
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin:0 auto;;
+  margin-bottom:2em;
+  padding:1em 0.5em 0.5em 1em;
+  border-bottom:4px solid #eee;
+  border-bottom-right-radius: 10% 30%;
 }
 
 .page-comments {
@@ -169,6 +200,7 @@
 }
 
 .page-pagination {
+  font-family: $base-font-family;
   margin: 2em 0 1em;
   clear: both;
 
@@ -198,6 +230,7 @@
 }
 
 .page-pagination-label {
+  font-family: $base-font-family;
   margin: 0;
   padding: 0;
   font-size: 1em;
@@ -206,7 +239,7 @@
 .page-pagination-title {
   margin: 0;
   padding: 0;
-  font-family: $meta-font-family;
+  font-family: $base-font-family;
   font-size: 0.9em;
   font-style: italic;
 }
@@ -277,6 +310,7 @@
   }
 
   .page-content {
+    font-family: $script-font-family;
     @include breakpoint($large) {
       float: left; // display: grid fallback
       width: 78%; // display: grid fallback
@@ -286,6 +320,9 @@
     @supports (display: grid) {
       width: auto;
       margin: 0;
+    }
+    h1,h2,h3 {
+      font-family: $serif-font-family;
     }
   }
 

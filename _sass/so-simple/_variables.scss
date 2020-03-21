@@ -1,6 +1,8 @@
-/* ==========================================================================
-   Variables
-   ========================================================================== */
+/*
+   =======================================================================
+    Global Variables
+   =======================================================================	
+*/
 
 /* Breakpoint widths */
 $small: 320px !default;
@@ -18,28 +20,34 @@ $max-font-size: 18px !default;
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
 $modular-scale-2: 1.2 !default; /* large */
+
 /* Heading 1 */
 $h1-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h1-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
+
 /* Heading 2 */
 $h2-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h2-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
+
 /* Heading 3 */
 $h3-min: $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h3-max: $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
+
 /* Heading 4 */
 $h4-min: $modular-scale-1 * $base-font-size !default;
 $h4-max: $modular-scale-2 * $base-font-size !default;
+
 /* Heading 5 */
 $h5-min: $base-font-size !default;
 $h5-max: $base-font-size !default;
+
 /* Heading 6 */
 $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
 $script-font-family: "Poiret One","Princess Sofia", serif !default; 
-$serif-font-family: "Lora", serif !default;
+$serif-font-family: "Montez", "Lora", serif !default;
 $sans-serif-font-family: "Source Sans Pro", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
@@ -82,6 +90,7 @@ $vimeo-color: #1ab7ea !default;
 $vine-color: #00bf8f !default;
 $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
+$user-clock-color: #00adb5 !default;
 
 /* Max-width of the main content */
 $main-max-width: $medium !default;
