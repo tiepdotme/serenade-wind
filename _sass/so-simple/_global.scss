@@ -74,10 +74,10 @@
 .site-title {
   margin: 0.5em 0 0;
   padding: 0;
-  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  @include fluid-type($min-vw, $max-vw, $title-min, $title-max);
+  text-shadow: 4px 4px 8px #000;
   font-family: $site-title-font-family;
   font-weight: 700;
-
   a {
     text-decoration: none;
   }

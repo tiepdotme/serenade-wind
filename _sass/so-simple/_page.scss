@@ -263,6 +263,12 @@
   }
 }
 
+.layout--home {
+  .page-content{
+    padding:1em;
+    font-family: $script-font-family;
+  }
+}
 
 .layout--post {
 /*  

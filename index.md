@@ -1,7 +1,7 @@
 ---
 layout: home
-image:
-  path: /wp-content/uploads/2019/10/coverphoto-1100x500.jpeg
+entries_layout: grid
+
 ---
 Welcome to Serenade Wind, which also happens to be an anagram of our first names, Andrew & Denise.  
 
