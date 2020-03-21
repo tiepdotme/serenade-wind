@@ -4,20 +4,17 @@ locale: "en-US"
 description: >-
   description
 baseurl: ''
-url: ''
+url: 'https://serenadewind.com'
 social:
   name: Serenade Wind
   links:
     - https://twitter.com/serenade_wind
     - https://www.facebook.com/serenade.wind.ventures
+    - https://www.instagram.com/serenade.wind
 
 markdown: kramdown
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/dark.css"
-author:
-  name: John Doe
-  twitter: johndoetwitter
-  picture: /images/johndoe.png
 read_time: true
 words_per_minute: 200
 google_fonts:

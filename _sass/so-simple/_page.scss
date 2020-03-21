@@ -4,8 +4,6 @@
 
 .page-wrapper {
   margin: 0 auto;
-  padding-left: 1em;
-  padding-right: 1em;
   max-width: $main-max-width;
 }
 
@@ -188,11 +186,7 @@
 }
 
 .page-share {
-  margin:0 auto;;
-  margin-bottom:2em;
-  padding:1em 0.5em 0.5em 1em;
-  border-bottom:4px solid #eee;
-  border-bottom-right-radius: 10% 30%;
+  margin:0 auto;
 }
 
 .page-comments {
@@ -243,6 +237,10 @@
   font-size: 0.9em;
   font-style: italic;
 }
+.page-pagination-date {
+  display:block;
+  font-size:0.8em;
+}
 
 /*
    Wide Layout Overrides
@@ -281,6 +279,13 @@
   }
 */
   .page-header {
+    border-bottom: 2px solid;
+    margin-bottom:2em;
+    padding-bottom:2em;
+    padding-left: 2em;
+    padding-top: 1em;
+    border-image-source: linear-gradient(90deg, #252a34, rgb(0, 173, 181),#252a34);
+    border-image-slice: 1;
     @include breakpoint($large) {
       grid-column: 1 / -1;
       clear: both; // needed for floated layout
@@ -323,6 +328,13 @@
     }
     h1,h2,h3 {
       font-family: $serif-font-family;
+    }
+
+    .e-content{
+      border-bottom: 2px solid;
+      margin-bottom:2em;
+      border-image-source: linear-gradient(90deg, #252a34, rgb(0, 173, 181), #252a34);
+      border-image-slice: 1;
     }
   }
 
