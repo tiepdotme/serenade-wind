@@ -27,3 +27,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 exclude: [jekyll-image-gallery-example]
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"

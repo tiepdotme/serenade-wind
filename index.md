@@ -1,6 +1,7 @@
 ---
 layout: home
-entries_layout: grid
+entries_layout: list
+title: Welcome
 
 ---
 Welcome to Serenade Wind, which also happens to be an anagram of our first names, Andrew & Denise.  

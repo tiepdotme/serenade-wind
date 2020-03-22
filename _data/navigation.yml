@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: External Page
-    url: https://whatever-site.com/page.html
+  - title: Categories
+    url: /categories/
   - title: Search
     url: /search/
 social:
