@@ -1,0 +1,69 @@
+/* ==========================================================================
+   Sticky Note
+   ========================================================================== */
+
+.sticky-note {
+  position:relative;
+  display:inline-block;
+  color:blue;
+  text-align:center;
+  @include breakpoint($large) {
+    width: 275px;    
+    margin: 25px;    
+    min-height:245px;
+    max-height:245px;
+  } 
+  background: #ffff88;
+  background: -moz-linear-gradient(-45deg, #ffff88 81%, #ffff88 82%, #ffff88 82%, #ffffc6 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(81%,#ffff88), color-stop(82%,#ffff88), color-stop(82%,#ffff88), color-stop(100%,#ffffc6));
+  background: -webkit-linear-gradient(-45deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%);
+  background: -o-linear-gradient(-45deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%);
+  background: -ms-linear-gradient(-45deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%);
+  background: linear-gradient(135deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff88', endColorstr='#ffffc6',GradientType=1 );
+  border-bottom-right-radius: 90px 5px;
+  border-bottom-left-radius: 30px 5px;
+  &::before, &::after {
+    z-index: -1;
+    position: absolute;
+    content: "";
+    bottom: 25px;
+    left: 10px;
+    width: 70%;
+    top: 85%;
+    max-width:300px;
+    background: #000;
+    -webkit-box-shadow: 0 35px 20px #000;
+    -moz-box-shadow: 0 35px 20px #000;
+    box-shadow: 0px 25px 4px #09090a;
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    transform: rotate(-5deg);  
+  }
+  &::after {
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    transform: rotate(5deg);
+    right: 10px;
+    left: auto;  
+  }
+  .sticky-text {
+    display:block;
+    color: black;
+    padding:10px 30px;
+    font-family: "Montez";
+    font-size:3vw;  
+  }
+  .fa-thumbtack{
+    -webkit-transform: rotate(-11deg);
+    -moz-transform: rotate(-11deg);
+    -o-transform: rotate(-11deg);
+    -ms-transform: rotate(-11deg);
+    transform: rotate(-11deg);
+    filter: drop-shadow(-2px -2px 1px #252a34c2);
+  }
+}
