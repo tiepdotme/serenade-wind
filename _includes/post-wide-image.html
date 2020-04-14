@@ -3,8 +3,13 @@
 {% else %}
 	{% assign caption_class = "" %}
 {%- endif -%}
+{%- if include.transparent -%}
+	{% assign fileExt = ".png" %}
+{% else %}
+	{% assign fileExt = ".jpg" %}
+{%- endif -%}	
 <figure class="page-image-breakout {{caption_class}}">
-	<img src="{{ include.image }}" {% if include.caption %} alt="{{include.caption | strip_html}}" title="{{include.caption | strip_html}}" {% endif %}/>
+	<img src="/images/{{ include.image }}{{fileExt}}" {% if include.caption %} alt="{{include.caption | strip_html}}" title="{{include.caption | strip_html}}" {% endif %}/>
 	{%- if include.caption -%}
 		<figcaption>{{include.caption}}</figcaption>
 	{%- endif -%}
