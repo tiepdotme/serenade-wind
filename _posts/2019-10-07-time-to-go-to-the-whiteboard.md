@@ -2,10 +2,9 @@
 id: 2
 title: Time to go to the Whiteboard
 date: 2019-10-07T02:13:00+00:00
-author: serenadewind niculescu
 layout: post
-guid: https://www.serenadewind.com/sailing/time-to-go-to-the-whiteboard/
-permalink: /sailing/time-to-go-to-the-whiteboard/
+guid: https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/
+permalink: /posts/time-to-go-to-the-whiteboard/
 post_img_path: /images/
 categories:
     - Relationships
