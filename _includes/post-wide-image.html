@@ -9,8 +9,13 @@
 	{% assign fileExt = ".jpg" %}
 {%- endif -%}	
 <figure class="page-image-breakout {{caption_class}}">
-	<img src="/images/{{ include.image }}{{fileExt}}" {% if include.caption %} alt="{{include.caption | strip_html}}" title="{{include.caption | strip_html}}" {% endif %}/>
+	<picture>
+	{% for imgsize in site.data.config.screen-sizes %}
+		<source media="(min-width:{{imgsize[1]}})" srcset = "/images/{{imgsize[0]}}/{{ include.image }}{{fileExt}}, /images/{{imgsize[0]}}/{{ include.image }}_2x{{fileExt}} 2x">
+	{% endfor %}
+		<img srcset="/images/small/{{ include.image }}{{fileExt}}, /images/small/{{ include.image }}_2x{{fileExt}} 2x" {% if include.caption %} alt="{{include.caption | strip_html}}" title="{{include.caption | strip_html}}" {% endif %}/>
+	</picture>
 	{%- if include.caption -%}
 		<figcaption>{{include.caption}}</figcaption>
-	{%- endif -%}
+	{%- endif -%}	
 </figure>
