@@ -5,3 +5,7 @@ wp-content
 Global
 jekyll-image-gallery-example
 _drafts
+node_modules
+public
+RawImages
+image-resize.py

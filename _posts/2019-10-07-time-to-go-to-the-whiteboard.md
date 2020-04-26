@@ -27,7 +27,7 @@ Many of you may also have jam-packed itineraries chauffeuring your kids to socce
 Sound familiar?
 
 ## Where does the time go?
-<img class="align-right" src="../wp-content/uploads/2019/10/vertical-pie-e1582456462613-205x300.jpeg" alt="" width="205" height="300" srcset="/wp-content/uploads/2019/10/vertical-pie-e1582456462613-205x300.jpeg 205w, /wp-content/uploads/2019/10/vertical-pie-e1582456462613-123x180.jpeg 123w, /wp-content/uploads/2019/10/vertical-pie-e1582456462613.jpeg 219w" sizes="(max-width: 205px) 100vw, 205px" />
+![right-aligned-image](/wp-content/uploads/2019/10/vertical-pie-e1582456462613-205x300.jpeg){: .align-right}
 If you really break down how you spend your time in a given week, it may look something similar to the chart here.
 ---
 We took a hard look at this distribution of time and while we didn’t like the reality we were living, we also saw this as an opportunity to <em>not </em>be complacent. So, we spent a few hours on a sunny Sunday morning asking and challenging ourselves with the following questions:
@@ -40,7 +40,7 @@ We took a hard look at this distribution of time and while we didn’t like the 
 -  How do we reduce our commute time?
 -  What do we want to do more of?
 
-{% include post-wide-image.html image = "/images/serenade-wind-whiteboard-main.jpg" %}
+{% include post-wide-image.html image = "serenade-wind-whiteboard-main" %}
 
 There were many more questions and ideas that were thrown up on a whiteboard with a bunch of colorful stickies. We organized these ideas between short term goals and long term goals. We wrote down our non-negotiables. We also had a parking lot for things we would want to explore later. Essentially, we used tools often taken for granted in a business setting and applied it to our own personal lives and it worked for us because it really helped to crystalize our goals.
 
