@@ -1,0 +1,25 @@
+{
+  "name": "serenade-wind",
+  "version": "1.0.0",
+  "description": "Serenade Wind Website",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniculescu/serenade-wind.git"
+  },
+  "author": "Andrew Niculescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniculescu/serenade-wind/issues"
+  },
+  "homepage": "https://github.com/aniculescu/serenade-wind#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
