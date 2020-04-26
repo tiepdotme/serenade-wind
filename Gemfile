@@ -21,13 +21,10 @@ gem "jekyll-theme-so-simple"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-admin", "~>0.9"
+   gem "jekyll-feed", "~> 0.6"
+   gem 'jekyll-sitemap'
+   gem 'jekyll-seo-tag'
+   gem 'octopress-minify-html'
+# gem 'jekyll-multiple-languages-plugin'
+# gem 'amp-jekyll'
 end
-
- #group :jekyll_plugins do
- #  gem "jekyll-gist"
- #  gem "jekyll-coffeescript"
- #  gem "jekyll-assets"
- #  gem "jekyll-admin"
- #end

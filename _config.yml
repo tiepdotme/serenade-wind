@@ -1,6 +1,8 @@
 title: Serenade Wind
 email: serenadewind@gmail.com
 locale: "en-US"
+ampdir: amp
+netlify_cms: true
 description: >-
   description
 baseurl: ''
@@ -25,8 +27,13 @@ google_fonts:
     weights: "400,500,600"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
-exclude: [jekyll-image-gallery-example]
+  - octopress-minify-html
+exclude: 
+  - jekyll-image-gallery-example
+  - node_modules
+
 # Taxonomy pages
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
