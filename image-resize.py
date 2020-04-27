@@ -2,6 +2,7 @@ import tinify
 import glob
 import os
 import sys
+import argparse
 
 # Images will be added to a landing zone (folder): source_dir
 # Read images from landing zone and compress acording to:
@@ -14,7 +15,21 @@ import sys
 # If no errors, delete the source file. 
 
 # Configuration
-tinify.key = 'API-KEY-HERE'  # API Key
+# Initiate the parser
+parser = argparse.ArgumentParser()
+
+# Add long and short argument
+parser.add_argument("--apikey", "-a", help="set tinypng API Key")
+
+# Read arguments from the command line
+args = parser.parse_args()
+
+# Check for --width
+if args.apikey:
+    tinify.key = args.apikey  # API Key
+else:
+	sys.exit("No API Key")
+
 source_dir = "RawImages"
 dest_dir = "images"
 # Map out images sizes and destination subdir names
@@ -46,6 +61,8 @@ for img in source_files:
 	# Capture the file extension
 	img_extension = os.path.splitext(img_file)[1]
 
+	print "Generating Images for: " + img_filename
+
 	# Iterate through image sizes for each break point
 	for size in sizes:
 		# Resize images based on width (assumes landscape)
@@ -65,8 +82,10 @@ for img in source_files:
 			resized.to_file(dest_dir + "/" + size + "/" + img_filename + img_extension)
 			resized_retina.to_file(dest_dir + "/" + size + "/" + img_filename + "_2x" + img_extension)
 
+			print "Images generated successfully"
 			# Remove file from source folder
 			os.remove(img)
+			print "Original image removed ( "+ img_file + " )"
   			pass
 		except tinify.AccountError, e:
   			print "The error message is: %s" % e.message
