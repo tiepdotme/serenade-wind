@@ -33,6 +33,7 @@ plugins:
 exclude: 
   - jekyll-image-gallery-example
   - node_modules
+  - tools
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
