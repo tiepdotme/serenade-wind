@@ -7,6 +7,9 @@
 @import "so-simple/variables";
 @import "so-simple/notices";
 
+@import "so-simple/vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+
 /* Colors */
 $base-color: #000 !default;
 $text-color: #000 !default;

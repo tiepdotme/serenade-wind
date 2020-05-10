@@ -66,26 +66,35 @@ for img in source_files:
 	# Iterate through image sizes for each break point
 	for size in sizes:
 		# Resize images based on width (assumes landscape)
-		try:		
-			resized = source.resize(
-	    		method="scale",
-	    		width=sizes[size]
-			)
+		try:
+			# define regular image filename
+			reg_filename = dest_dir + "/" + size + "/" + img_filename + img_extension
+			
+			# define retina image filename
+			2x_filename = dest_dir + "/" + size + "/" + img_filename + "_2x" + img_extension
+			
+			# only do things if these files have not been created
+			# TODO: probably a config param here 
+			if !os.path.isfile(reg_filename) or !os.path.isfile(2x_filename):
+				resized = source.resize(
+		    		method="scale",
+		    		width=sizes[size]
+				)
 
-			# For each of the sizes, resize for retina screens
-			resized_retina = source.resize(
-	    		method="scale",
-	    		width=sizes[size] * 2
-			)
+				# For each of the sizes, resize for retina screens
+				resized_retina = source.resize(
+		    		method="scale",
+		    		width=sizes[size] * 2
+				)
 
-			# Resize and save to the appropriate size-named subdirs
-			resized.to_file(dest_dir + "/" + size + "/" + img_filename + img_extension)
-			resized_retina.to_file(dest_dir + "/" + size + "/" + img_filename + "_2x" + img_extension)
+				# Resize and save to the appropriate size-named subdirs
+				resized.to_file(dest_dir + "/" + size + "/" + img_filename + img_extension)
+				resized_retina.to_file(dest_dir + "/" + size + "/" + img_filename + "_2x" + img_extension)
 
-			print "Images generated successfully"
-			# Remove file from source folder
-			os.remove(img)
-			print "Original image removed ( "+ img_file + " )"
+				print "Images generated successfully"
+				# Remove file from source folder
+				os.remove(img)
+				print "Original image removed ( "+ img_file + " )"
   			pass
 		except tinify.AccountError, e:
   			print "The error message is: %s" % e.message
