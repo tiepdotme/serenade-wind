@@ -34,6 +34,11 @@ exclude:
   - jekyll-image-gallery-example
   - node_modules
   - tools
+  - image-resize.py
+  - image-file-undo.py
+  - package.json
+  - Gemfile
+  - Gemfile.lock
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
