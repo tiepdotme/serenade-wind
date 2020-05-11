@@ -1,7 +1,9 @@
 ---
 layout: default
+show_excerpts: true
 ---
 <main id="main" class="main-content" aria-label="Content">
+{% include home-page-posts.html %}
   <article>
     {% include page-image.html %}
     <div class="page-wrapper">
@@ -17,25 +19,25 @@ layout: default
           <h1 id="page-title" class="page-title">{{ title }}</h1>
         {% endif %}
       </header>
-      <div class="page-sidebar">
-		<div class="entries-{{ page.entries_layout | default: 'list' }}">
-		  {%- if site.plugins contains 'jekyll-paginate' and page.paginate or site.gems contains 'jekyll-paginate' and page.paginate -%}
-		    {%- comment -%}
-		      Add paginator.posts loop if jekyll-paginate plugin is enabled
-		      and page.paginate == true
-		    {%- endcomment -%}
-		    {% include posts-paginated.html %}
-		  {%- else -%}
-		    {% include posts-limit.html %}
-		  {%- endif -%}
-		</div>
-	  </div>
       <div class="page-content">
         {{ content }}
 
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
+        <ul>
+{% assign categories_list = site.categories %}
+  {% if categories_list.first[0] == null %}
+    {% for category in categories_list %}
+      <li><a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a></li>
+    {% endfor %}
+  {% else %}
+    {% for category in categories_list %}
+      <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+    {% endfor %}
+  {% endif %}
+{% assign categories_list = nil %}
+</ul>
       </div>
     </div>
   </article>
