@@ -10,13 +10,13 @@
 {% else %}
 	{% assign fileExt = ".jpg" %}
 {%- endif -%}
-
+{% assign imgDomain = "https://slocum.surge.sh" %}
 <figure class="page-image-breakout {{caption_class}}">
 	<picture>
 	{% for imgsize in site.data.config.screen-sizes %}
-		<source media="(min-width:{{imgsize[1]}})" srcset = "/images/{{imgsize[0]}}/{{ pwimg }}{{fileExt}}, /images/{{imgsize[0]}}/{{ pwimg }}_2x{{fileExt}} 2x">
+		<source media="(min-width:{{imgsize[1]}})" srcset = "{{imgDomain}}/images/{{imgsize[0]}}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/images/{{imgsize[0]}}/{{ pwimg }}_2x{{fileExt}} 2x">
 	{% endfor %}
-		<img srcset="/images/small/{{ pwimg }}{{fileExt}}, /images/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if img_caption %} alt="{{img_caption | strip_html}}" title="{{img_caption | strip_html}}" {% endif %}/>
+		<img srcset="{{imgDomain}}/images/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/images/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if img_caption %} alt="{{img_caption | strip_html}}" title="{{img_caption | strip_html}}" {% endif %}/>
 	</picture>
 	{%- if pwcaption and pwcaption != "" -%}
 		<figcaption>{{pwcaption}}</figcaption>

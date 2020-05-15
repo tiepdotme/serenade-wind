@@ -1,0 +1,7 @@
+<section class="home-page-posts">
+  	<ul>
+{%- for entry in site.categories[include.taxonomy] -%}
+	{% include post-tile.html %}
+{%- endfor -%}
+	</ul>
+</section>
