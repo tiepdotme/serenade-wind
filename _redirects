@@ -1,0 +1,2 @@
+# Images Redirect
+/images/*	https://slocum.surge.sh/:splat

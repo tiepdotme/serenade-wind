@@ -3,16 +3,21 @@ email: serenadewind@gmail.com
 locale: "en-US"
 ampdir: amp
 netlify_cms: true
-description: >-
-  description
+description: 
 baseurl: ''
 url: 'https://serenadewind.com'
+
+# SEO 
 social:
   name: Serenade Wind
   links:
     - https://twitter.com/serenade_wind
-    - https://www.facebook.com/serenade.wind.ventures
+    - https://www.facebook.com/serenade.wind.adventures
     - https://www.instagram.com/serenade.wind
+    - https://reddit.com/user/serenade_wind
+
+facebook:
+  publisher: https://www.facebook.com/serenade.wind.ventures
 
 markdown: kramdown
 theme: jekyll-theme-so-simple
@@ -25,6 +30,17 @@ google_fonts:
   - name: "Montez"
   - name: "Poiret One"
     weights: "400,500,600"
+jekyll-archives:
+  enabled: 
+    - month
+  layouts: 
+    month: monthly-content
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -39,6 +55,9 @@ exclude:
   - package.json
   - Gemfile
   - Gemfile.lock
+  - _drafts
+include:
+  - _redirects #netfly redirect
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
