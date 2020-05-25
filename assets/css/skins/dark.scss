@@ -13,6 +13,8 @@ $text-color: #eaeaea !default;
 $accent-color: #00adb5 !default;
 $nav-color: #aeaeae !default;
 $background-color: #252a34 !default;
+$background-content-color: #2c3e50 !default;
+
 $nav-background-color: mix(#000, $background-color, 30%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $border-color: tint($base-color, 80%) !default;
