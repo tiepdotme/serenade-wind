@@ -1,0 +1,155 @@
+section.resource-wrapper ul {
+    /*
+     display:grid; */
+     list-style:none;
+     /* 
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); *//*     grid-gap: 1rem; */
+        display:table;
+         /* overscroll-behavior-block: auto; */
+         table-layout:fixed;
+         width:100%;
+         margin:0;
+         padding:0;
+}
+
+
+section.resource-wrapper ul li{
+    background-color:#252a34;
+    background: linear-gradient(to bottom, #213741 0%,#252a34 100%);
+    text-align:Center;
+    border:1px solid #1a1d24;
+    border-radius:8px;
+    box-shadow:1px 1px 4px #1a1d24;
+    display:table-cell;
+    float:left;
+    width:100%;
+    margin-bottom:20px;
+    @include breakpoint($medium) {
+        width:48%;
+        display:inline-block;
+        position:relative;
+        height: 250px;
+        vertical-align:top;
+        margin-right:5px;
+    }    
+    @include breakpoint($large) {
+        width:32%;
+        display:inline-block;
+        position:relative;
+        height: 250px;
+        vertical-align:top;
+        margin-right:5px;
+    }
+}
+section.resource-wrapper ul li h3{
+    padding:0;
+    margin:0;
+    padding-top:10px;
+    font-size:1em;
+}
+section.resource-wrapper ul li p
+ {
+    padding:0;
+    margin:0;
+    padding:10px 10px 4px 20px;
+    text-align:left;
+ }
+section.resource-wrapper ul li a {
+    display:block;
+    width:100%;
+    border:0;
+    text-decoration:none;
+    background-color:#252a34;
+    border-top:1px solid white;
+    border-image-source: linear-gradient(90deg, #252a34, #007cb2, #252a34);
+    border-image-slice:1;
+    padding: 10px 2px;
+    margin-top:10px;
+    font-family:"Open Sans Pro", sans-serif;
+    text-transform:uppercase;
+    @include breakpoint($large) {
+        bottom:0;
+        position:absolute;
+    }
+}
+section.resource-wrapper ul li a:first-child {
+    display:inline;
+    padding:0;
+    margin:0;
+    border:0;
+    text-transform:unset;
+    background-color:unset;
+    @include breakpoint($large) {
+        position:static;
+    }
+} 
+
+.resource-wrapper h1{
+    padding: 30px 2px 10px 20px;
+    font-family:Montez, serif;
+    @include breakpoint($large) {
+        font-size:3em;
+    }
+}
+.resources-navigator {
+        text-align:center;
+}
+
+.resources-navigator ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    @include breakpoint($large) {
+        width:fit-content;
+        display:inline-block;
+    }
+}
+.resources-navigator ul li {
+    margin:0;
+    margin-bottom:10px;
+    padding:0;
+    text-align:center;
+    max-height:100px;
+    overflow:hidden;
+    @include breakpoint($large) {
+        float:left;
+        margin-right:10px;
+        max-height:160px;
+        &:last-child {
+           margin-right:0;
+        }
+    }
+}
+.resources-navigator figure{
+    position:relative;
+}
+.resources-navigator img {
+    max-width:100%;
+    display:block;
+    width:auto;
+    height:auto;
+    margin:0px auto;
+    position:relative;
+    top:-50px;
+    @include breakpoint($large) {
+        top:0;
+    }
+}
+.resources-navigator figcaption {
+    margin:0;
+    padding:0;
+    position:absolute;
+    top:40px;
+    font-size:2em;
+    display:block;
+    background-color:#242933c9;
+    height:50px;
+    width:100%;
+    @include breakpoint($large) {
+        font-size:1.2em;
+        background-color:#242933db;
+        height:50px;
+        line-height:50px;
+        top:92px;
+    }
+}

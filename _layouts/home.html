@@ -18,26 +18,22 @@ show_excerpts: true
         {% else %}
           <h1 id="page-title" class="page-title">{{ title }}</h1>
         {% endif %}
+
+        {% if page.share %}
+            {% include read-time.html %}
+            <div class="sharethis-inline-share-buttons" data-url="https://serenadewind.com/about-serenade-wind/" data-title="{{title}}" data-image="{{page.image.thumbnail}}" data-description="{{page.description}}"></div>
+            {% include social-share.html %}
+        {% endif %}
       </header>
       <div class="page-content">
         {{ content }}
+        {% if page.faq %}
+          {% include faq.html %}
+        {% endif %}
 
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
-        <ul>
-{% assign categories_list = site.categories %}
-  {% if categories_list.first[0] == null %}
-    {% for category in categories_list %}
-      <li><a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a></li>
-    {% endfor %}
-  {% else %}
-    {% for category in categories_list %}
-      <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
-    {% endfor %}
-  {% endif %}
-{% assign categories_list = nil %}
-</ul>
       </div>
     </div>
   </article>

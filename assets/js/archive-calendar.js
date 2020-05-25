@@ -6,7 +6,6 @@ selectMonth = document.getElementById("month");
 
 months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-monthAndYear = document.getElementById("monthAndYear");
 showCalendar(currentMonth, currentYear);
 
 
@@ -37,8 +36,6 @@ function showCalendar(month, year) {
     // clearing all previous cells
     tbl.innerHTML = "";
 
-    // filing data about month and in the page via DOM.
-    monthAndYear.innerHTML = months[month] + " " + year;
     selectYear.value = year;
     selectMonth.value = month;
 

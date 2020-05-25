@@ -8,6 +8,8 @@ body {
   background-color: $background-color;
   background-size:contain;
   background-repeat:no-repeat;
+  margin-top:80px;
+  border:0;    
 }
 
 a {
@@ -27,9 +29,44 @@ blockquote {
    Site-wide
    ========================================================================== */
 
-.page-wrapper {
-  background-color: rgba($background-color, 0.8);
+
+.navigation-wrapper {
+    position:fixed;
+    margin:0 auto;
+    width: 500px;
+    left:-50%;
+    right:-50%;
+    z-index:2;
+    top:0;
 }
+.site-nav ul{
+    border-bottom:1px solid #3c4352;
+    border-image-source: linear-gradient(90deg, #252a34 30%, #aaa, #252a34 70%);
+    border-image-slice: 10;
+    box-shadow:1px 1px 15px #213741;
+}
+
+
+.page-wrapper {
+  background-color: rgba($background-content-color, 0.9);
+  box-shadow:1px 1px 9px #1a1d24;
+  padding-top:40px;
+  border-top:1px solid #1a1d24;
+  border-top-left-radius:20px 20px;
+  border-top-right-radius:20px 20px;
+
+  .page-content {
+    font-size: medium;
+    background-color: $background-content-color;
+
+    .page-title{
+      font-size:2.8em;
+    }
+
+  }
+
+}
+
 .site-title {
   a {
     color: $text-color;
@@ -57,6 +94,7 @@ blockquote {
 
     &:hover {
       color: $accent-color;
+      border-image-source: linear-gradient(90deg, #252a34, $accent-color, #252a34);
     }
   }
 }
@@ -64,6 +102,8 @@ blockquote {
 .taxonomy-section {
   &:not(:last-child) {
     border-bottom-color: $border-color;
+    border-image-source: linear-gradient(90deg, #252a34, #00adb5, #252a34);
+    border-image-slice: 1;
   }
 }
 

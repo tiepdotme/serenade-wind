@@ -292,7 +292,13 @@
 }
 
 .layout--home {
-
+  &.quick-reference {
+    .page-wrapper {
+      @include breakpoint($large) {
+        max-width: $xlarge;
+      }
+    }
+  }
   .page-wrapper {
     @include breakpoint($large) {
       -webkit-box-pack: justify;
@@ -335,6 +341,7 @@
     @include breakpoint($large) {
       width: 78%; // display: grid fallback
       min-width: 0;
+      font-size:inherit;
     }
 
     @supports (display: grid) {
@@ -343,7 +350,8 @@
     }
   }
 }
-.layout--post {
+.layout--post,
+.layout--page {
 
   .page-header {
     border-bottom: 2px solid;
