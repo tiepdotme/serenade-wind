@@ -58,6 +58,7 @@ exclude:
   - _drafts
 include:
   - _redirects #netfly redirect
+  - _headers
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
