@@ -71,11 +71,11 @@ for img in source_files:
 			reg_filename = dest_dir + "/" + size + "/" + img_filename + img_extension
 			
 			# define retina image filename
-			2x_filename = dest_dir + "/" + size + "/" + img_filename + "_2x" + img_extension
+			ret_filename = dest_dir + "/" + size + "/" + img_filename + "_2x" + img_extension
 			
 			# only do things if these files have not been created
 			# TODO: probably a config param here 
-			if !os.path.isfile(reg_filename) or !os.path.isfile(2x_filename):
+			if not os.path.isfile(reg_filename) or not os.path.isfile(ret_filename):
 				resized = source.resize(
 		    		method="scale",
 		    		width=sizes[size]
