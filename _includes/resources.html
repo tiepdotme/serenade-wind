@@ -1,0 +1,57 @@
+{% assign sailing_img = "/images/small/serenade-wind-background.jpg" %}
+{% assign minimalist_img = "/images/small/lefkada-greece-bayview-andrew.jpg" %}
+{% assign inspiration_img = "/images/small/costa-rica-monteverde-hands-heart.jpg" %}
+
+  <div class="resources-navigator">
+    <ul>
+  {%- for res in site.data.resources.resources -%}
+      <li>
+        <a href="#{{res.name}}" title="{{res.title}} Resources">
+          <figure>
+            {% assign myr = page.resources | where: "name", res.name %}
+            <img src="{{ myr[0].image }}" />
+            <figcaption>{{res.title}}</figcaption>
+          </figure>
+        </a>
+      </li>
+  {%- endfor -%}
+    </ul>
+  </div>
+  <section class="resource-wrapper">
+    <a name="sailing"></a><h1> Sailing </h1>
+    <ul>
+      {%- for res1 in site.data.resources-sailing.sailing -%}
+        <li>
+          <h3>{{res1.title}}</h3>
+          <p>{{res1.description}}</p>
+          <a href="{{res1.link}}">Learn More</a>
+        </li>            
+      {%- endfor -%}      
+    </ul>
+  </section>
+  <section class="resource-wrapper">
+    <a name="minimalist"></a>
+    <h1> Minimalist </h1>
+    <ul>
+      {%- for res1 in site.data.resources-minimalist.minimalist -%}
+        <li>
+          <h3>{{res1.title}}</h3>
+          <p>{{res1.description}}</p>
+          <a href="{{res1.link}}">Learn More</a>
+        </li>            
+      {%- endfor -%}      
+    </ul>
+  </section>
+  <section class="resource-wrapper">
+    <a name="inspiration"></a>
+    <h1> Inspiration </h1>
+    <ul>
+      {%- for res1 in site.data.resources_inspiration -%}
+        <li>
+          <h3>{{res1.title}}</h3>
+          <p>{{res1.description}}</p>
+          <a href="{{res1.link}}">Learn More</a>
+        </li>            
+      {%- endfor -%}      
+    </ul>
+  </section>

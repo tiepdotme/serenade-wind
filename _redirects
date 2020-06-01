@@ -1,2 +1,15 @@
 # Images Redirect
 /images/*	https://slocum.surge.sh/:splat
+
+# WordPress Redirects
+/relationships/life-reset-on-whiteboard/ /posts/time-to-go-to-the-whiteboard/
+/blog/post-1-time-to-go-to-the-whiteboard/ /posts/time-to-go-to-the-whiteboard/
+
+# --- WP Categories
+/relationships/* /posts/:splat
+/sailing-adventures/* /posts/:splat
+/minimalist-living/* /posts/:splat
+/climbing-adventures/* /posts/:splat
+/culinary-adventures/* /posts/:splat
+/self-sustainability/*  /posts/:splat
+/fiber-arts/*  /posts/:splat

@@ -11,7 +11,9 @@
       {% else %}
         <div class="site-title animated fadeIn"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
       {% endif %}
-      <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
     {% endunless %}
+    {% if site.description %}
+      <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
+    {% endif %}
   </div>
 </header><!-- /.masthead -->

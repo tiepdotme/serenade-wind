@@ -1,0 +1,12 @@
+---
+layout: home
+---
+
+{{ content }}
+<section class="post-tile-container">
+  <ul>
+    {% for entry in site.posts offset:1 limit:10 %}
+        {% include post-tile.html %}
+    {% endfor %}
+  </ul>
+</section>

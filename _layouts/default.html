@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head.html %}
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+{%- if site.background_image -%}
+    {% assign bgimg = site.background_image %}
+    {%- if site.env == 'dev' -%}
+        {% assign img_domain = base.url | prepend: site.url | append: '/images' %}
+    {%- elsif site.env == 'production' -%}
+        {% assign img_domain = 'https://slocum.surge.sh' %}
+    {%- endif -%}
+
+<div id="background">
+  <picture>
+  {%- for imgsize in site.data.config.screen-sizes -%}
+     <source media="(min-width:1280px)" srcset = "{{img_domain}}/{{ imgsize[0]}}/{{bgimg}}.jpg, {{img_domain}}/{{ imgsize[0]}}/{{bgimg}}_2x.jpg 2x">
+  {%- endfor -%}
+    <img srcset='{{ img_domain }}/small/{{ bgimg }}.jpg, {{ img_domain }}/small/{{ bgimg }}_2x.jpg 2x' alt="Serenade Wind Background Image" title="Serenade Wind Background Image"/>
+  </picture>
+</div>
+{%- endif -%}
+
+
+    {% include skip-links.html %}
+    {% include navigation.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+
+</html>

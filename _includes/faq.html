@@ -1,0 +1,25 @@
+<div class="faq-wrapper">
+    <div class="tabs">
+      {%- for faq in site.data.faq.faq-questions -%}
+        {%- if faq.question -%}          
+          {%- if faq.link contains '://' -%}
+            {%- assign link_url = faq.link -%}
+          {%- else -%}
+            {%- assign link_url = faq.link | relative_url -%}
+          {%- endif -%}
+          <div class="tab">
+            <input type="checkbox" id="chck{{forloop.index}}">
+            <label class="tab-label" for="chck{{forloop.index}}">{{faq.question}}</label>
+            <div class="tab-content">
+              {{faq.answer}}
+              {%- if faq.link -%}
+              <div class="tab-link">
+                <a href="{{faq.link}}">Learn More</a>
+              </div>
+              {%- endif -%}
+            </div>
+          </div>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+</div>

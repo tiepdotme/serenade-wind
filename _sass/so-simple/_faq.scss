@@ -11,12 +11,15 @@ input {
 .tabs {
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 4px -2px rgba(0,0,0,0.5);
 }
 .tab {
   width: 100%;
   color: white;
   overflow: hidden;
+  margin:2px 0 14px 0;
+  box-shadow:0 4px 4px -2px rgba(0, 0, 0, 0.5);
+  border-radius:8px;
+
   &-label {
     display: flex;
     justify-content: space-between;
@@ -42,6 +45,10 @@ input {
     color: $midnight;
     background: white;
     transition: all .35s;
+
+    blockquote {
+      color:white;
+    }
   }
   &-close {
     display: flex;
@@ -65,7 +72,7 @@ input:checked {
     }
   }
   ~ .tab-content {
-    max-height: 100vh;
+    max-height: 120vh;
     padding: 1em;
   }
 }

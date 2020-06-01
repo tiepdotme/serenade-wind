@@ -1,12 +1,12 @@
 main:
   - title: About Us
-    url: /about/
+    url: /about-serenade-wind/
   - title: Posts
     url: /posts/
   - title: Categories
     url: /categories/
-  - title: Search
-    url: /search/
+  - title: FAQ
+    url: /faq/
 social:
   - title: Join our Facebook Page
     url: https://www.facebook.com/serenade.wind.ventures
@@ -14,3 +14,9 @@ social:
   - title: Follow us on Instagram
     url: https://www.instagram.com/serenade.wind
     icon: fab fa-instagram-square
+  - title: Upvote us on reddit
+    url: https://www.reddit.com/user/serenade_wind
+    icon: fab fa-reddit-square
+  - title: Subscribe to our videos
+    url: https://www.youtube.com/channel/UCzWV4eWypP_s2AzRsCqZ3Kw
+    icon: fab fa-youtube-square

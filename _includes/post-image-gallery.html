@@ -1,0 +1,28 @@
+{%- if include.gallery -%}
+<section class="post-image-gallery">
+
+{%- if include.gallery.title -%}
+	<div class="title"> {{include.gallery.title}} </div>
+{%- endif -%}
+
+{%- if include.gallery.description -%}
+	<div class="description">{{include.gallery.description}}</div>
+{%- endif -%}
+
+<ul>
+	{% assign imgDomain = "/images" %}
+	{% for pic in include.gallery.pictures %}
+		{% assign pwimg = pic.filename %}
+		{% assign fileExt = pic.extension %}
+<li>	
+<figure class="gallery-image">
+	<picture>	
+		<img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if pic.caption %} alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}" {% endif %}/>
+	</picture>
+	<figcaption>{{pic.caption}}</figcaption>
+</figure>
+</li>
+	{% endfor %}	
+</ul>
+</section>
+{%- endif -%}

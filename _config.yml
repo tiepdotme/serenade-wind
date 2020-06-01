@@ -6,6 +6,8 @@ netlify_cms: true
 description: 
 baseurl: ''
 url: 'https://serenadewind.com'
+logo: /images/rjs-logo.png
+background-image: "serenade-wind-background"
 
 # SEO 
 social:
