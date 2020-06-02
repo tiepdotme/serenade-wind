@@ -76,6 +76,9 @@ blockquote {
     border-image-source: linear-gradient(90deg, $background-color 30%, #aaa, $background-color 70%);
     border-image-slice: 1;
     box-shadow:1px 1px 15px #213741;
+    border-top:0;
+    border-left:0;
+    border-right:0;
 }
 
 
@@ -92,6 +95,9 @@ blockquote {
       padding-left:0;
       padding-right:0;
       text-align:center;
+      border-top:0;
+      border-left:0;
+      border-right:0;
   }
 
   .page-content {
@@ -171,9 +177,12 @@ blockquote {
 
 .site-footer {
   border-top-color: $border-color;
-  border-top: 2px solid;
+  border-top: 1px solid;
   border-image-source: linear-gradient(90deg, $background-color, #aaa, $background-color);
   border-image-slice: 1;
+  border-bottom:0;
+  border-left:0;
+  border-right:0;
 }
 
 .footnotes {
