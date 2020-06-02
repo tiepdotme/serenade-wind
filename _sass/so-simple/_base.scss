@@ -8,15 +8,15 @@ html {
 
 body {
   border-top: solid 0.25em;
-  background: url($img-small + "serenade-wind-background.jpg");
+  
   @include breakpoint($medium) {
-      background: url($img-medium + "serenade-wind-background.jpg");
+
   }  
   @include breakpoint($large) {
-      background: url($img-large + "serenade-wind-background.jpg");
+
   }  
   @include breakpoint($xlarge) {
-      background: url($img-xlarge + "serenade-wind-background.jpg");
+
   }  
 }
 
@@ -64,6 +64,7 @@ h6 {
   font-family: $headline-font-family;
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
+
 
 h1 {
   @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);

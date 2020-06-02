@@ -6,12 +6,41 @@ body {
   color: $text-color;
   border-top-color: $nav-background-color;
   background-color: $background-color;
-  background-size:contain;
-  background-repeat:no-repeat;
   margin-top:80px;
-  border:0;    
+  border:0;
+
+  &::after {
+    background-image:  linear-gradient(to bottom, transparent, $background-color);
+    content:'';
+    display:block;
+    height:150px;
+    bottom:0px;
+    position:fixed;
+    width:100%;
+    z-index:-1;
+  }
 }
 
+#background{
+  width:100%;
+  position:absolute;
+  z-index:-1;
+  top:0;
+  
+  img {
+    width:100%;
+  }
+
+  &::after{
+    background-image:  linear-gradient(to bottom, transparent, $background-color);
+    content:'';
+    display:block;
+    height:150px;
+    bottom:0px;
+    position:absolute;
+    width:100%;
+  }
+}
 a {
   color: $accent-color;
 
@@ -33,36 +62,49 @@ blockquote {
 .navigation-wrapper {
     position:fixed;
     margin:0 auto;
-    width: 500px;
     left:-50%;
     right:-50%;
     z-index:2;
     top:0;
+    box-shadow:1px 1px 10px black;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    background-color:$nav-background-color;
 }
 .site-nav ul{
     border-bottom:1px solid #3c4352;
-    border-image-source: linear-gradient(90deg, #252a34 30%, #aaa, #252a34 70%);
-    border-image-slice: 10;
+    border-image-source: linear-gradient(90deg, $background-color 30%, #aaa, $background-color 70%);
+    border-image-slice: 1;
     box-shadow:1px 1px 15px #213741;
 }
 
 
 .page-wrapper {
-  background-color: rgba($background-content-color, 0.9);
+  background-color: $background-content-color;
   box-shadow:1px 1px 9px #1a1d24;
   padding-top:40px;
   border-top:1px solid #1a1d24;
   border-top-left-radius:20px 20px;
   border-top-right-radius:20px 20px;
 
+  .page-header {
+      border-image-source: linear-gradient(90deg, $background-content-color 10%, rgb(0, 173, 181),$background-content-color 90%);
+      padding-left:0;
+      padding-right:0;
+      text-align:center;
+  }
+
   .page-content {
-    font-size: medium;
+    font-size: 1.2em;
     background-color: $background-content-color;
 
     .page-title{
       font-size:2.8em;
     }
 
+    .e-content {
+          border-image-source: linear-gradient(90deg, $background-content-color 10%, rgb(0, 173, 181),$background-content-color 90%);
+    }
   }
 
 }
@@ -94,7 +136,7 @@ blockquote {
 
     &:hover {
       color: $accent-color;
-      border-image-source: linear-gradient(90deg, #252a34, $accent-color, #252a34);
+      border-image-source: linear-gradient(90deg, $background-color, $accent-color, $background-color);
     }
   }
 }
@@ -102,7 +144,7 @@ blockquote {
 .taxonomy-section {
   &:not(:last-child) {
     border-bottom-color: $border-color;
-    border-image-source: linear-gradient(90deg, #252a34, #00adb5, #252a34);
+    border-image-source: linear-gradient(90deg, $background-color, #00adb5, $background-color);
     border-image-slice: 1;
   }
 }
@@ -140,6 +182,9 @@ blockquote {
 
 .site-logo-img {
   border-color: $background-color;
+  border-color:rgba(255,255,255,0.8);
+  background-color:rgba(255,255,255,0.8);
+  vertical-align:middle;
 }
 
 .toc-wrapper {

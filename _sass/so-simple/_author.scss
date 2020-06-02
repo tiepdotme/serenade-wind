@@ -1,16 +1,22 @@
 /* ==========================================================================
    Author
    ========================================================================== */
+.author-avatar-container {
+  display:none;
 
-.author-avatar {
-  display: inline;
-  border-radius:100px;
-  width: 100px;
-  height: 100px;
   @include breakpoint($large) {
-    margin-bottom: 1em;
+    display: block;
+
+    .author-avatar {
+      margin-bottom: 1em;
+      border-radius:100px;
+      width: 100px;
+      height: 100px;
+      display:inline;
+    }
   }
 }
+
 .author-info {
   margin-left:1em;
   font-size:0.75em;

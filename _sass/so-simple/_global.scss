@@ -22,12 +22,24 @@
     display: none;
   }
 }
-
+.navigation-wrapper {
+  width: 300px;
+  padding:4px;
+  @include breakpoint ($large){
+    width:500px;
+    padding:0;
+    background:none;
+    box-shadow:none;
+  }
+}
 .site-nav {
   display: none;
-  margin-bottom: 1em;
+  margin-bottom: 0.1em;
   text-align: center;
 
+  @include breakpoint($large){
+    margin-bottom: 1em;
+  }
   ul {
     display: block;
     margin: 0;
@@ -78,6 +90,7 @@
   text-shadow: 4px 4px 8px #000;
   font-family: $site-title-font-family;
   font-weight: 700;
+  display: inline-block;
   a {
     text-decoration: none;
   }
@@ -94,7 +107,9 @@
 .site-logo {
   display: inline-block;
   position: relative;
-  z-index: 10;
+  z-index:-1;
+  padding:0 20px 0 0;
+  top:-10px
 }
 
 .site-logo-img {
@@ -176,9 +191,9 @@
 }
 
 .taxonomy-title {
-  @include fluid-type($min-vw, $max-vw, 28px, 32px);
-  margin-bottom: 0.5em;
-  font-family: $base-font-family;
+  @include fluid-type($min-vw, $max-vw, 28px, 40px);
+  margin:0 2rem;
+  font-family: $title-font-family;
 }
 
 .taxonomy-index {
