@@ -13,7 +13,7 @@
     {% assign bgimg = site.background_image %}
     {%- if site.env == 'dev' -%}
         {% assign img_domain = base.url | prepend: site.url | append: '/images' %}
-    {%- elsif site.env == 'production' -%}
+    {%- else -%}
         {% assign img_domain = 'https://slocum.surge.sh' %}
     {%- endif -%}
 
