@@ -21,7 +21,7 @@ social:
 facebook:
   publisher: https://www.facebook.com/serenade.wind.ventures
 
-markdown: kramdown
+markdown: CommonMark
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/dark.css"
 read_time: true
@@ -48,6 +48,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - octopress-minify-html
+  - jekyll-commonmark
+  - jekyll-include-cache
 exclude: 
   - jekyll-image-gallery-example
   - node_modules
