@@ -6,7 +6,7 @@ netlify_cms: true
 description: 
 baseurl: ''
 url: 'https://serenadewind.com'
-logo: /images/rjs-logo.png
+# logo: /images/rjs-logo.png
 background_image: "serenade-wind-background"
 
 # SEO 
@@ -21,7 +21,7 @@ social:
 facebook:
   publisher: https://www.facebook.com/serenade.wind.ventures
 
-markdown: CommonMark
+markdown: kramdown
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/dark.css"
 read_time: true
