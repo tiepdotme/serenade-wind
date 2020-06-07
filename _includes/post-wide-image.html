@@ -16,14 +16,14 @@
 {%- else -%}
     {% assign imgDomain = "https://slocum.surge.sh" %}
 {%- endif -%}
-<figure class="page-image-breakout {{caption_class}}">
-    <picture>
-    {% for imgsize in site.data.config.screen-sizes %}
-        <source media="(min-width:{{imgsize[1]}})" srcset = "{{ imgDomain }}/{{ imgsize[0] }}/{{ pwimg }}{{ fileExt }}, {{ imgDomain }}/{{ imgsize[0] }}/{{ pwimg }}_2x{{ fileExt }} 2x">
-    {% endfor %}
-        <img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if img_caption %} alt="{{img_caption | strip_html}}" title="{{img_caption | strip_html}}" {% endif %}/>
-    </picture>
-    {%- if pwcaption and pwcaption != "" -%}
-        <figcaption>{{pwcaption}}</figcaption>
-    {%- endif -%}   
+
+<figure class="page-image-lightbox {{caption_class}}">
+  <picture>
+    <source media="(max-width:480px)" srcset = "{{ imgDomain }}/small/{{ pwimg }}{{ fileExt }}, {{ imgDomain }}/small/{{ pwimg }}_2x{{ fileExt }} 2x">
+    <source media="(min-width:768px)" srcset = "{{  imgDomain }}/medium/{{ pwimg }}{{ fileExt }}, {{ imgDomain }}/medium/{{ pwimg }}_2x{{ fileExt }} 2x">
+    <img src="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}" srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" alt="{{img_caption | strip_html}}" title="{{ img_caption | strip_html}}" data-lity data-lity-target="{{imgDomain}}/xlarge/{{ pwimg }}{{fileExt}}" />
+  </picture>
+  {%- if pwcaption and pwcaption != "" -%}
+  <figcaption>{{pwcaption}}</figcaption>
+  {%- endif -%}   
 </figure>
