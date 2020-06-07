@@ -1,24 +1,29 @@
 {%- if pwcaption and pwcaption != "" -%}
-	{% assign caption_class = "with-caption" %}
-	{% assign img_caption = pwcaption %}
-{% else %}
-	{% assign caption_class = "" %}
-	{% assign img_caption = pwimg %}
+    {% assign caption_class = "with-caption" %}
+    {% assign img_caption = pwcaption %}
+{%- else -%}
+    {% assign caption_class = "" %}
+    {% assign img_caption = pwimg %}
 {%- endif -%}
 {%- if pwpng and pwpng != "" -%}
-	{% assign fileExt = ".png" %}
-{% else %}
-	{% assign fileExt = ".jpg" %}
+    {% assign fileExt = ".png" %}
+{%- else -%}
+    {% assign fileExt = ".jpg" %}
 {%- endif -%}
-{% assign imgDomain = "https://slocum.surge.sh" %}
+
+{%- if jekyll.environment == "development" -%}
+    {% assign imgDomain = "/images" %}
+{%- else -%}
+    {% assign imgDomain = "https://slocum.surge.sh" %}
+{%- endif -%}
 <figure class="page-image-breakout {{caption_class}}">
-	<picture>
-	{% for imgsize in site.data.config.screen-sizes %}
-		<source media="(min-width:{{imgsize[1]}})" srcset = "{{imgDomain}}/{{imgsize[0]}}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/{{imgsize[0]}}/{{ pwimg }}_2x{{fileExt}} 2x">
-	{% endfor %}
-		<img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if img_caption %} alt="{{img_caption | strip_html}}" title="{{img_caption | strip_html}}" {% endif %}/>
-	</picture>
-	{%- if pwcaption and pwcaption != "" -%}
-		<figcaption>{{pwcaption}}</figcaption>
-	{%- endif -%}	
+    <picture>
+    {% for imgsize in site.data.config.screen-sizes %}
+        <source media="(min-width:{{imgsize[1]}})" srcset = "{{ imgDomain }}/{{ imgsize[0] }}/{{ pwimg }}{{ fileExt }}, {{ imgDomain }}/{{ imgsize[0] }}/{{ pwimg }}_2x{{ fileExt }} 2x">
+    {% endfor %}
+        <img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if img_caption %} alt="{{img_caption | strip_html}}" title="{{img_caption | strip_html}}" {% endif %}/>
+    </picture>
+    {%- if pwcaption and pwcaption != "" -%}
+        <figcaption>{{pwcaption}}</figcaption>
+    {%- endif -%}   
 </figure>
