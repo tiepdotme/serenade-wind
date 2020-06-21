@@ -14,35 +14,31 @@
   font-weight: $page-title-weight;
   font-style: italic;
 }
-.page-image-breakout {
+.page-image-lightbox {
     font-family: $sans-serif-font-family;
-    width: 100vw;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
     text-align:center;
     margin-bottom: $site-elements-default-margin-bottom;
-    img {
-      @include breakpoint($large) {
-        width: 90%;
-      }
-    }
-    &.with-caption img{
-      border-bottom: 2px solid $text-color;
+
+    picture {
+      border-bottom: 1px solid white;
+      border-image-source: linear-gradient(90deg, #252a34 1%, #f7fdff, #252a34 99%);
+      border-image-slice: 1;
+      border-top: 0;
+      border-right: 0;
+      border-left: 0;
+      display: block;
+      cursor: pointer;
     }
 }
 
 .with-caption figcaption{
   text-align:center;
-  width: $small;
+  width: 280px;
   margin: 0 auto;
-  border-bottom: 2px solid $text-color;
+  background-image: linear-gradient(to top, white 10%, rgb(36, 41, 51) 100%);
   border-bottom-right-radius: 8px 8px;
   border-bottom-left-radius: 8px 8px;
   padding: 4px 2px;
-  background:$text-color;
   color:#000;
   font-style:italic;
   @include breakpoint($large) {
@@ -95,16 +91,76 @@
 }
 
 .page-stats-bar {
-  font-size: 0.75em;
+  font-size : 0.75em;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 
   @include breakpoint($large) {
     font-size: 1em;
+    position: absolute;
+    top: -1.2em;
+    right: .8em;
+  }
+
+  li {
+    background: #242e39;
+    border: 0;
+    margin: 0;
+    padding: 8px 10px;
+    display:inline-block;
+    position: relative;
+
+    &.post-share {
+      display:none;
+    }
+
+    a {
+      border: 0;
+    }
+
+    @include breakpoint($large) {
+      display:block;
+      padding: 10px;
+      margin: 0 4px;
+      box-shadow: 1px 3px 4px 1px black;
+      border-left:1px solid #2c3e50;
+
+      &:first-child {
+        background:linear-gradient(to bottom, #12171c, #242e39);
+      }
+
+      span:before {
+        content:'';
+        position: absolute;
+        border-style: solid;
+        transform: rotate(180deg);
+        border-width: 1.3em 0.6em 0em 0em;
+        border-color: #2c3e50 transparent transparent transparent;
+        left:-.6em;
+        top:-.1em;
+        z-index:-1;
+      }
+
+      &.post-share {
+        display: inline-block;
+
+        .social {
+          display: inline-block;
+          margin-right: 10px;
+        }
+
+        .btn {
+          padding: 4px 8px;
+          margin: 0;
+        }
+      }
+    }
   }
 
   .page-date,
   .read-time {
     font-family: $base-font-family;
-    font-style: italic;
     white-space: nowrap;
   }
 
@@ -134,11 +190,8 @@
   -ms-flex-align: center;
   align-items: center;
   margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    
-  }
 }
+
 .page-taxonomy-container {
   display:inline-block;
 
@@ -186,15 +239,11 @@
 }
 
 .page-taxonomies {
-  display: inline;
-  margin-right: 1em;
+  display: inline-block;
+  margin:0;
   padding: 0;
   list-style: none;
-
-  @include breakpoint($large) {
-    display: inline-block;
-    margin: 0 0 1.5em 0;
-  }
+  margin-left:6px;
 }
 
 .page-taxonomy {
@@ -285,20 +334,25 @@
 
 .layout--post {
   .page-wrapper {
-    background:linear-gradient(to bottom, #2c3e50a1, #2c3e50 10%);
+    position: relative;
+    background:linear-gradient(to bottom, #2c3e50a1, #252a34 10%);
     padding:0;
+    max-width: 100%;
     margin:0;
-    padding-top:10px;
-    margin: 0 1em 0 1em;
 
     @include breakpoint($large){
       margin:0 auto;
-      background:linear-gradient(to bottom, #2c3e50a1, #2c3e50 30%);
+      max-width: $main-max-width;
+      background:linear-gradient(to bottom, #2c3e50a1, #252a34 30%);
     }
 
     border-top:0;
     border-left:0;
     border-right:0;    
+  }
+
+  .page-title {
+    text-align: left;
   }  
 }
 
@@ -389,10 +443,10 @@
 
   .page-header {
     border-bottom: 1px solid;
-    padding-bottom:2em;
-    padding-left: 2em;
-    padding-top: 1em;
     border-image-slice: 1;
+    position: relative;
+    font-family: $script-font-family;
+    padding: 1em;
     @include breakpoint($large) {
       grid-column: 1 / -1;
       clear: both; // needed for floated layout
@@ -446,10 +500,13 @@
     }
 
     .e-content{
-      border-bottom: 2px solid;
+      border-bottom: 1px solid;
       margin-bottom:2em;
       border-image-source: linear-gradient(90deg, #252a34, rgb(0, 173, 181), #252a34);
       border-image-slice: 1;
+      border-top: 0;
+      border-left: 0;
+      border-right: 0;
     }
   }
 

@@ -66,10 +66,6 @@ blockquote {
     right:-50%;
     z-index:2;
     top:0;
-    box-shadow:1px 1px 10px black;
-    border-bottom-left-radius:10px;
-    border-bottom-right-radius:10px;
-    background-color:$nav-background-color;
 }
 .site-nav ul{
     border-bottom:1px solid #3c4352;
@@ -83,18 +79,23 @@ blockquote {
 
 
 .page-wrapper {
-  background-color: $background-content-color;
-  box-shadow:1px 1px 9px #1a1d24;
-  padding-top:40px;
-  border-top:1px solid #1a1d24;
-  border-top-left-radius:20px 20px;
-  border-top-right-radius:20px 20px;
+  padding-top: 40px;
+  a {
+    color: $text-color;
+    padding:0;
+    margin:0;
+    display:inline-block;
+    text-decoration:none;
+    border-bottom:1px dashed $text-color;
+    text-shadow: 2px 2px 3px black;
 
+    &:hover {
+      border-bottom-color: $primary-color;
+      color: $primary-color;
+    }
+  }
   .page-header {
       border-image-source: linear-gradient(90deg, $background-content-color 10%, rgb(0, 173, 181),$background-content-color 90%);
-      padding-left:0;
-      padding-right:0;
-      text-align:center;
       border-top:0;
       border-left:0;
       border-right:0;
@@ -102,14 +103,13 @@ blockquote {
 
   .page-content {
     font-size: 1.2em;
-    background-color: $background-content-color;
 
-    .page-title{
-      font-size:2.8em;
+    .page-title {
+      font-size: 2.8em;
     }
 
     .e-content {
-          border-image-source: linear-gradient(90deg, $background-content-color 10%, rgb(0, 173, 181),$background-content-color 90%);
+      border-image-source: linear-gradient(90deg, $background-content-color 10%, rgb(0, 173, 181),$background-content-color 90%);
     }
   }
 
