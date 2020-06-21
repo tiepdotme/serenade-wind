@@ -5,38 +5,47 @@
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 -->
-<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
-  {% include head.html %}
-
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
-
-{%- if site.background_image -%}
-    {% assign bgimg = site.background_image %}
-    {%- if site.env == 'dev' -%}
+    {%- if jekyll.environment == 'development' -%}
         {% assign img_domain = base.url | prepend: site.url | append: '/images' %}
     {%- else -%}
         {% assign img_domain = 'https://slocum.surge.sh' %}
     {%- endif -%}
-
-<div id="background">
-  <picture>
-  {%- for imgsize in site.data.config.screen-sizes -%}
-     <source media="(min-width:{{imgsize[1]}})" srcset = '{{ img_domain }}/{{ imgsize[0] }}/{{ bgimg }}.jpg, {{ img_domain }}/{{ imgsize[0] }}/{{ bgimg }}_2x.jpg 2x'>
-  {%- endfor -%}
-    <img srcset='{{ img_domain }}/small/{{ bgimg }}.jpg, {{ img_domain }}/small/{{ bgimg }}_2x.jpg 2x' alt="Serenade Wind Background Image" title="Serenade Wind Background Image"/>
-  </picture>
-</div>
-{%- endif -%}
-
-
-    {% include skip-links.html %}
-    {% include navigation.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-    {% include scripts.html %}
-  </body>
-
-</html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  <head>
+{%- comment -%}
+      Add metadata for search engines and social networks if jekyll-seo-tag plugin is enabled
+{%- endcomment -%}
+  {%- if site.plugins contains 'jekyll-seo-tag' or site.gems contains 'jekyll-seo-tag' -%}
+    {% seo %}
+    <meta property="og:image" content="{{img_domain | append: page.image.thumbnail}}">
+  {%- else -%}
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
+  {%- endif -%}
+  {% include_cached head.html %}
+    </head>
+    <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+      <div id="fb-root"></div>
+      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=844633769395526&autoLogAppEvents=1" nonce="lGCWcnDe"></script>
+  {%- if site.background_image -%}
+    {% assign bgimg = site.background_image %}
+      <div id="background">
+        <picture>
+          <source media="(min-width:1280px)" srcset="{{img_domain}}/xlarge/serenade-wind-background.jpg, {{img_domain}}/xlarge/serenade-wind-background_2x.jpg 2x">
+          <source media="(min-width:1024px)" srcset="{{img_domain}}/large/serenade-wind-background.jpg, {{img_domain}}/large/serenade-wind-background_2x.jpg 2x">
+          <source media="(min-width:768px)" srcset="{{img_domain}}/medium/serenade-wind-background.jpg, {{img_domain}}/medium/serenade-wind-background_2x.jpg 2x">
+          <source media="(min-width:320px)" srcset="{{img_domain}}/small/serenade-wind-background.jpg, {{img_domain}}/small/serenade-wind-background_2x.jpg 2x">
+          <img src="{{ img_domain }}/small/{{ bgimg }}.jpg" srcset='{{ img_domain }}/small/{{ bgimg }}.jpg, {{ img_domain }}/small/{{ bgimg }}_2x.jpg 2x' alt="Serenade Wind Background Image" title="Serenade Wind Background Image"/>
+        </picture>
+      </div>
+  {%- endif -%}
+  {% include_cached skip-links.html %}
+  {% include_cached navigation.html %}
+  {% include_cached masthead.html %}
+  {{ content }}
+  {% include_cached footer.html %}
+  {% include_cached scripts.html %}
+      <script type="text/javascript" src="/assets/js/table-of-contents.js"></script>
+    </body>
+  </html>

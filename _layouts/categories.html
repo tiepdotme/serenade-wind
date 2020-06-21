@@ -5,7 +5,7 @@ layout: page
 {{ content }}
 
 <ul class="taxonomy-index">
-  {% assign categories_max = 0 %}
+  {% assign categories_max = 3 %}
   {% for category in site.categories %}
     {% if category[1].size > categories_max %}
       {% assign categories_max = category[1].size %}
@@ -39,7 +39,7 @@ layout: page
           <section class="post-tile-container">
             <ul>
             {% for entry in category.last %}
-              {% include post-tile.html %}
+              {% include_cached post-tile.html %}
             {% endfor %}
             </ul>
             </section>

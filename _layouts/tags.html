@@ -41,7 +41,7 @@ layout: page
           <section class="post-tile-container">
             <ul>
             {% for entry in tag.last %}
-              {% include post-tile.html %}
+              {% include_cached post-tile.html %}
             {% endfor %}
             </ul>
           </section>        
