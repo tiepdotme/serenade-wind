@@ -1,5 +1,5 @@
 sw:
-  name: SW (Denise)
+  name: SerenadeWind
   picture: https://0.gravatar.com/avatar/0d222f5c5bc1a9c406378f4f77524a34?s=100
   links:
     - title: Instagram
@@ -11,3 +11,9 @@ sw:
     - title: Twitter
       url: https://twitter.com/serenade_wind
       icon: fab fa-twitter-square
+    - title: Reddit
+      url: https://www.reddit.com/user/serenade_wind
+      icon: fab fa-reddit-square
+    - title: YouTube
+      url: https://www.youtube.com/channel/UCzWV4eWypP_s2AzRsCqZ3Kw
+      icon: fab fa-youtube-square
