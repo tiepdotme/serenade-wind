@@ -1,6 +1,4 @@
 {% if page.categories.size > 0 %}
-<div class="page-categories page-taxonomy-container">
-  <h3 class="page-taxonomies-title">{{ site.data.text[site.locale].categories | default: 'Categories' }}</h3>
   <ul class="page-taxonomies">
     {%- for category in page.categories -%}
       <li class="page-taxonomy">
@@ -12,5 +10,4 @@
       </li>
     {%- endfor- %}
   </ul>
-</div>  
 {% endif %}

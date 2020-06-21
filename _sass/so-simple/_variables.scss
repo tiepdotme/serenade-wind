@@ -3,6 +3,8 @@
     Global Variables
    =======================================================================	
 */
+$background-color: #252a34 !default;
+$nav-background-color: mix(#000, $background-color, 30%) !default;
 
 /* Image Paths */
 $img-small: '/images/small/';

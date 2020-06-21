@@ -1,16 +1,24 @@
+# General
 .DS_Store
-Dockerfile
-docker-compose.yml
+
+#JEKYLL THINGS
 _site
 .sass-cache
 .jekyll-metadata
+_drafts
+public
+images
+.jekyll-cache
+jekyll-image-gallery-example
+
+# Infrastructure
+Dockerfile
+docker-compose.yml
+gulpfile.js
+node_modules
+
+# Other
 wp-content
 Global
-jekyll-image-gallery-example
-_drafts
-node_modules
-public
 RawImages
 image-resize.py
-gulpfile.js
-images
