@@ -21,8 +21,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/blue-sea-anemone.jpg 
-excerpt: >-
-  To us, sailing will bring us a life of adventure, and it will also bring us closer to nature as we witness that our choices will make a direct impact on the world around us. In this post, we talk about ways of going green.
+excerpt:   To us, sailing will bring us a life of adventure, and it will also bring us closer to nature as we witness that our choices will make a direct impact on the world around us. In this post, we talk about ways of going green.
 ---
 {% assign pwimg="blue-sea-anemone" %}
 {% assign pwcaption="" %}
@@ -178,14 +177,3 @@ One of my go-to youtube channels is Exploring Alternatives. In this video, they 
 
 {% include responsive-embed url="https://www.youtube.com/embed/sO76q932VOo" ratio="16:9" %}
 
-
-
-# Going Green Updates
-
-## as of May 9, 2020
-
-The quest for going green continues. I came across a great resource [Sailors for the Sea](https://sailorsforthesea.org/programs/green-boating-guide/non-toxic-cleaning-products "Sailors for the Sea"), which gives a list of commercial products that have been tested for the environment based on the following factors: cleaning, performance, toxicity, and biodegradability.
-
-The site also provides recipes for making your own cleaning products with lemon juice, vinegar, baking soda, and salt.
-
-Learning about topics like this gets me more excited to move aboard. In the meantime, we may give these DIY solutions a try while we are still on land. Much like our [water water everywhere](https://www.serenadewind.com/posts/water-water-everywhere/) experiment, we'll test out commercial and DIY solutions in a future post. Stay tuned!

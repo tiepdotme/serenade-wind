@@ -21,15 +21,18 @@ tags:
     - powerofwhy
     - lifetransitions
 share: true
-image:
+post:
     thumbnail: /images/small/greece-both-corinth-crossing.jpg 
-excerpt: >-
-  Sailing around the world is bringing your home wherever you travel. To get started you need to learn to let go of living on land, move aboard a sailboat and find your dream job.
+excerpt:   Sailing around the world is bringing your home wherever you travel. To get started you need to learn to let go of living on land, move aboard a sailboat and find your dream job.
 ---
-In today's story, we follow-up our [whiteboard discussion](https://serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") and describe how we went about deciding to turn our life upside down to go sailing around the world. During a pivotal Sunday morning session in October, 2019, we chose to combine the following post-it notes to begin our discussion...
+{% assign pwimg="greece-both-corinth-crossing" %}
+{% assign pwcaption="Andrew & Denise motoring through Corinth Canal, Oct 2017" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 {% include toc %}
 
+In today's story, we follow-up our [whiteboard discussion](https://serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") and describe how we went about deciding to turn our life upside down to go sailing around the world. During a pivotal Sunday morning session in October, 2019, we chose to combine the following post-it notes to begin our discussion...
 
 # Stickies
 
@@ -45,7 +48,7 @@ Before we met, Andrew and I both spent a bit of time sailing. When he was living
 I had taken a variety of ASA courses, joined a sailing club which got me out on a 36’ Catalina twice a month for a few years, chartered yachts from time to time, raced in the summer Wednesday sunset regattas out of Marina Del Rey, did a moonlight sail in San Francisco (caught in the fog with strong currents was a memorable experience), and crewed a 10-day trip island hopping in the British Virgin Islands.
 
 {% assign pwimg="greece-both-corinth-crossing" %}
-{% assign pwcaption="Andrew & Denise motoring through Corinth Canal, Oct 2017" %}
+{% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

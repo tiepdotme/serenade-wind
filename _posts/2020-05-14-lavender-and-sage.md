@@ -20,8 +20,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/photo-lavender-flower-field-under-pink-sky.jpg 
-excerpt: >-
-  Before the coronavirus pandemic hit, I would take along my current knitting project wherever I go. Sometimes while standing in line, I will pull out my project and begin to knit. Others look at their cellphone, I knit. 
+excerpt:   Before the coronavirus pandemic hit, I would take along my current knitting project wherever I go. Sometimes while standing in line, I will pull out my project and begin to knit. Others look at their cellphone, I knit. 
 ---
 {% assign pwimg="photo-lavender-flower-field-under-pink-sky" %}
 {% assign pwcaption="" %}
@@ -122,7 +121,7 @@ Decide whether to keep the following section here or in Boat Head post.
 
 # Project Slocum update
 
-### as of May 14, 2020
+## as of May 14, 2020
 
 This post was originally written April 15. Since then, we've had more progress and conversations about moving, downsizing and buying a boat. Here is an update on where we stand on our [boat purchase](https://www.serenadewind.com/posts/boat-purchase/ "boat purchase").
 
@@ -132,9 +131,11 @@ The other buyer wanted to move quickly, asking Bill to meet her in Florida durin
 
 We had always taken a cautious approach, valuing health and safety over a transaction. So we replied to Bill that we wanted to move forward with our deal. If it provided peace of mind to him, we can wire the security deposit rather than have him worry needlessly about being pressured to make a sale, even at the cost of his own health.
 
-So today, we are wiring the security deposit to Bill, who will take the boat off the market. 
+Upon reading our response about our decision and timing, Bill wrote:
 
-## How did we feel about this next step?
+>I agree that that there's little point in moving quickly at this point in time. I've been in communication with my friends overseas and most everywhere is locked down tight. Many cruisers aren't even allowed ashore. The Caribbean is locked down. Massachusetts still hasn't re-opened, and if you did anchor off a beach here, there'd be nothing open other than supermarkets and drug stores. So we'll just have to wait and see how things progress. But congratulations! At least you're making the first move toward cruising. You can be absolutely sure I'll do everything I can to make that dream come true for you.
+
+# How did we feel about this next step?
 
 When he received the reply from Bill yesterday evening, Andrew smiled, pretty excited about taking this next step. In the wee hours of the morning, I woke up and read the email Andrew had forwarded from Bill, and I started to research what information we would need to complete the transaction. 
 
@@ -148,13 +149,13 @@ When he received the reply from Bill yesterday evening, Andrew smiled, pretty ex
 >
 >Andrew raised an eyebrow.
 
-## Why the difference in reaction? 
+# Why the difference in reaction? 
 
 I speculate that my *unchanged mood* largely stems from the fact that I had mentally accepted that this was **our** boat. Wiring the money, finalizing the purchase agreement, and any other steps were just that: mechnical steps in a process and nothing more. In my mind, she is already ours. The steps were a mere formality. 
 
 Andrew's happiness over this next step, seems to stem from believing subconsciously that there continued to be a series of go/no-go decisions. In his mind, anything could prevent his dream from becoming a reality. So rather than get his hopes up, he is more cautious. Every step becomes a celebration... or a potential devastation.
 
-## Glass half full or half empty
+# Glass half full or half empty
 
 We mentioned this before when we first decided to [sail around the world](https://www.serenadewind.com/posts/sailing-around-the-world/ "sail around the world"). On our [whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/ "whiteboard"), we sketched out a plan. Over the course of a year, that whiteboard was a disappointing reminder to Andrew about the lack of progress we made. It wasn't to me. I looked at the whiteboard with *optimism* about what steps needed to be taken for us to transform our lives. 
 

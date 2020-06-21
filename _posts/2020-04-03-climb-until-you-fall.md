@@ -21,8 +21,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/man-climbing-on-cliff.jpg 
-excerpt: >-
-  Climb until you fall is about dialing in sailing skills from a pro and learning Bill's beta aboard a schooner to begin sailing around the world.
+excerpt:   Climb until you fall is about dialing in sailing skills from a pro and learning Bill's beta aboard a schooner to begin sailing around the world.
 ---
 {% assign pwimg="action-adventure-climbing-daylight" %}
 {% assign pwcaption="" %}

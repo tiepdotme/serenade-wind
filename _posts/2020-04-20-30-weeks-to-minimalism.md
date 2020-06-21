@@ -20,8 +20,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/green-wooden-chair-on-white-surface.jpg 
-excerpt: >-
-  30 weeks to minimalism begins with a game plan and time. Rather than replace a busy schedule with another busy schedule, give yourself time. Find stillness in the day for introspection and self-discovery. 
+excerpt:   30 weeks to minimalism begins with a game plan and time. Rather than replace a busy schedule with another busy schedule, give yourself time. Find stillness in the day for introspection and self-discovery. 
 ---
 {% assign pwimg="green-wooden-chair-on-white-surface" %}
 {% assign pwcaption="" %}

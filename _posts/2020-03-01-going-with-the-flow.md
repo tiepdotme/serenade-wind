@@ -16,8 +16,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/white-and-orange-koi-fish.jpg 
-excerpt: >-
-  At some point, Andrew asked the question, why don't we just take it easy. We'll play the weekend by ear and not decide now. Find out how a "recovering planner" would react to going with the flow. 
+excerpt:   At some point, Andrew asked the question, why don't we just take it easy. We'll play the weekend by ear and not decide now. Find out how a "recovering planner" would react to going with the flow. 
 ---
 {% assign pwimg="white-and-orange-koi-fish" %}
 {% assign pwcaption="" %}

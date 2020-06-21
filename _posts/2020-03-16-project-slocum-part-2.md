@@ -22,8 +22,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/person-s-on-boat-throwing-fishing-net.jpg 
-excerpt: >-
-  In Project Slocum Part 2 of 5, we explore the following idea: Sailing on a boat really seems like a reasonable post-apocalyptic plan. #noahsark. 
+excerpt:   In Project Slocum Part 2 of 5, we explore the following idea&colon; Sailing on a boat really seems like a reasonable post-apocalyptic plan. #noahsark. 
 ---
 {% assign pwimg="woman-in-mask-holding-toilet-paper" %}
 {% assign pwcaption="" %}

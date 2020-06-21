@@ -1,7 +1,7 @@
 ---
-id: 32
+id: 33
 title: Packing Light
-date: 2020-05-02T16:20:12+00:00
+date: 2020-05-25T16:20:12+00:00
 guid: https://www.serenadewind.com/posts/packing-light/
 permalink: /posts/packing-light/
 author: sw
@@ -11,25 +11,33 @@ categories:
     - Self-sustainability
 tags:
     - bluewater
-    - cultureofcharacter
-    - gowiththeflow
+    - leanintovalues
+    - minimalist
     - instasailing
-    - powerofwhy
+    - projectslocum
     - sailing-life
-    - shelterathome
     - transitions
 share: true
 image:
     thumbnail: /images/small/brown-leather-duffel-bag.jpg 
-excerpt: >-
-  How do you pack for the rest of your life in order to live full-time on a sailboat? Packing light becomes an imperative.
+excerpt:   How do you pack for the rest of your life in order to live full-time on a sailboat? Packing light becomes an imperative.
 ---
+Before jumping into our topic today about packing light, we wanted to highlight news about Patrick and Rebecca Childress of [s/v Brick House.](http://whereisbrickhouse.com/) Their [youtube](https://www.youtube.com/channel/UCC7DRvfDAoFn5eMyfTnaA8w) channel has been an inspiration for both of us, and we were quite literally shocked to find out that they were both diagnosed with coronavirus on May 15th.
+
+While Rebecca is slowly recovering aboard their boat in South Africa, Patrick was admitted into the ICU and has been on a ventilator and is experiencing kidney failure. Their insurance claim has been denied since it does not cover pandemic, so we have donated to help them out.
+
+Money should be the worst and last thing anyone in this situation would need to worry about. Having Patrick come back home as soon as possible to Rebecca... that's what is important.
+
+If you would also like to help, here is the [GoFundMe](https://www.gofundme.com/f/childress-covid-care?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet) to support them. Thank you.
+
 {% assign pwimg="brown-leather-duffel-bag" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-[30 weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minimalism/) kicked off the first of a 5 part series on getting prepared to live on a sailboat. This begins by downsizing many of our land-based belongings. We made a yeoman's effort earlier this year, but in this post, we take a critical eye at clothes and consider packing light. This also gives us an opportunity to give you a boat tour of s/v Rachel J. Slocum.
+[30-weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minimalism/) kicked off the first of a 5 part series on getting prepared to live on a sailboat. This begins by downsizing many of our land-based belongings. We made a yeoman's effort earlier this year, but in this post, we take a critical eye at clothes and consider packing light. 
+
+This also gives us an opportunity to give you a boat tour of s/v Rachel J. Slocum.
 
 >"He who would travel happily must travel light." ~ Antoine de Saint-Exupery
 
@@ -85,9 +93,9 @@ Additionally, there are two other hanging lockers: one located just outside the 
 
 This is about **65** cubic feet of space compared to **510** cubic feet which we have in our home. This requires that we be ruthless to reduce our possessions by 85% or more.
 
-In [30 weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minimalism/ "30 weeks to minimalism"), we talked about purging by knocking out each category one at a time. This helped to get rid of two closets worth of clothes, and I was quite proud of that effort. However when I looked at the storage options available on RJS, I knew I needed to start from zero and only take what I need and could fit aboard.
+In [30 weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minimalism/ "30 weeks to minimalism"), we talked about purging by knocking out each category one at a time. This helped to get rid of two closets worth of clothes, and I was quite proud of that effort. However when I looked at the storage options available on RJ Slocum, I knew I needed to start from zero and only take what I need and could fit aboard.
 
-{% assign pwimg="lululemon-leggings" %}
+{% assign pwimg="woman-in-white-dress-shirt" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -111,6 +119,11 @@ As for shoes, marine shoes, flip flops, hiking boots, etc. will be stored in pla
 
 Foul weather gear will go in the locker closest to the companion way.
 
+{% assign pwimg="denise-packing-light" %}
+{% assign pwcaption="Notice the measurements labeled in both the hanging space as well as the drawers." %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 ## Practicum
 
 To put this into practice, I taped off and measured 20" of hanging locker space for myself, 12" of foul weather gear locker space (of which I would take up half), and the precise dimensions of the 4 drawers I would take up on RJS for clothes. When I saw the amount of space I had available to me, it was sobering. For many women, it would be a shock.
@@ -121,12 +134,6 @@ In other words, these all went into the "Yes" pile. What I had already pre-selec
 
 All of a sudden, I was done and packing light became a reality.
 
-{% assign pwimg="9837" %}
-{% assign pwcaption="" %}
-{% assign pwpng="" %}
-{% include post-wide-image.html%}
-
-
 # Food for Thought
 
 When this experiment was near complete, I showed Andrew the approach and he was excited equally enthusiastic about the results. He then threw in the potential for taking more items if we were to vacuum seal some of the items from the "maybe" pile so that we wouldn't wont for more.
@@ -136,3 +143,21 @@ This is one of the many examples of the "battle of the givers." I found a way to
 # How to handle rejection
 
 For the clothes that are in the reject pile, they can be gifted, sold or donated. [Going Zero Waste](https://www.goingzerowaste.com/blog/how-to-donate-or-recycle-unusual-items) provides some ideas for organizations that will take donations of unusual items such as [bras](http://www.donateswimsuits.com/), [eyeglasses](https://www.lionsclubs.org/en/resources-for-members/resource-center/recycle-eyeglasses), cosmetics and [shoes](http://www.morefoundationgroup.org/how-it-works/). Before tossing anything, we will also be taking advantage of [TerraCycle](https://www.terracycle.com/en-US/) to determine what to do with other waste streams.
+
+{% assign pwimg="bujo-voyaging-progress" %}
+{% assign pwcaption="How we selected clothes and linens for our voyaging life" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
+
+# Progress to date
+
+as of May 18, 2020
+
+The table details our approach: on the left is the choices we will make for clothes and on the right is for linens. Beginning with a list of all of the items and working from left to right, each item is assigned some relevance (marked in orange) for sailing in high-latitude, temperate or tropic climates. Each item is also given a minimum number or range required as per The Voyager's Handbook. Additional clothes were itemized if they weren't listed in the handbook (e.g., pajamas, climbing gear, vest, etc.)
+
+I filled out the next 2 columns based on a) items that fit in the allotted hanging locker and drawers and b) optional items I would like to take if there is more room aboard the boat. The next 2 columns were filled out by Andrew.
+
+Andrew had a chance to tackle his closet with the same rigorous editing. Going into it, he thought it would be easy, breezy. About 30 minutes into the process, he realized this was going to be a grind. While I sat on the bed happily knitting, I would field his packing-related questions. By lunchtime, he had gone through his wardrobe and he felt good about the progress he made. While he didn't take the final step as I did, which was to pack all of the items into a suitcase, he now has everything in order, except for shoes.
+
+Linens was also a topic of conversation over the past week. We will provide more details on that when we discuss the [Boat Head](https://www.serenadewind.com/posts/boat-head/ "Boat Head").

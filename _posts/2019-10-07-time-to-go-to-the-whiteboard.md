@@ -21,8 +21,7 @@ author: sw
 share: true
 image:
     thumbnail: /images/small/vehicles-on-road.jpg 
-excerpt: >-
-  We took a hard look at how we were spending our time each week. While we didn’t like what we were seeing, we also saw this as an opportunity to ask some hard questions. And to solve them, it was time to go to the whiteboard.
+excerpt:   We took a hard look at how we were spending our time each week. While we didn’t like what we were seeing, we also saw this as an opportunity to ask some hard questions. And to solve them, it was time to go to the whiteboard.
 ---
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/amcharts.js"></script>
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/pie.js"></script>

@@ -17,8 +17,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/alone-boulders-idyllic-looking.jpg 
-excerpt: >-
-  Solitude is the key to creativity, to break-through thoughts, and to innovation. It is the birthplace of ideas. Here is the story of two selectively social introverts.
+excerpt:   Solitude is the key to creativity, to break-through thoughts, and to innovation. It is the birthplace of ideas. Here is the story of two selectively social introverts.
 ---
 {% assign pwimg="alone-boulders-idyllic-looking" %}
 {% assign pwcaption="" %}

@@ -19,9 +19,8 @@ tags:
     - tedtalks
 share: true
 image:
-    thumbnail: /images/small/wood-bridge-cute-sitting.jpg 
-excerpt: >-
-  One of the hardest areas to tackle when downsizing and purging your belongings is figuring out what to do with sentimental items. I thought clothes would be tough. They were a breeze compared to this. Then, I discovered 3 reasons in their favor: learning tool, empathy and throw back.
+    thumbnail: /images/small/wood-bridge-cute-sitting.jpg
+excerpt: One of the hardest areas to tackle when downsizing and purging your belongings is figuring out what to do with sentimental items. I thought clothes would be tough. They were a breeze compared to this. Then, I discovered 3 reasons in their favor&colon; learning tool, empathy and throw back.
 ---
 
 {% assign pwimg="giant-telephone-siblings" %}

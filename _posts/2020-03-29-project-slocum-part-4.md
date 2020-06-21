@@ -21,8 +21,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/woman-sitting-on-luggage.jpg 
-excerpt: >-
-  As we shared previously in Part 1-3 of this series, we didn't take this trip lightly. We went ahead with it, and now in Project Slocum Part 4, we share our thoughts on the trip, much like a day-in-the-life.
+excerpt:   As we shared previously in Part 1-3 of this series, we didn't take this trip lightly. We went ahead with it, and now in Project Slocum Part 4, we share our thoughts on the trip, much like a day-in-the-life.
 ---
 {% assign pwimg="woman-sitting-on-luggage" %}
 {% assign pwcaption="" %}

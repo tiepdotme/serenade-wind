@@ -19,8 +19,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/bridge-colorful-colourful-dock.jpg 
-excerpt: >-
-  With the final installment, Project Slocum Part 5 reveals our second day aboard RJS, continued discussions with her owners, and our go/no-go decision.
+excerpt:   With the final installment, Project Slocum Part 5 reveals our second day aboard RJS, continued discussions with her owners, and our go/no-go decision.
 ---
 {% assign pwimg="brown-leather-duffel-bag" %}
 {% assign pwcaption="" %}

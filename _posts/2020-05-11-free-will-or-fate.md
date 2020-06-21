@@ -20,8 +20,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/anchor-couple-fingers-friends.jpg 
-excerpt: >-
-  Free will or fate is about how Life sometimes throws you curveballs and gives you an opportunity to face adversity but also to grow closer together. In short succession, we had three such curveballs thrown at us and this is how we fared.
+excerpt:   Free will or fate is about how Life sometimes throws you curveballs and gives you an opportunity to face adversity but also to grow closer together. In short succession, we had three such curveballs thrown at us and this is how we fared.
 ---
 {% assign pwimg="competition-dispute-goats" %}
 {% assign pwcaption="" %}

@@ -18,8 +18,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/backlit-balance-beach-cloud.jpg 
-excerpt: >-
-  What are you willing to do to support local businesses? In our latest post, find out our approach. It may involve taking calculated risks in order to live a full life.
+excerpt:   What are you willing to do to support local businesses? In our latest post, find out our approach. It may involve taking calculated risks in order to live a full life.
 ---
 {% assign pwimg="alone-bed-bedroom-blur" %}
 {% assign pwcaption="" %}
@@ -136,3 +135,13 @@ Besides that, we are also supporting other small businesses from A to Z such as:
 -   [Pollo Fresco LLC](https://www.facebook.com/Pollo-Fresco-LLC-Anaheim-100976611474279/) - farm fresh chicken and eggs... whenever we have a hankering to make Hainan chicken, we'll stock up chicken from here
 -   [Sender One](https://www.senderoneclimbing.com/) - while our climbing gym is closed during this pandemic, we continue to donate to help cover furloughed employees
 -   [Zion Market](https://www.zionmarket.com/) - small chain of Korean grocery stores that carry marinated bulgogi, beef shorts, and chicken teriyaki. Some locations have a [Paris Baguette](https://parisbaguette.com/) (where I stock up on cream bread for the absolute best grilled cheese sandwich). Note, this is a great place to source wheat flour for baking when all the major supermarket chains have run out
+
+# Project Slocum update
+
+## as of May 19, 2020
+
+This post was originally written April 17. Since then, we've had more progress and conversations about moving, downsizing and buying a boat. Here is an update on where we stand on our [boat purchase](https://www.serenadewind.com/posts/boat-purchase/ "boat purchase").
+
+We revised the purchase agreement and sent it to Bill for review and comment. We also placed our security deposit on RJ Slocum into an escrow account. This marks one pivotal step in becoming a boat owner. 
+
+Ch...ch...check!
