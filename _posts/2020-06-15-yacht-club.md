@@ -20,8 +20,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/brown-leather-duffel-bag.jpg 
-excerpt: >-
-  A few weeks ago, Bill suggested we become a member of a yacht club to cut down on our cruising expenses. The image that I conjure up when someone mentions yacht clubs is an elitist club. However, we have come to learn that they come in all shapes and sizes. 
+excerpt: A few weeks ago, Bill suggested we become a member of a yacht club to cut down on our cruising expenses. The image that I conjure up when someone mentions yacht clubs is an elitist club. However, we have come to learn that they come in all shapes and sizes. 
 ---
 Before delving into today's blog post which originated mid-April, I wanted to draw attention to world events that seem to collide with this topic.
 

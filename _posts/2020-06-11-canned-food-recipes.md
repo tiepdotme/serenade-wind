@@ -17,9 +17,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/dhn-condensed-milk-cookies.jpg 
-excerpt: >-
-  During the pandemic, we've been having fun performing culinary experiments with canned food recipes and figuring out how to provision for offshore cruising. We hand-picked the tastiest recipes which are easy to cook while making passage or at anchor. 
+excerpt: During the pandemic, we've been having fun performing culinary experiments with canned food recipes and figuring out how to provision for offshore cruising. We hand-picked the tastiest recipes which are easy to cook while making passage or at anchor. 
 ---
+{% include toc %}
 {% assign pwimg="aroma-aromatic-assortment-bottles" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
