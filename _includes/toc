@@ -1,0 +1,9 @@
+{::options parse_block_html="true" /}
+<div id="post-table-of-contents" class="toc-wrapper">
+<h3 class="toc-title"><i class="fab fa-elementor"></i>
+  {{ site.data.text[site.locale].table_of_contents | default: 'Table of Contents' }}
+</h3>
+1. toc
+{:toc}
+</div>
+{::options parse_block_html="false" /}

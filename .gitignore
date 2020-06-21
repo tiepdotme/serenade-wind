@@ -10,3 +10,5 @@ public
 RawImages
 image-resize.py
 gulpfile.js
+.jekyll-cache
+# _posts
