@@ -1,3 +1,6 @@
+.DS_Store
+Dockerfile
+docker-compose.yml
 _site
 .sass-cache
 .jekyll-metadata
@@ -10,3 +13,4 @@ public
 RawImages
 image-resize.py
 gulpfile.js
+images
