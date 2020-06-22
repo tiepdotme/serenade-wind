@@ -20,13 +20,13 @@ tags:
 share: true
 image:
     thumbnail: /images/small/hurricane-isabel.jpg 
-excerpt:   Although we are still in the eye of the storm, it feels like we are about to turn a corner. 
+excerpt: Although we are still in the eye of the storm, it feels like we are about to turn a corner. 
 ---
+{% include toc %}
 {% assign pwimg="whiteboard-2" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Old Whiteboard
 

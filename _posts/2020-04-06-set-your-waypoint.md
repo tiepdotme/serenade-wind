@@ -22,8 +22,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/silhouette-photo-of-woman-facing-snow-capped-mountain.jpg 
-excerpt:   Rather than overreact to coronavirus media hype, set your waypoint & maintain a steady course through these rough seas we call life.
+excerpt: Rather than overreact to coronavirus media hype, set your waypoint & maintain a steady course through these rough seas we call life.
 ---
+{% include toc %}
 {% assign pwimg="pinterest-silhouette-photo-of-woman-facing-snow-capped-mountain" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

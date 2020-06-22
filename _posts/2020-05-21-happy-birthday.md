@@ -20,7 +20,7 @@ image:
     thumbnail: /images/small/clear-drinking-glass-on-table.jpg 
 excerpt: Staying at home during the coronavirus pandemic sure makes it hard to plan a surprise for Andrew. I am probably nuts to be posting a happy birthday blog weeks in advance, as it may tip my hand on my plans. But it sure is fun to see what will happen!
 ---
-
+{% include toc %}
 {% assign pwimg="clear-drinking-glass-on-table" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

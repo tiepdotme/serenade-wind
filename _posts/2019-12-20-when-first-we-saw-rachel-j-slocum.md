@@ -21,8 +21,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/9827.jpg 
-excerpt:   There isn't any one perfect boat for everyone. The boat you choose should be safe, comfortable, well built, and ideally capable of fast passages while proving to be a good investment. When first we saw Rachel J Slocum, we knew we found the perfect boat for us.
+excerpt: There isn't any one perfect boat for everyone. The boat you choose should be safe, comfortable, well built, and ideally capable of fast passages while proving to be a good investment. When first we saw Rachel J Slocum, we knew we found the perfect boat for us.
 ---
+{% include toc %}
 {% assign pwimg="9827" %}
 {% assign pwcaption="Aloft s/v Rachel J Slocum" %}
 {% assign pwpng="" %}

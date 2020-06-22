@@ -19,8 +19,9 @@ tags:
 share: true 
 image:
     thumbnail: /images/small/bitcoins-and-u-s-dollar-bills.jpg 
-excerpt:   What is your relationship with money? In this post, we explore this topic. At this stage in our lives, we are not compelled to accumulate money just as we are not compelled to accumulate possessions. Why? Because they end up owning you... 
+excerpt: What is your relationship with money? In this post, we explore this topic. At this stage in our lives, we are not compelled to accumulate money just as we are not compelled to accumulate possessions. Why? Because they end up owning you... 
 ---
+{% include toc %}
 {% assign pwimg="cash-dollars-hands-money" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

@@ -19,8 +19,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/pinball.jpg 
-excerpt:   After a couple weeks spent with ideas about the future pinballing around in my mind, I finally got some closure on a few things. The present is the only time that you actually have control...
+excerpt: After a couple weeks spent with ideas about the future pinballing around in my mind, I finally got some closure on a few things. The present is the only time that you actually have control...
 ---
+{% include toc %}
 {% assign pwimg="past-present-future" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

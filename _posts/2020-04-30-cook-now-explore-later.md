@@ -19,8 +19,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/anise-aroma-art-bazaar.jpg 
-excerpt:   Cook now explore later is the story of our pandemic life as we are all doing our part&colon; to stay home and save lives. In this post, we feature tried and true recipes that we cook in our home throughout the year. We believe these recipes will transition perfectly aboard a sailboat.
+excerpt: Cook now explore later is the story of our pandemic life as we are all doing our part&colon; to stay home and save lives. In this post, we feature tried and true recipes that we cook in our home throughout the year. We believe these recipes will transition perfectly aboard a sailboat.
 ---
+{% include toc %}
 {% assign pwimg="anise-aroma-art-bazaar" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

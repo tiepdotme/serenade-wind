@@ -21,8 +21,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/photo-displays-person-holding-ball-with-reflection.jpg 
-excerpt:   Tumultuous would be *le mot juste* to describe the following week. As the week progressed, we would have to face a go/no-go decision to buy RJ Slocum.
+excerpt: Tumultuous would be *le mot juste* to describe the following week. As the week progressed, we would have to face a go/no-go decision to buy RJ Slocum.
 ---
+{% include toc %}
 {% assign pwimg="sign-pen-business-document" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

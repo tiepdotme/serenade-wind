@@ -21,8 +21,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/blue-sea-anemone.jpg 
-excerpt:   To us, sailing will bring us a life of adventure, and it will also bring us closer to nature as we witness that our choices will make a direct impact on the world around us. In this post, we talk about ways of going green.
+excerpt: To us, sailing will bring us a life of adventure, and it will also bring us closer to nature as we witness that our choices will make a direct impact on the world around us. In this post, we talk about ways of going green.
 ---
+{% include toc %}
 {% assign pwimg="blue-sea-anemone" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

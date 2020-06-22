@@ -18,8 +18,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/backlit-balance-beach-cloud.jpg 
-excerpt:   What are you willing to do to support local businesses? In our latest post, find out our approach. It may involve taking calculated risks in order to live a full life.
+excerpt: What are you willing to do to support local businesses? In our latest post, find out our approach. It may involve taking calculated risks in order to live a full life.
 ---
+{% include toc %}
 {% assign pwimg="alone-bed-bedroom-blur" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

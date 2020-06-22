@@ -21,7 +21,7 @@ image:
     thumbnail: /images/small/alcohol-alcoholic-bar-blur.jpg 
 excerpt: For those curious, here is a Project Slocum update. We scraped all our pennies together and put a deposit on s/v Rachel J Slocum. We are officially in escrow... Time to celebrate!
 ---
-
+{% include toc %}
 {% assign pwimg="alcohol-alcoholic-bar-blur" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

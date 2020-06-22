@@ -17,13 +17,13 @@ tags:
 share: true
 image:
     thumbnail: /images/small/9826.jpg 
-excerpt:   Project Slocum Part 1 - due diligence on buying a boat is much like buying a house. Just as you may make an offer contingent on several variables, in the case of buying a boat it will be contingent on a marine survey and a sea trial. 
+excerpt: Project Slocum Part 1 - due diligence on buying a boat is much like buying a house. Just as you may make an offer contingent on several variables, in the case of buying a boat it will be contingent on a marine survey and a sea trial. 
 ---
+{% include toc %}
 {% assign pwimg="9826" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 Project Slocum Part 1 of 5 in a series of write-ups on our boat purchase adventure. In December, we first came across sailing vessel [Rachel J. Slocum](https://serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "Rachel J Slocum"). Now in February, we can begin to take the next steps.
 

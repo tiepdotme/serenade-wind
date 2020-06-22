@@ -18,11 +18,11 @@ image:
     thumbnail: /images/small/white-and-orange-koi-fish.jpg 
 excerpt: At some point, Andrew asked the question, why don't we just take it easy. We'll play the weekend by ear and not decide now. Find out how a "recovering planner" would react to going with the flow. 
 ---
+{% include toc %}
 {% assign pwimg="white-and-orange-koi-fish" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Going with the flow
 
@@ -45,7 +45,6 @@ In effect, I was starting to open up to the possibilities that come with going w
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 ## Planning Ahead
 
 Microsoft Outlook was my organizational tool of choice to plan meetings and activities. 
@@ -58,7 +57,6 @@ That world no longer exists for me... 
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 ## Going with the Flow
 
@@ -115,7 +113,6 @@ As for curiosity, this new adventure will certainly unleash many opportunities t
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Living the dream
 

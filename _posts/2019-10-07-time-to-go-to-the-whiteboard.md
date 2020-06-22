@@ -28,13 +28,13 @@ excerpt:   We took a hard look at how we were spending our time each week. While
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/themes/light.js"></script>
 <script src="{{ base.url | prepend: site.url }}/assets/js/white-board-chart.js"></script>
 
-
+{% include toc %}
 {% assign pwimg="vehicles-on-road" %}
 {% assign pwcaption="The hectic life we all live" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-{% include toc %}
+
 
 # Aug. 2018
 

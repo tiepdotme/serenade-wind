@@ -20,8 +20,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/photo-of-beach-during-dawn.jpg 
-excerpt:   Buying a boat can be overwhelming. Follow these 8 steps... and come up with a game plan that answers as much as you can before you make an offer on a boat. This will be an iterative process as you narrow down your preferences. We hope these tips and resources help.
+excerpt: Buying a boat can be overwhelming. Follow these 8 steps... and come up with a game plan that answers as much as you can before you make an offer on a boat. This will be an iterative process as you narrow down your preferences. We hope these tips and resources help.
 ---
+{% include toc %}
 {% assign pwimg="photo-of-beach-during-dawn" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

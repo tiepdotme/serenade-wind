@@ -19,8 +19,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/9841.jpg 
-excerpt:   In the 4th part of our 30-weeks to minimalism series, we tackle the galley. Once again, we will need to think critically about what items are used daily now and can still serve us in the future aboard a sailboat. Here is how a "sea foodie" would approach it.
+excerpt: In the 4th part of our 30-weeks to minimalism series, we tackle the galley. Once again, we will need to think critically about what items are used daily now and can still serve us in the future aboard a sailboat. Here is how a "sea foodie" would approach it.
 ---
+{% include toc %}
 {% assign pwimg="kitchen-and-dining-area" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

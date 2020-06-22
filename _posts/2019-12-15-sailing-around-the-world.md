@@ -23,8 +23,9 @@ tags:
 share: true
 post:
     thumbnail: /images/small/greece-both-corinth-crossing.jpg 
-excerpt:   Sailing around the world is bringing your home wherever you travel. To get started you need to learn to let go of living on land, move aboard a sailboat and find your dream job.
+excerpt: Sailing around the world is bringing your home wherever you travel. To get started you need to learn to let go of living on land, move aboard a sailboat and find your dream job.
 ---
+{% include toc %}
 {% assign pwimg="greece-both-corinth-crossing" %}
 {% assign pwcaption="Andrew & Denise motoring through Corinth Canal, Oct 2017" %}
 {% assign pwpng="" %}

@@ -20,8 +20,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/abstract-blur-bubble-clean.jpg 
-excerpt:   What else is there to do while you're observing stay-at-home orders until May 15th during this pandemic? We performed a little experiment at home to measure the amount of water used while showering so we could figure out how long can we daydream in the shower.
+excerpt: What else is there to do while you're observing stay-at-home orders until May 15th during this pandemic? We performed a little experiment at home to measure the amount of water used while showering so we could figure out how long can we daydream in the shower.
 ---
+{% include toc %}
 {% assign pwimg="abstract-blur-bubble-clean" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

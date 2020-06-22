@@ -20,8 +20,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/syringe-and-pills-on-blue-background.jpg 
-excerpt:   In Project Slocum Part 3, we provide updates on a few different topics since they all seem to interplay this week leading up to our trip to Ft. Lauderdale.
+excerpt: In Project Slocum Part 3, we provide updates on a few different topics since they all seem to interplay this week leading up to our trip to Ft. Lauderdale.
 ---
+{% include toc %}
 {% assign pwimg="syringe-and-pills-on-blue-background" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

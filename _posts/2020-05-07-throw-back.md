@@ -22,7 +22,7 @@ image:
     thumbnail: /images/small/wood-bridge-cute-sitting.jpg
 excerpt: One of the hardest areas to tackle when downsizing and purging your belongings is figuring out what to do with sentimental items. I thought clothes would be tough. They were a breeze compared to this. Then, I discovered 3 reasons in their favor&colon; learning tool, empathy and throw back.
 ---
-
+{% include toc %}
 {% assign pwimg="giant-telephone-siblings" %}
 {% assign pwcaption="Denise and Eric at Universal Studios Hollywood (1980)" %}
 {% assign pwpng="" %}

@@ -19,8 +19,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/9838.jpg 
-excerpt:  In part 5, we conclude our downsizing process that began with 30-weeks to minimalism. This beautiful living space conceals stowage for spares, spares and more spares.
+excerpt: In part 5, we conclude our downsizing process that began with 30-weeks to minimalism. This beautiful living space conceals stowage for spares, spares and more spares.
 ---
+{% include toc %}
 {% assign pwimg="rjs-83-layout" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

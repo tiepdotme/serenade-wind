@@ -20,8 +20,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/photo-lavender-flower-field-under-pink-sky.jpg 
-excerpt:   Before the coronavirus pandemic hit, I would take along my current knitting project wherever I go. Sometimes while standing in line, I will pull out my project and begin to knit. Others look at their cellphone, I knit. 
+excerpt: Before the coronavirus pandemic hit, I would take along my current knitting project wherever I go. Sometimes while standing in line, I will pull out my project and begin to knit. Others look at their cellphone, I knit. 
 ---
+{% include toc %}
 {% assign pwimg="photo-lavender-flower-field-under-pink-sky" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

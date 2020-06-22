@@ -22,8 +22,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/ball-ball-shaped-blur-color.jpg 
-excerpt:   With few options to buy items in stores due to coronavirus, here is an opportunity to break a habit. Rather than instinctually ordering online, why not look around your house & create a solution based on what you already have? 
+excerpt: With few options to buy items in stores due to coronavirus, here is an opportunity to break a habit. Rather than instinctually ordering online, why not look around your house & create a solution based on what you already have? 
 ---
+{% include toc %}
 {% assign pwimg="ball-ball-shaped-blur-color" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

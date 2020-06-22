@@ -19,8 +19,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/costa-rica-heart-hand.jpg 
-excerpt:   Happy anniversary! Andrew and I are unlike most couples. We celebrated by climbing and boat shopping on our anniversary. Since life is short, why not spend your time pursuing your passions?
+excerpt: Happy anniversary! Andrew and I are unlike most couples. We celebrated by climbing and boat shopping on our anniversary. Since life is short, why not spend your time pursuing your passions?
 ---
+{% include toc %}
 {% assign pwimg="canada-both-kissy" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}

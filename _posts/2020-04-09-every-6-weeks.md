@@ -21,8 +21,9 @@ tags:
 share: true
 image:
     thumbnail: /images/small/gray-hand-tool.jpg 
-excerpt:   With salons and barbers closed these days during coronavirus, you may also want to give DIY haircuts every 6 weeks.
+excerpt: With salons and barbers closed these days during coronavirus, you may also want to give DIY haircuts every 6 weeks.
 ---
+{% include toc %}
 {% assign pwimg="gray-hand-tool" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
