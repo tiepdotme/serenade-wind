@@ -1,15 +1,15 @@
 description:
 title:
 pictures:
+- filename: mdr-both-tiller 
+  extension: .jpg
+  title: Day sail for Andrew's birthday
+  caption: Day sail for Andrew's birthday
+- filename: san-gorgonio-both-peak
+  extension: .jpg
+  title: Summiting peaks in California
+  caption: Summiting peaks in California
 - filename: corinth-canal-crossing-greece
   extension: .jpg
-  title: Test 1
-  caption: barely any caption
-- filename: corinth-canal-crossing-greece
-  extension: .jpg
-  title: Test 2
-  caption: This is my very long and annoying little caption
-- filename: corinth-canal-crossing-greece
-  extension: .jpg
-  title: Test 3
-  caption: This is my caption
+  title: Crossing the Corinth Canal
+  caption: Crossing the Corinth Canal

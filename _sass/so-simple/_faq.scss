@@ -50,6 +50,7 @@ input {
       color:white;
     }
   }
+
   &-close {
     display: flex;
     justify-content: flex-end;
@@ -72,7 +73,20 @@ input:checked {
     }
   }
   ~ .tab-content {
-    max-height: 120vh;
+    max-height: min-content;
     padding: 1em;
+  }
+}
+
+.page-wrapper .page-content .faq-wrapper .tab .tab-content .tab-link {
+  a {
+    color: #2c3e50;
+    border-bottom-color: #2c3e50;
+    text-shadow: 1px 1px 2px #666;
+
+    &:hover{
+      color: #666;
+      text-shadow: 1px 1px 2px #2c3e50;
+    }
   }
 }

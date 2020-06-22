@@ -14,9 +14,13 @@
               {{faq.answer}}
               {%- if faq.link -%}
               <div class="tab-link">
-                <a href="{{faq.link}}">Learn More</a>
+                <a href="{{faq.link}}" {%- if faq.link_title -%} title="{{faq.link_title}}" {%- endif -%}>Learn More</a>
               </div>
               {%- endif -%}
+              {% assign pwimg=faq.image %}
+              {% assign pwcaption="" %}
+              {% assign pwpng="" %}
+              {% include post-wide-image.html%}
             </div>
           </div>
         {%- endif -%}

@@ -99,7 +99,7 @@
   @include breakpoint($large) {
     font-size: 1em;
     position: absolute;
-    top: -1.2em;
+    top: -.7em;
     right: .8em;
   }
 
@@ -135,11 +135,11 @@
         position: absolute;
         border-style: solid;
         transform: rotate(180deg);
-        border-width: 1.3em 0.6em 0em 0em;
-        border-color: #2c3e50 transparent transparent transparent;
-        left:-.6em;
-        top:-.1em;
         z-index:-1;
+        border-width: .8em 0.4em 0em 0em;
+        top: 0em;
+        left: -0.4em;
+        border-color: #000 transparent transparent transparent;        
       }
 
       &.post-share {
@@ -240,10 +240,15 @@
 
 .page-taxonomies {
   display: inline-block;
-  margin:0;
+  margin: 0;
+  margin-bottom: 1em;
   padding: 0;
   list-style: none;
-  margin-left:6px;
+
+  li {
+    display: inline-block;
+    padding-right: 6px;
+  }
 }
 
 .page-taxonomy {

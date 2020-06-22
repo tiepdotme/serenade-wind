@@ -19,7 +19,6 @@ let isMobile = false;
 if($(".toc-wrapper").css("display") !== 'none'){
     isMobile = true;
 }
-console.log(isMobile);
 
 var elmTop = function(elem){
     var rect = elem.getBoundingClientRect();

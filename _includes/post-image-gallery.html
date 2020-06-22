@@ -10,19 +10,24 @@
 {%- endif -%}
 
 <ul>
-	{% assign imgDomain = "/images" %}
-	{% for pic in include.gallery.pictures %}
+{%- if jekyll.environment == "development" -%}
+    {% assign imgDomain = "/images" %}
+{%- else -%}
+    {% assign imgDomain = "https://slocum.surge.sh" %}
+{%- endif -%}
+
+	{%- for pic in include.gallery.pictures -%}
 		{% assign pwimg = pic.filename %}
 		{% assign fileExt = pic.extension %}
 <li>	
-<figure class="gallery-image">
+<figure class="gallery-image page-image-lightbox">
 	<picture>	
-		<img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" {% if pic.caption %} alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}" {% endif %}/>
+		<img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" data-lity data-lity-target="{{imgDomain}}/xlarge/{{ pwimg }}{{fileExt}}" alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}">
 	</picture>
 	<figcaption>{{pic.caption}}</figcaption>
 </figure>
 </li>
-	{% endfor %}	
+	{%- endfor -%}	
 </ul>
 </section>
 {%- endif -%}

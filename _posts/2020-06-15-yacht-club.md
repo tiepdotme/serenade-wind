@@ -22,6 +22,7 @@ image:
     thumbnail: /images/small/brown-leather-duffel-bag.jpg 
 excerpt: A few weeks ago, Bill suggested we become a member of a yacht club to cut down on our cruising expenses. The image that I conjure up when someone mentions yacht clubs is an elitist club. However, we have come to learn that they come in all shapes and sizes. 
 ---
+{% include toc %}
 Before delving into today's blog post which originated mid-April, I wanted to draw attention to world events that seem to collide with this topic.
 
 There's a tremendous about of rhetoric around black lives matter following the [tragedies](https://www.vox.com/2020/6/12/21285244/black-lives-matter-global-protests-george-floyd-uk-belgium) of George Floyd, Breonna Taylor, Collins Khosa, Adama Traore and Belly Mujinga as hundreds of thousands have taken to the streets in Brussels, London, Rio de Janeiro, Seoul, Sydney, and across the U.S.

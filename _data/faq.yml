@@ -4,29 +4,23 @@ faq-questions:
       <p>The goal is to be able to do this as long as we have the physical capability and passion to do this. If we were to put an actual timeframe around this adventure, we are hoping to do this for at least 5-10 years. We would like to be able to circumnavigate, however this is not the only goal.</p>
       <p>Many sailors age out of this lifestyle and usually due to physical limitations. We know there are examples of those who sail into their 70's and 80's.</p>
       <p>Will we be one of these examples? Who knows.</p>
-    image: 
+    image: white-boat-sailing-on-body-of-water
   - question: Where do you want to sail first?
     answer: >
       <p>
         The first destination will entirely depend on where we buy our boat.
       </p>
       <ul>
-        <li>The front runner at the moment in  s/v Rachel J. Slocum , which means if we sail from Florida, we will likely first head to the Bahamas.</li>
-        <li>If we opt to buy a custom built yacht from  Sirius , then we will be sailing from the northern shores of Germany and likely headed for the Mediterranean.</li>
+        <li>The front runner at the moment in s/v Rachel J. Slocum, which means if we sail from Florida, we will likely first head to the Bahamas.</li>
+        <li>If we opt to buy a custom built yacht from Sirius, then we will be sailing from the northern shores of Germany and likely headed for the Mediterranean.</li>
         <li>If we happen to buy a sailboat in Southern California, we will likely berth in Long Beach and coastal cruise for a while up and down the west coast before heading to the Marquesas Islands (French Polynesia).</li>
       </ul>
       <p>
         The timeline for each of these options depend on the hurricane seasons. To find out more about our current sail plans, follow this link
       </p>
-    image:
-    link: posts/2020-sailing-plan/
-  - question: What will happen to your cats?
-    answer: >
-      <p>Generally, having cats on boats is not a problem.</p>
-      <p>Throughout history, cats have been part of ocean crossings to help deal with mice and other critters. And in modern times, we have seen cats incorporated into sailing life, often starting out as kittens, and so that is the only life they know.</p>
-      <p>While cats are resilient and good swimmers, each cat will take to sailing life differently, and it's hard to predict how our cats will respond right now. As with everything, we'll take this transition with a great deal of thought and care for what will make Oreo and Xiao Long happiest.</p>
-    image:
-    link:
+    image: nevis-pinneys-beach-2010
+    link: /posts/2020-sailing-plan/
+    link_title: 2020 Sailing Plan
   - question: What did your parents say when you told them?
     answer: >
       <p>
@@ -42,14 +36,15 @@ faq-questions:
       <p>
         Of course, I'm being facetious. For the story about our actual dialog, follow this link:
       </p>
-    image:
+    image: dhn-bvi-catamaran-bow
     link: https://www.patreon.com/join/3892078/signup?ru=%2Fjoin%2F3892078%2Fcheckout%3Frid%3D4544142%26
+    link_title: Become a Patreon!
   - question: Aren't you going to be bored?
     answer: >
       <p>
         There is plenty to do onboard a sailboat. Day-to-day cooking, cleaning, fishing, and boat projects in addition to sailing and making passage. We also plan to bring books, guitar, knitting, and other gear to pass the time. While at anchor, there will be opportunities to swim, snorkel, rock climb, hike and explore the local environment as well as provision and get to know our new neighbors. 
       </p>
-    image:
+    image: mdr-andrew-tiller
     link:
   - question: What will you do for health insurance?
     answer: >
@@ -59,7 +54,7 @@ faq-questions:
       <p>From my own personal experience of traveling abroad, I had great experiences of being treated as a human being and not as a walking liability. Perhaps a worthwhile story to expand beyond this FAQ and in a future blog post.</p>
       <p>By following the footsteps of <a href="http://www.joshuaslocumsocietyintl.org/">Joshua Slocum</a> (who sailed alone around the world from April 1895 to June 1898), we hope to be healthier and happier when we return to our home port.</p>
       <p>On a practical level, international health insurance is available for <a href="https://www.internationalinsurance.com/expatriates/americans-abroad.php">expats</a> if one is so inclined. During the coronavirus pandemic, we are learning that those requirements will increase quarantine procedures as we clear in and out of countries. We will provide an update outside of this FAQ once those policies are communicated.</p>
-    image:
+    image: boat-deck-leisure-ocean
     link:
   - question: Have you ever sailed across an ocean before?
     answer: >
@@ -67,7 +62,7 @@ faq-questions:
       <p class="">Andrew and I sailed in Greece from the northwest corner starting from the island of Corfu to several islands of the Ioanian Sea (incl. Banaya, Paxos, Nydri, Lefkada, Kefalonia, and Nafpaktos) and through the Corinth Canal to Athens. It was a 7-day sail on a Lagoon 38 catamaran. We covered roughly 235 nm, during which we experienced storm conditions and others in our flotilla experienced being struck by lightning shorting all electrical systems, broken jib sheet, fouled anchor on windlass, broken boomvang, and engine failure.&nbsp;</p>
       <p class="">While this was far from what we expected, we loved being able to experience sailing under these conditions. No, we're not gluttons for punishment. We simply appreciated the opportunity to problem solve and learn from this experience.&nbsp;</p>
       <p class="">Even seasoned sailors recognize there are opportunities to learn each day while at sea. The ocean has much to teach us.&nbsp;&nbsp;</p>
-    image:
+    image: greece-both-corinth-crossing
     link:
   - question: How will you communicate?
     answer: >
@@ -79,7 +74,7 @@ faq-questions:
         <li>SSB transceiver - Marine single sideband (SSB), unlike satphones, allows an unlimited number of people to listen to a transmission at the same time and so is used for regional cruising events like <a href="https://www.worldcruising.com/arc/event.aspx">ARC</a>, <a href="https://www.worldcruising.com/Carib1500/event.aspx">Caribbean 1500</a> and <a href="https://www.baja-haha.com/">Ba-ha-ha</a>. It operates on frequencies in the range of 2 MHz-26 MHz.</li>
         <li>AIS transponder - Automatic Identification System (AIS) transponder broadcasts a ship's information, such as speed and heading (information gathered by GPS, of course), the ship's name, port of origin, size and draft, and more, over VHF frequencies 161.975 megahertz and 162.025 MHz.</li>
       </ul>
-    image:
+    image: 9839_2x
     link:
   - question: How can we find you?
     answer: >
@@ -95,21 +90,22 @@ faq-questions:
         <li>Status Changes</li>
       </ul>
       <p class="">We will also file our float plan both here as well as with family so you are aware of our departure &amp; destination dates and locations.</p>
-    image: 
+    image: lefkada-greece-bayview-andrew
     link:
   - question: Are there opportunities for meet-ups?
     answer: >
       <p class="">The short answer is yes. While on our sailing adventure, we would love to meet, and to make that happen will take a lot of coordination.</p>
       <p class="">We will provide more information on this at a later time once we get organized.&nbsp;</p>
-    image:
+    image: mdr-both-tiller
     link:
   - question: How can I get started?
     answer: >
       <p class="">Beyond this FAQ, we have compiled a quick reference guide on sailing, minimalist lifestyle as well as our sources of inspiration.&nbsp;</p>
-    image:
+    image: person-holding-compass-in-forest
     link: /resources/
+    link_title: SerenadeWind resources and reference
   - question: Other questions?
     answer: >
       <p class="">If you have any questions to add to this FAQ - top questions from you that you would like us to answer, please post them on Facebook, Twitter, and/or Instagram. We would love to hear from you!</p>
-    image:
+    image: photo-of-blue-sea
     link:

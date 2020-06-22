@@ -1,0 +1,8 @@
+hull:
+  - title: Hull Specs
+    description: description with paragraphs
+    body: enter multiple lines of data
+    images: 
+      filename: enter filename
+      extension: extension
+      caption: caption

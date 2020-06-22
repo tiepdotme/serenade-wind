@@ -20,8 +20,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/greece-andrew-bay.jpg 
-excerpt: >-
-  A couple months ago, we decided to experiment with ways to go green. For us this means, living deliberately and raising our awareness about how we impact the world around us. Here are a few updates on our progress towards ethical sailing. Happy World Oceans Day!
+excerpt: A couple months ago, we decided to experiment with ways to go green. For us this means, living deliberately and raising our awareness about how we impact the world around us. Here are a few updates on our progress towards ethical sailing. Happy World Oceans Day!
 ---
 A couple months ago, we decided to experiment with ways to [go green](https://serenadewind.com/posts/going-green/). For us this means, living deliberately and raising our awareness about how we impact the world around us. Here are a few updates on our progress towards ethical sailing.
 
