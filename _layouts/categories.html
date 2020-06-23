@@ -5,47 +5,52 @@ layout: page
 {{ content }}
 
 <ul class="taxonomy-index">
-  {% assign categories_max = 3 %}
-  {% for category in site.categories %}
-    {% if category[1].size > categories_max %}
+  {% assign categories_max = 0 %}
+  {%- for category in site.categories -%}
+    {%- if category[1].size > categories_max -%}
       {% assign categories_max = category[1].size %}
-    {% endif %}
+    {%- endif -%}
   {% endfor %}
-  {% for i in (1..categories_max) reversed %}
-    {% for category in site.categories %}
-      {% if category[1].size == i %}
+  {%- for i in (1..categories_max) reversed -%}
+    {%- for category in site.categories -%}
+      {%- if category[1].size == i -%}
+        {% assign posts_label = " post" %}
+        {%- if i > 1 -%}
+          {% assign posts_label = " posts" %}
+        {%- endif -%}  
         <li>
           <a href="#{{ category[0] | slugify }}">
-            <strong>{{ category[0] }}</strong> <span class="taxonomy-count">{{ i }}</span>
+            <span class="taxonomy-count">{{ i | append: posts_label}}</span>
+            <strong>{{ category[0] }}</strong>
           </a>
         </li>
-      {% endif %}
+      {%- endif -%}
     {% endfor %}
   {% endfor %}
 </ul>
 
 {% assign categories_max = 0 %}
-{% for category in site.categories %}
-  {% if category[1].size > categories_max %}
+{%- for category in site.categories -%}
+  {%- if category[1].size > categories_max -%}
     {% assign categories_max = category[1].size %}
-  {% endif %}
+  {%- endif -%}
 {% endfor %}
-{% for i in (1..categories_max) reversed %}
-  {% for category in site.categories %}
-    {% if category[1].size == i %}
+{%- for i in (1..categories_max) reversed -%}
+  {%- for category in site.categories -%}
+    {%- if category[1].size == i -%}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy-section">
         <h2 class="taxonomy-title">{{ category[0] }}</h2>
         <div class="entries-{{ page.entries_layout | default: 'list' }}">
           <section class="post-tile-container">
             <ul>
-            {% for entry in category.last %}
-              {% include_cached post-tile.html %}
+            {%- for entry in category.last -%}
+              {% include post-tile.html %}
             {% endfor %}
             </ul>
             </section>
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
       </section>
-    {% endif %}
+    {%- endif -%}
   {% endfor %}
 {% endfor %}

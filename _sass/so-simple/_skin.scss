@@ -93,6 +93,11 @@ blockquote {
       border-bottom-color: $primary-color;
       color: $primary-color;
     }
+    &.back-to-top {
+      margin-right: 1em;
+      border: 0;
+      display: block;
+    }
   }
   .page-header {
       border-image-source: linear-gradient(90deg, $background-content-color 10%, rgb(0, 173, 181),$background-content-color 90%);
@@ -138,7 +143,7 @@ blockquote {
 
 .taxonomy-index {
   a {
-    border-bottom-color: $border-color;
+    border: none;
 
     &:hover {
       color: $accent-color;

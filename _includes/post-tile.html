@@ -20,9 +20,9 @@
         <figcaption>
           <h3>
             {%- if entry.link -%}
-              <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
+              <a class="u-bookmark-of" href="{{ entry.link }}" title="{{ title | strip_html }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
             {%- else -%}
-              <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
+              <a href="{{ entry.url | relative_url }}" rel="bookmark" title="Read our post: {{ title | strip_html }}">{{ title }}</a>
             {%- endif -%}
           </h3>
         </figcaption>

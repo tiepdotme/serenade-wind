@@ -367,15 +367,14 @@
 
   .page-wrapper {
     max-width: $xlarge;
-    background:linear-gradient(to bottom, #2c3e50a1, #2c3e50 10%);
+    background:linear-gradient(to bottom, #2c3e50a1, #262b34 10%);
     padding:0;
     margin:0;
     padding-top:10px;
-    margin: 0 1em 0 1em;
 
     @include breakpoint($large){
       margin:0 auto;
-      background:linear-gradient(to bottom, #2c3e50a1, #2c3e50 30%);
+      background:linear-gradient(to bottom, #252a34a1, #262b34 30%);
     }
 
     border-top:0;

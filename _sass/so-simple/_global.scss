@@ -215,27 +215,41 @@
   list-style: none;
 
   @include breakpoint($large) {
-    grid-template-columns: repeat(3, 1fr);
+    display: inline-block;
+    text-align: center;
+  }
+
+  li {
+    border-bottom: 1px solid #aaa;
+    padding: 0px 0 1px 1px; 
+    text-align:left;
+    display: inline-block;
+    margin: 0.5em 0.8em;
+    border-bottom: 1px solid #aaa;
+    border-bottom-left-radius:12px;
+    padding: 0px 0 2px 2px; 
+
+    @include breakpoint($large) {
+    
+    }
+
   }
 
   a {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    padding: 0.25em 0;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid;
-    border-image-source: linear-gradient(90deg, #252a34, #eee, #252a34);
-    border-image-slice: 1;
-    color: #00adb5;
-    background-color:rgba(37, 42, 52, 0.5);
-    padding:0;
-    padding: .25em .5em .25em .5em;
-    margin:.25em;    
+    background: none;
+
+    span {
+      display: inline-block;
+      background: linear-gradient(to bottom, transparent, black);
+      border-radius:1em;
+      padding:8px 6px;
+      line-height: 0.5em;
+      font-size: 0.75em;
+      margin: 0;
+      margin-left: 4px;
+      margin-right:4px;
+      color: #aaa;
+    }
   }
 
   + .taxonomy-section {
