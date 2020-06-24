@@ -1,3 +1,32 @@
+/* Planning
+- when I scroll to the first heading of content
+    - Show TOC
+- as I scroll past each of the headings, 
+    - Highlight TOC section
+- when i scroll below the last section, 
+    - Hide TOC
+*/
+
+var serWind = (function(){
+    let sizes = {};
+    let myElement;
+    function isElmInView(elm) {
+        myElement = document.querySelector(elm);
+        _setSizes();                
+        return (sizes.element.bottom <= sizes.window.height) ? true : false;
+    }
+
+    function _setSizes() {
+        sizes.element = myElement.getBoundingClientRect();
+        sizes.window = {'height': (window.innerHeight || document.documentElement.clientHeight)};
+    }
+
+    return {
+        isElementInView: isElmInView
+    }
+})();
+
+
 function isScrolledIntoView(elem) {
     var docViewTop = $(window).scrollTop();
     var docViewBottom = docViewTop + $(window).height();
@@ -14,6 +43,7 @@ let mainTocLinks = document.querySelectorAll("#markdown-toc li a");
 let mainSections = document.querySelectorAll(".e-content h1, .e-content h2, .e-content h3, .e-content h4, .e-content h5, .e-content h6");
 let tocMenu = document.getElementById("markdown-toc");
 let tocWrapper = document.getElementsByClassName("toc-wrapper");
+let postEnd = $("#thanks-for-reading");
 let isMobile = false;
 
 if($(".toc-wrapper").css("display") !== 'none'){
@@ -29,6 +59,7 @@ var elmTop = function(elem){
 
 var outerPane = $("#primary-nav"),
     didScroll = false;
+    contentBottom = false;
 
 $(window).scroll(function() {
     didScroll = true;
@@ -46,6 +77,14 @@ setInterval(function() {
         } else {
             $(".toc-wrapper").css("display", "none");
         }
+
+        // if(isScrolledIntoView(postEnd)) {
+        //     $(".toc-wrapper").css("display", "none");
+        // }
+        
+        if(serWind.isElementInView("#thanks-for-reading")){
+            $(".toc-wrapper").css("display", "none");
+        }        
         // Check your page position and then
         // Load in more results
       let fromTop = window.scrollY;
