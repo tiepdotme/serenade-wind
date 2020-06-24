@@ -20,3 +20,6 @@ social:
   - title: Subscribe to our videos
     url: https://www.youtube.com/channel/UCzWV4eWypP_s2AzRsCqZ3Kw
     icon: fab fa-youtube-square
+  - title: Become a supporter
+    url: https://www.patreon.com/bePatron?u=30149836
+    icon: fab fa-patreon-square
