@@ -1,0 +1,50 @@
+current:
+  description: Here is a sampling of brands that we currently use without consideration to its impact on the environment. Many of these products have ingredients that we cannot pronounce. These choices are primarily driven based on effectiveness, scent and cost.
+  title: 
+  type: static
+  pictures: 
+  - filename: yellowbird-soap
+    extension: .jpg
+    title: The Yellow Bird Soap Bar (Peppermint & Tea Tree)
+    caption: Soap
+  - filename: loreal-shampoo
+    extension: .jpg
+    title: L'Oreal Paris EverPure Sulfate Free Moisture Shampoo 
+    caption: Liquid Shampoo
+  - filename: colgate-tooth-paste
+    extension: .jpg
+    title: Colgate Cavity Protection with Fluoride
+    caption: Tooth Paste 
+  - filename: tide-laundry-detergent
+    extension: .jpg
+    title: Tide Original Laundry Detergent 
+    caption: Laundry Detergent
+  - filename: dawn-dish-soap
+    extension: .jpg
+    title: Dawn Ultra Dishwashing Soap (Original Scent)
+    caption: Dish Soap
+future:
+  type: static
+  description: Here is a sampling of new brands we are exploring because we want to consider what impact these choices are making on the environment. Many of these choices are vegan and the packaging reduces use of plastic and waste.
+  title: 
+  pictures:
+  - filename: reef-safe-ocean-soap
+    extension: .jpg
+    title: Reef Safe Soap (Minty Green)
+    caption: Soap
+  - filename: ethique-shampoo-bar
+    extension: .jpg
+    title: Ethique Eco-friendly Solid Shampoo Bar (Heali Kiwi) 
+    caption: Shampoo Bar
+  - filename: powermint-tooth-powder
+    extension: .jpg
+    title: Power Mint Tooth Powder
+    caption: Tooth Powder
+  - filename: charlies-soap-laundry-powder
+    extension: .jpg
+    title: Charlie’s Soap Laundry Powder (Fragrance Free) 
+    caption: Laundry Powder
+  - filename: no-tox-dish-soap
+    extension: .jpg
+    title: No Tox Life Dish Washing Block Soap 
+    caption: Dish Soap
