@@ -23,6 +23,7 @@ image:
 excerpt: In Project Slocum Part 3, we provide updates on a few different topics since they all seem to interplay this week leading up to our trip to Ft. Lauderdale.
 ---
 {% include toc %}
+
 {% assign pwimg="syringe-and-pills-on-blue-background" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
@@ -62,7 +63,7 @@ I will try to elaborate on each point in turn below.
 
 Roughly 30-years later, I find myself in the same position as Beth when she wrote this passage. It is also encouraging to see her journey as I have put faith in launching myself into a new life with no guarantees. I am putting faith in our future sailing vessel, in Andrew and in myself. 
 
-# A never-ending series of extreme highs and lows
+# Extreme highs and lows
 
 ## Voyaging Life
 
@@ -82,7 +83,7 @@ A few weeks ago as I was having lunch with a close friend and telling her my dec
 {% include post-wide-image.html%}
 
 
-# A process of growth and change in relationships
+# A process of growth
 
 One of the features of this new lifestyle that I look forward to the most is to spend more time with my best friend. Facing adversity, exposing our vulnerabilities, and quite frankly learning more about each other.
 

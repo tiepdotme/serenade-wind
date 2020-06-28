@@ -19,7 +19,7 @@ tags:
     - transitions
 share: true
 image:
-    thumbnail: /images/small/brown-leather-duffel-bag.jpg 
+    thumbnail: /images/small/9836.jpg 
 excerpt:   How do you pack for the rest of your life in order to live full-time on a sailboat? Packing light becomes an imperative.
 ---
 {% include toc %}

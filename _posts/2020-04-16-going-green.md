@@ -24,11 +24,11 @@ image:
 excerpt: To us, sailing will bring us a life of adventure, and it will also bring us closer to nature as we witness that our choices will make a direct impact on the world around us. In this post, we talk about ways of going green.
 ---
 {% include toc %}
+
 {% assign pwimg="blue-sea-anemone" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Zero Impact
 
@@ -53,7 +53,6 @@ Since we are already jumping into a new lifestyle, we thought it probably wise t
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 # Beauty Products
 
 While still living on land, I am starting to make conscious choices of what I currently do and whether or not I will continue to do certain activities in the future.
@@ -77,7 +76,6 @@ Luckily [Daenerys Targaryen](http://www.hbo.com) along with many other celebriti
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 # Cleaning Products
 
 The second major category we considered are the daily chemicals that we flush down drains, whether it is something used to clean ourselves (soap, shampoo, conditioner, deodorant, etc.) or clean stuff (kitchen, laundry, etc.) In a boat environment, naturally the same lack of treatment process means whatever we use will directly impact the marine life.
@@ -86,76 +84,16 @@ Coupled with that consideration is also wanting to reduce waste and our use of p
 
 After spending an hour or so browsing through options on Amazon.com for these products, I came to a startling conclusion.
 
-## Going green is expensive!
-
+# Going green is expensive!
 Plastic free, zero waste and eco-friendly products are not cheap. But rather than let that deter us, we want to take a marginal cost comparison approach rather than react to the stated retail price. Here's what we came up with:
 
----
+## Current Products
+{% include post-image-gallery.html gallery=site.data.galleries.going-green.current %}
 
-## Category
-
-### Current
-
-Here is a sampling of brands that we currently use without consideration to its impact on the environment. Many of these products have ingredients that we cannot pronounce. These choices are primarily driven based on effectiveness, scent and cost.
-
-### Future
-
-Here is a sampling of new brands we are exploring because we want to consider what impact these choices are making on the environment. Many of these choices are vegan and the packaging reduces use of plastic and waste.
-
-## Soap
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/yellowbird-300x300.jpg)
-
-The Yellow Bird Soap Bar (Peppermint & Tea Tree)
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/reefsafe-300x300.jpg)
-
-Reef Safe Soap (Minty Green)
-
-#### Shampoo
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/lorealshampoo-300x300.jpg)
-
-L'Oreal Paris EverPure Sulfate Free Moisture Shampoo
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/ethiqueshampoo-300x300.jpg)
-
-Ethique Eco-friendly Solid Shampoo Bar (Heali Kiwi)
-
-#### Toothpaste
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/colgate-300x300.jpg)
-
-Colgate Cavity Protection with Fluoride
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/powermint-300x300.jpg)
-
-Power Mint Tooth Powder
-
-#### Laundry Detergent
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/tide-150x150.jpg)
-
-Tide Original HE Laundry Detergent
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/charlie-150x150.jpg)
-
-Charlie's Soap Laundry Powder (Fragrance Free)
-
-#### Dish Soap
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/dawn-150x150.jpg)
-
-Dawn Ultra Dishwashing Soap (Original Scent)
-
-![](https://serenadewind.com/wp-content/uploads/2020/03/dishsoap-300x300.jpg)
-
-No Tox Life Dish Washing Block Soap
-
----
+## Future Products
+{% include post-image-gallery.html gallery=site.data.galleries.going-green.future %}
 
 ## Payoff of going green
-
 If we were to total the full replacement cost per unit in a straight up comparison, the current products we buy are indeed cheaper. Even on a cost per use basis, the future products we buy are less economical although they give us the peace of mind that we are doing our part to help the environment.
 
 However, what if we took the eco-friendly, zero waste, plastic free approach one step further?
@@ -167,14 +105,12 @@ Before we get too far ahead of ourselves, however, Andrew and I ordered a couple
 If all goes well, we might bulk order coconut oil and go nuts, much like [Tyler Durden](https://fightclub.fandom.com/wiki/Tyler_Durden) one of my favorite movie characters and fellow soap-maker.
 
 {% assign pwimg="fightclub" %}
-{% assign pwcaption="" %}
+{% assign pwcaption="Fight Club, Movie Poster" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Waste not, want not
 
 One of my go-to youtube channels is Exploring Alternatives. In this video, they explore approaching your life with Zero Waste in mind as well as other tips, should Zero Waste prove to be too extreme on the outset.
 
 {% include responsive-embed url="https://www.youtube.com/embed/sO76q932VOo" ratio="16:9" %}
-

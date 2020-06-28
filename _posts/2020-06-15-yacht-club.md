@@ -19,7 +19,7 @@ tags:
     - transitions
 share: true
 image:
-    thumbnail: /images/small/brown-leather-duffel-bag.jpg 
+    thumbnail: /images/small/ryct-sunrise.jpg 
 excerpt: A few weeks ago, Bill suggested we become a member of a yacht club to cut down on our cruising expenses. The image that I conjure up when someone mentions yacht clubs is an elitist club. However, we have come to learn that they come in all shapes and sizes. 
 ---
 {% include toc %}

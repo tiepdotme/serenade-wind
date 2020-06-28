@@ -78,7 +78,7 @@ Verdict? Not bad, but over-priced.
 
 The second boat we looked at was a 2007 54’ [Jeanneau](https://sailboatdata.com/sailboat/sun-odyssey-54-ds-jeanneau "Jeanneau sailboat data") called Any Isle going for $369,000. She is a fractional sloop rig with a fin hull with bulb keel and spade rudder, and twin helms in the aft cockpit.
 
-{% assign pwimg="jeanneau2" %}
+{% assign pwimg="Jeanneau2" %}
 {% assign pwcaption="2007 54' Jeanneau" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

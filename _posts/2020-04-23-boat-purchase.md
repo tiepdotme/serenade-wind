@@ -23,11 +23,11 @@ image:
 excerpt: Buying a boat can be overwhelming. Follow these 8 steps... and come up with a game plan that answers as much as you can before you make an offer on a boat. This will be an iterative process as you narrow down your preferences. We hope these tips and resources help.
 ---
 {% include toc %}
+
 {% assign pwimg="photo-of-beach-during-dawn" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Buying a Boat
 
@@ -110,7 +110,6 @@ We know that buying a boat can be overwhelming. Follow these 8 steps and come up
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 # Our Answers and Stories
 
 As mentioned above, we derived these answers for ourselves through an iterative process. A bit of trial and error. Wandering down some goat-paths based on an initial assumption. In the end, you'll find your way to what feels right for you... just as we did.
@@ -124,8 +123,8 @@ As mentioned above, we derived these answers for ourselves through an iterative 
 7.  First and foremost is safety, comfort and then speed. We think we found the perfect vessel that balances these requirements.
 8.  We have done some legwork already, but we know we have a long ways to go, especially as it relates to learning to sail a 2-masted [schooner](https://asa.com/news/2015/12/09/whats-in-a-rig-the-schooner/).
 
----
-
+# Boat purchase process posts
 Here are each of the stories we wrote on our process around buying a boat.
 
-Note: use projectslocum tag to list below in 3 tiles 
+{% assign currPost = page.permalink %}
+{% include related-posts.html type="tag" value="boat-purchase" %}

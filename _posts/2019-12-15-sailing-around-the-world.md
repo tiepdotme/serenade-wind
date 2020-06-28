@@ -26,12 +26,11 @@ post:
 excerpt: Sailing around the world is bringing your home wherever you travel. To get started you need to learn to let go of living on land, move aboard a sailboat and find your dream job.
 ---
 {% include toc %}
+
 {% assign pwimg="greece-both-corinth-crossing" %}
 {% assign pwcaption="Andrew & Denise motoring through Corinth Canal, Oct 2017" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
-{% include toc %}
 
 In today's story, we follow-up our [whiteboard discussion](https://serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") and describe how we went about deciding to turn our life upside down to go sailing around the world. During a pivotal Sunday morning session in October, 2019, we chose to combine the following post-it notes to begin our discussion...
 
@@ -66,7 +65,7 @@ Once you begin to let go of the notion of living in a house and consider moving 
 
 The other big idea to tackle was how do you go about finding a job and get paid to do what you love doing.
 
-{% assign pwimg="maslow" %}
+{% assign pwimg="Maslow" %}
 {% assign pwcaption="" %}
 {% assign pwpng="true" %}
 {% include post-wide-image.html%}
@@ -117,14 +116,12 @@ I’ll underscore this last point, because there is something about the [What’
 
 {% include responsive-embed url="https://www.youtube.com/embed/UsRP9EUrXjo" ratio="16:9" %}
 
-
 For me, I start to envision a mash-up of activities I love such as sailing to a remote island with rocky cliffs, dropping anchor, dinghy to shore, and rock climb/deep water solo existing routes or maybe even establishing new routes.
 
 {% assign pwimg="Deep-water-solo" %}
-{% assign pwcaption="Chris Sharma climbs without ropes a.k.a. deep water solo (a form of solo rock climbing that relies solely upon the presence of water at the base of a climb to protect against injury from fallings from the generally high difficulty routes). Photo courtesy of Wallpaper Safari" %}
+{% assign pwcaption="Chris Sharma climbs without ropes a.k.a. deep water solo. Photo courtesy of Wallpaper Safari" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
- 
 
 How cool is that?
 
@@ -144,7 +141,6 @@ Imagine being able to pursue your current passions and to be doing them [wheneve
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 ## The Cons 
 
 For us, the cons would include not having a reliable source of income and potentially reduced social life. If I were to pick the first thing to tackle, it would be the money. 
@@ -161,4 +157,4 @@ A life of sailing the high seas seemed like a very real and very sustainable pos
 
 For the past couple of years, The Lonely Island channel has been featured in our car and each time "I'm on a boat" comes on, I crank it up! 
 
-{% include responsive-embed url="https://www.youtube.com/embed?v=avaSdC0QOUM" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/avaSdC0QOUM" ratio="16:9" %}
