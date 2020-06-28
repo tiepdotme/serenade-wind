@@ -5,7 +5,7 @@
     {% assign caption_class = "" %}
     {% assign img_caption = pwimg %}
 {%- endif -%}
-{%- if pwpng and pwpng != "" -%}
+{%- if pwpng == "true" -%}
     {% assign fileExt = ".png" %}
 {%- else -%}
     {% assign fileExt = ".jpg" %}

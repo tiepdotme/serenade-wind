@@ -84,7 +84,6 @@ blockquote {
     color: $text-color;
     padding:0;
     margin:0;
-    display:inline-block;
     text-decoration:none;
     border-bottom:1px dashed $text-color;
     text-shadow: 2px 2px 3px black;
@@ -211,7 +210,7 @@ blockquote {
 
   li {
     ol {
-      background-color: $background-color;
+      
     }
 
     a {

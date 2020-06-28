@@ -1,33 +1,44 @@
 {%- if include.gallery -%}
-<section class="post-image-gallery">
-
+  {%- if include.gallery.type != 'static' -%} 
+      {% assign sectionClass = "post-image-gallery enlarge-lightbox" %}
+    {%- else -%}
+      {% assign sectionClass = "post-image-gallery" %}
+  {%- endif -%}
+<section class="{{ sectionClass }}">
 {%- if include.gallery.title -%}
 	<div class="title"> {{include.gallery.title}} </div>
 {%- endif -%}
-
 {%- if include.gallery.description -%}
 	<div class="description">{{include.gallery.description}}</div>
 {%- endif -%}
 
-<ul>
+{%- if include.gallery.type == 'static' -%}
+	{% assign imgPath = "thumbs" %}
+{%- else -%}
+	{% assign imgPath = "small" %}
+{%- endif -%}
+		<ul>
 {%- if jekyll.environment == "development" -%}
     {% assign imgDomain = "/images" %}
 {%- else -%}
     {% assign imgDomain = "https://slocum.surge.sh" %}
 {%- endif -%}
-
+{% assign lightboxAttr= "" %}
 	{%- for pic in include.gallery.pictures -%}
 		{% assign pwimg = pic.filename %}
 		{% assign fileExt = pic.extension %}
-<li>	
-<figure class="gallery-image page-image-lightbox">
-	<picture>	
-		<img srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" data-lity data-lity-target="{{imgDomain}}/xlarge/{{ pwimg }}{{fileExt}}" alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}">
-	</picture>
-	<figcaption>{{pic.caption}}</figcaption>
-</figure>
-</li>
+		{%- if include.gallery.type == nil -%}
+			{% assign lightboxAttr= " data-lity data-lity-target='" | append:imgDomain| append: "/xlarge/" | append: pwimg | append: fileExt | append: "'" %}
+		{%- endif -%}
+      <li>	
+        <figure class="gallery-image page-image-lightbox">
+        	<picture>	
+        		<img srcset="{{imgDomain}}/{{ imgPath }}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/{{ imgPath }}/{{ pwimg }}_2x{{fileExt}} 2x"  alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}" {{lightboxAttr}}>
+        	</picture>
+        	<figcaption>{{pic.caption}}</figcaption>
+        </figure>
+      </li>
 	{%- endfor -%}	
-</ul>
-</section>
+    </ul>
+  </section>
 {%- endif -%}

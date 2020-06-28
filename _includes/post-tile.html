@@ -7,7 +7,9 @@
   {%- assign title = entry.title -%}
 {%- endif -%}
     <li>
+    {%- if ribbon-color -%}
      <div class="ribbon"><span class={{ribbon-color}}>{{ribbon-text}}</span></div>
+    {%- endif -%}
       <figure>
         {%- if entry.image.thumbnail -%}
           {%- assign entry_image = entry.image.thumbnail -%}
@@ -31,7 +33,7 @@
         {%- if site.read_time -%}{%- include read-time.html -%}{%- endif -%}
         {%- if entry.date -%}{%- include entry-date.html -%}{%- endif -%}
 {%- endif -%}
-      {%- if entry.excerpt -%}
+      {%- if entry.excerpt and include.description!= "hide" -%}
         {{ entry.excerpt | markdownify }}
       {%- endif -%}
     </li>

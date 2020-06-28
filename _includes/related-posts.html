@@ -1,0 +1,18 @@
+<section class="related-posts">
+  	<ul>
+{%- if include.type == "tag" -%}
+	{%- for entry in site.tags[include.value] -%}
+		{%- if page.title != entry.title -%}
+			{% include post-tile.html description="hide" %}
+		{%- endif -%}
+	{%- endfor -%}
+{%- endif -%}
+{%- if include.type == "category" -%}
+	{%- for entry in site.categories[include.value] -%}
+		{%- if page.title != entry.title -%}
+			{% include post-tile.html description="hide" %}
+		{%- endif -%}
+	{%- endfor -%}
+{%- endif -%}
+	</ul>
+</section>
