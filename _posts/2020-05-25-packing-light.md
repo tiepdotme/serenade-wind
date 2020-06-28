@@ -138,7 +138,7 @@ All of a sudden, I was done and packing light became a reality.
 
 # Food for Thought
 
-When this experiment was near complete, I showed Andrew the approach and he was excited equally enthusiastic about the results. He then threw in the potential for taking more items if we were to vacuum seal some of the items from the "maybe" pile so that we wouldn't wont for more.
+When this experiment was near complete, I showed Andrew the approach and he was equally enthusiastic about the results. He then threw in the potential for taking more items if we were to vacuum seal some of the items from the "maybe" pile so that we wouldn't wont for more.
 
 This is one of the many examples of the "battle of the givers." I found a way to become at peace with less and he gave me a way to take more and not feel quite as much sacrifice. Rather than packing light, I would then be packing medium... at least until we arrive and assess what additional storage could really be found.
 

@@ -61,6 +61,8 @@ I give myself this gift of time. To go into the proverbial (or actual) wildernes
 
 Susan Cain, the author of Quiet: [The Power of Introverts](https://www.youtube.com/watch?v=c0KYU2j0TM4 "The Power of Introverts") in a World That Can’t Stop Talking, is an introvert. So as she gets up to present from the TED2012 stage, bag in hand, it is not a comfortable experience. But it’s an important one, and that’s the point.
 
+{% include responsive-embed url="https://www.youtube.com/embed/c0KYU2j0TM4" ratio="16:9" %}
+
 # Selectively Social Theme
 
 The voyager's journey is one that is in pursuit of these quiet moments of introspection. The theme of being selectively social is echoed in the following stories:

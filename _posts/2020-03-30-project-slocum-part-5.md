@@ -95,10 +95,9 @@ Then we had a closer look at the dock.
 Based on the angle of the collapsed dock, it now made sense why the fall sent Bill deeper into the water than for me. He stood at the longest arc of the collapse. I stood at the shortest end. So while we both fell, he had a longer ways to go given the momentum and distance travelled.
 
 {% assign pwimg="denise-bill-damages" %}
-{% assign pwcaption="Bill looked pissed while I was mugging for the camera. Eventually, I was able to muster a pout, but at that point we gave up coordinating our expressions." %}
+{% assign pwcaption="Bill and Denise" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 Bill looked pissed while I was mugging for the camera. Eventually, I was able to muster a pout, but at that point we gave up coordinating our expressions.
 

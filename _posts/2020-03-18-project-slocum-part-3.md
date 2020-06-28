@@ -33,7 +33,7 @@ In Project Slocum Part 3 of 5, we provide updates on a few different topics sinc
 
 # The Voyager's Handbook
 
-A few days ago, we began to read this 500+ page book by Beth Leonard.  Ryan & Sophie Sailing  recommended the book, saying that it can be found in almost every blue-water cruiser's bookshelf. Based on this, we decided to purchase the second edition.
+A few days ago, we began to read this 500+ page book by Beth Leonard. [Ryan & Sophie Sailing](https://www.youtube.com/channel/UCeB8v6Yo60cTcmRUilSVZhA)  recommended the book, saying that it can be found in almost every blue-water cruiser's bookshelf. Based on this, we decided to purchase the second edition.
 
 So far, I have read through 4 chapters, and the book has lived up to its endorsement. Here are some highlights that resonated with me:
 
@@ -119,7 +119,7 @@ With full confidence on both sides of the coast, we agreed to meet at our hotel 
 
 The entire world is hyper-focused on COVID-19. While that has everyone's attention, one begins to wonder: where are our blindspots? What are we not paying attention to that might come back to bite us? With those thoughts now issued into the universe, no doubt answers will play out.
 
-At the same time, the pandemic we all face today brings to stark relief the same considerations Andrew and I made over 2 years ago when we first put up the  whiteboard . We considered all the stressors that we could face in the future. While pandemic was not listed, our answer to this is no different than our answer to all the other stressors.
+At the same time, the pandemic we all face today brings to stark relief the same considerations Andrew and I made over 2 years ago when we first put up the [whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/). We considered all the stressors that we could face in the future. While pandemic was not listed, our answer to this is no different than our answer to all the other stressors.
 
 We have faith in ourselves and in each other to figure it out. Unlike the majority of our peers, we decided to focus inward for the solutions. Rather than stockpile, close the doors and hunker down, we are venturing forth into the world without fear and accepting fate. If anything, COVID-19 is a reminder that life is too short. We only have one shot at it. Why piss it away on the daily grind? 
 

@@ -1,6 +1,6 @@
 ---
 id: 10
-title: Going with the FLow
+title: Going with the Flow
 date: 2020-03-01T16:20:12+00:00
 guid: https://www.serenadewind.com/posts/going-with-the-flow/
 permalink: /posts/going-with-the-flow/
@@ -105,7 +105,7 @@ What are 3 slippery behaviors that are outside of my value?
 - Using an argument for efficiency as a crutch
 - Ego-driven desire to be right or correct
 
-When it comes to this transition, the way integrity shows up is in my planning and being prepared. It will however be challenged as even best-conceived plans will go awry when weather patterns change. I can either having an internal fight about the implication of not being able to follow-through on time, or let it go. When there are forces greater than me at work, I will concede.
+When it comes to this transition, the way integrity shows up is in my planning and being prepared. It will however be challenged as even best-conceived plans will go awry when weather patterns change. I can either have an internal fight about the implication of not being able to follow-through on time, or let it go. When there are forces greater than me at work, I will concede.
 
 As for curiosity, this new adventure will certainly unleash many opportunities to explore and to grow. Whether it is learning the nitty gritty of launching a website (coding, SEO, content strategy, etc.) to learning diesel mechanics or a new language, the only limitation I have ahead of me is time and figuring out how to prioritize all of these new activities.
 

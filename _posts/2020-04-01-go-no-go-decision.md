@@ -185,10 +185,10 @@ In today's cooking experiment, we are using a pressure cooker made by Cuchen. We
 
 Now when we translate this into boat living, the practicality is that we'll be running the Lugger engine for an hour each day. During that time, the Lugger will be:
 
-powering up the water-maker to top off our water supply
-restoring the freezer/refrigerator to its optimal temperature
-topping off batteries to the max capacity
-cooking a delicious meal (45-minute braised ribs)
+- powering up the water-maker to top off our water supply
+- restoring the freezer/refrigerator to its optimal temperature
+- topping off batteries to the max capacity
+- cooking a delicious meal (45-minute braised ribs)
 
 That is pretty damn efficient!
 

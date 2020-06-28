@@ -27,7 +27,7 @@ Before delving into today's blog post which originated mid-April, I wanted to dr
 
 There's a tremendous about of rhetoric around black lives matter following the [tragedies](https://www.vox.com/2020/6/12/21285244/black-lives-matter-global-protests-george-floyd-uk-belgium) of George Floyd, Breonna Taylor, Collins Khosa, Adama Traore and Belly Mujinga as hundreds of thousands have taken to the streets in Brussels, London, Rio de Janeiro, Seoul, Sydney, and across the U.S.
 
-In light of recent events, I am drawn to the word "privilege" since it is echoed throughout this blogpost. What does privilege mean among race, gender or gender identity, birth order, education, religion, income level, ethnic background, body type and other groupings including yacht clubs? Thanks to [Peggy McIntosh](https://www.ted.com/talks/peggy_mcintosh_how_to_recognize_your_white_privilege_and_use_it_to_fight_inequality?language=en), I am reminded of what it means to have privilege and how you can use the privilege you have to fight for equity.
+In light of recent events, I am drawn to the word "privilege" since it is echoed throughout this blogpost. What does privilege mean among race, gender or gender identity, birth order, education, religion, income level, ethnic background, body type and other groupings including yacht clubs? Thanks to [Peggy McIntosh](https://www.ted.com/talks/peggy_mcintosh_how_to_recognize_your_white_privilege_and_use_it_to_fight_inequality?language=en "How to recognize your white privilege"), I am reminded of what it means to have privilege and how you can use the privilege you have to fight for equity.
 
 [How privileged are you?](https://www.buzzfeed.com/regajha/how-privileged-are-you) We all have a combination of unearned advantages and unearned disadvantages in life. And it changes minute by minute, depending on where we are, who we’re seeing, or what we’re required to do. So it is when we travel the world, we'll introduce ourselves to different cultures and engage in interactions that allow us to see humanity in all of its variations and forms. 
 
@@ -122,11 +122,7 @@ Ever since Bill planted the idea in our heads, we have popped onto the [RYCT Fac
 
 We have also taken to watching footage of the [2019 Sydney to Hobart](https://www.youtube.com/watch?v=ueVM-6PuHr0) race, though I do keep falling asleep before they arrive in Hobart. This historic 75th race was particularly slow-going at the end, as the winds dropped to 2 knots, and it took forever before Comanche would cross the finish line. I'm sure it was more agonizing for the sailors!
 
-Meanwhile, the RYCT board met on April 28th and our application was tabled for consideration. In the ensuing month, our application is displayed on the Club's notice board for member review. Nominations are ratified at the next Board Meeting if there are no objections. That meeting took place May 29th, however since notice occurs via overseas regular mail, we won't know for another month what the results are.
-
-In the meantime, we have kept ourselves preoccupied with other preparations such as downsizing all our personal belongings ([30-weeks to Minimalism](https://serenadewind.com/posts/30-weeks-to-minimalism/)) to get ready for our move to Florida.
-
-If you're curious, check back here to find out the results.
+Meanwhile, the RYCT board met on April 28th and our application was tabled for consideration. In the ensuing month, our application is displayed on the Club’s notice board for member review. Nominations are ratified at the next Board Meeting if there are no objections. That meeting took place May 29th, and we were officially made members!
 
 {% assign pwimg="ryct-still-water" %}
 {% assign pwcaption="Photo courtesy of RYCT" %}

@@ -92,9 +92,8 @@ That works in business. Can it work in our personal lives too?
 Perhaps the broader issue is this: I tend to have an affinity for closure and he tends to be comfortable with ambiguity. Acknowledging this was the first step to settling the emotions of the discussion.
 
 In the end, we agreed to stay the course we laid out. We are still very much constrained by time, and so we will continue to focus on our strategy. If you have seen the movie [Chasing Amy](http://www.dailyscript.com/scripts/chasing_amy.html "Chasing Amy"), I liken our strategy to Alyssa's approach rather than Holden's approach.
-
-Alyssa winds up with another dart.  Holden watches. Her's always hit. His never do.
-
+ 
+                                
                                 ALYSSA
                         So your new book seems to be selling 
                         like mad.

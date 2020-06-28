@@ -30,13 +30,13 @@ excerpt: Although we are still in the eye of the storm, it feels like we are abo
 
 # Old Whiteboard
 
-About a week ago, I glanced at the  Whiteboard  that we had set up in the summer of 2018 and revisited again in the fall of 2019. As I scanned through each of the stickies, - from discussion topic to parking lot to short term goals - a realization began to bubble up within me. I know we're not out of this yet. We are in the midst of the eye of the storm, but it feels fair weather is coming our way.
+About a week ago, I glanced at the [Whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/) that we had set up in the summer of 2018 and revisited again in the fall of 2019. As I scanned through each of the stickies, - from discussion topic to parking lot to short term goals - a realization began to bubble up within me. I know we're not out of this yet. We are in the midst of the eye of the storm, but it feels fair weather is coming our way.
 
 These ideas that we had once sent out in 2018 and which were swirling around in the universe - without any assigned timeline or specific plan, without any judgment or apology, without any editing or justification - somehow we managed to make progress on each and every one of them. Whether working at a subconscious level and eventually making its way to the conscious level, each idea had been given some level of focus by us.
 
 Some had pretty intense working sessions (e.g., buy a boat, balanced life, living budget). Others seemed to take shape as a side-effect of other activities or decisions (e.g., deciding to quit my job means reducing commute time and increasing time together).
 
-Another example is our desire to live in another country. We were both excited by the Sirius 40DS after seeing her for the first time at the [Boot show]. We later discovered that the Sirius boatyard provides opportunities to apprentice. All of a sudden, we now have a very real and practical destination to play out this idea in the near future. Whether by luck or by fate - we can declare some progress on one of our goals.
+Another example is our desire to live in another country. We were both excited by the Sirius 40DS after seeing her for the first time at the [Boot show](https://www.serenadewind.com/posts/boot-2020/). We later discovered that the Sirius boatyard provides opportunities to apprentice. All of a sudden, we now have a very real and practical destination to play out this idea in the near future. Whether by luck or by fate - we can declare some progress on one of our goals.
 
 {% assign pwimg="new-whiteboard" %}
 {% assign pwcaption="" %}
@@ -50,16 +50,15 @@ Today, I wiped the Whiteboard completely clean.
 
 In part, a clean whiteboard can now be used as a blank space to develop more specific plans for the near future. It seems fitting that - as we are presumably in the eye of a storm, so to speak - we have an opportunity to regroup and come up with more detail around tactics, timing and execution of our plans.
 
-Forever the saver and archivist (a trait I inherited from my mom), I did transfer the information to a [Bullet Journal]. Until a couple days ago, I hadn’t known anything about the BuJo phenomenon. It started back in 2018 with the tagline,
+Forever the saver and archivist (a trait I inherited from my mom), I did transfer the information to a [Bullet Journal](https://bulletjournal.com/). Until a couple days ago, I hadn’t known anything about the BuJo phenomenon. It started back in 2018 with the tagline,
 
 >Track the Past, Order the Present, Design the Future.
 
 # Featured Video
 
-Last year, I discovered the [Pick Up Limes] youtube channel via pinterest when a video on [DIY long layers cut](https://www.youtube.com/watch?v=xNzZqVUl28E "DIY Long layers cut") was posted. I love Sadia's videos and once again, I found something useful in how she set up her own bullet journal.
+Last year, I discovered the [Pick Up Limes](https://www.pickuplimes.com/)  youtube channel via pinterest when a video on [DIY long layers cut](https://www.youtube.com/watch?v=xNzZqVUl28E "DIY Long layers cut") was posted. I love Sadia's videos and once again, I found something useful in how she set up her own bullet journal.
 
-insert vid 
-
+{% include responsive-embed url="https://www.youtube.com/embed/xNzZqVUl28E" ratio="16:9" %}
 
 Given that I’ll be leaving my corporate life behind in a couple weeks, I thought it made a lot of sense to start thinking about how I want to organize my time. [Pick Up Limes](https://www.youtube.com/watch?v=xNzZqVUl28E "Pick Up Limes") was my first glimpse into this type of journaling, and I must say that what I saw piqued my interest.
 

@@ -42,8 +42,8 @@ While we were at [Boot](https://www.serenadewind.com/posts/boot-2020/ "Boot 2020
 
 For a few reasons, we are skeptical that an all-electric boat is in the cards for us right now:
 
--   Marine environment is not forgiving for batteries.
 -   Electric power is a less efficient way to move.
+-   Near impossible to motorsail for long in high latitudes.
 -   Unproven economics.
 
 Since we are already jumping into a new lifestyle, we thought it probably wise to not overcomplicate the transition by taking on this particular unknown. To us, sailing will bring us a life of adventure, and it will also bring us closer to nature as we witness that our choices will make a direct impact on the world around us.
