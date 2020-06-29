@@ -26,15 +26,14 @@ excerpt:   We took a hard look at how we were spending our time each week. While
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/amcharts.js"></script>
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/pie.js"></script>
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/themes/light.js"></script>
-<script src="{{ base.url | prepend: site.url }}/assets/js/white-board-chart.js"></script>
+<script src="/assets/js/white-board-chart.js"></script>
 
 {% include toc %}
+
 {% assign pwimg="vehicles-on-road" %}
 {% assign pwcaption="The hectic life we all live" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
-
 
 # Aug. 2018
 
@@ -50,7 +49,7 @@ Sound familiar?
 
 If you really break down how you spend your time in a given week, it may look something similar to the chart here.
 
-<div id="chartdiv" style="width: 100%; height: 600px;"></div>
+<div id="chartdiv" style="width: 100%; height: 300px;"></div>
 
 We took a hard look at this distribution of time. While we didn’t like the reality we were living, we also saw this as an opportunity to not be complacent. So, we spent a few hours on a sunny Sunday morning challenging ourselves with the following questions:
 

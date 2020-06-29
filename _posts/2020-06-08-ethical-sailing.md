@@ -24,7 +24,7 @@ excerpt: A couple months ago, we decided to experiment with ways to go green. Fo
 ---
 {% include toc %}
 
-A couple months ago, we decided to experiment with ways to [go green](https://serenadewind.com/posts/going-green/). For us this means, living deliberately and raising our awareness about how we impact the world around us. Here are a few updates on our progress towards ethical sailing.
+A couple months ago, we decided to experiment with ways to [go green](/posts/going-green/). For us this means, living deliberately and raising our awareness about how we impact the world around us. Here are a few updates on our progress towards ethical sailing.
 
 Happy [World Oceans Day](https://worldoceansday.org/)!
 
@@ -46,7 +46,7 @@ As the quest for going green continues. I came across a great resource [Sailors 
 
 The site also provides recipes for making your own cleaning products with lemon juice, vinegar, baking soda, and salt.
 
-Learning about topics like this gets me more excited to move aboard. In the meantime, we may give these DIY solutions a try while we are still on land. Much like our [water water everywhere](https://serenadewind.com/posts/water-water-everywhere/) experiment, we'll test out commercial and DIY solutions in a future post.
+Learning about topics like this gets me more excited to move aboard. In the meantime, we may give these DIY solutions a try while we are still on land. Much like our [water water everywhere](/posts/water-water-everywhere/) experiment, we'll test out commercial and DIY solutions in a future post.
 
 {% assign pwimg="powermint" %}
 {% assign pwcaption="" %}

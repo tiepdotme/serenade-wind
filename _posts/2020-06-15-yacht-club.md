@@ -134,7 +134,7 @@ Meanwhile, the RYCT board met on April 28th and our application was tabled for c
 
 The rest of our sailing plans for 2020 will find us in the Caribbean in December and early 2021. Beyond that, we are looking ahead to cross the Panama Canal and head across the Pacific to the [Marquesas Islands](https://www.yachtingworld.com/cruising/how-to-sail-across-the-pacific-119196) in French Polynesia,
 
-As intrigued as we are about the stories told by Bill and his wife when they rounded [Cape Horn](https://serenadewind.com/posts/project-slocum-part-4/), we will likely attempt that on the next circumnavigation. In the 2021/22 season, we will have our sights on sailing to Tasmania to pour a whiskey cocktail for Hugh... perhaps [The Andrew](https://serenadewind.com/posts/happy-birthday/) , a cocktail that was named after Serenade Wind's captain.
+As intrigued as we are about the stories told by Bill and his wife when they rounded [Cape Horn](/posts/project-slocum-part-4/), we will likely attempt that on the next circumnavigation. In the 2021/22 season, we will have our sights on sailing to Tasmania to pour a whiskey cocktail for Hugh... perhaps [The Andrew](/posts/happy-birthday/) , a cocktail that was named after Serenade Wind's captain.
 
 
 {% assign pwimg="ryct-hms-australia" %}

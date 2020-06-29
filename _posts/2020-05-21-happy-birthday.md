@@ -46,7 +46,7 @@ The first surprise will come in the form of something chocolatey, for what bette
 
 Over the years, this dessert made quite a few appearances at family gatherings as well as office potlucks.
 
-In our house, the pantry is always stocked with Valrohna chocolate, Mochiko rice flour, and cans of coconut milk and evaporated milk (as written up in  [Canned Food Recipes](https://serenadewind.com/posts/canned-food-recipes/ "Canned Food Recipes")). Ironically, each time when I begin to assemble the ingredients, I revisit a few different recipes because no single one of them does the trick.
+In our house, the pantry is always stocked with Valrohna chocolate, Mochiko rice flour, and cans of coconut milk and evaporated milk (as written up in  [Canned Food Recipes](/posts/canned-food-recipes/ "Canned Food Recipes")). Ironically, each time when I begin to assemble the ingredients, I revisit a few different recipes because no single one of them does the trick.
 
 For example, one recipe from  [FoodGal](https://www.foodgal.com/2015/04/meet-chocolate-butter-mochi-your-new-bff/ "Food Gal's Chocolate Mochi")  needs to be scaled up to a full box of Mochiko rice flour, however it lacks the rise and fluffiness that I like. In another recipe from  [Epicurious](https://www.epicurious.com/recipes/food/views/sweet-rice-flour-and-coconut-cake-232024 "Epicurious Butter Mochi"), the result has the fluffiness, but uses 2 cans of coconut milk, and it doesn’t factor the additional liquid introduced by chocolate, etc.
 
@@ -107,7 +107,7 @@ Speaking of bourbon…
 
 # The Andrew
 
-As we first wrote about in [the Project Slocum series](https://serenadewind.com/posts/project-slocum-part-5/ "Project Slocum Part 5"), here is the story of how Andrew has a cocktail named after him.
+As we first wrote about in [the Project Slocum series](/posts/project-slocum-part-5/ "Project Slocum Part 5"), here is the story of how Andrew has a cocktail named after him.
 
 We have spent quite a few evenings at our favorite gastropub [Side Door](https://www.lawrysonline.com/sidedoor-corona-del-mar/ "Side Door in Corona del Mar")  in Corona del Mar. We love this place for a few reasons, such as:
 
@@ -140,7 +140,7 @@ When dining in establishments is permitted once again, I highly encourage that y
 
 # Early retirement = happy birthday
 
-Earlier this year as we were planning the phases of this transition, we agreed that I would quit my job first. Because I was [pinballing](https://serenadewind.com/posts/past-present-and-future/) quite a bit about this transition, Andrew did not commit to a timeline. He wanted to be 100% focused on helping me.
+Earlier this year as we were planning the phases of this transition, we agreed that I would quit my job first. Because I was [pinballing](/posts/past-present-and-future/) quite a bit about this transition, Andrew did not commit to a timeline. He wanted to be 100% focused on helping me.
 
 I joked to him that it would be awesome if he quit before his next birthday for the following reasons:
 
@@ -162,7 +162,7 @@ And so the waiting continues…
 
 ## Updated May 28, 2020
 
-Today, we received the package in the mail which was sent from Australia. We’ll describe a little more about this in our [yacht club](https://serenadewind.com/posts/yacht-club/) blog post, but for now here’s a preview of the gift:
+Today, we received the package in the mail which was sent from Australia. We’ll describe a little more about this in our [yacht club](/posts/yacht-club/) blog post, but for now here’s a preview of the gift:
 
 {% assign pwimg="ryct-both-yachties" %}
 {% assign pwcaption="Officially yachties!" %}
@@ -173,7 +173,7 @@ Today, we received the package in the mail which was sent from Australia. We’l
 
 In our relationship, we celebrate each other in little ways and often with tasty food. Andrew has commented a few times that he had no idea when we became a couple what a fatty he married. Apparently, my metabolism had him fooled. I suppose it makes perfect sense considering I was named after [Dionysus](https://greekgodsandgoddesses.net/gods/dionysus/).
 
-This week to celebrate [opening escrow on RJ Slocum](https://serenadewind.com/posts/project-slocum-update/), we ordered curbside pickup from our favorite gastropub [Side Door](https://www.lawrysonline.com/our-commitment-to-you-during-covid-19-5/). While it isn’t the same as when we dine in on their cozy couches, by the fireplace or outside in their patio, we had a nice picnic overlooking the ocean in Corona del Mar.
+This week to celebrate [opening escrow on RJ Slocum](/posts/project-slocum-update/), we ordered curbside pickup from our favorite gastropub [Side Door](https://www.lawrysonline.com/our-commitment-to-you-during-covid-19-5/). While it isn’t the same as when we dine in on their cozy couches, by the fireplace or outside in their patio, we had a nice picnic overlooking the ocean in Corona del Mar.
 
 > Happy birthday, baby!
 > 

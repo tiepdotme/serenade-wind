@@ -29,7 +29,7 @@ excerpt: For those curious, here is a Project Slocum update. We scraped all our 
 
 While we usually publish twice a week (on Mondays and Thursdays), we thought we would announce a little bit of news. For those curious, here is a Project Slocum update since our last post on April 1st.
 
-[Six weeks ago](https://serenadewind.com/posts/every-6-weeks/), we came back from our boat purchase trip to Ft Lauderdale and faced a [go/no-go decision](https://serenadewind.com/posts/go-no-go-decision/). Due to coronavirus and many states beginning to lock down, we and Bill mutually agreed to put the sale on hold.
+[Six weeks ago](/posts/every-6-weeks/), we came back from our boat purchase trip to Ft Lauderdale and faced a [go/no-go decision](/posts/go-no-go-decision/). Due to coronavirus and many states beginning to lock down, we and Bill mutually agreed to put the sale on hold.
 
 So what has changed?
 
@@ -81,7 +81,7 @@ Andrew’s happiness over this next step seems to stem from the subconscious bel
 
 ## Glass half full or half empty
 
-We mentioned this before when we first decided to [sail around the world](https://serenadewind.com/posts/sailing-around-the-world/ "sail around the world"). On our [whiteboard](https://serenadewind.com/posts/life-reset-on-whiteboard/ "whiteboard"), we sketched out a plan. Over the course of a year, that whiteboard was a disappointing reminder to Andrew about the lack of progress we made. It wasn’t to me. I looked at the whiteboard with _optimism_ about what steps needed to be taken for us to transform our lives.
+We mentioned this before when we first decided to [sail around the world](/posts/sailing-around-the-world/ "sail around the world"). On our [whiteboard](/posts/life-reset-on-whiteboard/ "whiteboard"), we sketched out a plan. Over the course of a year, that whiteboard was a disappointing reminder to Andrew about the lack of progress we made. It wasn’t to me. I looked at the whiteboard with _optimism_ about what steps needed to be taken for us to transform our lives.
 
 The past day is a reminder of how Andrew and I differ in our approach to the same goal. He will celebrate each positive step. I will take each step in stride as a natural course of things.
 
@@ -102,7 +102,7 @@ We spent Saturday in [Malibu Creek State Park](https://www.mountainproject.com/a
 
 On Sunday, Andrew provided his edits and we revised the purchase agreement with his changes. This version was sent to Bill for review and comment.
 
-Yesterday, we scraped all our pennies together and placed our security deposit on [RJ Slocum](https://serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/). We are officially in escrow! This marks a pivotal step in becoming a boat owner.
+Yesterday, we scraped all our pennies together and placed our security deposit on [RJ Slocum](/posts/when-first-we-saw-rachel-j-slocum/). We are officially in escrow! This marks a pivotal step in becoming a boat owner.
 
 It’s time to celebrate!
 

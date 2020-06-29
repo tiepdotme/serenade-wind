@@ -32,7 +32,7 @@ excerpt: Sailing around the world is bringing your home wherever you travel. To 
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-In today's story, we follow-up our [whiteboard discussion](https://serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") and describe how we went about deciding to turn our life upside down to go sailing around the world. During a pivotal Sunday morning session in October, 2019, we chose to combine the following post-it notes to begin our discussion...
+In today's story, we follow-up our [whiteboard discussion](/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") and describe how we went about deciding to turn our life upside down to go sailing around the world. During a pivotal Sunday morning session in October, 2019, we chose to combine the following post-it notes to begin our discussion...
 
 # Stickies
 

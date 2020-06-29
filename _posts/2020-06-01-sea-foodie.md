@@ -31,7 +31,7 @@ excerpt: In the 4th part of our 30-weeks to minimalism series, we tackle the ga
 
 # Sea Foodie
 
-In the 4th part of our [30-weeks to minimalism](https://serenadewind.com/posts/30-weeks-to-minimalism/) series, we tackle the galley. Once again, we will need to think critically about what items are used daily and can still serve us in the future aboard a sailboat. Being a foodie (and now a "sea foodie") makes this a greater challenge, as we have accumulated many tools and equipment to make our lives easier when it comes to preparing delicious meals and entertaining guests. For example, I don't think the sous vide will be coming along nor the German crystal stemware or the Turkish wine flask or the French hand-blown glasses...
+In the 4th part of our [30-weeks to minimalism](/posts/30-weeks-to-minimalism/) series, we tackle the galley. Once again, we will need to think critically about what items are used daily and can still serve us in the future aboard a sailboat. Being a foodie (and now a "sea foodie") makes this a greater challenge, as we have accumulated many tools and equipment to make our lives easier when it comes to preparing delicious meals and entertaining guests. For example, I don't think the sous vide will be coming along nor the German crystal stemware or the Turkish wine flask or the French hand-blown glasses...
 
 The list goes on and on.
 
@@ -99,4 +99,4 @@ So once again, I will turn to examples from cruisers who are willing to share th
 -   Lin and Larry Pardey - [Care and Feeding of Sailing Crew](https://www.amazon.com/Care-Feeding-Sailing-Crew-Pardey/dp/1929214340)
 -   Beth Leonard - [The Voyager's Handbook](https://www.amazon.com/Voyagers-Handbook-Essential-Guide-Cruising/dp/0071437657) - once again helps us to select what are "must have" versus "nice to have"
 
-As for provisions aboard RJ Slocum, there are two deep pantry drawers measuring 12" width x 31" depth x 12.5" height, for about 5.3 cubic feet of space. We will tackle this subject in more detail in our upcoming post on [Canned Food Recipes](https://serenadewind.com/posts/canned-food-recipes/) where we explore culinary adventures in pantry meals, thus embracing all things sea foodie.
+As for provisions aboard RJ Slocum, there are two deep pantry drawers measuring 12" width x 31" depth x 12.5" height, for about 5.3 cubic feet of space. We will tackle this subject in more detail in our upcoming post on [Canned Food Recipes](/posts/canned-food-recipes/) where we explore culinary adventures in pantry meals, thus embracing all things sea foodie.

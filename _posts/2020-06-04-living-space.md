@@ -27,7 +27,7 @@ excerpt: In part 5, we conclude our downsizing process that began with 30-weeks 
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-In the final part of our tour of s/v Rachel J Slocum's interior, we conclude the downsizing process that began with [30-weeks to minimalism](https://serenadewind.com/posts/30-weeks-to-minimalism/). When it comes to the rest of the living space aboard s/v Rachel J Slocum, we will bring the "bear minimum" aboard because we need to leave room for spares. And we have no idea where Bill has the spares stored or how much if it is there is!
+In the final part of our tour of s/v Rachel J Slocum's interior, we conclude the downsizing process that began with [30-weeks to minimalism](/posts/30-weeks-to-minimalism/). When it comes to the rest of the living space aboard s/v Rachel J Slocum, we will bring the "bear minimum" aboard because we need to leave room for spares. And we have no idea where Bill has the spares stored or how much if it is there is!
 
 That will be one of the priority tasks when we visit Ft Lauderdale again.
 

@@ -46,7 +46,7 @@ My pantry currently is stocked with the following:
 7.  Portuguese sardines
 8.  Pate
 
-That's it in the canned food category that I replenish with any frequency. The only reason for their existence is to serve as ingredients for identified recipes making: [Denise's ultimate chocolate mochi](https://serenadewind.com/posts/happy-birthday/) (1 & 2), [Taiwanese summer dessert](https://sotocooks.wordpress.com/2011/06/28/grass-jelly-lychee/) (3 & 4), [Momofuku braised short rib](https://www.gq.com/story/david-chang-short-ribs) (5), marinara sauce (6), and snacks (7 & 8).
+That's it in the canned food category that I replenish with any frequency. The only reason for their existence is to serve as ingredients for identified recipes making: [Denise's ultimate chocolate mochi](/posts/happy-birthday/) (1 & 2), [Taiwanese summer dessert](https://sotocooks.wordpress.com/2011/06/28/grass-jelly-lychee/) (3 & 4), [Momofuku braised short rib](https://www.gq.com/story/david-chang-short-ribs) (5), marinara sauce (6), and snacks (7 & 8).
 
 Cooking primarily with canned food is not really in my repertoire, so I have an opportunity to hone in this skill before we move aboard RJ Slocum.
 
@@ -196,7 +196,7 @@ I really wanted to bake a traditional Taiwanese pineapple cake, especially since
 
 Carrot cake was another option, except Andrew is generally not a fan. As for pineapple cocktails, I am over fruity drinks having consumed a few watermelon mojitos _each_ day (and every day) for the past couple weeks.
 
-Note: I will recycle and [upcycle](https://serenadewind.com/posts/upcycle-r-us/) ingredients until we've extracted every last ounce of nutrition. There's no waste in this household!
+Note: I will recycle and [upcycle](/posts/upcycle-r-us/) ingredients until we've extracted every last ounce of nutrition. There's no waste in this household!
 
 So, then I came across an interesting recipe from Saveur magazine. The [Spicy Pineapple Linzer Cookie](https://www.saveur.com/pineapple-linzer-cookie-recipe/) is an elevated cookie served at [Te Company](https://tecompanytea.com/) in New York City that pays homage to the Taiwanese pineapple cake.
 

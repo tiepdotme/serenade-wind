@@ -117,7 +117,7 @@ Andrew and I are letting all of that go. We want to redefine our relationship wi
 
 Andrew and I are embarking on a new adventure aboard s/v Rachel J. Slocum, where we are contemplating [self-sustaining](https://www.simplyss.com/blog/living-off-grid/ "Living Off Grid"), [minimalist](https://www.becomingminimalist.com/minimalist-living/ "Becoming Minimalist") living. 
 
-Beyond downsizing possessions, we also are [going green](https://serenadewind.com/posts/going-green/ "Going Green") by generating our own power (wind, solar, water) as well as making our own water (e.g., [SeaRecovery](http://www.searecovery.com/ "Sea Recovery") 30/gal hour hydraulic water maker) and mindful of [water conservation](https://serenadewind.com/posts/water-water-everywhere/ "Water water everywhere"), which is critical when we consider the type of sailing we’d like to do. It made sense to me to think about how this guiding principle can also help us to make a decision about how much money is enough and still be consistent with self-sustaining, minimalist living.
+Beyond downsizing possessions, we also are [going green](/posts/going-green/ "Going Green") by generating our own power (wind, solar, water) as well as making our own water (e.g., [SeaRecovery](http://www.searecovery.com/ "Sea Recovery") 30/gal hour hydraulic water maker) and mindful of [water conservation](/posts/water-water-everywhere/ "Water water everywhere"), which is critical when we consider the type of sailing we’d like to do. It made sense to me to think about how this guiding principle can also help us to make a decision about how much money is enough and still be consistent with self-sustaining, minimalist living.
 
 ## Living with Purpose
 
@@ -149,7 +149,7 @@ Over the past couple weeks, I have been helping my mom with some major financial
 
 About a month ago, one of her tenants moved out and this triggered the typical property management activity: move-out check list, touch-up painting, repairs, etc. At her age and especially during the coronavirus pandemic, it was worrisome having her interact with so many strangers (contractors, agents, buyers, etc.) As a result, I have been enlisted to help. 
 
-Beyond the logistics of helping to coordinate these interactions, I am emotionally present for my mom, providing an anchor for her as she makes these decisions. What strikes me most are the parallels that can be drawn between our lives, now that she is experiencing sleepless nights just as I did earlier this year (see [Support Local](https://serenadewind.com/posts/support-local/ "Support Local")) while she faces her own relationship with money. 
+Beyond the logistics of helping to coordinate these interactions, I am emotionally present for my mom, providing an anchor for her as she makes these decisions. What strikes me most are the parallels that can be drawn between our lives, now that she is experiencing sleepless nights just as I did earlier this year (see [Support Local](/posts/support-local/ "Support Local")) while she faces her own relationship with money. 
 
 We are working together to break a habit formed and reinforced for **over 70 years**, I am helping her to learn how to let go and have a different relationship with money. My parents worked to set up a financial nest egg for the future so that they wouldn’t have worries. I reminded her that the best way to honor her younger self is to try to not worry now. 
 

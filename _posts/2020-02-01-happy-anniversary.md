@@ -38,7 +38,7 @@ We spent the day pursuing our passions, beginning with a short session at the cl
 
 Rock climbing was something I had done once when I was in high school.
 
-Each year, from the graduating class, my AP chemistry teacher would take a handful of students to [Joshua Tree](https://serenadewind.com/posts/throw-back/ "Joshua Tree") for a weekend of trad climbing. As one of the lucky ones chosen before I left for college, to me it was a phenomenal experience: from car camping, learning to belay, and just goofing off.
+Each year, from the graduating class, my AP chemistry teacher would take a handful of students to [Joshua Tree](/posts/throw-back/ "Joshua Tree") for a weekend of trad climbing. As one of the lucky ones chosen before I left for college, to me it was a phenomenal experience: from car camping, learning to belay, and just goofing off.
 
 I could never look at a vertical face of a building, fence or tree the same again. I would look for toeholds and hand holds, where I could traverse, etc. Since that experience, I probably only went to a climbing gym a handful of times.
 
@@ -60,7 +60,7 @@ Andrew on the other hand had done quite a bit of mountaineering in the Pacific N
 
 The original idea was to go to a gym and work on building finger strength, overall body strength and techniques so that we would eventually do more of it outdoors.
 
-While we did finally go out a few times to [Ortega Falls](https://www.mountainproject.com/area/106002993/ortega-falls "Ortega Falls") for sport and trad routes and once to [Joshua Tree](https://serenadewind.com/posts/throw-back/ "Joshua Tree") for Andrew’s birthday, the reality was, we got used to the convenience of going to a gym. Going to the gym meant we can go about doing whatever else we needed to do on the weekend.
+While we did finally go out a few times to [Ortega Falls](https://www.mountainproject.com/area/106002993/ortega-falls "Ortega Falls") for sport and trad routes and once to [Joshua Tree](/posts/throw-back/ "Joshua Tree") for Andrew’s birthday, the reality was, we got used to the convenience of going to a gym. Going to the gym meant we can go about doing whatever else we needed to do on the weekend.
 
 With my early retirement coming up, I sense we will now be able to climb more outdoors and perhaps exclusively outdoors as we set sail around the world.
 

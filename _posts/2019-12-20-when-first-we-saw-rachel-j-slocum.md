@@ -205,7 +205,7 @@ She is “ready to go,” with nothing that needs to be upgraded or fixed.
 
 She’s a stunner. She’s bomb proof. And she checks all the boxes, but 50 feet!?! I was still intimidated that she might be too much boat for me. She's a schooner, which I have never sailed, and she has so much sail area and different configurations.
 
-It took some time to do our due diligence as you'll read in our [Project Slocum](https://serenadewind.com/posts/boat-purchase/ "Boat Purchase") series, but in the mean time she remained in the background of my mind as we plodded through work over the holidays and new year.
+It took some time to do our due diligence as you'll read in our [Project Slocum](/posts/boat-purchase/ "Boat Purchase") series, but in the mean time she remained in the background of my mind as we plodded through work over the holidays and new year.
 
 {% assign pwimg="9836" %}
 {% assign pwcaption="Aft Cabin" %}

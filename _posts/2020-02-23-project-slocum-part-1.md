@@ -25,7 +25,7 @@ excerpt: Project Slocum Part 1 - due diligence on buying a boat is much like buy
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-Project Slocum Part 1 of 5 in a series of write-ups on our boat purchase adventure. In December, we first came across sailing vessel [Rachel J. Slocum](https://serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "Rachel J Slocum"). Now in February, we can begin to take the next steps.
+Project Slocum Part 1 of 5 in a series of write-ups on our boat purchase adventure. In December, we first came across sailing vessel [Rachel J. Slocum](/posts/when-first-we-saw-rachel-j-slocum/ "Rachel J Slocum"). Now in February, we can begin to take the next steps.
 
 # s/v Rachel J. Slocum
 
@@ -123,7 +123,7 @@ This timeline will likely take place over the next 6 to 9 months as we likely do
 
 # Lessons Learned
 
-Over the past few months, we have read blogs of other couples who choose this lifestyle, and it seems like they pursue this goal at a breakneck speed (e.g., taking place in a month or two). Andrew and I want to take a less aggressive timeline to make this transition. We're in no particular rush, and if we lose this opportunity due to timing, then perhaps it wasn't meant to be, and we'll move on to Plan B ([Project Sirius](https://serenadewind.com/posts/boot-2020/ "Project Sirius")).
+Over the past few months, we have read blogs of other couples who choose this lifestyle, and it seems like they pursue this goal at a breakneck speed (e.g., taking place in a month or two). Andrew and I want to take a less aggressive timeline to make this transition. We're in no particular rush, and if we lose this opportunity due to timing, then perhaps it wasn't meant to be, and we'll move on to Plan B ([Project Sirius](/posts/boot-2020/ "Project Sirius")).
 
 The point in all of this is to enjoy the journey and not the destination. 
 

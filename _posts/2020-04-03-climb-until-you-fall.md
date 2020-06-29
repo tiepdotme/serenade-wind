@@ -32,7 +32,7 @@ excerpt: Climb until you fall is about dialing in sailing skills from a pro and 
 
 # I miss climbing
 
-While I am channelling all this new found time to write and to keep the brain working, I miss being on the wall, working projects, or practicing certain aspects like climb until you fall. Climbing helps to have a distraction especially when the news over the coronavirus pandemic can cause despair. We also have every intention of incorporating climbing into our sailing life, and it features later this year in our [2020 sailing plan](https://serenadewind.com/posts/2020-sailing-plan/ "Serenade Wind's 2020 Sailing Plan").
+While I am channelling all this new found time to write and to keep the brain working, I miss being on the wall, working projects, or practicing certain aspects like climb until you fall. Climbing helps to have a distraction especially when the news over the coronavirus pandemic can cause despair. We also have every intention of incorporating climbing into our sailing life, and it features later this year in our [2020 sailing plan](/posts/2020-sailing-plan/ "Serenade Wind's 2020 Sailing Plan").
 
 A few days ago, Ian from [SenderOne](https://www.senderoneclimbing.com/sna/ "SenderOne") called. It was unexpected. He and others from the climbing gym were reaching out to the community to see how we were holding up. It was a thoughtful gesture and also emblematic of the climbing community. We watch out for each other.
 
@@ -114,6 +114,6 @@ Having described this climbing concept, what would be its equivalent in sailing?
 
 Racing in the America's Cup on foiling catamarans is one example of balls out sailing. Our humble approach will be sailing on a yacht with a [wing keel](https://www.riggingdoctor.com/life-aboard/2016/9/14/wing-keels), designed by America's Cup [Dave Pedrick](https://www.pedrickyacht.com/) which will actually cause s/v Rachel J. Slocum to foil. This is just one of the new features about sailing that Andrew and I will be learning about. How does she sail into the wind with this feature?
 
-On our second day in Ft. Lauderdale, I was trying to get a handle on the 5 sails and various sail configurations on s/v Rachel J. Slocum, I asked Bill a generic question, "When you take her out of the harbor and want to put up her sails, which one do you let out first?" He replied, "It depends." I interpreted this to mean, I have a lot to learn about [sailing a schooner](https://serenadewind.com/posts/sailing/).
+On our second day in Ft. Lauderdale, I was trying to get a handle on the 5 sails and various sail configurations on s/v Rachel J. Slocum, I asked Bill a generic question, "When you take her out of the harbor and want to put up her sails, which one do you let out first?" He replied, "It depends." I interpreted this to mean, I have a lot to learn about [sailing a schooner](/posts/sailing/).
 
 Bill is the Tommy Caldwell of sailing, while Andrew and I are the amateurs. Once we get past the coronavirus pandemic and the curve flattens, we'll be learning Bill's [beta](https://www.rei.com/learn/expert-advice/rock-climbing-glossary.html) on this sailboat so we get our skills dialed in, not just on sail configurations but on all aspects of this beautiful boat and amazing adventure to sail around the world.

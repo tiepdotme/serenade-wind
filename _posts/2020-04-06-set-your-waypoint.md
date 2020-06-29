@@ -80,7 +80,7 @@ Whether going into the wilderness or carving out a little time on your own, this
 >
 >   I think it’s very healthy to spend time alone. You need to know how to be alone and not be defined by another person. ~ Oscar Wilde
 
-We elaborated on this as well in our post [Selectively Social](https://serenadewind.com/posts/selectively-social/ "Selectively Social").
+We elaborated on this as well in our post [Selectively Social](/posts/selectively-social/ "Selectively Social").
 
 {% assign pwimg="man-and-woman-sitting-on-sidewalk" %}
 {% assign pwcaption="" %}
@@ -94,7 +94,7 @@ We're all in this together. Why not make the most of it? Take some time out each
 
 > "Despair is a necessary and seasonal state of repair, a temporary healing absence, an internal physiological and psychological winter when our previous forms of participation in the world take a rest; it is a loss of horizon, it is the place we go when we do not want to be found in the same way anymore. We give up hope when certain particular wishes are no longer able to come true and despair is the time in which we both endure and heal, even when we have not yet found the new form of hope. ~ David Whyte
 
-Brainstorm about your future plans, as we did when we started this whole journey in our [Whiteboard](https://serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") post. Look at this collective moment in time to re-prioritize your life. We elaborated on this as well in our post [Project Slocum Part 3](https://serenadewind.com/posts/project-slocum-part-3/ "Project Slocum Part 3").
+Brainstorm about your future plans, as we did when we started this whole journey in our [Whiteboard](/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard") post. Look at this collective moment in time to re-prioritize your life. We elaborated on this as well in our post [Project Slocum Part 3](/posts/project-slocum-part-3/ "Project Slocum Part 3").
 
 {% assign pwimg="alone-autumn-mood-forest-cold-countryside" %}
 {% assign pwcaption="" %}
