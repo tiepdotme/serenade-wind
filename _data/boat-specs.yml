@@ -1,8 +1,218 @@
-hull:
-  - title: Hull Specs
-    description: description with paragraphs
-    body: enter multiple lines of data
+summary:
+  - title: Highlights of s/v Rachel J Slocum
+    description: >
+      <p>Custom Tanton-designed one-off ready-to-go world cruising staysail schooner</p>
+      <p>Rachel J. Slocum is a fast 8-knot cruiser in any wind and sea condition and at every point of sail. She has completed a world circumnavigation via Cape of Good Hope & Cape Horn, including fast crossings of the Pacific Ocean (seven times), Indian Ocean (twice) and Atlantic Ocean (twice). Everything works. No upgrades, repairs or tweaks necessary. This boat will get you to your destination quickly, safely, and in style.</p>
+    body: >
+      <p>Bullet-proof Kevlar hull</p>
+      <p>wing keel designed by Dave Pedrick (America’s Cup)</p> 
+      <p>All Spectra sails in excellent, or brand new, condition</p> 
+      <p>Harken headsail furlers & rigging, sta-lock fittings upper and lower</p> 
+      <p>Lugger engine with Max Prop</p> 
+      <p>ABS certified collision bulkhead</p> 
+      <p>110 and 220 VAC international electric setup with dual 160-amp alternators</p> 
+      <p>30 gallon/hour water maker</p> 
+      <p>Master stateroom bed tilts on thrusters</p> 
+      <p>Fleet 250 broadband communications, 48-mile radar</p> 
+      <p>Forward-seeking sonar</p> 
+      <p>Diesel heater</p> 
     images: 
-      filename: enter filename
-      extension: extension
-      caption: caption
+      filename: rjs-saloon-wide-angle
+      extension: .jpg
+      caption: Saloon
+
+specs:
+  - title: Specs
+    description: >
+      <p>Rachel J. Slocum is a fast, comfortable one-off staysail schooner capable of sailing at 7.5-8 knots in almost any wind condition, and staying there. She usually gets more looks than any other boat in the harbour. There was only one rule given to the designer: nothing must compromise sailing ability. With its huge sail area and lean hull, Rachel J. Slocum begins cruising upwind at 4.5 knots in open-ocean conditions at only 4 knots of breeze while most other vessels must rely on their motor, and gets to the next anchorage, under sail, faster than you or others will believe possible. The captain can choose between wind vane or electric auto pilot to maintain an excellent track in varying wind conditions.</p>
+      <p>Rachel J. Slocum took 1 year to design and 3½ years to build with private US and British inspectors, and with the present owner, on site every step of the way. She is ABS certified (ABS Certificate No. KS 6055X). The owner, who grew up on sailing yachts and whose father owned Concordia Boat Yard and Marshall Marine in Padanaram, Massachusetts, took care to incorporate every good idea learned after nine continuous years cruising around the world in a different yacht. She has been continuously refit and upgraded since launch, with no consideration to cost. Everything works. </p>
+    body: >
+      <p>LOA: 47’4”; 50’ with stern pulpit</p>
+      <p>Draft: 2 meters</p> 
+      <p>Hull: Kevlar with epoxy resin layup (impact resistance greater than steel for its thickness, and no possibility of blistering).</p> 
+      <p>Deck: Teak over FRP with Divinycell core.</p> 
+      <p>Keel: Wing (designed specifically for the boat by Dave Pedrick and Yves-Marie Tanton)</p> 
+      <p>Working sail area (not including fore staysail and fisherman): 1,090 sq. ft. Fully battened Spectra main with Harken bat cars, 1 year old. Spectra battened main staysail (North Sails) on Harken furler, 1 year old. Spectra battened fore staysail (North Sails) on Harken furler, hardly used. Spectra genoa, brand new, still in bag. Light Dacron roller fisherman, with spare fisherman brand new and never used. Running rigging continuously upgraded. Duel stays and shrouds on both masts for safety. Staylock rigging fittings on both uppers and lowers will never fail or need replacing. Standing rigging completely rebuilt 2018.</p> 
+      <p>Designer: Yves-Marie Tanton (Newport, R.I.)</p> 
+      <p>Engine: Lugger (marinized John Deere), 87BHP. Low cruising RPM (1200 RPM), high torque. Completely rebuilt May 2018. Exclusively lubricated with Mobil 1 “SuperSyn” fully-synthetic motor oil throughout its life.</p> 
+      <p>Flag: British</p> 
+      <p>Launch:1989</p> 
+      <p>Built: Shing Sheng (Ta Shing), Tainan, Taiwan – Taiwan’s premier boat yard. Built as a custom one-off – hull and deck molds destroyed after construction.</p> 
+      <p>Fuel capacity: 200 gallons</p> 
+      <p>Average fuel consumption at 1200 rpm: .8 gal/hour</p> 
+      <p>Water capacity: 60 gallons with 30 gal/hour Sea Recovery hydraulic water maker and optional rain water collection via valves that can divert all the water that falls on the deck/cabin/sails to the water tank (fills up the tank in less than 10 minutes in a downpour).</p> 
+    images: 
+      filename: rjs-full-sails-to-port
+      extension: .jpg
+      caption: Full sails
+
+equipment:
+  - title: Equipment and Features
+    description: >
+      <p>text</p>
+    body: >
+      <p>Heavy-duty Whitlock “direct drive” steering system (bullet-proof, no cables)</p>
+      <p>Spurs line and weed cutter on shaft</p>
+      <p>Lasdrop shaft seal for stuffing box</p>
+      <p>2-blade feathering Max Prop – adjustable pitch and no drag under sail</p>
+      <p>Maxwell electric duel rotation vertical windlass</p>
+      <p>10 oversize Lumar sheet and halyard winches</p>
+      <p>6 Lumar multi-position hatches</p>
+      <p>125-lb and 85-lb genuine CQR anchors, both with 100 feet 3/8” high-test chain and 200 feet ¾” nylon rode; Fortress FX-32 stern anchor on stern pulpit with chain and rode</p>
+      <p>Dual engine controls/instruments in cockpit and below</p>
+      <p>Only two thru holes for water intake and two thru-holes for water discharge. Custom sea chest & sump tank are equipped with Lexan and safety glass viewing ports.</p>
+      <p>Bilge alarm</p>
+      <p>Emergency hand-held high-capacity bilge pump accessible from cockpit.</p>
+      <p>Heavy-duty wash down pump/emergency bilge pump (hydraulic)</p>
+      <p>Sea harnesses, flares, 4-man life raft, series drogue for open-water storm conditions surpassing 60 knots, spot light, complete overboard bag with hand-held emergency water maker</p>
+      <p>Folding permanent s/s boarding ladder in cockpit</p>
+      <p>Low-amp fans, oil lamps, attention to handholds throughout cabin</p>
+      <p>Hidden red tube lighting throughout cabin for night vision below and for “atmosphere”</p>
+      <p>Custom deck lighting beneath cabin combing prevents “night blinding”</p>
+      <p>6 solar vents on custom dorade boxes</p>
+      <p>Deck scuppers lead to valves that can divert all water that falls on cabin/decks to water tanks</p>
+      <p>Sunbrella Bimini top and dodger</p>
+      <p>Custom Sunbrella canopy covers entire boat</p>
+      <p>Hi Seas Diesel Heater</p>
+      <p>Liquor cabinet; wine storage locker</p>
+      <p>Burglar alarm also activates masthead strobe</p>
+      <p>Salon settee pulls out for double berth</p>
+      <p>Sea Recovery 30 gal/hour water maker (hydraulic) with custom valves to isolate water collection from each membrane</p>
+      <p>Sea Frost engine-driven refrigeration (hydraulic) galley and cockpit</p>
+      <p>Clothes washing machine</p>
+      <p>Cockpit refrigeration for soft drinks and beer</p>
+    images: 
+      filename: rjs-whisper-design-no850
+      extension: .jpg
+      caption: Tanton Yacht Design No 851 "Rachel J Slocum" (formerly "Whisper")
+
+custom:
+  - title: Custom Features
+    description: >
+      <p>Vessel track record with same owner: 1.75 comfortable world circumnavigations via Cape Aiguilles/Cape of Good Hope (twice), Cape Horn, Tasmania (4 times). Seven crossings of the Pacific, twice across the Atlantic. Extensive cruising South China Sea area, Indonesia, Australia, New Zealand, South America, Patagonia, South and North Pacific, north and south Indian Ocean, Southern Ocean. Storm characteristics: excellent. Vessel can and has hove-to safely in open Southern Ocean conditions to 60 knots with a reefed main staysail. Light-wind characteristics: unbelievable. The fisherman, with it’s high moment aloft, prevents rolling and sail flogging in big ocean swells, allowing the boat to sail in extremely light breezes where others can’t.</p>
+      <p>This is a yacht that was designed for one couple who wishes to sail the world immediately in comfort and style, and with speed, with provision for three live-aboard guests on an occasional basis. She is “ready to go,” with nothing that needs to be upgraded or fixed.</p>
+    body: >
+      <p>Engine in the center for optimum sailing performance. Salon table slides back on a track for easy 360o work-around access.</p>
+      <p>Large overhead hatch in salon for easy engine removal if necessary.</p>
+      <p>Hydraulic take-off from the transmission at idle or underway drives spare heavy-duty 160-amp alternator (geared up so that it gives high charge in idle), 30 gal/hour water maker, refrigeration, high-capacity wash-down pump/emergency bilge pump.</p>
+      <p>ABS certified collision bulkhead door at forepeak.</p>
+      <p>Custom portholes open from top, can remain open during rainstorms.</p>
+      <p>Hatches that open to the rear with custom “baby-carriage” Sunbrella awnings over each as wind scoop can remain open in rainstorms.</p>
+      <p>Forepeak opens to large single birth; doubles as workshop with vice, grinder, extensive tool drawers and cabinets.</p>
+      <p>Large food pantry and storage.</p>
+      <p>Head with large, heavy-duty Kentigern toilet and separate luxurious shower enclosure with teak sit-down. All sinks/shower have sea water foot pumps as backup.</p>
+      <p>ABS certified porthole in cabin sole of stateroom with powerful underwater spotlight to view the reef at night. (Underwater porthole doubles to check the status of the 2-blade feathering Max Prop.)</p>
+      <p>Stateroom double bed tilts to either side on electric thrusters to remain level during tacks – no need for a couple to use bunk cloths or for single berths while underway.</p>
+      <p>Cockpit hot/cold shower.</p>
+      <p>Heavy-duty S/S dinghy hoist.</p>
+      <p>4 heavy-duty, anti-chaff bow rollers accommodate two anchors and mooring lines at the same time.</p>
+      <p>Stove gimbals athwortships to prevent liquids spilling onto cook in rough seas, and to allow oven door to open without affecting stove tilt.</p>
+      <p>Aires Wind Vane with custom infinite adjustment of steering lines and quick release on reverse tiller arm.</p>
+      <p>Custom 14-foot sailing/rowing dinghy built of Huon Pine (Tasmania, never rots). Fits upside-down on top of cabin top</p>
+      <p>Custom heavy-duty stainless dinghy hoist at side of yacht, operates manually by hand winch or electrically with the windlass.</p>
+    images: 
+      filename: rjs-tanton-design
+      extension: .jpg
+      caption: Tanton Yacht Design (Oct 1986)
+
+exterior:
+  - title: Exterior Photos
+    images: 
+      filename: rjs-sails-to-starboard
+      extension: .jpg
+      caption: Sails out
+
+      filename: rjs-full-sails-to-port
+      extension: .jpg
+      caption: Full sails
+      filename: rjs-standing-rigging
+      extension: .jpg
+      caption: Standing rigging
+      filename: rjs-adjust-sail
+      extension: .jpg
+      caption: Adjust sails
+
+      filename: rjs-quarter-stern
+      extension: .jpg
+      caption: View from quarter stern
+      
+      filename: rjs-stern-transom
+      extension: .jpg
+      caption: Transom
+      filename: rjs-aloft-mast
+      extension: .jpg
+      caption: Aloft
+      filename: rjs-wing-keel
+      extension: .jpg
+      caption: Dave Pedrick designed wing keel
+
+      filename: rjs-40-builders-plate
+      extension: .jpg
+      caption: Builders plate
+      filename: rjs-dinghy-close-up
+      extension: .jpg
+      caption: Custom 14' sailing/rowing dinghy 
+      filename: rjs-cockpit
+      extension: .jpg
+      caption: Cockpit
+
+interior:
+  - title: Interior Photos
+    images: 
+      filename: rjs-saloon-wide-angle
+      extension: .jpg
+      caption: Saloon
+      filename: rjs-saloon-lugger
+      extension: .jpg
+      caption: Lugger 87BHP 
+      filename: rjs-44-salon-overhead
+      extension: .jpg
+      caption: Overhead hatch
+
+      filename: rjs-galley-wide-angle
+      extension: .jpg
+      caption: Galley
+
+      filename: rjs-head-wide-angle
+      extension: .jpg
+      caption: Head
+
+      filename: rjs-aft-owner-cabin
+      extension: .jpg
+      caption: Owner's stateroom
+      filename: rjs-aft-cabin-mirror
+      extension: .jpg
+      caption: Aft cabin storage
+      filename: rjs-lexan-view-port
+      extension: .jpg
+      caption: View porthole
+      filename: rjs-aft-cabin-hatches
+      extension: .jpg
+      caption: Instrumentation on passage
+      filename: rjs-spares-in-seat
+      extension: .jpg
+      caption: Spares in seat
+
+      filename: rjs-v-berth
+      extension: .jpg
+      caption: V berth
+
+      filename: rjs-nav-station-desk
+      extension: .jpg
+      caption: Desk/nav station
+      filename: rjs-77-sea-nav-station
+      extension: .jpg
+      caption: Nav station on passage
+
+      filename: rjs-83-layout
+      extension: .jpg
+      caption: Layout
+
+      filename: rjs-electrical-control-panel
+      extension: .jpg
+      caption: Electrical control panel
+      filename: rjs-wiring-red-cable
+      extension: .jpg
+      caption: Electrical wiring
+
+

@@ -50,8 +50,6 @@ Canadian-born and of Taiwanese descent, Denise was raised in southern California
 
 She attended Wellesley College and graduated with a degree in economics. She went on to receive her MBA from The Wharton School of Pennsylvania with a masters in finance.
 
-Throughout her career, she has worked in financial services, management consulting, biotech, as well as media and entertainment. Her specialties include M&amp;A, post-merger integration, international business development, debt restructuring, strategic planning, corporate finance, and financial planning &amp; analysis.
-
 Throughout her career, she has worked in financial services, management consulting, biotech, as well as media and entertainment. Her specialties include M&A, post-merger integration, international business development, debt restructuring, strategic planning, corporate finance, and financial planning & analysis. 
 
 Images and experiences of sailing have also echoed throughout her life, including:

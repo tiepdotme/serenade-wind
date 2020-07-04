@@ -74,7 +74,7 @@ faq-questions:
         <li>SSB transceiver - Marine single sideband (SSB), unlike satphones, allows an unlimited number of people to listen to a transmission at the same time and so is used for regional cruising events like <a href="https://www.worldcruising.com/arc/event.aspx">ARC</a>, <a href="https://www.worldcruising.com/Carib1500/event.aspx">Caribbean 1500</a> and <a href="https://www.baja-haha.com/">Ba-ha-ha</a>. It operates on frequencies in the range of 2 MHz-26 MHz.</li>
         <li>AIS transponder - Automatic Identification System (AIS) transponder broadcasts a ship's information, such as speed and heading (information gathered by GPS, of course), the ship's name, port of origin, size and draft, and more, over VHF frequencies 161.975 megahertz and 162.025 MHz.</li>
       </ul>
-    image: 9839_2x
+    image: rjs-nav-station-desk
     link:
   - question: How can we find you?
     answer: >
