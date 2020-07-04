@@ -2,7 +2,7 @@ name: Netlify Nightly Build
 
 on: 
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 13 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
