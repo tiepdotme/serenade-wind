@@ -15,16 +15,16 @@ tags:
     - sailing-life
     - imonaboat
     - schooner
-    - livingbiginatinyhouse
     - transitions
-    - instasailing
+    - projectslocum
+    - svrjslocum
 share: true
 image:
-    thumbnail: /images/small/9827.jpg 
+    thumbnail: /images/small/rjs-aloft-mast.jpg 
 excerpt: There isn't any one perfect boat for everyone. The boat you choose should be safe, comfortable, well built, and ideally capable of fast passages while proving to be a good investment. When first we saw Rachel J Slocum, we knew we found the perfect boat for us.
 ---
 {% include toc %}
-{% assign pwimg="9827" %}
+{% assign pwimg="rjs-aloft-mast" %}
 {% assign pwcaption="Aloft s/v Rachel J Slocum" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -78,7 +78,7 @@ Verdict? Not bad, but over-priced.
 
 The second boat we looked at was a 2007 54’ [Jeanneau](https://sailboatdata.com/sailboat/sun-odyssey-54-ds-jeanneau "Jeanneau sailboat data") called Any Isle going for $369,000. She is a fractional sloop rig with a fin hull with bulb keel and spade rudder, and twin helms in the aft cockpit.
 
-{% assign pwimg="Jeanneau2" %}
+{% assign pwimg="jeanneau-54-any-isle" %}
 {% assign pwcaption="2007 54' Jeanneau" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -96,7 +96,7 @@ Over the course of the next few days, Andrew continued to search for sailboats a
 
 Once you begin to search at these price levels, you are looking at used boats and since we both are interested in blue water sailing in a boat that offers the most flexibility, from tropical cruising to high latitude sailing, and being able to handle gale-force storm conditions rounding Cape Horn, we then needed to get smart about boat builds.
 
-{% assign pwimg="9828" %}
+{% assign pwimg="rjs-beagle-channel" %}
 {% assign pwcaption="Beagle Channel" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -118,7 +118,7 @@ We were narrowing our searches to certain shipyards (Discovery, Hallberg-Rassy, 
 
 It was then that Andrew came across a 1989 50’ custom Tanton-designed, one-off, ready-to-go, world cruising staysail schooner.
 
-{% assign pwimg="9826" %}
+{% assign pwimg="rjs-stern-transom" %}
 {% assign pwcaption="s/v Rachel J Slocum" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -143,7 +143,7 @@ When First We Saw Rachel J Slocum, she was described as follows:
 - Diesel heater
 - Loaded with extras
 
-{% assign pwimg="9831" %}
+{% assign pwimg="rjs-full-sails-to-port" %}
 {% assign pwcaption="1989 50' custom staysail schooner" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -155,7 +155,7 @@ When I first read the website's write-up on s/v Rachel J. Slocum, these words st
 - No consideration to cost
 - Ready to go
 
-{% assign pwimg="9834" %}
+{% assign pwimg="rjs-wing-keel" %}
 {% assign pwcaption="Wing keel designed by America's Cup Dave Pedrick" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -169,7 +169,7 @@ There was only one rule given to the designer: nothing must compromise sailing a
 
 The captain can choose between wind vane or electric auto pilot to maintain an excellent track in varying wind conditions.
 
-{% assign pwimg="9843" %}
+{% assign pwimg="rjs-saloon-lugger" %}
 {% assign pwcaption="Saloon" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -183,7 +183,7 @@ The owner, who grew up on sailing yachts and whose father owned Concordia Boat Y
 
 She has been continuously refit and upgraded since launch, with no consideration to cost. Everything works.
 
-{% assign pwimg="9841" %}
+{% assign pwimg="rjs-galley-wide-angle" %}
 {% assign pwcaption="Galley" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -195,7 +195,7 @@ This is a yacht that was designed for and will appeal to one couple who wishes t
 
 She is “ready to go,” with nothing that needs to be upgraded or fixed.
 
-{% assign pwimg="9838" %}
+{% assign pwimg="rjs-saloon-wide-angle" %}
 {% assign pwcaption="Saloon" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -207,19 +207,19 @@ She’s a stunner. She’s bomb proof. And she checks all the boxes, but 50 feet
 
 It took some time to do our due diligence as you'll read in our [Project Slocum](/posts/boat-purchase/ "Boat Purchase") series, but in the mean time she remained in the background of my mind as we plodded through work over the holidays and new year.
 
-{% assign pwimg="9836" %}
+{% assign pwimg="rjs-aft-owner-cabin" %}
 {% assign pwcaption="Aft Cabin" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
 
-{% assign pwimg="9840" %}
+{% assign pwimg="rjs-v-berth" %}
 {% assign pwcaption="Fore Cabin / Workshop" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
 
-{% assign pwimg="9842" %}
+{% assign pwimg="rjs-head-wide-angle" %}
 {% assign pwcaption="Head" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

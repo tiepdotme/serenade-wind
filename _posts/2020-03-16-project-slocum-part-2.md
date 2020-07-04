@@ -13,8 +13,6 @@ categories:
 tags:
     - boat-purchase
     - coronavirus
-    - imonaboat
-    - noahsark
     - duediligence
     - instasailing
     - projectslocum
@@ -74,7 +72,7 @@ Here's the itinerary for the four days of travel and due diligence.
 
 ## Location of s/v Rachel J Slocum
 
-{% assign pwimg="ais-rjs-location" %}
+{% assign pwimg="rjs-ais-location" %}
 {% assign pwcaption="" %}
 {% assign pwpng="true" %}
 {% include post-wide-image.html%}

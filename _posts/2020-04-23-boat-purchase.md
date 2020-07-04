@@ -105,7 +105,7 @@ We know that buying a boat can be overwhelming. Follow these 8 steps and come up
     -   Consider impact on your relationships
     -   Sailing ability (both strength and confidence)
 
-{% assign pwimg="9826" %}
+{% assign pwimg="rjs-stern-transom" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -127,4 +127,4 @@ As mentioned above, we derived these answers for ourselves through an iterative 
 Here are each of the stories we wrote on our process around buying a boat.
 
 {% assign currPost = page.permalink %}
-{% include related-posts.html type="tag" value="boat-purchase" %}
+{% include related-posts.html type="tag" value="boat-purchase" order="asc" %}

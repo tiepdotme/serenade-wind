@@ -12,7 +12,7 @@ tags:
     - dreamers
     - gowiththeflow
     - leanintovalues
-    - unstructured
+    - transitions
 share: true
 image:
     thumbnail: /images/small/white-and-orange-koi-fish.jpg 

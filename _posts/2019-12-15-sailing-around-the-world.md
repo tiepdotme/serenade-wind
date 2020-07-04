@@ -65,7 +65,7 @@ Once you begin to let go of the notion of living in a house and consider moving 
 
 The other big idea to tackle was how do you go about finding a job and get paid to do what you love doing.
 
-{% assign pwimg="Maslow" %}
+{% assign pwimg="maslow-triangle" %}
 {% assign pwcaption="" %}
 {% assign pwpng="true" %}
 {% include post-wide-image.html%}
@@ -118,7 +118,7 @@ I’ll underscore this last point, because there is something about the [What’
 
 For me, I start to envision a mash-up of activities I love such as sailing to a remote island with rocky cliffs, dropping anchor, dinghy to shore, and rock climb/deep water solo existing routes or maybe even establishing new routes.
 
-{% assign pwimg="Deep-water-solo" %}
+{% assign pwimg="deep-water-solo" %}
 {% assign pwcaption="Chris Sharma climbs without ropes a.k.a. deep water solo. Photo courtesy of Wallpaper Safari" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

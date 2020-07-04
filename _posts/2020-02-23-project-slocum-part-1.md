@@ -16,11 +16,11 @@ tags:
     - sailing-life
 share: true
 image:
-    thumbnail: /images/small/9826.jpg 
+    thumbnail: /images/small/rjs-stern-transom.jpg 
 excerpt: Project Slocum Part 1 - due diligence on buying a boat is much like buying a house. Just as you may make an offer contingent on several variables, in the case of buying a boat it will be contingent on a marine survey and a sea trial. 
 ---
 {% include toc %}
-{% assign pwimg="9826" %}
+{% assign pwimg="rjs-stern-transom" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -33,7 +33,7 @@ Over the past month, we have been hyper-focused on executing on my exit strategy
 
 While Andrew has purchased a boat in the past, the materiality of this purchase is exponentially greater. This vessel is also meant to be our home for the decades to come, so it's important we do what we can to ensure she's the right sailboat for us and to mitigate risk.
 
-{% assign pwimg="9833" %}
+{% assign pwimg="rjs-quarter-stern" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -45,7 +45,7 @@ When we first checked out the rjslocum.com website, we were delighted with the i
 
 Given that she is a 50 foot custom-built staysail schooner who has been lovingly maintained by one owner for 30 years, it was infinitely more important to us to gain as much sailing knowledge from the original owner than validate the feature list and maintenance history.
 
-{% assign pwimg="9834" %}
+{% assign pwimg="rjs-wing-keel" %}
 {% assign pwcaption="Wing-keel designed by Dave Pedrick (America's Cup)" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -55,7 +55,7 @@ Given that she is a 50 foot custom-built staysail schooner who has been lovingly
 >She has completed a world circumnavigation via Cape of Good Hope & Cape Horn, including fast crossings of the Pacific Ocean (seven times), Indian Ocean (twice) and Atlantic Ocean (twice). Everything works.
 >No upgrades, repairs or tweaks necessary. This boat will get you to your destination quickly, safely, and in style.
 
-{% assign pwimg="9839" %}
+{% assign pwimg="rjs-nav-station-desk" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -78,7 +78,7 @@ s/v Rachel J. Slocum is not just an owner's boat... She is a [boatwright](https
 
 We also got a kick out of being able to track her whereabouts on [AIS](https://www.myshiptracking.com/?mmsi=235001830 "Find RJS"). 
 
-{% assign pwimg="ais-rjs-location" %}
+{% assign pwimg="rjs-ais-location" %}
 {% assign pwcaption="" %}
 {% assign pwpng="true" %}
 {% include post-wide-image.html%}
@@ -96,7 +96,7 @@ Early in our correspondence, the owner suggested that depending on our sailing p
 
 Luckily with my background in finance and working on multi-billion dollar deals, this also didn't raise any concern. We viewed this as another opportunity to learn about the boat buying process, while exercising previous due-diligence muscles, so to speak. Hence the title of this post and blog series, "Project Slocum" is a nod to names given to transactions to ensure some level of secrecy before any public announcement. 
 
-{% assign pwimg="9829" %}
+{% assign pwimg="rjs-dinghy-bill-sail" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -115,7 +115,7 @@ The transaction will likely proceed as follows:
 
 This timeline will likely take place over the next 6 to 9 months as we likely don't want to take possession until after the hurricane season ends in Florida/Caribbean. We also need that amount of time to downsize (i.e., sell off assets such as cars, furniture, and personal items) until we are left with only the things we want to take with us aboard.
 
-{% assign pwimg="12104" %}
+{% assign pwimg="rjs-sails-to-starboard" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

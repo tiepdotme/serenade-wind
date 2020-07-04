@@ -18,7 +18,7 @@ tags:
     - transitions
 share: true
 image:
-    thumbnail: /images/small/9841.jpg 
+    thumbnail: /images/small/rjs-galley-wide-angle.jpg 
 excerpt: In the 4th part of our 30-weeks to minimalism series, we tackle the galley. Once again, we will need to think critically about what items are used daily now and can still serve us in the future aboard a sailboat. Here is how a "sea foodie" would approach it.
 ---
 {% include toc %}
@@ -35,7 +35,7 @@ In the 4th part of our [30-weeks to minimalism](/posts/30-weeks-to-minimalism/) 
 
 The list goes on and on.
 
-{% assign pwimg="9841" %}
+{% assign pwimg="rjs-galley-wide-angle" %}
 {% assign pwcaption="The galley of RJ Slocum" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

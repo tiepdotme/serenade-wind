@@ -103,7 +103,7 @@ The extended period of time in Taiwan also afforded him the opportunity to be ha
 
 Andrew regaled Bill and his wife with his adventure getting to know my side of the family when we visited Taiwan a few years ago. Understandably the language barrier created some funny and awkward moments. However, my family's sincere desire to host him (which meant catering to his taste in food) also created some fodder for laughs. The story is deserving of its own blog post. Suffice it to say, it certainly charmed Bill and his wife, and it set the mood for the rest of our visit. 
 
-{% assign pwimg="lugger" %}
+{% assign pwimg="rjs-lugger-andrew" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

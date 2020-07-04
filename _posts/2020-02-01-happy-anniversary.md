@@ -10,7 +10,6 @@ categories:
     - Relationships
 tags:
     - boat-purchase
-    - instacats
     - instaclimb
     - instasailing
     - sailing-life

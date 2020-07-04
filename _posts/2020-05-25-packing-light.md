@@ -19,7 +19,7 @@ tags:
     - transitions
 share: true
 image:
-    thumbnail: /images/small/9836.jpg 
+    thumbnail: /images/small/rjs-aft-owner-cabin.jpg 
 excerpt:   How do you pack for the rest of your life in order to live full-time on a sailboat? Packing light becomes an imperative.
 ---
 {% include toc %}
@@ -75,7 +75,7 @@ Spaces in the bilge, under the settee, pantry storage, v-berth where the worksho
 
 So with these few bits of information, we could begin to formulate a plan.
 
-{% assign pwimg="9836" %}
+{% assign pwimg="rjs-aft-owner-cabin" %}
 {% assign pwcaption="Aft Cabin of RJ Slocum" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

@@ -14,8 +14,6 @@ tags:
     - diy
     - sailing-life
     - instasailing
-    - imonaboat
-    - staysafe
     - shelterathome
     - transitions
 share: true

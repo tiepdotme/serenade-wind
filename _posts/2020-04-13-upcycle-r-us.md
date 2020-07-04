@@ -13,12 +13,10 @@ categories:
 tags:
     - coronavirus
     - diy
-    - feltcraft
     - gowiththeflow
     - instaknit
     - lifereset
     - minimalist
-    - upcycle
 share: true
 image:
     thumbnail: /images/small/ball-ball-shaped-blur-color.jpg 

@@ -7,7 +7,7 @@ permalink: /posts/canned-food-recipes/
 author: sw
 layout: post
 categories:
-    - Culinary adventures
+    - Culinary Adventures
 tags:
     - foodporn
     - coronavirus

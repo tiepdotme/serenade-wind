@@ -10,7 +10,6 @@ categories:
     - Relationships
 tags:
     - lifereset
-    - lifetransformations
     - secondmountain
     - transitions
     - cultureofcharacter
@@ -21,13 +20,8 @@ author: sw
 share: true
 image:
     thumbnail: /images/small/vehicles-on-road.jpg 
-excerpt:   We took a hard look at how we were spending our time each week. While we didn’t like what we were seeing, we also saw this as an opportunity to ask some hard questions. And to solve them, it was time to go to the whiteboard.
+excerpt: We took a hard look at how we were spending our time each week. While we didn’t like what we were seeing, we also saw this as an opportunity to ask some hard questions. And to solve them, it was time to go to the whiteboard.
 ---
-<script type="text/javascript" src="https://www.amcharts.com/lib/3/amcharts.js"></script>
-<script type="text/javascript" src="https://www.amcharts.com/lib/3/pie.js"></script>
-<script type="text/javascript" src="https://www.amcharts.com/lib/3/themes/light.js"></script>
-<script src="/assets/js/white-board-chart.js"></script>
-
 {% include toc %}
 
 {% assign pwimg="vehicles-on-road" %}
@@ -49,7 +43,12 @@ Sound familiar?
 
 If you really break down how you spend your time in a given week, it may look something similar to the chart here.
 
-<div id="chartdiv" style="width: 100%; height: 300px;"></div>
+<div id="mychart" style="--segment1: 30; --segment2: 42; --segment3: 72">
+    <div class="slice personal">Personal Time<span>48h</span> </div>
+    <div class="slice sleep">Sleep<span>50h</span></div>
+    <div class="slice work">Work<span>50h</span></div>
+    <div class="slice commute">Commute<span>20h</span></div>
+</div>
 
 We took a hard look at this distribution of time. While we didn’t like the reality we were living, we also saw this as an opportunity to not be complacent. So, we spent a few hours on a sunny Sunday morning challenging ourselves with the following questions:
 

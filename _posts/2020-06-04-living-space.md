@@ -18,7 +18,7 @@ tags:
     - transitions
 share: true
 image:
-    thumbnail: /images/small/9838.jpg 
+    thumbnail: /images/small/rjs-saloon-wide-angle.jpg 
 excerpt: In part 5, we conclude our downsizing process that began with 30-weeks to minimalism. This beautiful living space conceals stowage for spares, spares and more spares.
 ---
 {% include toc %}
@@ -31,7 +31,7 @@ In the final part of our tour of s/v Rachel J Slocum's interior, we conclude the
 
 That will be one of the priority tasks when we visit Ft Lauderdale again.
 
-{% assign pwimg="9838" %}
+{% assign pwimg="rjs-saloon-wide-angle" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -42,7 +42,7 @@ Starting from the starboard side, this space is comprised of a long settee that 
 
 At center, the Lugger engine is concealed under the table, which can slide away allowing 360 degree access.
 
-{% assign pwimg="9843" %}
+{% assign pwimg="rjs-saloon-lugger" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -55,7 +55,7 @@ Throughout, many of the hatches allow easy access to the electrical wiring which
 
 The desk is located forward of the club chairs on the port side. It includes a variety of instrumentation, while the remainder is located at the nav station which is adjacent to the companion way on the starboard side.
 
-{% assign pwimg="9839" %}
+{% assign pwimg="rjs-nav-station-desk" %}
 {% assign pwcaption="Desk / main nav station" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -80,7 +80,7 @@ We will also be bringing computer and electronics to serve a few purposes:
 
 There is a tall, vertical nook next to the nav station where all the nautical charts were stored. We might repurpose this living space by creating pull-out, sliding shelves.
 
-{% assign pwimg="9840" %}
+{% assign pwimg="rjs-v-berth" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

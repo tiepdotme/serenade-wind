@@ -16,7 +16,6 @@ tags:
     - itaintallaboutthemoney
     - minimalist
     - powerofwhy
-    - purge
 share: true
 image:
     thumbnail: /images/small/green-wooden-chair-on-white-surface.jpg 

@@ -148,7 +148,7 @@ Given the loud noise from motorboats along the river, I couldn't hear much of th
 
 Suffice it to say, we will never change the name. She will remain "Rachel J. Slocum." 
 
-{% assign pwimg="9828" %}
+{% assign pwimg="rjs-beagle-channel" %}
 {% assign pwcaption="RJ Slocum in Beagle Channel, a strait in Tierra del Fuego Archipelago on the extreme southern tip of South America." %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
