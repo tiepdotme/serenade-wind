@@ -378,7 +378,7 @@
     padding-left: 2rem;
     overflow: hidden;
     font-size: 0.9rem;
-    list-style: decimal;
+
 
     @include breakpoint($large){
       -webkit-transition: height 350ms ease;
@@ -399,6 +399,16 @@
     li {
       padding: 0.3em 0;
       font-family: $base-font-family;
+      list-style-position: inside;
+      text-indent: -1.2rem;
+      padding-left: 2rem;
+      list-style: disc;
+      
+      @include breakpoint($large){
+        text-indent: -1rem;
+        padding-left: 2.5rem;
+        list-style: none;
+      }
 
       a {
         display: inline-block;

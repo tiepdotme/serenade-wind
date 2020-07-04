@@ -1,14 +1,24 @@
 <section class="related-posts">
   	<ul>
 {%- if include.type == "tag" -%}
-	{%- for entry in site.tags[include.value] -%}
+	{%- if include.order == "asc" -%}
+		{% assign sortedList = site.tags[include.value] | sort: 'date' %}
+	{%- elsif include.order == "desc" -%}
+		{% assign sortedList = site.tags[include.value] | sort: 'date' | reverse %}
+	{%- endif -%}
+	{%- for entry in sortedList -%}
 		{%- if page.title != entry.title -%}
 			{% include post-tile.html description="hide" %}
 		{%- endif -%}
 	{%- endfor -%}
 {%- endif -%}
 {%- if include.type == "category" -%}
-	{%- for entry in site.categories[include.value] -%}
+	{%- if include.order == "asc" -%}
+		{% assign sortedList = site.categories[include.value] | sort: 'date' %}
+	{%- elsif include.order == "desc" -%}
+		{% assign sortedList = site.categories[include.value] | sort: 'date' | reverse %}
+	{%- endif -%}
+	{%- for entry in sortedList -%}
 		{%- if page.title != entry.title -%}
 			{% include post-tile.html description="hide" %}
 		{%- endif -%}

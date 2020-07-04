@@ -40,7 +40,7 @@ input {
     }
   }
   &-content {
-    max-height: 0;
+    height: 0;
     padding: 0 1em;
     color: $midnight;
     background: white;
@@ -78,7 +78,7 @@ input:checked {
   }
 }
 
-.page-wrapper .page-content .faq-wrapper .tab .tab-content .tab-link {
+.frequently-asked-questions .tab-content {
   a {
     color: #2c3e50;
     border-bottom-color: #2c3e50;

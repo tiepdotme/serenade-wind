@@ -358,6 +358,9 @@
 
   .page-title {
     text-align: left;
+    @include breakpoint($large){
+      margin-right:250px;
+    }
   }  
 }
 
