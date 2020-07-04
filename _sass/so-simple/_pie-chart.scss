@@ -1,0 +1,48 @@
+#mychart {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    position: relative;
+    border: .15em solid #1a1d25;
+    box-shadow: 0 .075em .2em .05em rgba(0,0,0,.25);
+    background-origin: border-box; 
+    background-image: conic-gradient(
+        #2d3e50 calc(3.6deg * var(--segment1, 100)),
+        #395167 0 calc(3.6deg * var(--segment2, 100)),
+        #466380 0 calc(3.6deg * var(--segment3, 100)),
+        #547698 0 calc(3.6deg * var(--segment4, 100))
+    );
+    .slice {
+        position: absolute;
+        display: block;
+        font-family: sans-serif;
+        font-size: 14px;
+        text-align: center;
+
+        span{
+            display:block;
+        }
+
+        &.personal {
+            top: 25%;
+            left: 10%;
+        }
+
+        &.work {
+            top: 25%;
+            right: 20%;
+        }
+
+        &.commute {
+            bottom:20%;
+            right:10%;
+        }
+
+        &.sleep {
+            bottom:15%;
+            left:30%;
+        }
+    }
+}
