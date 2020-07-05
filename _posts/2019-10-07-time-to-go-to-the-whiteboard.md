@@ -43,6 +43,8 @@ Sound familiar?
 
 If you really break down how you spend your time in a given week, it may look something similar to the chart here.
 
+## How we spend our time (average week)
+
 <div id="mychart" style="--segment1: 30; --segment2: 42; --segment3: 72">
     <div class="slice personal">Personal Time<span>48h</span> </div>
     <div class="slice sleep">Sleep<span>50h</span></div>

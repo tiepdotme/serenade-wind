@@ -21,12 +21,12 @@ body {
   }
 }
 
-#background{
-  width:100%;
-  position:absolute;
-  z-index:-1;
-  top:0;
-  
+#background {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+
   img {
     width:100%;
   }
@@ -39,6 +39,12 @@ body {
     bottom:0px;
     position:absolute;
     width:100%;
+  }
+
+  &.video-header {
+    picture {
+      display: none;
+    }
   }
 }
 a {

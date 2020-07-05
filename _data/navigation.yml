@@ -1,12 +1,14 @@
 main:
   - title: About Us
     url: /about-serenade-wind/
-  - title: Posts
-    url: /posts/
+  - title: s/v Rachel J Slocum
+    url: /about-rachel-j-slocum/
   - title: Categories
     url: /categories/
   - title: FAQ
     url: /faq/
+  - title: Resources
+    url: /resources/
 social:
   - title: Join our Facebook Page
     url: https://www.facebook.com/serenade.wind.ventures
@@ -22,4 +24,4 @@ social:
     icon: fab fa-youtube-square
   - title: Become a supporter
     url: https://www.patreon.com/bePatron?u=30149836
-    icon: fab fa-patreon-square
+    icon: fab fa-patreon

@@ -17,7 +17,7 @@
 {%- else -%}
 	{% assign imgPath = "small" %}
 {%- endif -%}
-		<ul>
+		<div class="gallery-slider {{include.galId}}">
 {%- if jekyll.environment == "development" -%}
     {% assign imgDomain = "/images" %}
 {%- else -%}
@@ -30,15 +30,24 @@
 		{%- if include.gallery.type == nil -%}
 			{% assign lightboxAttr= " data-lity data-lity-target='" | append:imgDomain| append: "/xlarge/" | append: pwimg | append: fileExt | append: "'" %}
 		{%- endif -%}
-      <li>	
+      <div>
         <figure class="gallery-image page-image-lightbox">
         	<picture>	
         		<img srcset="{{imgDomain}}/{{ imgPath }}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/{{ imgPath }}/{{ pwimg }}_2x{{fileExt}} 2x"  alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}" {{lightboxAttr}}>
         	</picture>
         	<figcaption>{{pic.caption}}</figcaption>
         </figure>
-      </li>
+      </div>
 	{%- endfor -%}	
-    </ul>
+    </div>
+    {%- if include.hideArrows -%}
+      {% assign arrowClass = "hide-arrows" %}
+    {%- else -%}  
+      {% assign arrowClass = "" %}
+    {%- endif -%}  
+    <button aria-label="Previous" class="{{include.galId}}-prev button-prev {{arrowClass}}">«</button>
+    <button aria-label="Next" class="{{include.galId}}-next button-next  {{arrowClass}}">»</button>
+    <div role="tablist" class="dots-{{include.galId}}"></div>
+    
   </section>
 {%- endif -%}

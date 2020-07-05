@@ -1,0 +1,55 @@
+.layout--page.s-v-rachel-j-slocum{
+
+  figure.gallery-image.page-image-lightbox img {
+    height: 200px;
+  }
+
+  .boat-specs td, 
+  .boat-measurements th,
+  .boat-measurements td {
+    border:0;
+    border-right:1px solid #1a1d25;
+    border-top:1px solid #223740;
+    border-left:1px solid #223740;
+    border-bottom:1px solid #1a1d25;
+    font-family: sans-serif;
+    font-weight:normal;
+    font-size:14px;
+  }
+  .boat-specs {
+     .spec-key {
+        text-align: right;
+        vertical-align: top;
+        white-space:nowrap
+      }
+  }
+  .boat-measurements {
+    border-collapse:collapse;
+    border:1px solid #1a1d25;
+    margin:1em;
+    
+    th, td {
+      text-align: center;
+      text-shadow: 1px 1px 2px black;
+    }
+
+    .spec-key{
+      background-color: #1a1d25;
+    }
+    .spec-value {
+      .metric {
+        display:block;
+        border-top:1px dashed #aaa;
+        margin-top: 4px;
+        padding-top: 4px;
+
+        @include breakpoint($large) {
+          display:inline-block;
+          border-left:1px dashed #aaa;
+          margin-left: 8px;
+          padding-left: 8px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+exterior:
+  pictures:
+  - filename: rjs-sails-to-starboard
+    extension: .jpg
+    title: s/v Rachel J. Slocum port tack
+    caption: Sailing on port tack
+  - filename: rjs-aloft-mast
+    extension: .jpg
+    title: s/v Rachel J. Slocum top of the mast
+    caption: Aloft from the mast
+  - filename: rjs-stern-transom
+    extension: .jpg
+    title: s/v Rachel J. Slocum transom view
+    caption: Transom
+  - filename: rjs-full-sails-to-port
+    extension: .jpg
+    title: Full sails
+    caption: Full sails
+  - filename: rjs-standing-rigging
+    extension: .jpg
+    title: Standing rigging
+    caption: Standing rigging
+  - filename: rjs-adjust-sail
+    extension: .jpg
+    title: Adjust sails
+    caption: Adjust sails
+  - filename: rjs-quarter-stern
+    extension: .jpg
+    title: View from quarter stern
+    caption: View from quarter stern
+  - filename: rjs-wing-keel
+    extension: .jpg
+    title: Dave Pedrick designed wing keel
+    caption: Dave Pedrick designed wing keel
+  - filename: rjs-40-builders-plate
+    extension: .jpg
+    title: Builders plate
+    caption: Builders plate
+  - filename: rjs-dinghy-close-up
+    extension: .jpg
+    title: Custom 14' sailing/rowing dinghy
+    caption: Custom 14' sailing/rowing dinghy
+  - filename: rjs-cockpit
+    extension: .jpg
+    title: Cockpit
+    caption: Cockpit
+interior:
+  pictures:
+  - filename: rjs-saloon-wide-angle
+    extension: .jpg
+    caption: Saloon
+    title: Saloon
+  - filename: rjs-saloon-lugger
+    extension: .jpg
+    caption: Lugger 87BHP 
+    title: Lugger 87BHP 
+  - filename: rjs-44-salon-overhead
+    extension: .jpg
+    caption: Overhead hatch
+    title: Overhead hatch
+  - filename: rjs-galley-wide-angle
+    extension: .jpg
+    caption: Galley
+    title: Galley
+  - filename: rjs-head-wide-angle
+    extension: .jpg
+    caption: Head
+    title: Head
+  - filename: rjs-aft-owner-cabin
+    extension: .jpg
+    caption: Owner's stateroom
+    title: Owner's stateroom
+  - filename: rjs-aft-cabin-mirror
+    extension: .jpg
+    caption: Aft cabin storage
+    title: Aft cabin storage
+  - filename: rjs-lexan-view-port
+    extension: .jpg
+    caption: View porthole
+    title: View porthole
+  - filename: rjs-aft-cabin-hatches
+    extension: .jpg
+    caption: Instrumentation on passage
+    title: Instrumentation on passage
+  - filename: rjs-spares-in-seat
+    extension: .jpg
+    caption: Spares in seat
+    title: Spares in seat
+  - filename: rjs-v-berth
+    extension: .jpg
+    caption: V berth
+    title: V berth
+  - filename: rjs-nav-station-desk
+    extension: .jpg
+    caption: Desk/nav station
+    title: Desk/nav station
+  - filename: rjs-77-sea-nav-station
+    extension: .jpg
+    caption: Nav station on passage
+    title: Nav station on passage
+  - filename: rjs-83-layout
+    extension: .jpg
+    caption: Layout
+    title: Layout
+  - filename: rjs-electrical-control-panel
+    extension: .jpg
+    caption: Electrical control panel
+    title: Electrical control panel
+  - filename: rjs-wiring-red-cable
+    extension: .jpg
+    caption: Electrical wiring
+    title: Electrical wiring      

@@ -29,7 +29,7 @@
       <div id="fb-root"></div>
       <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=844633769395526&autoLogAppEvents=1" nonce="lGCWcnDe"></script>
   {%- if site.background_image -%}
-    {% assign bgimg = site.background_image %}
+      {% assign bgimg = site.background_image %}
       <div id="background">
         <picture>
           <source media="(min-width:1280px)" srcset="{{img_domain}}/xlarge/serenade-wind-background.jpg, {{img_domain}}/xlarge/serenade-wind-background_2x.jpg 2x">
@@ -47,5 +47,7 @@
   {% include_cached footer.html %}
   {% include_cached scripts.html %}
       <script type="text/javascript" src="/assets/js/table-of-contents.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
+
     </body>
   </html>

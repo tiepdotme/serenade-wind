@@ -18,13 +18,10 @@
         text-align:left;
     }
 
-    ul {
-        list-style:none;
+    .gallery-slider {
         display:grid;
         grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
         grid-gap: 2px;
-        padding: 0 0.5em;
-        margin: 0;
 
         figcaption {
            font-size: 0.5em;
@@ -39,13 +36,75 @@
         margin-right: -50vw;
         text-align:center;
 
-        ul {
+        .gallery-slider {
             grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
             grid-gap: 1rem;
 
             figcaption {
-              font-size: 1em;
+              font-size: 0.7em;
             }
         }
     }
+    button {        
+        &.button-next, 
+        &.button-prev {
+            padding:0 1em;
+            margin:0;
+            background:none;
+            border:none;
+            font-size: 2em;
+            color: white;
+            text-shadow:1px 1px 2px black;
+
+            &.disabled {
+               color: #252a34;
+            
+                @include breakpoint($large){
+                    display:none;
+                }
+            }
+        }
+
+        &.button-next {
+            float:right;
+        }
+
+        &:focus  {
+            outline:none;
+        }
+    }
+
+    .glider-dots {
+        margin-bottom: 1em;
+        
+        @include breakpoint($large){
+        
+            button:first-child {
+                display:none;
+            }
+        }
+    }
+
+    .glider-dot {
+        width:8px;
+        height:8px;
+        box-shadow:1px 1px 2px black;
+
+        @include breakpoint($large){
+            width: 14px;
+            height: 14px;
+        }
+    }
+
+    .glider-dot.active{
+        border:1px solid red;
+        background: black;
+    }
+
+    &.enlarge-lightbox {
+        button.button-next {
+            float:none;
+        }
+    }
+
 }

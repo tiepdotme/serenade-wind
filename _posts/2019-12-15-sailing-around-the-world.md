@@ -21,7 +21,7 @@ tags:
     - powerofwhy
     - lifetransitions
 share: true
-post:
+image:
     thumbnail: /images/small/greece-both-corinth-crossing.jpg 
 excerpt: Sailing around the world is bringing your home wherever you travel. To get started you need to learn to let go of living on land, move aboard a sailboat and find your dream job.
 ---
