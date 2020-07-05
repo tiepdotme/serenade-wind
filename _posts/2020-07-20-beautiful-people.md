@@ -1,7 +1,7 @@
 ---
 id: 51
 title: Beautiful People
-date: 2020-07-20T13:03:12+00:00
+date: 2020-07-20T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/beautiful-people/
 permalink: /posts/beautiful-people/
 author: sw

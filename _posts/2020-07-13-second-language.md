@@ -1,7 +1,7 @@
 ---
 id: 49
 title: Second Language
-date: 2020-07-13T13:03:12+00:00
+date: 2020-07-13T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/second-language/
 permalink: /posts/second-language/
 author: sw

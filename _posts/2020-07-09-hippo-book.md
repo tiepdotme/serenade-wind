@@ -1,7 +1,7 @@
 ---
 id: 48
 title: Hippo Book
-date: 2020-07-09T13:03:12+00:00
+date: 2020-07-09T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/hippo-book/
 permalink: /posts/hippo-book/
 author: sw

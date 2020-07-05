@@ -1,7 +1,7 @@
 ---
 id: 50
 title: Peaches and Cream
-date: 2020-07-16T13:03:12+00:00
+date: 2020-07-16T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/peaches-and-cream/
 permalink: /posts/peaches-and-cream/
 author: sw
