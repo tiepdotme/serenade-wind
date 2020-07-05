@@ -7,7 +7,7 @@ _site
 .jekyll-metadata
 _drafts
 public
-images
+# images
 .jekyll-cache
 jekyll-image-gallery-example
 
@@ -22,3 +22,6 @@ wp-content
 Global
 RawImages
 image-resize.py
+
+# Local Netlify folder
+.netlify
