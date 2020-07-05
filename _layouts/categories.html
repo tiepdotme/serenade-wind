@@ -10,7 +10,7 @@ layout: page
     {%- if category[1].size > categories_max -%}
       {% assign categories_max = category[1].size %}
     {%- endif -%}
-  {% endfor %}
+  {%- endfor -%}
   {%- for i in (1..categories_max) reversed -%}
     {%- for category in site.categories -%}
       {%- if category[1].size == i -%}
@@ -25,8 +25,8 @@ layout: page
           </a>
         </li>
       {%- endif -%}
-    {% endfor %}
-  {% endfor %}
+    {%- endfor -%}
+  {%- endfor -%}
 </ul>
 
 {% assign categories_max = 0 %}
@@ -34,7 +34,7 @@ layout: page
   {%- if category[1].size > categories_max -%}
     {% assign categories_max = category[1].size %}
   {%- endif -%}
-{% endfor %}
+{%- endfor -%}
 {%- for i in (1..categories_max) reversed -%}
   {%- for category in site.categories -%}
     {%- if category[1].size == i -%}
@@ -45,12 +45,12 @@ layout: page
             <ul>
             {%- for entry in category.last -%}
               {% include post-tile.html %}
-            {% endfor %}
+            {%- endfor -%}
             </ul>
             </section>
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
       </section>
     {%- endif -%}
-  {% endfor %}
-{% endfor %}
+  {%- endfor -%}
+{%- endfor -%}

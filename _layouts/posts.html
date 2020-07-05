@@ -5,8 +5,8 @@ layout: home
 {{ content }}
 <section class="post-tile-container">
   <ul>
-    {% for entry in site.posts offset:1 limit:10 %}
+    {%- for entry in site.posts offset:1 limit:10 -%}
         {% include_cached post-tile.html %}
-    {% endfor %}
+    {%- endfor -%}
   </ul>
 </section>

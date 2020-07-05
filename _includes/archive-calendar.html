@@ -50,10 +50,10 @@
 </div>
 <script>
     const posts = [];
-{% for year in postsByYear %}
-    {% for post in year.items %}
+{%- for year in postsByYear -%}
+    {%- for post in year.items -%}
     posts["{{post.date | date: '%Y%-m%-d'}}"]=["{{ post.url | relative_url }}", "{{ post.title | markdownify | strip_html | strip_newlines }}"];  
-    {% endfor %}
-{% endfor %}
+    {%- endfor -%}
+{%- endfor -%}
 </script>
 <script src="/assets/js/archive-calendar.js"></script>

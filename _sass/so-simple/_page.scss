@@ -1,6 +1,8 @@
-/* ==========================================================================
-   Page
-   ========================================================================== */
+/* 
+======================================================================
+ Page
+======================================================================
+*/
 
 .page-wrapper {
   margin: 0 auto;
@@ -337,7 +339,9 @@
   }
 }
 
-.layout--post {
+.layout--post,
+.layout--default.featured-post,
+.layout--default.latest-post {
   .page-wrapper {
     position: relative;
     background:linear-gradient(to bottom, #2c3e50a1, #252a34 10%);
@@ -446,7 +450,9 @@
   }
 }
 .layout--post,
-.layout--page {
+.layout--page,
+.layout--default.featured-post,
+.layout--default.latest-post {
 
   .page-header {
     border-bottom: 1px solid;
@@ -520,6 +526,11 @@
   .page-share {
     // display: grid fallback
     clear: both;
+    .btn{
+      border: 0;
+      text-shadow: none;
+      padding: 1em;
+    }
   }
 }
 

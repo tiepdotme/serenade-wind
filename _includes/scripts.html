@@ -1,9 +1,9 @@
 {%- if site.footer_scripts -%}
   {%- for script in site.footer_scripts -%}
     {%- if script contains "://" -%}
-      {%- capture script_path %}{{ script }}{% endcapture -%}
+      {%- capture script_path -%}{{ script }}{% endcapture -%}
     {%- else -%}
-      {%- capture script_path %}{{ script | absolute_url }}{% endcapture -%}
+      {%- capture script_path -%}{{ script | absolute_url }}{% endcapture -%}
     {%- endif -%}
   <script src="{{ script_path }}"></script>
   {%- endfor -%}
@@ -31,4 +31,3 @@
 {%- if page.layout == "search" -%}
   {% include lunr-search-scripts.html %}
 {%- endif -%}
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

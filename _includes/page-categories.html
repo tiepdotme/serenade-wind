@@ -1,4 +1,4 @@
-{% if page.categories.size > 0 %}
+{%- if page.categories.size > 0 -%}
   <ul class="page-taxonomies">
     {%- for category in page.categories -%}
       <li class="page-taxonomy">
@@ -8,6 +8,6 @@
           {{ category }}
         {%- endif -%}
       </li>
-    {%- endfor- %}
+    {%- endfor- -%}
   </ul>
-{% endif %}
+{%- endif -%}

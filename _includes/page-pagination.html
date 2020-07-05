@@ -1,5 +1,5 @@
 <nav class="page-pagination" role="navigation">
-  {% if page.previous %}
+  {%- if page.previous -%}
     <a class="page-previous" href="{{ page.previous.url | relative_url }}">
       <h4 class="page-pagination-label">{{ site.data.text[site.locale].previous | default: 'Previous' }}</h4>
       <span class="page-pagination-title">
@@ -11,9 +11,9 @@
       </span>
     </a>
 
-  {% endif %}
+  {%- endif -%}
 
-  {% if page.next %}
+  {%- if page.next -%}
     <a class="page-next" href="{{ page.next.url | relative_url }}">
       <h4 class="page-pagination-label">{{ site.data.text[site.locale].next | default: 'Next' }}</h4>
       <span class="page-pagination-title">
@@ -24,5 +24,5 @@
         Posted on: {{ page.next.date | date: date_format }}
       </span>      
     </a>
-  {% endif %}
+  {%- endif -%}
 </nav>

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: latest post
+title: Latest Post
+permalink: /latest/
 ---
 {%- assign page = site.posts.first -%}
 {% include post-layout.html %}
