@@ -15,7 +15,7 @@ tags:
     - powerofwhy
 share: true
 image:
-    thumbnail: /images/small/menu-sw02.png 
+    thumbnail: /images/small/coffee-writing-computer-blogging.jpg 
 excerpt: Over the past few months, Andrew has been working on redesigning serenadewind.com to make our lives easier when we're offshore. We also took this as an opportunity to improve your experience - intuitive navigation, introduce more content, and pretty it up.   
 ---
 {% include toc %}

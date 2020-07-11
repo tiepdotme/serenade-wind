@@ -9,6 +9,10 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       grid-gap: 1rem;
+
+      @include breakpoint($large){
+        grid-template-columns: repeat(3, [col-start] minmax(320px, 1fr) [col-end]);
+      }
       
       > li {
         border: 1px solid #252a34;
