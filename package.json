@@ -26,5 +26,8 @@
     "postcss-cli": "^7.1.1",
     "surge": "^0.21.3",
     "uglify-js": "^3.10.0"
+  },
+  "scripts": {
+    "uglify": "uglifyjs assets/js/plugins/lity.js assets/js/plugins/jquery.smooth-scroll.js assets/js/plugins/table-of-contents.js assets/js/main.js -c -m -o assets/js/main.min.js"
   }
 }
