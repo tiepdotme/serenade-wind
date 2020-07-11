@@ -31,7 +31,7 @@ group :jekyll_plugins do
    gem 'jekyll-seo-tag'
    gem 'jekyll-archives'
    gem 'octopress-minify-html'
-   gem 'jekyll-commonmark'
+   # gem 'jekyll-commonmark'
    gem 'jekyll-include-cache'
 # gem 'jekyll-multiple-languages-plugin'
 # gem 'amp-jekyll'

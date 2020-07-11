@@ -1,5 +1,5 @@
 ---
-id: 51
+id: 52
 title: Beautiful People
 date: 2020-07-20T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/beautiful-people/
@@ -19,7 +19,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/dhn-engagement-photo-bw.jpg 
-excerpt: It's July and after celebrating Independence Day, I know no better way to enjoy the summer than with peaches and cream. 
+excerpt: Fundamentally, we are all social creatures and want to feel a connection to others and a sense of purpose. I found that connection based on social status, brands, what or who you know felt quite hollow. We are not beautiful people.
 ---
 {% include toc %}
 
@@ -34,13 +34,26 @@ I love this time of year. I am reminded of sunny afternoons of my youth, speedin
 
 These days, we're not driving around much to do our part to slow down the pandemic. We have our sights on moving at the end of summer, so this is no time to be taking unnecessary risks.
 
-Just because we don't take our usual cruise down the highway listening to Skrillex's Bangarang or System of a Down's Toxicity, doesn't mean we don't ask Alexa to play it at home.
+Just because we don't take our usual cruise down the highway listening to Skrillex's [Bangarang](https://www.youtube.com/watch?v=cR2XilcGYOo) or System of a Down's [Toxicity](https://www.youtube.com/watch?v=iywaBOMvYLI), doesn't mean we don't ask [Alexa](https://www.amazon.com/smart-home-devices/b/?ie=UTF8&node=9818047011&ref_=sv_devicesubnav_1) to play it at home.
 
 So what are we listening to these days?
 
+{% assign pwimg="dhn-wzly-denise" %}
+{% assign pwcaption="WZLY circa 1991" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
+# College DJ
+
+These days, I'm going through some really old mixtapes I made in high school and college. Back then, I was a disc jockey on [WZLY 91.5](https://wzly.net/) and in order to save money, I would head down to the station and sequester one of the studios to record my own mixes from the station's library of CDs and vinyl records. It was such an advancement to my high school days of recording directly from LA radio stations like [KROQ 106.7](https://kroq.radio.com/).
+
+Alas, audio cassette tapes are worthless these days, except in my case, they happen to still capture some rare vinyl tracks and more importantly some of my old shows which were named: Audio Seizure, Next Exit, and In Your Ear. My roommate Tina and I had a 2-hour slot each semester where we played dance, techno and industrial music. This was the era of underground raves, imports from Manchester and the Italian club scene, and we largely got access to this new music through contacts at [WZBC 90.3](https://www.wzbc.org/) and Boston DJs spinning at Axis and Venus de Milo on [Landsdowne Street](http://archive.boston.com/thingstodo/gotoit/2007/09/boston_nightclu.html).
+
 # Melody vs Lyrics
 
-When listening to a song, do you gravitate to the melody of it first or the lyrics?
+Back then, music was an integral part of my identity. And I grow nostalgic as I digitize the recordings from the past. I am also reminded of the age old question:
+
+>When listening to a song, do you gravitate to the melody of it first or the lyrics?
 
 Andrew gravitates to the lyrics, while I gravitate to the melody. Such was the case as well when I first heard "Beautiful People" by Ed Sheeran. However when I learned of the lyrics, I was blown away.
 
@@ -49,92 +62,6 @@ In this place and in this time, the lyrics from "Beautiful People" resonate with
 {% include responsive-embed url="https://www.youtube.com/embed/mj0XInqZMHY" ratio="16:9" %}
 
 This song is about the so-called "[Beautiful People](https://www.songfacts.com/facts/ed-sheeran/beautiful-people)," a term for those who move in fashionable or glamorous circles.
-
-# Lyrics to Beautiful People
-
-We are, we are, we are
-
-L.A. on a Saturday night in the summer  
-Sun down and they all come out  
-Lamborghinis and their rented Hummers  
-The party's on, so they're heading downtown  
-('Round here)
-
-Everybody's looking for a come-up  
-And they wanna know what you're about  
-Me in the middle with the one I love and  
-We're just tryna figure everything out
-
-We don't fit in well  
-'Cause we are just ourselves  
-I could use some help  
-Getting out of this conversation, here  
-You look stunning, dear  
-So don't ask that question here  
-This is my only fear  
-That we become
-
-Beautiful people  
-Drop-top, designer clothes  
-Front row at fashion shows  
-"What d'you do?" and "Who d'you know?"  
-Inside the world of  
-Beautiful people  
-Champagne and rolled-up notes  
-Pre-nups and broken homes  
-Surrounded, but still alone  
-Let's leave the party
-
-{% assign pwimg="beautiful-people" %}
-{% assign pwcaption="Still image from music video" %}
-{% assign pwpng="" %}
-{% include post-wide-image.html%}
-
-That's not who we are  
-(We are, we are, we are)  
-We are not beautiful  
-Yeah, that's not who we are  
-(We are, we are, we are)  
-We are not beautiful
-
-(L.A., mm)
-
-Drove for hours last night and we made it nowhere  
-(Nowhere, nowhere)  
-I see stars in your eyes when we're halfway there  
-(All night)  
-I'm not fazed by all the lights and flashing cameras  
-'Cause with my arms around you, there's no need to care
-
-We don't fit in well  
-We are just ourselves  
-I could use some help  
-Getting out of this conversation here  
-You look stunning, dear  
-So don't ask that question here  
-This is my only fear  
-That we become
-
-Beautiful people  
-Drop-top, designer clothes  
-Front row at fashion shows  
-"What d'you do?" and "Who d'you know?"  
-Inside the world of  
-Beautiful people  
-Champagne and rolled-up notes  
-Pre-nups and broken homes  
-Surrounded, but still alone  
-Let's leave the party
-
-That's not who we are  
-(We are, we are, we are)  
-We are not beautiful (yeah)  
-Yeah, that's not who we are  
-(We are, we are, we are)  
-We are not beautiful
-
-(We are, we are, we are)  
-We are not beautiful
 
 >“Beautiful People” is the title of a collaboration between English singer Ed Sheeran and American R&B singer Khalid. The lyrics of this collaboration center on one very important thing – being utterly true to yourself. The song encourages listeners to fight against the temptation of becoming one of those people whose lives center around material things. In the song, Sheeran and Khalid refer to these people as “beautiful people”.
 
@@ -168,6 +95,6 @@ We explored this topic a few times previously:
 -   Focusing as much as you can on the [present](/posts/past-present-and-future/), since that is the only thing you really have control over
 -   Finding your own purpose in life and perhaps your [second mountain](/posts/philanthropy/) will bring more fulfillment to you than the first mountain
 
-Fundamentally, we are all social creatures and want to feel a connection to others and a sense of purpose. I found that connection based on social status, brands, what or who you know felt quite hollow.
+Fundamentally, we are all social creatures and want to feel a connection to others and a sense of purpose. I found that connection based on social status, brands, what or who you know felt quite hollow. Be true to yourself. 
 
 We are not beautiful people.

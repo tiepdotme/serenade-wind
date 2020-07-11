@@ -29,8 +29,7 @@ excerpt: A few months ago, Jan Wooller got in touch with us. Along with her sage
 
 A few months ago, Jan Wooller got in touch with us. She heard through Bill that we were interested in buying RJ Slocum and had many kind things to say about Bill and the boat.
 
->
-> As you can gather we have amassed quite a lot of experience over the years and know boats very well.
+>As you can gather we have amassed quite a lot of experience over the years and know boats very well.
 > 
 > We can truthfully say that Rachel J Slocum is one of only a very small handful of yachts that we would be happy to go long distance sailing on. She's incredibly well thought out and strongly built and will get you out of trouble no matter the conditions. We were green with envy over her forward facing sounder.
 > 
@@ -87,11 +86,11 @@ We enjoyed various anecdotes about Jan and Nick's lives over the past 30 years c
 
 ## Replenishing the cruising kitty
 
-While we have put together a reasonable budget, we cannot forecast for the unexpected and be 100% accurate. Even though they had set themselves up as well as they could, there were times where they needed to take a break from sailing and they were able to find jobs in Hong Kong, Japan, New Zealand and American Samoa.
+While we have put together a [reasonable budget](/posts/boat-purchase/), we cannot forecast for the unexpected and be 100% accurate. Even though they had set themselves up as well as they could, there were times where they needed to take a break from sailing and they were able to find jobs in Hong Kong, Japan, New Zealand and American Samoa.
 
 ## Life in Japan
 
-Andrew and I honeymooned in Japan. It was a place that long fascinated Andrew and we realized that our visit there was much too short. We're hoping to have an extended stay there, just as Jan and Nick had. If the South Pacific islands don't open up next year for cruisers, we may opt instead to sail to Hawaii and then on to Japan.
+Andrew and I [honeymooned in Japan](/posts/packing-light/). It was a place that long fascinated Andrew and we realized that our visit there was much too short. We're hoping to have an extended stay there, just as Jan and Nick had. If the South Pacific islands don't open up next year for cruisers, we may opt instead to sail to Hawaii and then on to Japan.
 
 ## Misha, the bilge cat
 

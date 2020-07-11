@@ -10,7 +10,10 @@
     + Inspired by [Olivier Pieters](https://gist.github.com/opieters/756c86fdad219867c0f4)
 + Hosting
     + DreamHost
-    + NetFly
+    + netlify
+        * netlify cli
+        * continuous deployment
+        * nightly builds
     + Surge
 + SublimeText
 
@@ -57,3 +60,5 @@ To insert a new image into a post, we will use a template include.  While editin
 - From the project folder, run `startsw`
 - Local Website URL: `http://127.0.0.1:4000`
 - Every time a file is saved, the website will be rebuilt automatically to allow the changes to be previewed.
+
+## 

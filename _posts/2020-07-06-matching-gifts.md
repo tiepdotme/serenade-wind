@@ -7,7 +7,7 @@ permalink: /posts/matching-gifts/
 author: sw
 layout: post
 categories:
-    - Minimalist
+    - Minimalist Living
 tags:
     - leanintovalues
     - philanthropy

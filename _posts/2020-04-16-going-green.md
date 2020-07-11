@@ -93,56 +93,6 @@ Plastic free, zero waste and eco-friendly products are not cheap. But rather tha
 ## Future Products
 {% include post-image-gallery.html gallery=site.data.galleries.going-green.future galId="future" hideArrows=true %}
 
-<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function(event) {     
-        var glideOptions = {
-          // Mobile-first defaults
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          scrollLock: true,
-          dots: '.dots',
-          arrows: {
-            prev: '.glider-prev',
-            next: '.glider-next'
-          },
-          responsive: [
-            {
-              // screens greater than >= 775px
-              breakpoint: 775,
-              settings: {
-                // Set to `auto` and provide item width to adjust to viewport
-                slidesToShow: 'auto',
-                slidesToScroll: 'auto',
-                itemWidth: 250,
-                duration: 0.25
-              }
-            },{
-              // screens greater than >= 1024px
-              breakpoint: 1024,
-              settings: {
-                slidesToShow: 5,
-                slidesToScroll: 1,
-                itemWidth: 150,
-                duration: 0.25
-              }
-            }
-          ]
-        };
-        var currOpts = glideOptions;
-        currOpts.dots = ".dots-current";
-        currOpts.arrows.prev = ".current-prev";
-        currOpts.arrows.next = ".current-next";
-        new Glider(document.querySelector('.current'), currOpts);
-
-        var futureOpts = glideOptions;
-        futureOpts.dots = ".dots-future";
-        futureOpts.arrows.prev = ".future-prev";
-        futureOpts.arrows.next = ".future-next";
-        new Glider(document.querySelector('.future'), futureOpts);
-        
-    });
-</script>
-
 ## Payoff of going green
 If we were to total the full replacement cost per unit in a straight up comparison, the current products we buy are indeed cheaper. Even on a cost per use basis, the future products we buy are less economical although they give us the peace of mind that we are doing our part to help the environment.
 

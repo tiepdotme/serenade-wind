@@ -12,7 +12,9 @@ resources:
 excerpt: A collection of online and offline resources we manually curated over the years.
 ---
 
-The quick reference guides above are provided with links to online and offline resources that can help you jumpstart lifestyle changes without having to scour the internet.
+The quick reference guides below are provided with links to online and offline resources that can help you jumpstart lifestyle changes without having to scour the internet.
+
+As we uncover more resources, we will continue to update this page. Please check back often. 
 
 We hope you find them helpful.
 

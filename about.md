@@ -8,48 +8,9 @@ image:
     thumbnail: /images/small/corinth-canal-crossing-greece.jpg
 excerpt: Follow us as we embark on this new journey from quitting our corporate jobs and buying a boat to downsizing our possessions in order to begin our sailing adventure around the world. Read on for more about the crew of Serenade Wind.
 ---
-
-In the summer of 2014, the crew of Serenade Wind assembled in Santa Monica: co-skippers Andrew &amp; Denise.
+In the summer of 2014, the crew of Serenade Wind assembled in Santa Monica: co-captains Andrew &amp; Denise.
 
 {% include post-image-gallery.html gallery=site.data.galleries.about-us galId="about-us-gallery" %}
-<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function(event) {     
-        var glideOptions = {
-          // Mobile-first defaults
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          scrollLock: true,
-          dots: '.dots-about-us-gallery',
-          arrows: {
-            prev: '.about-us-gallery-prev',
-            next: '.about-us-gallery-next'
-          },
-          responsive: [
-            {
-              // screens greater than >= 775px
-              breakpoint: 775,
-              settings: {
-                // Set to `auto` and provide item width to adjust to viewport
-                slidesToShow: 'auto',
-                slidesToScroll: 'auto',
-                itemWidth: 250,
-                duration: 0.25
-              }
-            },{
-              // screens greater than >= 1024px
-              breakpoint: 1024,
-              settings: {
-                slidesToShow: 3,
-                slidesToScroll: 1,
-                itemWidth: 150,
-                duration: 0.25
-              }
-            }
-          ]
-        };
-        new Glider(document.querySelector('.about-us-gallery'), glideOptions);
-    });
-</script>
 
 Follow us as we embark on this new journey from quitting our corporate jobs and buying a boat to downsizing our possessions in order to begin our sailing adventure around the world.
 

@@ -1,5 +1,5 @@
 ---
-id: 49
+id: 50
 title: Second Language
 date: 2020-07-13T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/second-language/
@@ -63,7 +63,7 @@ When I first queried google, I came across [sailing anarchy](http://forums.saili
 Finally, there was a strong recommendation that regardless of the second language you want to pick up, whatever you do, learn to curse in as many languages as you can!
 
 {% assign pwimg="101-building-during-golden-hour" %}
-{% assign pwcaption="101, the tallest building in Taiwan" %}
+{% assign pwcaption="Taipei 101, among the tallest buildings in Taiwan" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -82,6 +82,8 @@ Yacht designer Bob Perry also happened to chime in and offered his experience:
 > I was waiting to be picked up one morning in Taiwan, standing in the hotel lobby. The intercom system announced something in Mandarin but I paid no attention. After a few repetitions of the intercom message, I realized they were paging me in Mandarin. I was so proud.
 > 
 > Mandarin or whatever you choose to call it is a beautiful language, a real challenge and fun to use.
+
+Read more about Bob Perry's [Taiwan connection](https://www.perryboat.com/Taiwan/taiwan.html) on his website.
 
 {% assign pwimg="mountains-clouds-historical-great-wall-of-china" %}
 {% assign pwcaption="" %}

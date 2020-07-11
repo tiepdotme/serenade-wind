@@ -33,7 +33,7 @@
       <div>
         <figure class="gallery-image page-image-lightbox">
         	<picture>	
-        		<img srcset="{{imgDomain}}/{{ imgPath }}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/{{ imgPath }}/{{ pwimg }}_2x{{fileExt}} 2x"  alt="{{pic.caption | strip_html}}" title="{{pic.title | strip_html}}" {{lightboxAttr}}>
+        		<img srcset="{{imgDomain}}/{{ imgPath }}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/{{ imgPath }}/{{ pwimg }}_2x{{fileExt}} 2x"  alt="{{pic.caption | strip_html | escape}}" title="{{pic.title | strip_html | escape}}" {{lightboxAttr}}>
         	</picture>
         	<figcaption>{{pic.caption}}</figcaption>
         </figure>
@@ -45,8 +45,8 @@
     {%- else -%}  
       {% assign arrowClass = "" %}
     {%- endif -%}  
-    <button aria-label="Previous" class="{{include.galId}}-prev button-prev {{arrowClass}}">«</button>
-    <button aria-label="Next" class="{{include.galId}}-next button-next  {{arrowClass}}">»</button>
+    <button aria-label="Previous" class="prev-{{include.galId}} button-prev {{arrowClass}}">«</button>
+    <button aria-label="Next" class="next-{{include.galId}} button-next  {{arrowClass}}">»</button>
     <div role="tablist" class="dots-{{include.galId}}"></div>
     
   </section>
