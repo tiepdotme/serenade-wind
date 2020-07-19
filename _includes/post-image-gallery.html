@@ -18,19 +18,22 @@
 	{% assign imgPath = "small" %}
 {%- endif -%}
 		<div class="gallery-slider {{include.galId}}">
-      {% assign imgPath = "/images" %}
-      {% assign lightboxAttr= "" %}
-
+{%- if jekyll.environment == "development" -%}
+    {% assign imgDomain = "/images" %}
+{%- else -%}
+    {% assign imgDomain = "https://slocum.surge.sh" %}
+{%- endif -%}
+{% assign lightboxAttr= "" %}
 	{%- for pic in include.gallery.pictures -%}
 		{% assign pwimg = pic.filename %}
 		{% assign fileExt = pic.extension %}
 		{%- if include.gallery.type == nil -%}
-			{% assign lightboxAttr= " data-lity data-lity-target='" | append:imgPath| append: "/xlarge/" | append: pwimg | append: fileExt | append: "'" %}
+			{% assign lightboxAttr= " data-lity data-lity-target='" | append:imgDomain| append: "/xlarge/" | append: pwimg | append: fileExt | append: "'" %}
 		{%- endif -%}
       <div>
         <figure class="gallery-image page-image-lightbox">
         	<picture>	
-        		<img srcset="{{imgPath}}/{{ imgPath }}/{{ pwimg }}{{fileExt}}, {{imgPath}}/{{ imgPath }}/{{ pwimg }}_2x{{fileExt}} 2x"  alt="{{pic.caption | strip_html | escape}}" title="{{pic.title | strip_html | escape}}" {{lightboxAttr}}>
+        		<img srcset="{{imgDomain}}/{{ imgPath }}/{{ pwimg }}{{fileExt}}, {{imgDomain}}/{{ imgPath }}/{{ pwimg }}_2x{{fileExt}} 2x"  alt="{{pic.caption | strip_html | escape}}" title="{{pic.title | strip_html | escape}}" {{lightboxAttr}}>
         	</picture>
         	<figcaption>{{pic.caption}}</figcaption>
         </figure>
