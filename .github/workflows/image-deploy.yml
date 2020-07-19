@@ -1,0 +1,16 @@
+name: CDN Deployment
+
+# on: [push]
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: Deploying to surge.sh
+#     steps:
+#       - uses: actions/checkout@v1
+#       - name: Install surge and fire deployment
+#         uses: actions/setup-node@v1
+#         with:
+#           node-version: 8
+#       - run: npm install -g surge
+#       - run: surge ./images/  --token ${{ secrets.SURGE_TOKEN }}

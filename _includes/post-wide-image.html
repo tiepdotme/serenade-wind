@@ -11,17 +11,13 @@
     {% assign fileExt = ".jpg" %}
 {%- endif -%}
 
-{%- if jekyll.environment == "development" -%}
-    {% assign imgDomain = "/images" %}
-{%- else -%}
-    {% assign imgDomain = "https://slocum.surge.sh" %}
-{%- endif -%}
+{% assign imgPath = "/images" %}
 
 <figure class="page-image-lightbox {{caption_class}}">
   <picture>
-    <source media="(max-width:480px)" srcset="{{ imgDomain | strip }}/small/{{ pwimg | strip}}{{ fileExt }}, {{ imgDomain }}/small/{{ pwimg }}_2x{{ fileExt }} 2x">
-    <source media="(min-width:768px)" srcset="{{  imgDomain }}/medium/{{ pwimg }}{{ fileExt }}, {{ imgDomain }}/medium/{{ pwimg }}_2x{{ fileExt }} 2x">
-    <img src="{{ imgDomain }}/small/{{ pwimg }}{{fileExt}}" srcset="{{imgDomain}}/small/{{ pwimg }}{{fileExt}}, {{imgDomain}}/small/{{ pwimg }}_2x{{fileExt}} 2x" alt="{{img_caption | strip_html}}" title="{{ img_caption | strip_html}}" data-lity data-lity-target="{{imgDomain}}/xlarge/{{ pwimg }}{{fileExt}}" />
+    <source media="(max-width:480px)" srcset="{{ imgPath | strip }}/small/{{ pwimg | strip}}{{ fileExt }}, {{ imgPath }}/small/{{ pwimg }}_2x{{ fileExt }} 2x">
+    <source media="(min-width:768px)" srcset="{{  imgPath }}/medium/{{ pwimg }}{{ fileExt }}, {{ imgPath }}/medium/{{ pwimg }}_2x{{ fileExt }} 2x">
+    <img src="{{ imgPath }}/small/{{ pwimg }}{{fileExt}}" srcset="{{imgPath}}/small/{{ pwimg }}{{fileExt}}, {{imgPath}}/small/{{ pwimg }}_2x{{fileExt}} 2x" alt="{{img_caption | strip_html}}" title="{{ img_caption | strip_html}}" data-lity data-lity-target="{{imgPath}}/xlarge/{{ pwimg }}{{fileExt}}" />
   </picture>
   {%- if pwcaption and pwcaption != "" -%}
   <figcaption>{{pwcaption}}</figcaption>

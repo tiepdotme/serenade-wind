@@ -1,5 +1,5 @@
 # Images Redirect
-/images/*	https://slocum.surge.sh/:splat
+# /images/*	https://slocum.surge.sh/:splat
 
 # WordPress Redirects
 /relationships/life-reset-on-whiteboard/ /posts/time-to-go-to-the-whiteboard/
