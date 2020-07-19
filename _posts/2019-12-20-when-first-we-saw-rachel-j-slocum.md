@@ -32,7 +32,7 @@ excerpt: There isn't any one perfect boat for everyone. The boat you choose shou
 
 # Let the hunt begin!
 
-Here is our story of how we found the perfect boat for us, when we first saw Rachel J Slocum.
+Here is our story of how we found the perfect boat for us, when we first saw [Rachel J Slocum](/about-rachel-j-slocum/).
 
 Over the past year and a half, Andrew was way ahead of me in scouring the nets looking at sailing videos, He also really took to heart that one of the stickies on the whiteboard that I wrote down was “maintain comfort.”
 
@@ -149,7 +149,7 @@ When First We Saw Rachel J Slocum, she was described as follows:
 {% include post-wide-image.html%}
 
 
-When I first read the website's write-up on s/v Rachel J. Slocum, these words stood out to me:
+When I first read the website's write-up on [s/v Rachel J. Slocum](https://serenadewind.netlify.app/about-rachel-j-slocum/), these words stood out to me:
 
 - Nothing must compromise sailing ability
 - No consideration to cost

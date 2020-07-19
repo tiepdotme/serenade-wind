@@ -32,7 +32,7 @@ excerpt: Tumultuous would be *le mot juste* to describe the following week. As
 
 # A Week in the Life
 
-Tumultuous would be *le mot juste* to the week which followed our trip to Ft. Lauderdale. As the week progressed, we would have to face a go/no-go decision with regards to purchasing s/v Rachel J. Slocum.
+Tumultuous would be *le mot juste* to the week which followed our trip to Ft. Lauderdale. As the week progressed, we would have to face a go/no-go decision with regards to purchasing [s/v Rachel J. Slocum](/about-rachel-j-slocum/).
 
 While we were enroute to Los Angeles, Bill had drafted a term sheet which summarized our discussions on Saturday. This agreement was waiting for our consideration when we got home. (I'm sure Bill was waiting, too.)
 

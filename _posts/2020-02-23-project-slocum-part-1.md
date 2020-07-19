@@ -41,7 +41,7 @@ While Andrew has purchased a boat in the past, the materiality of this purchase 
 
 # Meeting The Owner
 
-When we first checked out the rjslocum.com website, we were delighted with the information shared about the vessel as well as about the owner.
+When we first checked out her website, we were delighted with the information shared about the vessel as well as about the owner.
 
 Given that she is a 50 foot custom-built staysail schooner who has been lovingly maintained by one owner for 30 years, it was infinitely more important to us to gain as much sailing knowledge from the original owner than validate the feature list and maintenance history.
 
@@ -65,7 +65,7 @@ Given that she is a 50 foot custom-built staysail schooner who has been lovingly
 
 Since late December, we have corresponded with the owner who was staying in SNevis in the Caribbean. We made arrangements in mid-March to see the boat when he and his wife would be back in Florida.
 
-While Andrew and I devoured every pixel of information we could on the rjslocum website, we quickly came to the conclusion that what we saw in the design and feature selection of the boat came from a very purposeful and thoughtful owner, who placed a high premium on the sailing capabilities of the boat while still ensuring that he and his wife would be sailing in safety and comfort across the high seas. 
+While Andrew and I devoured every pixel of information we could on the owner's website, we quickly came to the conclusion that what we saw in the design and feature selection of the boat came from a very purposeful and thoughtful owner, who placed a high premium on the sailing capabilities of the boat while still ensuring that he and his wife would be sailing in safety and comfort across the high seas. 
 
 We subsequently learned that his choices and decisions stemmed from the following:
 
@@ -74,7 +74,7 @@ We subsequently learned that his choices and decisions stemmed from the followin
 - resources to commission legendary yacht designers ([Tanton](https://chauncey-tanton-wb7a.squarespace.com/ "Tanton"), [Pedrick](https://www.pedrickyacht.com/ "Pedrick")) and builders ([Ta Shing](http://www.tashingyachts.com.tw/ "Ta Shing Boatyard")) to create a bespoke sailboat
 - time to monitor its design and construction each step of the way
 
-s/v Rachel J. Slocum is not just an owner's boat... She is a [boatwright](https://www.dictionary.com/browse/boatwright "boatwright") owner's boat.
+[s/v Rachel J. Slocum](/about-rachel-j-slocum/) is not just an owner's boat... She is a [shipwright](https://www.dictionary.com/browse/boatwright "what is a shipwright") owner's boat.
 
 We also got a kick out of being able to track her whereabouts on [AIS](https://www.myshiptracking.com/?mmsi=235001830 "Find RJS"). 
 
@@ -82,7 +82,6 @@ We also got a kick out of being able to track her whereabouts on [AIS](https://w
 {% assign pwcaption="" %}
 {% assign pwpng="true" %}
 {% include post-wide-image.html%}
-
 
 # Unconventional Transaction
 
@@ -110,7 +109,7 @@ The transaction will likely proceed as follows:
 - Make an offer contingent on satisfactory marine survey and sea trial.
 - Owner secures insurance, hauls out the vessel for cleaning and new anti-foul coat, replace used sails with new spectra sails.
 - Complete pre-purchase marine survey and sea trial in Florida.
-- Assuming she is [bristol](http://www.boatinspect.com/Insurance%20Survey.htm "bristol") and the final price agreed, transaction closes.
+- Assuming she is [bristol](http://www.boatinspect.com/Insurance%20Survey.htm "what is bristol") and the final price agreed, transaction closes.
 - Sailing part of our adventure begins!
 
 This timeline will likely take place over the next 6 to 9 months as we likely don't want to take possession until after the hurricane season ends in Florida/Caribbean. We also need that amount of time to downsize (i.e., sell off assets such as cars, furniture, and personal items) until we are left with only the things we want to take with us aboard.

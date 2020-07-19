@@ -101,7 +101,7 @@ One of the unknowns still lurking in our minds is whether Oreo and Xiao Long are
 Much like the authors, we love traveling and exploring, so the thought of being able to spend a month to six weeks backpacking is one of our goals of sailing. Sailing afforded them the opportunity to backpack through Thailand, Cambodia, Laos, New Zealand, South Africa, Kenya, Namibia, India and Nepal.
 
 {% assign pwimg="jan-nick-wooler-yawarra-get-jealous" %}
-{% assign pwcaption="Photo courtesy of Jan and Nick Wooller. Here they are aboard s/v Yawarra II" %}
+{% assign pwcaption="Photo by Jan and Nick Wooller. Here they are aboard s/v Yawarra II" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

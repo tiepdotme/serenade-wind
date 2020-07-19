@@ -13,6 +13,7 @@ tags:
     - gowiththeflow
     - unstructured
     - powerofwhy
+    - shutterbug
 share: true
 image:
     thumbnail: /images/small/coffee-writing-computer-blogging.jpg 

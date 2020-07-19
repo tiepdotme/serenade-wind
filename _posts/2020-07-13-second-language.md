@@ -23,7 +23,7 @@ excerpt: Like many of you, I am inspired by ideas while in the shower. My latest
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-# Parlez-vous francais?
+# Parlez-vous français?
 
 On the eve of [Bastille Day](https://en.wikipedia.org/wiki/Bastille_Day), it seems fitting to talk about the topic: learning a second language.
 
@@ -97,7 +97,3 @@ Lucky for me, I studied French in junior high, high school and college, so I hav
 Andrew, on the other hand, knows Romanian and has a working knowledge of German and Latin.
 
 Needless to say, we both need to brush up on our language skills. One of the keys of immersing ourselves in the country and cultures we intend to visit will be going native, so to speak, which means learning a second language or perhaps a third, fourth or fifth language.
-
-We're also reminded of Joshua Slocum who picked up a working knowledge of Portuguese while he sailed alone around the world.
-
-Captain Slocum, a good model for us all.

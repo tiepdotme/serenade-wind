@@ -32,6 +32,12 @@ Money should be the worst and last thing anyone in this situation would need to 
 
 If you would also like to help, here is the [GoFundMe](https://www.gofundme.com/f/childress-covid-care?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet) to support them. Thank you.
 
+## Update as of July 17, 2020
+
+Last month, Patrick Childress passed away, roughly 3 weeks after being admitted to the hospital. Rebecca was allowed to see him, say her goodbye and let him go. She said that everything is OK now, he can go and she will catch up with him someday again, and that they would have fun together again someday. Her farewell brought tears to my eyes.
+
+The [GoFundMe](https://www.gofundme.com/f/childress-covid-care?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet) continues to provide updates since his passing if you want to learn more about how Rebecca is doing and the status of their [website](http://whereisbrickhouse.com/) and Youtube Channel.
+
 {% assign pwimg="brown-leather-duffel-bag" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
@@ -39,7 +45,7 @@ If you would also like to help, here is the [GoFundMe](https://www.gofundme.com/
 
 [30-weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minimalism/) kicked off the first of a 5 part series on getting prepared to live on a sailboat. This begins by downsizing many of our land-based belongings. We made a yeoman's effort earlier this year, but in this post, we take a critical eye at clothes and consider packing light. 
 
-This also gives us an opportunity to give you a boat tour of s/v Rachel J. Slocum.
+This also gives us an opportunity to give you a boat tour of [s/v Rachel J. Slocum](/about-rachel-j-slocum/).
 
 >"He who would travel happily must travel light." ~ Antoine de Saint-Exupery
 
@@ -67,7 +73,7 @@ So with this background, we turn to packing for the rest of our life in a 50' sa
 
 How do you go about packing for the rest of your life?
 
-We started by taking measurements of some of the interior spaces of [s/v Rachel J. Slocum](https://www.serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "s/v Rachel J Slocum") during our visit to [Ft. Lauderdale](https://www.serenadewind.com/posts/project-slocum-part-5/ "Project Slocum Part 5") in March.
+We started by taking measurements of some of the interior spaces of [s/v Rachel J. Slocum](/posts/when-first-we-saw-rachel-j-slocum/ "s/v Rachel J Slocum") during our visit to [Ft. Lauderdale](/posts/project-slocum-part-5/ "Project Slocum Part 5") in March.
 
 While Bill was taking Andrew through some of the topside features of the boat, his wife and I went down below while I recorded the measurements of each of the drawers and hanging lockers, paying attention primarily to the areas for personal items.
 
@@ -95,7 +101,7 @@ Additionally, there are two other hanging lockers: one located just outside the 
 
 This is about **65** cubic feet of space compared to **510** cubic feet which we have in our home. This requires that we be ruthless to reduce our possessions by 85% or more.
 
-In [30 weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minimalism/ "30 weeks to minimalism"), we talked about purging by knocking out each category one at a time. This helped to get rid of two closets worth of clothes, and I was quite proud of that effort. However when I looked at the storage options available on RJ Slocum, I knew I needed to start from zero and only take what I need and could fit aboard.
+In [30 weeks to minimalism](/posts/30-weeks-to-minimalism/ "30 weeks to minimalism"), we talked about purging by knocking out each category one at a time. This helped to get rid of two closets worth of clothes, and I was quite proud of that effort. However when I looked at the storage options available on RJ Slocum, I knew I needed to start from zero and only take what I need and could fit aboard.
 
 {% assign pwimg="woman-in-white-dress-shirt" %}
 {% assign pwcaption="" %}
@@ -107,7 +113,7 @@ In [30 weeks to minimalism](https://www.serenadewind.com/posts/30-weeks-to-minim
 
 Thanks to several years and thousands of dollars spent on [Lululemon](https://shop.lululemon.com/ "Lululemon"), we have more than enough athletic and technical clothes to choose to bring with us aboard. By technical clothes, we mean fast drying, sweat wicking, UPF, waterproof, windproof, and insulating yet breathable.
 
-We also have a variety of clothes from [Arc'teryx](https://arcteryx.com/us/en/), [Ex Officio](https://www.exofficio.com/), [Kit and Ace](https://www.kitandace.com/us/en), [The North Face](https://www.thenorthface.com/), [REI](https://www.rei.com/) among others, If we want to remain comfortable at sea, gone are the cottons, silks, linens, leather, wool and [other fabrics](https://www.myorigins.com.au/wp-content/uploads/sites/4/2018/04/IWTO_Fact-Sheets_Wool-in-Marine-Environments.pdf) that will not hold up well to this lifestyle. A tropical marine environment spawns mold and mildew if you're not careful. Additionally, salt water and sun will take their toll on everything.
+We also have a variety of clothes from [Arc'teryx](https://arcteryx.com/us/en/), [Ex Officio](https://www.exofficio.com/), [Kit and Ace](https://www.kitandace.com/us/en), [The North Face](https://www.thenorthface.com/), [REI](https://www.rei.com/) among others, If we want to remain comfortable at sea, gone are the cottons, silks, linens, leather, wool and [other fabrics](https://www.myorigins.com.au/wp-content/uploads/sites/4/2018/04/IWTO_Fact-Sheets_Wool-in-Marine-Environments.pdf) that will not hold up well to this lifestyle. A tropical marine environment spawns mold and mildew if you're not careful. Additionally, salt water and sun will take their toll on everything. We feel pretty validated based on experiences by [Sailing Eurybia](https://sailingeurybia.com/say-no-to-cotton-clothing-for-offshore/) and other cruisers.
 
 ## Storage Solutions
 

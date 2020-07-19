@@ -67,6 +67,11 @@ Unlike her childhood friends, Denise grew up fairly outdoorsy. Each year, her fa
 
 Then in high school, Denise was introduced to trad climbing. Along with a few other graduating seniors on a weekend trip to Joshua Tree, she learned the ropes (so to speak) tying figure 8’s and stopper knots, climber and belay commands, different hand and foot holds. After that weekend, she could not look at a vertical face of a wall or building quite the same again.
 
+{% assign pwimg="joshua-tree-denise-gear" %}
+{% assign pwcaption="Joshua Tree circa 2019" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 While she occasionally visited some indoor gyms thereafter, it was only after meeting Andrew that they delved back into the world of rock climbing, working projects and sending routes.
 
 > It must be fate that brought these two together on the brink of a new adventure.

@@ -28,7 +28,7 @@ excerpt: With the final installment, Project Slocum Part 5 reveals our second da
 {% include post-wide-image.html%}
 
 
-In this final installment, Project Slocum Part 5 reveals our second day aboard s/v Rachel J. Slocum, continued discussions with her owners, and our go/no-go decision under the shadow of coronavirus.
+In this final installment, Project Slocum Part 5 reveals our second day aboard [s/v Rachel J. Slocum](/about-rachel-j-slocum/), continued discussions with her owners, and our go/no-go decision under the shadow of coronavirus.
 
 # In the wee hours
 

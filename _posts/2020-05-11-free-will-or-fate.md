@@ -35,7 +35,7 @@ How can one explain how [a Romanian](https://www.serenadewind.com/about/ "About 
 
 While we continue to observe stay-at-home protocols in California, these past couple of days have presented a few interesting opportunities to test our relationship, and how we both view this new sailing adventure.
 
-As we discussed before in [Go with the Flow](https://www.serenadewind.com/posts/going-with-the-flow/ "Going with the Flow"), I am a "recovering planner" learning to go with the flow. Andrew is a "recovering dreamer" learning to stay grounded. We compliment each other as we move through this transition, and it often manifests in different approaches when new opportunities present themselves.
+As we discussed before in [Go with the Flow](/posts/going-with-the-flow/ "Going with the Flow"), I am a "recovering planner" learning to go with the flow. Andrew is a "recovering dreamer" learning to stay grounded. We compliment each other as we move through this transition, and it often manifests in different approaches when new opportunities present themselves.
 
 Here are three examples over the past few days and how we handled them:
 
@@ -71,7 +71,7 @@ From the start, we had our own cadence for _generating_ content, while the _publ
 
 This will be essential when connecting to the internet is expensive while we are offshore. Working on serenadewind.com v2.0 of course takes time, which is constrained by a full-time job and expertise (which Andrew has in spades).
 
-Our initial content strategy seemed to work out well for us until current events (i.e., purchasing a boat) out-paced the publishing of such content. We thought it silly to publish posts about buying s/v Rachel J. Slocum 6 months after the event, and so we accelerated some and changed the order of other content.
+Our initial content strategy seemed to work out well for us until current events (i.e., purchasing a boat) out-paced the publishing of such content. We thought it silly to publish posts about buying [s/v Rachel J. Slocum](/about-rachel-j-slocum/) 6 months after the event, and so we accelerated some and changed the order of other content.
 
 By doing so, we naturally introduced an element of timeliness to the content and tying in current events such as the coronavirus pandemic. Can that be considered pandering? Perhaps...
 
@@ -179,7 +179,7 @@ When you believe and trust in your partner, what may begin as conflict turns out
 
 Yesterday, we came across an opportunity to get some offshore sailing experience. A delivery captain was looking for 1-2 sailors to crew a delivery from the US Virgin Islands to Annapolis, MD. They depart on April 23rd for a 10-14 day passage over 1,400 nm.
 
-At first blush, both Andrew and I were intrigued by the opportunity. We could learn a lot on a passage like that in a boat with comparable length as [s/v Rachel J. Slocum](https://www.serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "s/v Rachel J Slocum"). And since I had already quit my job and flights were fairly inexpensive these days, I could react immediately. Andrew's situation is a bit more restricted, but he was also happy to take vacation days in order to have this experience.
+At first blush, both Andrew and I were intrigued by the opportunity. We could learn a lot on a passage like that in a boat with comparable length as [s/v Rachel J. Slocum](/about-rachel-j-slocum/). And since I had already quit my job and flights were fairly inexpensive these days, I could react immediately. Andrew's situation is a bit more restricted, but he was also happy to take vacation days in order to have this experience.
 
 When we paused and reflected a little further, we realized we still had to figure out a situation with our cats while we were gone for about 2 weeks. I'm still monitoring Oreo's health day to day, so this wasn't a task to drop without some consideration.
 

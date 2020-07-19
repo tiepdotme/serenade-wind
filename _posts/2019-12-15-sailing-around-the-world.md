@@ -43,7 +43,7 @@ In today's story, we follow-up our [whiteboard discussion](/posts/time-to-go-to-
 
 ## More Sailing
 
-Before we met, Andrew and I both spent a bit of time sailing. When he was living in British Columbia, he owned a catamaran (her name was Periwinkle) which he took out all the time on his own around Boundary Bay.
+Before we met, Andrew and I both spent a bit of time sailing. When he was living in British Columbia, he owned a catamaran (her name was [Periwinkle](/resources/)), which he took out all the time on his own around Boundary Bay.
 
 I had taken a variety of ASA courses, joined a sailing club which got me out on a 36’ Catalina twice a month for a few years, chartered yachts from time to time, raced in the summer Wednesday sunset regattas out of Marina Del Rey, did a moonlight sail in San Francisco (caught in the fog with strong currents was a memorable experience), and crewed a 10-day trip island hopping in the British Virgin Islands.
 
@@ -51,7 +51,6 @@ I had taken a variety of ASA courses, joined a sailing club which got me out on 
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 After we met, we continued to do a little bit of sailing together and even went to Greece on a sailing trip from Corfu to Athens via Corinth Canal. But because life took us in different directions since then, we thought why not see how we can re-incorporate that love of sailing back into our lives.
 
@@ -70,7 +69,6 @@ The other big idea to tackle was how do you go about finding a job and get paid 
 {% assign pwpng="true" %}
 {% include post-wide-image.html%}
 
-
 Now I realize in the spectrum of [Maslow’s Hierarchy of Needs](https://www.simplypsychology.org/maslow.html "Maslow's Hierarchy of Needs"), this is akin to a level 5... self-actualization needs.
 
 Collectively, it seemed in varying degrees we weren’t struggling with levels 1 through 3; there may still be work to do in level 4; and certainly we wanted to see how we can put the idea of becoming the best person you can be in whatever way you can define it.
@@ -81,7 +79,6 @@ So that was it. In some respects, having chosen a few things to focus on suddenl
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # What does boat life mean to us?
 
@@ -102,7 +99,6 @@ We then assessed the pros and cons.
 {% assign pwpng="" %}
 {% include post-wide-image.html%} 
 
-
 ## The Pros 
 
 At the top of the list of Pros for a life of sailing around the world:
@@ -119,7 +115,7 @@ I’ll underscore this last point, because there is something about the [What’
 For me, I start to envision a mash-up of activities I love such as sailing to a remote island with rocky cliffs, dropping anchor, dinghy to shore, and rock climb/deep water solo existing routes or maybe even establishing new routes.
 
 {% assign pwimg="deep-water-solo" %}
-{% assign pwcaption="Chris Sharma climbs without ropes a.k.a. deep water solo. Photo courtesy of Wallpaper Safari" %}
+{% assign pwcaption="Chris Sharma climbs without ropes a.k.a. deep water solo. Photo by Wallpaper Safari" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -128,7 +124,7 @@ How cool is that?
 Other activities assumed while sailing would include music, seeing new places, hiking, even snowboarding if we were to sail to high latitude destinations, learning boat systems, doing more handy work, knitting, photography, reading, and of course cooking.
 
 {% assign pwimg="high-latitude-sailing-morning-haze-credit-benedict-gross" %}
-{% assign pwcaption="Morning Haze is an aluminium-hulled Bestevaer 55ST built specifically for high latitudes cruising. Photo courtesy of Benedict Gross" %}
+{% assign pwcaption="Morning Haze is an aluminium-hulled Bestevaer 55ST built specifically for high latitudes cruising. Photo by Benedict Gross" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

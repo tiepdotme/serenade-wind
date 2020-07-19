@@ -48,7 +48,7 @@ So because of this upbringing, I am borderline hostile when I see waste and inef
 
 # Closer to Nature
 
-Moving aboard a sailboat will take efficiency and conservation to a whole new level. One of the features [of s/v Rachel J. Slocum](https://www.serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "s/v Rachel J Slocum") is a 60 gallon fresh water holding tank and a 30 gal/hour Sea Recovery hydraulic water maker.
+Moving aboard a sailboat will take efficiency and conservation to a whole new level. One of the features [of s/v Rachel J. Slocum](/about-rachel-j-slocum/) is a 60 gallon fresh water holding tank and a 30 gal/hour Sea Recovery hydraulic water maker.
 
 Now while I've taken a variety of efficient methods to stay clean (e.g., fast showers at home, cold showers in the Virgin Islands, sponge baths in South America, and baby wiping while camping in the wilderness), I really wanted to get a handle on what a realistic boat shower could be like.
 
@@ -131,7 +131,7 @@ Rather than sacrificing on a little bit of luxury or comfort, we are now closer 
 
 # Water water everywhere
 
-On the other hand, [s/v Rachel J. Slocum](https://www.serenadewind.com/posts/project-slocum-part-1/ "s/v Rachel J Slocum") also has rain water collection system via valves that can divert all the water that falls on the deck, cabin & sails to the water tank. In a sudden downpour, we could top off her tanks in 10 minutes.
+On the other hand, [s/v Rachel J. Slocum](/about-rachel-j-slocum/) also has rain water collection system via valves that can divert all the water that falls on the deck, cabin & sails to the water tank. In a sudden downpour, we could top off her tanks in 10 minutes.
 
 As we discover each detail about this boat, we get more and more excited about starting this adventure. For now, we are happy dreaming about it and doing our little experiments to approximate what life is like before we cast off the bowlines.
 

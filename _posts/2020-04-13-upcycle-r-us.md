@@ -48,7 +48,7 @@ Typically when a need arises, we generally think about _buying_ a product. It's 
 Now think about being in the middle of an ocean when a need arises.
 
 {% assign pwimg="cabo-rico-38-neville-hockley" %}
-{% assign pwcaption="Cabo Rico 38. Photo courtesy of Neville Hockley" %}
+{% assign pwcaption="Cabo Rico 38. Photo by Neville Hockley" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

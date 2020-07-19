@@ -115,7 +115,7 @@ Andrew and I are letting all of that go. We want to redefine our relationship wi
 
 # A Life of Philanthropy
 
-Andrew and I are embarking on a new adventure aboard s/v Rachel J. Slocum, where we are contemplating [self-sustaining](https://www.simplyss.com/blog/living-off-grid/ "Living Off Grid"), [minimalist](https://www.becomingminimalist.com/minimalist-living/ "Becoming Minimalist") living. 
+Andrew and I are embarking on a new adventure aboard [s/v Rachel J. Slocum](/about-rachel-j-slocum/), where we are contemplating [self-sustaining](https://www.simplyss.com/blog/living-off-grid/ "Living Off Grid"), [minimalist](https://www.becomingminimalist.com/minimalist-living/ "Becoming Minimalist") living. 
 
 Beyond downsizing possessions, we also are [going green](/posts/going-green/ "Going Green") by generating our own power (wind, solar, water) as well as making our own water (e.g., [SeaRecovery](http://www.searecovery.com/ "Sea Recovery") 30/gal hour hydraulic water maker) and mindful of [water conservation](/posts/water-water-everywhere/ "Water water everywhere"), which is critical when we consider the type of sailing we’d like to do. It made sense to me to think about how this guiding principle can also help us to make a decision about how much money is enough and still be consistent with self-sustaining, minimalist living.
 

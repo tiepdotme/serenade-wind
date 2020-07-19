@@ -99,7 +99,7 @@ If most dentists, and the American Dental Association (ADA), recommend changing 
 Perhaps the only downside is they come with only soft bristles and Andrew prefers medium bristles.
 
 {% assign pwimg="divacup" %}
-{% assign pwcaption="Photo courtesy of Business Insider" %}
+{% assign pwcaption="Photo by Business Insider" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

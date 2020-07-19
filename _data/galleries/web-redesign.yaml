@@ -6,36 +6,36 @@ redesign:
     caption: Menu consists of About Us, Blog and FAQ
   - filename: menu-sw02
     extension: .png
-    title: Menu now includes Resources and s/v Rachel J Slocum. It is also sticky allowing you access even if you scroll down.
-    caption: Menu now includes Resources and s/v Rachel J Slocum. It is also sticky allowing you access even if you scroll down.
+    title: Also includes Resources and s/v Rachel J Slocum 
+    caption: Also includes Resources and s/v Rachel J Slocum 
   - filename: nav-sw01
     extension: .png
-    title: The footer allows navigation by category, search and current month.
-    caption: The footer allows navigation by category, search and current month.
+    title: Search by category, search and only current month
+    caption: Search by category, search and only current month
   - filename: nav-sw02
     extension: .png
-    title: The footer permits you to search by category, any month, and tag clouds.
-    caption: The footer permits you to search by category, any month, and tag clouds.
+    title: Search by category, any month, and tag clouds
+    caption: Search by category, any month, and tag clouds
   - filename: nav-sw02b
     extension: .png
-    title: In-line navigation during the blog post tracks where you are and allows you navigate without scrolling.
-    caption: In-line navigation during the blog post tracks where you are and allows you navigate without scrolling. 
+    title: In-line navigation
+    caption: In-line navigation 
   - filename: faq-sw01
     extension: .png
-    title: Two column format was meh and looked cluttered.
-    caption: Two column format was meh and looked cluttered.
+    title: Cluttered format
+    caption: Cluttered format
   - filename: faq-sw02
     extension: .png
-    title: Accordian format is elegant, letting you drill down on what interests you.
-    caption: Accordian format is elegant, letting you drill down on what interests you.
+    title: Elegant, accordian format
+    caption: Elegant, accordiant format
   - filename: resources-sw02
     extension: .png
-    title: We are able to feature resources to provide inspiration or give you a quick reference on sailing topics.
-    caption: We are able to feature resources to provide inspiration or give you a quick reference on sailing topics.
+    title: Resources at the quick
+    caption: Resources at the quick
   - filename: boat-sw02
     extension: .png
-    title: Lastly, we want to feature information and photos of s/v Rachel J Slocum.
-    caption: Lastly, we want to feature information and photos of s/v Rachel J Slocum.
+    title: Photos and specs of s/v Rachel J Slocum
+    caption: Photos and specs of s/v Rachel J Slocum
 logo:
   pictures:
   - filename: dhn-bvi-sunrise

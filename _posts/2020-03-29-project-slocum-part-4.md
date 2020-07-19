@@ -54,7 +54,7 @@ While enroute to the hotel, we checked the local news. Miami-Dade County Mayor C
 There goes our outing to the nearby gastropub, [The Tipsy Boar](http://www.thetipsyboar.com/ "Tipsy Boar"). 
 
 {% assign pwimg="sonder-circ-rooftop" %}
-{% assign pwcaption="Rooftop of Sonder The Circ. Photo courtesy of Sonder." %}
+{% assign pwcaption="Rooftop of Sonder The Circ. Photo by Sonder." %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -80,7 +80,6 @@ I have a feeling our complimentary sleeping schedule will come in quite handy du
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 ## Breakfast
 
 07:00 Andrew stirred from his sleep, and I shortly thereafter. He dressed and offered to walk to [El Cafecito](https://www.yelp.com/biz/el-cafecito-hollywood-2 "El Cafecito") in search of food. We both had a cup of cortadito (pictured above), and he ordered a breakfast sandwich while I had an arepa with white cheese.
@@ -97,7 +96,7 @@ The most striking part of the conversation on the way up was finding out that Bi
 
 ## Quality vs Speed vs Cost
 
-We then found out that s/v Rachel J. Slocum was supposed to take 9-10 months to build. In reality, she took 3 1/2 years, and Bill needed something to do while living in southern Taiwan near the boatyard. So, he decided to open a bar and restaurant.
+We then found out that [s/v Rachel J. Slocum](/about-rachel-j-slocum/) was supposed to take 9-10 months to build. In reality, she took 3 1/2 years, and Bill needed something to do while living in southern Taiwan near the boatyard. So, he decided to open a bar and restaurant.
 
 The extended period of time in Taiwan also afforded him the opportunity to be hands-on in the construction of the boat. He designed the entire electrical system and soldered every connection. As we had suspected, he has intimate knowledge of this vessel. And for this reason, we value time spent with him maybe more than we value the boat, because of the knowledge he could impart about her that could not be found in books or manuals.
 

@@ -50,7 +50,7 @@ exclude:
   - package.json
   - Gemfile
   - Gemfile.lock
-  - _drafts
+  # - _drafts
   - .jekyll-cache
 include:
   - _redirects #netfly redirect

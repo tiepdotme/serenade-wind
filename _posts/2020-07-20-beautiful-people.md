@@ -47,7 +47,7 @@ So what are we listening to these days?
 
 These days, I'm going through some really old mixtapes I made in high school and college. Back then, I was a disc jockey on [WZLY 91.5](https://wzly.net/) and in order to save money, I would head down to the station and sequester one of the studios to record my own mixes from the station's library of CDs and vinyl records. It was such an advancement to my high school days of recording directly from LA radio stations like [KROQ 106.7](https://kroq.radio.com/).
 
-Alas, audio cassette tapes are worthless these days, except in my case, they happen to still capture some rare vinyl tracks and more importantly some of my old shows which were named: Audio Seizure, Next Exit, and In Your Ear. My roommate Tina and I had a 2-hour slot each semester where we played dance, techno and industrial music. This was the era of underground raves, imports from Manchester and the Italian club scene, and we largely got access to this new music through contacts at [WZBC 90.3](https://www.wzbc.org/) and Boston DJs spinning at Axis and Venus de Milo on [Landsdowne Street](http://archive.boston.com/thingstodo/gotoit/2007/09/boston_nightclu.html).
+Alas, audio cassette tapes are worthless these days, except in my case, they happen to still capture some rare vinyl tracks and more importantly some of my old shows which were named: Audio Seizure, Dub This, Next Exit, and In Your Ear. My roommate Tina and I had a 2-hour slot each semester where we played dance, techno and industrial music. This was the era of underground raves, imports from Manchester and the Italian club scene, and we largely got access to this new music through DJs at [WZBC 90.3](https://www.wzbc.org/) and Boston DJs spinning at Axis and Venus de Milo on [Landsdowne Street](http://archive.boston.com/thingstodo/gotoit/2007/09/boston_nightclu.html).
 
 # Melody vs Lyrics
 
@@ -55,7 +55,7 @@ Back then, music was an integral part of my identity. And I grow nostalgic as I 
 
 >When listening to a song, do you gravitate to the melody of it first or the lyrics?
 
-Andrew gravitates to the lyrics, while I gravitate to the melody. Such was the case as well when I first heard "Beautiful People" by Ed Sheeran. However when I learned of the lyrics, I was blown away.
+Andrew gravitates to the lyrics, while I gravitate to the melody. Such was the case as well when I first heard "Beautiful People" by Ed Sheeran, which was released June 28, 2019 (on our 5th anniversary). However, when I learned of the lyrics, I was blown away.
 
 In this place and in this time, the lyrics from "Beautiful People" resonate with me. Fifteen years ago, this would be a nice tune and no more. Since this is a year of great change and transition for us, discarding adopted values that we no longer relate to, this song captures how I feel.
 
@@ -74,7 +74,7 @@ Read more at: [Song Meanings and Facts](https://www.songmeaningsandfacts.com/bea
 
 # That's not who we are
 
-... at least not any more. I have several closets of designer clothes, shoes, bags that would be the envy of any fashionista. If you are familiar with "Devil Wears Prada" by [Lauren Weisberger](https://www.laurenweisberger.com/) (perhaps you've seen the movie?) or "Confessions of a Shopaholic" by [Sophie Kinsella](https://www.sophiekinsella.co.uk/), you'll have an appreciation for the brand obsession plaguing a debt-funded demographic in the U.S. The best cars and the best houses which follows having the best schools and the best jobs. In the early aughts, I was jetting around the world launching new businesses, giving speeches, and attending movie premieres & film festivals.
+... at least not any more. I have several closets of designer clothes, shoes, bags that would be the envy of any fashionista. If you are familiar with "Devil Wears Prada" by [Lauren Weisberger](https://www.laurenweisberger.com/) (perhaps you've seen the movie?) or "Confessions of a Shopaholic" by [Sophie Kinsella](https://www.sophiekinsella.co.uk/), you'll have an appreciation for the brand obsession plaguing a debt-funded demographic in the U.S. The best cars and the best houses, which follows having the best schools and the best jobs. In the early aughts, I was jetting around the world launching new businesses, giving speeches, and attending movie premieres & film festivals.
 
 That life has a momentum of its own, but it is not self-sustainable. And the question inevitably crops up:
 

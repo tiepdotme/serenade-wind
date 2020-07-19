@@ -63,7 +63,7 @@ Later on I joined [CSC](http://www.californiasailingcoop.org/index.html), a frac
 At the time, I remember looking into becoming a member even though I didn't own a boat, and I found it to be cost prohibitive. Ironically, I didn't do any [further research](https://www.yachtworld.com/research/how-to-find-the-right-yacht-club/), which is unlike me. I probably could have found something that would [suit my needs](https://www.investopedia.com/articles/wealth-management/121115/finding-right-yacht-club-quick-guide.asp), but life got in the way.
 
 {% assign pwimg="ryct-sunrise" %}
-{% assign pwcaption="Photo courtesy of RYCT" %}
+{% assign pwcaption="Photo by RYCT" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -98,7 +98,7 @@ Hugh started at the age of 15, by volunteering to launch 12' dinghies at the loc
 In addition to sharing his time with us and answering our questions, he also sponsored our membership to the Royal Yacht Club of Tasmania.
 
 {% assign pwimg="ryct-club-house" %}
-{% assign pwcaption="Photo courtesy of RYCT" %}
+{% assign pwcaption="Photo by RYCT" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -130,7 +130,7 @@ We have also taken to watching footage of the [2019 Sydney to Hobart](https://ww
 Meanwhile, the RYCT board met on April 28th and our application was tabled for consideration. In the ensuing month, our application is displayed on the Club’s notice board for member review. Nominations are ratified at the next Board Meeting if there are no objections. That meeting took place May 29th, and we were officially made members!
 
 {% assign pwimg="ryct-still-water" %}
-{% assign pwcaption="Photo courtesy of RYCT" %}
+{% assign pwcaption="Photo by RYCT" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -142,7 +142,7 @@ The rest of our sailing plans for 2020 will find us in the Caribbean in December
 As intrigued as we are about the stories told by Bill and his wife when they rounded [Cape Horn](/posts/project-slocum-part-4/), we will likely attempt that on the next circumnavigation. In the 2021/22 season, we will have our sights on sailing to Tasmania to pour a whiskey cocktail for Hugh... perhaps [The Andrew](/posts/happy-birthday/) , a cocktail that was named after Serenade Wind's captain.
 
 {% assign pwimg="ryct-hms-australia" %}
-{% assign pwcaption="Photo courtesy of RYCT" %}
+{% assign pwcaption="Photo by RYCT" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

@@ -41,7 +41,7 @@ Below are some of the tried and true recipes that we feature in our home through
 
 # Parmesan-stuffed Dates wrapped in Bacon
 
-We made a brief mention in our blog post [Go/No-Go](https://serenadewind.com/culinary-adventures/go-no-go-decision/ "Go/No-Go Decision"), and these certainly deserve an in-depth mention.
+We made a brief mention in our blog post [Go/No-Go](/culinary-adventures/go-no-go-decision/ "Go/No-Go Decision"), and these certainly deserve an in-depth mention.
 
 Three simple ingredients make up these little flavor bombs. This delicious smoky sweet [appetizer](https://www.epicurious.com/recipes/food/views/parmesan-stuffed-dates-wrapped-in-bacon-232778 "Recipe for Bacon wrapped dates") is a product of the Suzanne Goin, chef de cuisine of A.O.C. in Los Angeles. I've made them countless of times for parties. Each of the ingredients store well, so you can make a batch now, later or anytime in between.
 
@@ -124,7 +124,7 @@ Once we get through all the yeast, we will be embarking on a sourdough adventure
 
 Certain sections of the grocery stores were sold out of items: flour, pasta, potatoes and onions. When I grabbed a bag of Mayan sweet onions, I should have taken a closer look. They had softened within a couple days, and I had to quickly use up a lot of onions in a short period of time. I turned to a tried and true recipe for French Onion Soup from [The Joy of Cooking](https://www.amazon.com/Joy-of-Cooking/dp/0743246268 "Joy of Cooking"). Luckily, I also had a few quarts of homemade chicken broth in the freezer so this recipe came together pretty easily.
 
-These days, I am inventorying items that we will be taking aboard [s/v Rachel J. Slocum](https://www.serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "When first we saw Rachel J Slocum"). The versatility and comprehensiveness of The Joy of Cooking will make it a definite choice. Some celebrity chef cookbooks will probably not stand the test of time.
+These days, I am inventorying items that we will be taking aboard [s/v Rachel J. Slocum](/about-rachel-j-slocum/). The versatility and comprehensiveness of The Joy of Cooking will make it a definite choice. Some celebrity chef cookbooks will probably not stand the test of time.
 
 What will survive will be the recipes I have collected and cooked over many years. Those will need to be digitized so I would still have them as a reference.
 

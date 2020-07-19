@@ -3,14 +3,10 @@ sailing:
     description: >
       Mahina Expeditions offers offshore sail-training expeditions, offshore cruising seminars and boat purchase consultation. John Neal has an article written on selecting a boat for offshore cruising.
     link: http://www.mahina.com/cruise.html
-  - title: Patrick Childress Sailing
+  - title: John Kretschmer Sailing
     description: >
-      Patrick &amp; Rebecca Childress are sailing around the world on their 1976 Valiant 40, s/v Brickhouse. Their youtube channel features many DIY boat projects and offshore sailing preparation.
-    link: https://www.youtube.com/channel/UCC7DRvfDAoFn5eMyfTnaA8w
-  - title: Distant Shores
-    description: >
-      Distant Shores is a sailing TV series (over 30-year run to date) about the cruising life with lots of tips for sailors planning to sail away plus destination information to help you make your cruising plans.&nbsp;
-    link: https://www.youtube.com/user/distantshores1
+      John Kretschmer is an accomplished ocean voyager, having logged more than 300,000 offshore miles. He has published 7 books, written numerous articles and provides offshore training experience.&nbsp;
+    link: https://johnkretschmersailing.com/
   - title: Yachting World
     description: >
       Among the many playlists (including Sailing across the Atlantic, Ocean Voyager's Sailing techniques, How to sail safer &amp; faster), Skip Novak's storm sailing techniques are a great resource.
@@ -19,6 +15,10 @@ sailing:
     description: >
       Erik sails a Contessa 35 named "Tessie", alone on the open oceans outside his hometown, Haugesund, situated on the west coast of Norway. His youtube channel no bullsh*t, just sailing speaks for itself.
     link: https://www.youtube.com/channel/UCUH6fLsV6J7WKEmf7vJKfAw
+  - title: Patrick Childress Sailing
+    description: >
+      Patrick &amp; Rebecca Childress sailed around the world on their 1976 Valiant 40, s/v Brickhouse. Their youtube channel features many DIY boat projects and offshore sailing preparation. 
+    link: https://www.youtube.com/channel/UCC7DRvfDAoFn5eMyfTnaA8w
   - title: Patrick Laine
     description: >
       Patrick Laine sails single-handed on a Bavaria 40 sailboat in the Atlantic. He is based in LaRochelle, France. The 40+ youtube videos feature passage-making to the Azores and to Iceland plus some great docking videos.&nbsp;
@@ -35,15 +35,27 @@ sailing:
     description: >
       The skipper for s/v Trinovante put together a few pdfs on the fundamentals of schooner handling in specific situations, such as sailing off anchor with wind and tide in the same direction.&nbsp;
     link: https://www.schoonersail.com/tall-ships-schooners/learn-sail-schooner/
-  - title: John Kretschmer Sailing
+  - title: Yawarra II 
     description: >
-      John Kretschmer is an accomplished ocean voyager, having logged more than 300,000 offshore miles. He has published 7 books, written numerous articles and provides offshore training experience.&nbsp;
-    link: https://johnkretschmersailing.com/
+      Nick and Jan cruised the world for over 30 years aboard their yachts, Warlock and Yawarra and after 20 years of cruising under sail, they cruised on their steel motor boat Yawarra II.
+    link: https://my.getjealous.com/yawarra
   - title: Sailing Totem
     description: >
       This cruising family of 5 has a great website, curating information such as <a href="https://www.sailingtotem.com/books-for-cruisers">books for cruisers</a>, links to blogs &amp; vlogs of other cruising families as well as offer consulting services for those who would like to begin voyaging.
     link: https://www.sailingtotem.com/
+  - title: SV Soggy Paws
+    description: >
+      Dave and Sherry are cruising the world on their St. Francis 44 catamaran. Their website features cruising guides, advice on ocean crossings, medical reference and "how-to" presentations on navigation, equipment, etc. 
+    link: http://svsoggypaws.com/files/
   - title: Ocean Sailing Podcast
     description: >
       Avid cruising and racing sailor, David Hows' blog features 80+ podcasts and he has even written a book on <a href="https://books.apple.com/au/book/sailing-the-tasman-sea/id908710668?mt=13">Sailing the Tasman Sea</a>. If you would like to crew in upcoming races, spots are available aboard Ocean Gem.&nbsp;
     link: https://www.oceansailingpodcast.com/
+  - title: Noonsite
+    description: >
+      Noonsite provides cruising sailors with comprehensive information regarding the necessary formalities, paperwork and costs for clearing into all countries worldwide, plus essential marine facilities in all ports.
+    link: https://www.noonsite.com/
+  - title: Periwinkle
+    description: >
+      Andrew's first boat has a storied 30-year history of her own by her first owner and builder. The boat was christened the Periwinkle, after the marine snail that carries it’s home around on it’s back. 
+    link: http://cruisingundersail.com/wp/?page_id=53

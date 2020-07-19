@@ -41,17 +41,17 @@ Finally, we wanted to provide a centralized place for you to read about our jour
 
 Here are a few websites we referred to when we started shopping for boats.
 
->Marketplaces: [Boat Trader](https://www.boattrader.com/), [Boats](https://www.boats.com/), [Yacht World](https://www.yachtworld.com/).
+>Marketplaces: [Boat Trader](https://www.boattrader.com/), [Boats](https://www.boats.com/), [Yacht World](https://www.yachtworld.com/)
 >
->Boat Shows: [Boot](https://www.boot.com/), [Annapolis](https://www.annapolisboatshows.com/), [calendar of others around the world](https://robbreport.com/motors/marine/big-boat-shows-around-world-calendar-events-eg18-2813648/).
+>Boat Shows: [Boot](https://www.boot.com/), [Annapolis](https://www.annapolisboatshows.com/), [calendar of others around the world](https://robbreport.com/motors/marine/big-boat-shows-around-world-calendar-events-eg18-2813648/)
 >
->Magazines: [Cruising World](https://www.cruisingworld.com/), [Latitude 38](https://www.latitude38.com/), [Passagemaker](https://www.passagemaker.com/), [Sail](https://www.sailmagazine.com/), [Sailing](http://sailingmagazine.net/), [Sailing Today](https://www.sailingtoday.co.uk/), [WindCheck](https://www.windcheckmagazine.com/), [Yachting World](https://www.yachtingworld.com/).
+>Magazines: [Cruising World](https://www.cruisingworld.com/), [Latitude 38](https://www.latitude38.com/), [Passagemaker](https://www.passagemaker.com/), [Sail](https://www.sailmagazine.com/), [Sailing](http://sailingmagazine.net/), [Sailing Today](https://www.sailingtoday.co.uk/), [WindCheck](https://www.windcheckmagazine.com/), [Yachting World](https://www.yachtingworld.com/)
 >
->Guides: [Mahina Expedition's Offshore Cruising](https://www.mahina.com/cruise.html).
+>Offshore Training & Expeditions: [Mahina Expedition](https://www.mahina.com/cruise.html), [John Kretschmer](https://johnkretschmersailing.com/), [Ocean Sailing Podcast](https://www.oceansailingpodcast.com/)
 >
->Cruising Costs: [Out Chasing Stars](https://outchasingstars.com/2017/01/10/cruising-budget-first-year-new-catamaran/), [The Boat Galley](https://theboatgalley.com/how-much-does-it-cost-to-cruise/). [s/v BeBe](http://svbebe.blogspot.com/p/costs.html).
+>Cruising Costs: Catamarans include - [Leopard 46](https://www.youtube.com/watch?v=tUXyGZzzi5M "s/v Clarity"), [Fountaine Pajot Helia 44](https://outchasingstars.com/2017/01/10/cruising-budget-first-year-new-catamaran/ "s/v Starry Horizons"), [Leopard 43](https://www.youtube.com/watch?v=lj7o57XCuDw "s/v Curiosity"), Monohulls include - [Amel Super Maramu 52](http://svbebe.blogspot.com/p/costs.html "s/v BeBe"), [Catalina Morgan 45](https://www.thingswedidtoday.net/2016/10/year-three-reflections-on-cost-of.html "s/v Dos Libras"), [Tayana 42](https://www.youtube.com/watch?v=sbt3VpPWLVU "s/v Millenial Falcon"), [36 ferro-cement gaff ketch](https://www.morganscloud.com/2016/03/10/cruising-on-less-than-15000year-including-the-boat-what-it-takes/ "s/v Hannah")
 >
->Other: [Cruisers Forum](https://www.cruisersforum.com/), [Sailing Anarchy](http://forums.sailinganarchy.com/), [Sailing Schooners](https://www.issuma.com/rhudson/RR/SchoonerSailingNotes.htm).
+>Other: [Cruisers Forum](https://www.cruisersforum.com/), [Sailing Anarchy](http://forums.sailinganarchy.com/), [Sailing Schooners](https://www.issuma.com/rhudson/RR/SchoonerSailingNotes.htm)
 
 ## Offline Resources
 
@@ -123,7 +123,6 @@ As mentioned above, we derived these answers for ourselves through an iterative 
 7.  First and foremost is safety, comfort and then speed. We think we found the perfect vessel that balances these requirements.
 8.  We have done some legwork already, but we know we have a long ways to go, especially as it relates to learning to sail a 2-masted [schooner](https://asa.com/news/2015/12/09/whats-in-a-rig-the-schooner/).
 
-# Boat purchase process posts
 Here are each of the stories we wrote on our process around buying a boat.
 
 {% assign currPost = page.permalink %}

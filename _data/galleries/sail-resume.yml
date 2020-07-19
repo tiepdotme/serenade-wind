@@ -1,3 +1,25 @@
+periwinkle:
+  pictures:
+  - filename: perwinkle-at-dock
+    extension: .jpg
+    title: At dock
+    caption: At dock
+  - filename: periwinkle-saturna-island
+    extension: .jpg
+    title: Saturna Island
+    caption: Saturna Island
+  - filename: marlise-steeting-toward-nanaimo
+    extension: .jpg
+    title: Toward Nanaimo
+    caption: Toward Nanaimo
+  - filename: periwinkle-in-straits-of-georgia-bw
+    extension: .jpg
+    title: Straits of Georgia
+    caption: Straits of Georgia
+  - filename: periwinkle-at-montegue-harbour
+    extension: .jpg
+    title: Montegue Harbour
+    caption: Montegue Harbour
 asa-101-2011-nov-day-1:
   pictures:
   - filename: asa-101-valkyrie
@@ -298,34 +320,34 @@ csc-2013:
     caption: Denise at the bow
 sanfran:
   pictures:    
+  - filename: sf-2013-oct-beneteau
+    extension: .jpg
+    title: Beneteau 42
+    caption: Beneteau 42
+  - filename: sf-2013-oct-nautical-chart
+    extension: .jpg
+    title: Route planning
+    caption: Route planning
+  - filename: sf-2013-oct-denise-helm-crop
+    extension: .jpg
+    title: At the helm
+    caption: At the helm
+  - filename: sf-2013-oct-schooner
+    extension: .jpg
+    title: Schooner
+    caption: Schooner
   - filename: sf-2013-oct-sunset-sail
     extension: .jpg
-    title: Sunset
-    caption: Sunset sail across the bay
-  - filename: filename
+    title: Sunset sail
+    caption: Sunset sail
+  - filename: sf-2013-oct-wing-on-wing
     extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
+    title: Wing on wing
+    caption: Wing on wing
+  - filename: sf-2013-oct-alcatraz
     extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
-    extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
-    extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
-    extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
-    extension: .jpg
-    title: description
-    caption: description
+    title: Alcatraz
+    caption: Alcatraz
 bvi:
   pictures:    
   - filename: sf-2013-oct-sunset-sail
@@ -353,6 +375,36 @@ bvi:
     title: description
     caption: description
   - filename: filename
+    extension: .jpg
+    title: description
+    caption: description
+greece:
+  pictures:    
+  - filename: dhn-ocean-greece-02
+    extension: .jpg
+    title: description
+    caption: description
+  - filename: dhn-ocean-greece-05
+    extension: .jpg
+    title: description
+    caption: description
+  - filename: dhn-ocean-greece-04
+    extension: .jpg
+    title: description
+    caption: description
+  - filename: dhn-ocean-greece-01
+    extension: .jpg
+    title: description
+    caption: description
+  - filename: greece-both-corinth-crossing
+    extension: .jpg
+    title: description
+    caption: description
+  - filename: profile-corinth-canal
+    extension: .jpg
+    title: description
+    caption: description
+  - filename: greece-andrew-bay
     extension: .jpg
     title: description
     caption: description

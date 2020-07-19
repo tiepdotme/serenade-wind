@@ -72,7 +72,7 @@ It’s not possible.
 
 I also noticed that, in thinking about change, I looked at some extreme examples of what our new life would be like. For example, what if we...
 
-- made an offer on [s/v Rachel J. Slocum](https://www.serenadewind.com/posts/when-first-we-saw-rachel-j-slocum/ "About s/v Rachel J Slocum")
+- made an offer on [s/v Rachel J. Slocum](/about-rachel-j-slocum/)
 - had to close the sale in 30 days
 - liquidate all our assets in the next 30 days
 - move to Florida with just 2 suitcases each

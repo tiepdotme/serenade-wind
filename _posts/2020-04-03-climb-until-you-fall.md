@@ -54,7 +54,7 @@ We would project 5.11b and 5.11c routes during our weekend sessions at SenderOne
 
 If I were to translate this approach to sailing, I would say sailing a [Catalina 36](https://sailboatdata.com/sailboat/catalina-36) would be a 5.11a for me. She is a masthead sloop featuring a fin keel with spade rudder. Her LOA 35.58 feet and beam of 11.92 feet, and she has a displacement of 15,000 lbs. Once I get back on the water on a consistent basis, I would have a short acclimation period, but I could handle this size boat.
 
-Now take s/v Rachel J. Slocum. Before I even put a route rating on her, let's compare the stats.
+Now take [s/v Rachel J. Slocum](/about-rachel-j-slocum/). Before I even put a route rating on her, let's compare the stats.
 
 1.  She is a staysail schooner which means 2 masts instead of 1 mast and 5 sails instead of 2 sails. That's a lot more complexity in sail configuration to begin with.
 2.  RJ Slocum has a sail area of 1,090 sq ft not including staysail or fisherman (versus 555 for Catalina 36).
