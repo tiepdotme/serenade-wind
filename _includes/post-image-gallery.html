@@ -18,12 +18,8 @@
 	{% assign imgPath = "small" %}
 {%- endif -%}
 		<div class="gallery-slider {{include.galId}}">
-{%- if jekyll.environment == "development" -%}
     {% assign imgDomain = "/images" %}
-{%- else -%}
-    {% assign imgDomain = "https://slocum.surge.sh" %}
-{%- endif -%}
-{% assign lightboxAttr= "" %}
+    {% assign lightboxAttr= "" %}
 	{%- for pic in include.gallery.pictures -%}
 		{% assign pwimg = pic.filename %}
 		{% assign fileExt = pic.extension %}
