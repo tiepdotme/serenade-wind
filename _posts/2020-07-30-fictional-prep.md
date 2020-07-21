@@ -142,8 +142,8 @@ Some of the contributors didn't seem to pay too much attention to the request an
  - Caribbean - [A Sail of Two Idiots](https://www.amazon.com/Sail-Two-Idiots-Non-Sailor-Caribbean/dp/0071779841) by Renee Petrillo
  - Panama Canal - [The Path Between the Seas](https://www.amazon.com/Path-Between-Seas-Creation-1870-1914/dp/0671244094) by David McCullough
 
-{% assign pwimg="white-sailing-ship-docked-at-pier" %}
-{% assign pwcaption="Photo by Tino Schmidt" %}
+{% assign pwimg="csc-2013-oct-fouled-prop-ketch" %}
+{% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

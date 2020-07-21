@@ -39,7 +39,7 @@ Some time has passed since this episode, so I took this discussion a little furt
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-Geoawesomeness spent a little time researching this same question in their article article, ["Which is the best map projection?"](https://geoawesomeness.com/best-map-projection/) The crux of the issue is taking a 3 dimensional object and attempting to represent it in 2 dimensions, without any distortions to shape, distance, direction or land shape. 
+Geoawesomeness spent a little time researching this same question in their article, ["Which is the best map projection?"](https://geoawesomeness.com/best-map-projection/) The crux of the issue is taking a 3 dimensional object and attempting to represent it in 2 dimensions, without any distortions to shape, distance, direction or land shape. 
 
 The findings of three of the maps are summarized below:
 

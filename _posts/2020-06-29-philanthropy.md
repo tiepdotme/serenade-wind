@@ -80,7 +80,7 @@ The amount of unemployment benefits in question totals roughly USD $9,000 (befor
 
 While the money is nice, I'll be honest. It means a lot more to me how it was secured. The most empowering moment came when I was speaking to the judge about my case. He asked a series of thoughtful questions over the course of 45 minutes. When the hearing concluded, he stated that the decision would be sent via regular mail in a couple weeks.
 
-Regardless of the decision rendered, I felt vindicated. I had a chance to share my story to a neutral 3rd party and it felt liberating. If you want to learn more about the case, I will provide a [brief write-up](https://www.patreon.com/user?u=30149836) about it, which will be posted tomorrow. In reality, I didn't have to wait that long. Less than a week later, the decision came in the mail.
+Regardless of the decision rendered, I felt vindicated. I had a chance to share my story to a neutral 3rd party and it felt liberating. If you want to learn more about the case, I will provide a [brief write-up](https://www.patreon.com/posts/38036123) about it, which will be posted tomorrow. In reality, I didn't have to wait that long. Less than a week later, the decision came in the mail.
 
 When I read the decision, I set down the pages, walked over to Andrew and told him the news.
 
