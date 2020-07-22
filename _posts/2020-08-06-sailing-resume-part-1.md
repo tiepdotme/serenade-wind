@@ -1,7 +1,7 @@
 ---
 id: 58
 title: Sailing Resume Part 1
-date: 2020-05-06T12:03:12+00:00
+date: 2020-08-06T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/sailing-resume-part-1/
 permalink: /posts/sailing-resume-part-1/
 author: sw

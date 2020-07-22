@@ -49,7 +49,7 @@ These days, I'm going through some really old mixtapes I made in high school and
 
 Alas, audio cassette tapes are worthless these days, except in my case, they happen to still capture some rare vinyl tracks and more importantly some of my old shows which were named: Audio Seizure, Dub This, Next Exit, and In the Bassment. My roommate Tina and I had a 2-hour slot each semester where we played dance, techno and industrial music. This was the era of underground raves, imports from Manchester and the Italian club scene, and we largely got access to this new music through DJs at [WZBC 90.3](https://www.wzbc.org/) and Boston DJs spinning at Axis and Venus de Milo on [Landsdowne Street](http://archive.boston.com/thingstodo/gotoit/2007/09/boston_nightclu.html).
 
-If you're interested in hearing an excerpt of this, join the Serenade Wind crew and unlock the [College DJ post](/posts/college-dj/).  
+If you're interested in hearing an excerpt of this, join the Serenade Wind crew and unlock the [College DJ post](https://www.patreon.com/posts/39519494).
 
 # Melody vs Lyrics
 

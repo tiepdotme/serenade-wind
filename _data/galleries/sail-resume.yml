@@ -130,10 +130,6 @@ asa-2012-mar-first-skipper:
     caption: Short outing leads to a picnic
 asa-2013-may-bareboat:
   pictures:    
-  - filename: asa-104-day1-hunter-41-faye
-    extension: .jpg
-    title: Hunter 41 "Faye"
-    caption: Hunter 41 "Faye"
   - filename: asa-104-day1-interior-1
     extension: .jpg
     title: Interior from companionway
@@ -142,10 +138,6 @@ asa-2013-may-bareboat:
     extension: .jpg
     title: Interior from bow
     caption: Interior from bow
-  - filename: asa-104-day1-faye-bow
-    extension: .jpg
-    title: View from bow
-    caption: View from bow
   - filename: asa-104-day1-plotting-course
     extension: .jpg
     title: Plotting our course on nautical charts
@@ -272,10 +264,6 @@ bws-2013-sunset-races:
     extension: .jpg
     title: Results
     caption: Race results - Cool Change comes in 13th 
-  - filename: bws-2012-july-races-scratched-sunset
-    extension: .jpg
-    title: Sunset
-    caption: Sunset in the marina
 csc-2013:
   pictures:    
   - filename: csc-2014-feb-mystic
@@ -290,10 +278,6 @@ csc-2013:
     extension: .jpg
     title: Heeled over
     caption: Heeled over
-  - filename: csc-2013-nov-dolphin-breaching.jpg
-    extension: .jpg
-    title: Dolphin
-    caption: Dolphins breaching
   - filename: csc-2013-oct-fouled-prop-ketch
     extension: .jpg
     title: Ketch
@@ -314,10 +298,6 @@ csc-2013:
     extension: .jpg
     title: Catamaran
     caption: Catamaran to Malibu
-  - filename: csc-2014-mar-denise-bow
-    extension: .jpg
-    title: Denise at the bow
-    caption: Denise at the bow
 sanfran:
   pictures:    
   - filename: sf-2013-oct-beneteau
