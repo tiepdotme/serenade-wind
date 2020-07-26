@@ -9,7 +9,6 @@ layout: post
 categories:
     - Photographic Adventures
     - Minimalist Living
-
 tags:
     - minimalist
     - diy
@@ -30,7 +29,7 @@ excerpt: Traveling by sailboat affords us the opportunity to capture the world t
 
 From time to time, friends ask us, "How do you choose what to bring with you?" Clearly, they haven't had a chance to read serenadewind.com. I sympathize with their lack of time and appreciate their wanting to reach out first hand. This gives us an opportunity to give them the [cliffs notes](https://www.cliffsnotes.com/).
 
-Based on our [30-weeks to minimalism plan](/posts/30-weeks-to-minimalism/), we know the main categories of items we will take with us will be [clothes (2 suitcases each)](/posts/packing-light/), [linens](/posts/boat-head/), [kitchen items](/posts/sea-foodie/), tools, books, hobbies, camping gear, climbing gear, and some bags. Everything else can be sold or [given away](/posts/matching-gifts/). 
+Based on our [30-weeks to minimalism plan](/posts/30-weeks-to-minimalism/), we know the main categories of items we will take with us will be [clothes](/posts/packing-light/) (2 suitcases each), [linens](/posts/boat-head/), [kitchen items](/posts/sea-foodie/), tools, books, hobbies, camping gear, climbing gear, and some bags. Everything else can be sold or [given away](/posts/matching-gifts/). 
 
 So far, the following items have made their way into new homes:
 
@@ -39,13 +38,14 @@ So far, the following items have made their way into new homes:
  - bling - crystals, beads, backings, wires and other supplies used to make jewelry 
  - music - Larrivée Guitar, Schafer & Sons grand piano 
  - media - DVDs, games, CDs, tapes, vinyl 
- - toys - Tesla Flyer
+ - toys - Tesla Flyer, Mio Castle
  - outdoor furniture - Weber gas grill, Weber charcoal grill, patio furniture
  - office clothes - women's office and casual clothes donated to a family in Armenia
  - athletic clothes - so far, about 20% given away or sold
- - sentimental items - 2 photo albums will be stored with mom, the rest of the photos and journals were tossed out
- - snowboard gear - boards, boots, bindings, helmets, and visors
+ - sentimental items - 2 photo albums will be stored with mom (the rest of the photos and journals were tossed out)
+ - snowboard gear - boards, boots, bindings, helmets, and visors (to a cool young couple)
  - kitchen - juicer, china, place settings, blender
+ - living room furniture - coffee table, wall mirrors, accent tables
 
 It feels liberating each time to see these items go to a good use. As we mentioned before, we primarily want to [gift the items](/posts/matching-gifts/) to our friends and whatever remains that no one wants, we'll sell or give away to charity.
 
@@ -64,7 +64,7 @@ Do I really need to keep an archive of all of it?
 
 The short answer is "No."
 
-My friend Hasmik and I traveled on that trip together in 2014, and she took time and great effort to curate the best photos among our combined collection and have them represented in photo 4 photo books, which she gifted to me. Back then, I didn't make the time then to do the same based on my photos to select and process the best photos. 
+My friend Hasmik and I traveled on that trip together in 2014, and she took time and great effort to curate the best photos among our combined collection and have them represented in 4 photo books, which she gifted to me. Back then, I didn't make the time then to do the same based on my photos to select and process the best photos. 
 
 Given that I am now retired, I have that opportunity now. Plus it dovetails nicely with our downsizing kick.
 

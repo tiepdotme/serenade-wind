@@ -155,3 +155,14 @@ Here is the full quote from Theodore Roosevelt, if you would like to draw more i
 > and who at the worst, if he fails, at least fails while daring greatly,
 > 
 > so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+> 
+# Post Script
+
+updated as of July 26, 2020
+
+Over the past week, Mom seems to be coming around slowly. She had successfully found a place for a Schafer & Sons 6'9 Grand Piano to call home for its next 40 plus years. Her rental property was in escrow after the 3rd offer, and since a lot of positive things were happening, she seemed to accept the inevitable event that Andrew and I were leaving. 
+
+Mom even offered to help with handling our mail when we're traveling. I suspect it helps to create an anchor point. She will remain connected to us no matter the distance and knowing that, I believe, gives her hope that we will always return. Sometimes words are not enough to convince her. 
+
+I always had her in mind for this role, but it took time for her to accept the situation before this generous offer could be voiced. As always, this is a reminder not to overly plan anything and be willing to [go with the flow](/posts/going-with-the-flow/).
+
