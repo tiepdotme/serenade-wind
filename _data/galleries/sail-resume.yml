@@ -26,10 +26,6 @@ asa-101-2011-nov-day-1:
     extension: .jpg
     title: Catalina 30' "Valkyrie"
     caption: A voyage on the "Valkyrie" (Catalina 30')
-  - filename: asa-101-reefed-main
-    extension: .jpg
-    title: Reefed Main
-    caption: Because of the strong winds, we reefed the sail to reduce the force acting on the sail.
   - filename: asa-101-sailing-beam-reach-catalina
     extension: .jpg
     title: Beam reach
@@ -38,10 +34,6 @@ asa-101-2011-nov-day-1:
     extension: .jpg
     title: Closed hauled
     caption: Sailing close-hauled toward the Santa Monica Pier
-  - filename: asa-101-sitting-stern-pulpit-30-sloop
-    extension: .jpg
-    title: Stern pulpit
-    caption: Denise sitting in the stern pulpit of a 30' sloop keelboat
 asa-101-2011-nov-day-2:
   pictures:
   - filename: asa-101-day-2-casting-off
@@ -330,26 +322,22 @@ sanfran:
     caption: Alcatraz
 bvi:
   pictures:    
-  - filename: sf-2013-oct-sunset-sail
+  - filename: bvi-01-29-serenite-crew
     extension: .jpg
-    title: Sunset
-    caption: Sunset sail across the bay
-  - filename: filename
+    title: Crew of Serenite
+    caption: Crew of Serenite
+  - filename: bvi-01-29-saba-rock-laughter
     extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
+    title: Saba Rock
+    caption: Saba Rock
+  - filename: bvi-01-29-denise-at-helm-storms
     extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
+    title: Downwind to Jost van Dyke
+    caption: Downwind to Jost van Dyke
+  - filename: dhn-bvi-sunrise
     extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
-    extension: .jpg
-    title: description
-    caption: description
+    title: Sunrise
+    caption: Sunrise
   - filename: filename
     extension: .jpg
     title: description

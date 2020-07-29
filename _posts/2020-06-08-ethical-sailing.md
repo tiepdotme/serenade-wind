@@ -24,10 +24,6 @@ excerpt: A couple months ago, we decided to experiment with ways to go green. Fo
 ---
 {% include toc %}
 
-A couple months ago, we decided to experiment with ways to [go green](/posts/going-green/). For us this means, living deliberately and raising our awareness about how we impact the world around us. Here are a few updates on our progress towards ethical sailing.
-
-Happy [World Oceans Day](https://worldoceansday.org/)!
-
 {% assign pwimg="sailors-for-the-sea-logo" %}
 {% assign pwcaption="" %}
 {% assign pwpng="true" %}

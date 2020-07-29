@@ -1,0 +1,39 @@
+img {
+    width:200px;
+}
+
+.patreon.post-preview {
+    padding-top: 60px;
+
+    .patreon-banner {
+        width:90%;
+        background: #053048;
+        margin:0px auto;
+        list-style:none;
+        display: grid;
+        grid-template-columns: 200px auto 140px;
+        align-items: center;
+
+        li {
+            background: #053048;
+            display:inline-block;
+            
+            &.patreon-tier {
+
+                img {
+                    padding: 2px 4px;
+                }
+            }
+
+            &.patreon-cta{
+                padding: 0 10px 0 24px;
+            }
+        }
+    }
+.page-stats-bar li {
+    background-color: #053048;
+}
+
+.page-stats-bar li:first-child {
+    background: linear-gradient(to bottom, #12171c, #053048 0%);
+}

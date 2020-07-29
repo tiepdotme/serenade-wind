@@ -20,16 +20,40 @@ excerpt: Recently we began to listen to audiobooks about various cruising ground
 ---
 {% include toc %}
 
+{% include post-image-gallery.html gallery=site.data.galleries.retrospective.challenge galId="challenge" hideArrows=true %}
+
+# Challenge Accepted 
+
+Before I jump into today's topic, I wanted to draw attention to a recent event spreading through social media. Many of you have probably seen a flood of black and white photos of women with the hashtag #challengeaccepted and #womensupportingwomen. Before participating, I paused to consider what message I would want to convey and what image best represents that message.
+
+I decided that I wanted to highlight a 30-year history of supporting girls and women ever since I matriculated to Wellesley College. 
+
+Growing up in a melting pot, I had a somewhat sheltered beginning. It was only when I moved to Boston did I experience contrasts in points of view - social stratification by gender, ethnicity, class, education, occupation, geography, income, derived power... and, I suppose, any other way that people seem to divide themselves from "others." 
+
+While I could expand on all the variations, I will stay on point and focus on gender differences. I am reminded by the work of the [Women's and Gender Studies](https://www.wellesley.edu/wgst) at Wellesley College as well as experiencing the dynamics of both supportive inclusion and "[Mean Girls](https://www.youtube.com/watch?v=KAOmTMCtGkI)" exclusion. That's right... even in the hallowed bastion of feminism lurks pettiness and betrayal. 
+
+Just like life.
+
+Following graduation, I took my costly lessons-learned into the workforce and experienced more of the latter than the former. We do not live in a utopia of equality; there are [invisible systems](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf) conferring dominance in some groups to the detriment of others.
+
+With that in mind, I wanted to make an impact in a broad way among girls by becoming a board member of the [Girls Scouts of Greater Los Angeles](https://www.girlscoutsla.org/en/about-girl-scouts/who-we-are.html), supporting their mission: 
+
+>Girl Scouting builds girls of courage, confidence, and character, who make the world a better place. We are the preeminent leadership development organization for girls. With programs from coast to coast and across the globe, Girl Scouts offers every girl a chance to practice a lifetime of leadership, adventure, and success.     
+
+The next chapter of my life will role model these characteristics and continue the story of supporting girls and women throughout the world. Over the past few days, I selected photos in my social media stream of women from various stages in my life who have made an impact on me, who have inspired me, and who have embodied the ethos of women supporting women. 
+
+As we prepare to cast off later this year, I have relied on the support of [Women Who Sail](https://www.womenwhosail.com/), where I have found a safe haven of inclusive support once again.
+
 {% assign pwimg="reading-seaside-woman" %}
 {% assign pwcaption="Photo by Negative Space" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
+# Fictional Prep 
+
 At the time of this writing mid-July, Gov. Gavin Newson ordered major reopening rollbacks in CA in attempt to control rampant coronavirus spread. Several sectors are once again shut down as of Monday. One step forward, two steps back.
 
 We remain thousands of miles away from our sailboat. We are patiently waiting for September to roll around so that we can headout to Ft Lauderdale and complete the haul out, marine survey and sea trial. Even then, we'll need to exercise caution to OCD levels.
-
-# Fictional Prep
 
 During this time, I was inspired to read works of fiction about sailing in various cruising grounds. I suppose you can call it fictional prep. I'm part of the *Women Who Sail Who Write* Facebook group. Recently this topic came up, and I began to organize the suggested books to read while cruising an area. This can help us get to know the geography, people and culture. 
 
@@ -68,7 +92,7 @@ The list is organized by bodies of water rather than land.
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## Caribbean
+## Caribbean/Gulf of Mexico
 
  - Cuba - [Old Man and the Sea](https://www.amazon.com/dp/1781396809/) by Ernest Hemingway
  - Cuba - [North of Havana](https://www.amazon.com/North-Havana-Ford-Novel-Book-ebook/dp/B00AFY34PE) by Randy Wayne White
@@ -90,6 +114,7 @@ The list is organized by bodies of water rather than land.
  - Hawaii - [Hawaii](https://www.amazon.com/Hawaii-audiobook/dp/B07451DFC6/) by James Michener
  - Island of Jeju, Korea - [The Island of Sea Women](https://www.amazon.com/dp/1501154869) by Lisa See
  - Japan - [Across the Nightingale Floor](https://www.amazon.com/gp/product/B000OCXG4Q), [Grass for His Pillow](https://www.amazon.com/gp/product/B000OCXG5A), [Brilliance of the Moon](https://www.amazon.com/gp/product/B000OCXG50) and other books from the Tales of the Otori series by Lian Hearn
+ - Spratly Islands - [SSN](https://www.amazon.com/Tom-Clancy-SSN-ebook/dp/B001QL5MA0) by Tom Clancy
 
 {% assign pwimg="beach-coast-coconut-trees-holiday" %}
 {% assign pwcaption="Photo by Asad Photo Maldives" %}
@@ -101,8 +126,8 @@ The list is organized by bodies of water rather than land.
  - South Pacific - [Tales of the South Pacific](https://www.amazon.com/Tales-South-Pacific-James-Michener/dp/0812986350) by James Michener
  - French Polynesia - [Typee & Omoo](https://www.amazon.com/Typee-Omoo-Adventures-South-Pacific/dp/1533423997) by Herman Melville
  - Galapagos - [Galapagos](https://www.amazon.com/dp/0586090452) by Kurt Vonegut
- - Spratly Islands - [SSN](https://www.amazon.com/Tom-Clancy-SSN-ebook/dp/B001QL5MA0) by Tom Clancy
  - New Zealand to California - [Cloud Atlas](https://www.amazon.com/Cloud-Atlas-Novel-David-Mitchell/dp/0375507256) by David Mitchell
+ - Pacific / South Sea - [The Far Side of the World](https://www.amazon.com/Side-World-Aubrey-Maturin-Novels/dp/0393308626) by Patrick O'Brian
 
 {% assign pwimg="grass-beside-the-sea" %}
 {% assign pwcaption="Photo by Melanie Wupperman" %}
@@ -119,6 +144,8 @@ Some of the contributors didn't seem to pay too much attention to the request an
  - Various - [Following the Equator](https://www.amazon.com/dp/B004UJIF54) (sometimes titled More Tramps Abroad) by Mark Twain
  - Various - [Blue Latitudes](https://www.amazon.com/Blue-Latitudes-Boldly-Captain-Before/dp/0312422601) by Tony Horwitz
  - Various - [Swell](https://www.amazon.com/Swell-Sailing-Surfers-Voyage-Awakening/dp/193834054X) by Liz Clark
+ - Various - [The Long Way](https://www.amazon.com/Long-Way-Sheridan-Maritime-Classic/) by Bernard Moitessier
+ - Various - [Saga of the Wayward Sailor](https://www.amazon.com/Saga-Wayward-Sailor-Tristan-Jones-ebook) by Tristan Jones
 
 {% assign pwimg="boat-clouds-cloudy-fog" %}
 {% assign pwcaption="Photo by Matheus Guimarães" %}
@@ -136,11 +163,12 @@ Some of the contributors didn't seem to pay too much attention to the request an
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## Caribbean
+## Caribbean/Gulf of Mexico
 
  - Caribbean - [An Embarassment of Mangoes](https://www.amazon.com/Embarrassment-Mangoes-Caribbean-Interlude/dp/0767914279) by Ann Vanderhoof
  - Caribbean - [A Sail of Two Idiots](https://www.amazon.com/Sail-Two-Idiots-Non-Sailor-Caribbean/dp/0071779841) by Renee Petrillo
  - Panama Canal - [The Path Between the Seas](https://www.amazon.com/Path-Between-Seas-Creation-1870-1914/dp/0671244094) by David McCullough
+ - Virgin Islands - [The Sailor Who Climbs Mountains](https://www.amazon.com/Sailor-Who-Climbs-Mountains/dp/1450215882) by Jean Braure
 
 {% assign pwimg="csc-2013-oct-fouled-prop-ketch" %}
 {% assign pwcaption="" %}
@@ -154,6 +182,8 @@ Some of the contributors didn't seem to pay too much attention to the request an
  - PNW & Alaska - [Passage to Juneau](https://www.amazon.com/Passage-Juneau-Sea-Its-Meanings/dp/0679776141) by Jonathan Raban
  - Vancouver Island - [White Slaves of Maquinna](https://www.amazon.com/White-Slaves-Maquinna-Narrative-Confinement/dp/1894384024) by John R Jewitt
  - Broughton Archipelego, British Columbia - [Full Moon, Flood Tide](https://www.amazon.com/dp/1550172913) by Bill Proctor
+ - Borneo, Malaysia - [Land Below the Wind](https://www.amazon.com/gp/product/9838120839), [Three Came Home](https://www.amazon.com/gp/product/0907871283) and [White Man Returns](https://www.amazon.com/gp/product/1125277645) by Agnes Newton Keith
+ - Malaysia - [The War of Running Dogs](https://www.amazon.com/War-Running-Dogs-Malaya-1948-1960/dp/0304366714) by Noel Barber
 
 {% assign pwimg="aerial-photography-of-body-of-water" %}
 {% assign pwcaption="Photo by Asad Photo Maldives" %}
@@ -166,12 +196,6 @@ Some of the contributors didn't seem to pay too much attention to the request an
  - Suwarrow in Pacific - [An Island to Oneself](https://www.amazon.com/Island-Oneself-Tom-Neale/dp/0918024765) by Tom Neal
  - French Polynesia - [Tupaia, Captain Cook's Polynesian Navigator](https://www.amazon.com/dp/0995130906/) By Joan Druett
  - Fiji - [Getting Stoned with Savages](https://www.amazon.com/Getting-Stoned-Savages-Through-Islands/dp/0767921992) by J. Maarten Troost
- - Borneo, Malaysia - [Land Below the Wind](https://www.amazon.com/gp/product/9838120839), [Three Came Home](https://www.amazon.com/gp/product/0907871283) and [White Man Returns](https://www.amazon.com/gp/product/1125277645) by Agnes Newton Keith
- - Malaysia - [The War of Running Dogs](https://www.amazon.com/War-Running-Dogs-Malaya-1948-1960/dp/0304366714) by Noel Barber
-
-# Resource
-
-One person thought to contribute something else entirely. How would you characterize [Fatty Goodlander](http://fattygoodlander.com/)?
 
 Regardless of the category, we hope you find some enjoyable reads from these lists. If you would like to add to this list, send us a message! 
 

@@ -28,3 +28,21 @@ denise:
     extension: .jpg
     title: Age 49
     caption: Age 49
+challenge:
+  pictures:
+  - filename: dhn-bw-challenge-3
+    extension: .jpg
+    title: Natalie, Afrodite, Karina, Lucrecia
+    caption: Natalie, Afrodite, Karina, Lucrecia
+  - filename: dhn-bw-challenge-2
+    extension: .jpg
+    title: Aida, Grace, Krissy, Megan
+    caption: Aida, Grace, Krissy, Megan
+  - filename: dhn-bw-challenge-1
+    extension: .jpg
+    title: Reena, Christine, Sandra, Camille
+    caption: Reena, Christine, Sandra, Camille
+  - filename: dhn-bw-challenge-4
+    extension: .jpg
+    title: Lisa, Jen, Denise, Linda
+    caption: Lisa, Jen, Denise, Linda

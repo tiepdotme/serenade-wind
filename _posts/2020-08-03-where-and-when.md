@@ -69,7 +69,18 @@ The findings of three of the maps are summarized below:
 > 
 > Cons: The Arctic Circle gets somewhat squashed
 
-I kinda like the representation shown in the AuthaGraph map. I also like its origami nature. If you want to learn more about this topic, check out [Geoawesomeness](https://geoawesomeness.com/best-map-projection/) to see the other projection maps and their pros and cons.
+I kinda like the representation shown in the AuthaGraph map. I also like its origami nature. If you want to learn more about this topic, check out [Geoawesomeness](https://geoawesomeness.com/best-map-projection/) to see various other projection maps and their pros and cons.
+
+{% assign pwimg="spilhaus-map-ocean-currents" %}
+{% assign pwcaption="Projection Map by Spilhaus" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
+A couple years ago, an [ocean-centric map](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d) went viral. The Spilhaus projection map was authored by Athelstan F. Spilhaus, a South African-American geophysicist and oceanographer, who created this projection back in 1942. The map centers on Antarctica and presents the 5 oceans as one body of water.
+
+Above, is a map of ocean currents created by John Nelson using the WGS 1984 Spilhaus Ocean Map in Square projected coordinate system in ArcGIS.
+
+Finally, a world that is all about oceans.
 
 {% include responsive-embed url="https://www.youtube.com/embed/wKMKWjqXP0k" ratio="16:9" %}
 
@@ -92,7 +103,7 @@ Our final inspiration about where we are in the world is also understanding *whe
 
 After some researching, I discovered the reason is that the Jekyll [front matter](https://jekyllrb.com/docs/front-matter/) uses a construct called Coordinated Universal Time (UTC). In Jekyll, a date is specified in the format YYYY-MM-DD HH:MM:SS +/-TTTT; hours, minutes, seconds, and timezone offset are optional.
 
-After much discussion over timelines for pushing content, committment changes, building the website, and the publish time of the latest post, we finally had it all sorted. I am by no means adept at this; at least, I'm not quite so much in the dark anymore.
+After much discussion over timelines for committment changes, pushing content, building the website, and the publish time of the latest post, we finally had it all sorted. I am by no means adept at this; at least, I'm not quite so much in the dark anymore.
 
 That is... until you look at UTC -10, -11 and -12. Notice the notch in the line. What gives?
 

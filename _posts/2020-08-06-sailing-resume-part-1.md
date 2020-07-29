@@ -45,20 +45,18 @@ I excel at textbook learning, memorization and regurigation. However, any knowle
 
 Unfortunately for us both, we haven't had consistent exposure to sailing in a few years. In the next few posts, we will take you through how we got started in sailing.
 
-{% assign pwimg="asa-101-day-2-casting-off" %}
+{% assign pwimg="asa-101-sitting-stern-pulpit-30-sloop" %}
 {% assign pwcaption="First day of ASA 101 Basic Keelboat" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
 # Bluewater Sailing
 
-Shortly after my 40th birthday which I celebrated in Spain, I decided to take up sailing. Nostalgia mists over me when I hear halyards clanging against masts on windy days in a marina. So, after doing some research online, I signed up for the Basic Keelboat class at [Bluewater Sailing](https://bluewatersailing.com/) where I learned to sail from Ash and Elliot. The 4-day class takes place over two weekends with both classroom and on-the-water experience. 
+Shortly after my 40th birthday which I celebrated in Spain, I decided to take up sailing. Nostalgia mists over me when I hear halyards clanging against masts on windy days in a marina. 
 
-{% assign pwimg="asa-101-valkyrie" %}
-{% assign pwcaption="Valkyrie, a Catalina 30" %}
-{% assign pwpng="true for .png files" %}
-{% include post-wide-image.html%}
+So, after doing some research online, I signed up for the Basic Keelboat class at [Bluewater Sailing](https://bluewatersailing.com/) where I learned to sail from Ash and Elliot. The 4-day class takes place over two weekends with both classroom and on-the-water experience. 
 
+{% include post-image-gallery.html gallery=site.data.galleries.sail-resume.asa-101-2011-nov-day-1 galId="asa-101-2011-nov-day-1" hideArrows=true %}
 
 # ASA 101 Basic Keelboat - Nov 2011
 Catalina 30 "Valkyrie"
@@ -66,8 +64,6 @@ Catalina 30 "Valkyrie"
 On Saturday, the first day of the Basic Keelboat class, the weather was overcast and windy, with clear visibility. We spent the morning ashore outside the Bluewater Sailing offices and learned the parts of the boat, parts of the sail, the functions of various lines and parts, and points of sail. 
 
 After a couple hours, we broke for lunch and then headed to the slip to board "Valkyrie" a Catalina 30. Due to the stiff winds, our instructor Ash decided we should reef the main, explained why and how to go about placing a reef. 
-
-{% include post-image-gallery.html gallery=site.data.galleries.sail-resume.asa-101-2011-nov-day-1 galId="asa-101-2011-nov-day-1" hideArrows=true %}
 
 Then we were on our way, backing out of the slip, pulling into the finger and motoring our way out the basin and towards the channel. We raised the sail in the channel, then headed out past the breakwater and sailed towards Catalina Island. All afternoon, we practiced trimming the sails depending on the various points of sail in Santa Monica Bay. It was a wonderful first day to be out on the water.  
 

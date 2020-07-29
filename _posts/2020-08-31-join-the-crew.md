@@ -16,7 +16,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/art-beach-beautiful-clouds.jpg 
-excerpt: If you would like to join the Serenade Wind crew, find out more information on what it means to be part of the crew, unlock the pirate's booty, and receive other exclusive access and benefits. 
+excerpt: We would like to invite you to join the Serenade Wind crew. In this post, find out what it means to be part of the crew, unlock the pirate's booty, and receive other exclusive access and benefits. 
 ---
 {% include toc %}
 
@@ -25,7 +25,7 @@ excerpt: If you would like to join the Serenade Wind crew, find out more informa
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-Some of you have reached out to find out how to support us. Each time we hear from you, we're a little bit surprised, and the reason is this: 
+Some of you have reached out to find out how to support us. Each time we hear this request from you, we're a little bit surprised, and the reason is this: 
 
 We decided to begin this next chapter to learn how to approach life differently and share whatever we discovered along the way. It is our privilege to have this opportunity now, and we're delighted you would like to be part of it.
 
