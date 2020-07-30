@@ -40,7 +40,7 @@ With that in mind, I wanted to make an impact in a broad way among girls by beco
 
 >Girl Scouting builds girls of courage, confidence, and character, who make the world a better place. We are the preeminent leadership development organization for girls. With programs from coast to coast and across the globe, Girl Scouts offers every girl a chance to practice a lifetime of leadership, adventure, and success.     
 
-The next chapter of my life will role model these characteristics and continue the story of supporting girls and women throughout the world. Over the past few days, I selected photos in my social media stream of women from various stages in my life who have made an impact on me, who have inspired me, and who have embodied the ethos of women supporting women. 
+The next chapter of my life will role model these characteristics and continue the story of supporting girls and women throughout the world, teaching them to be [brave and encourage adventure](https://www.ted.com/talks/caroline_paul_to_raise_brave_girls_encourage_adventure). Over the past few days, I selected photos in my social media stream of women from various stages in my life who have made an impact on me, who have inspired me, and who have embodied the ethos of women supporting women. 
 
 As we prepare to cast off later this year, I have relied on the support of [Women Who Sail](https://www.womenwhosail.com/), where I have found a safe haven of inclusive support once again.
 
