@@ -1,11 +1,6 @@
 $midnight: #2c3e50;
 $clouds: #ecf0f1;
 
-input {
-  position: absolute;
-  opacity: 0;
-  z-index: -1;
-}
 
 /* Accordion styles */
 .tabs {
@@ -19,6 +14,12 @@ input {
   margin:2px 0 14px 0;
   box-shadow:0 4px 4px -2px rgba(0, 0, 0, 0.5);
   border-radius:8px;
+
+  input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
 
   &-label {
     display: flex;
