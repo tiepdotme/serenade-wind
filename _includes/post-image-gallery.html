@@ -17,7 +17,7 @@
 {%- else -%}
 	{% assign imgPath = "small" %}
 {%- endif -%}
-		<div class="gallery-slider {{include.galId}}">
+		<div class="gallery-slider {{include.galId}}" data-imageCount="{{include.imageCount | default: '3'}}">
     {% assign imgDomain = "/images" %}
     {% assign lightboxAttr= "" %}
 	{%- for pic in include.gallery.pictures -%}

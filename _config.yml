@@ -52,6 +52,7 @@ exclude:
   - Gemfile.lock
   # - _drafts
   - .jekyll-cache
+  - _backlog
 include:
   - _redirects #netfly redirect
   - _headers

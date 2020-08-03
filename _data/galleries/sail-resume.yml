@@ -38,49 +38,49 @@ asa-101-2011-nov-day-2:
   pictures:
   - filename: asa-101-day-2-casting-off
     extension: .jpg
-    title: Casting off
-    caption: Casting off on day two. With this bow line, I have control of the 23' vessel, lovingly named Iris 
+    title: Casting off on day 2
+    caption: Casting off on day two 
   - filename: asa-101-day-2-jody-on-lookout
     extension: .jpg
-    title: On lookout
-    caption: Jody at the bow on lookout
+    title: Jody on lookout
+    caption: Jody on lookout
   - filename: asa-101-day-2-houses-marina
     extension: .jpg
     title: Quaint marina
-    caption: Quaint storefronts along the channel
+    caption: Quaint marina
   - filename: asa-101-day-2-other-class
     extension: .jpg
-    title: Basic Keelboat
-    caption: Other basic keelboat class in progress
+    title: BK class in progress
+    caption: BK class in progress
   - filename: asa-101-day-2-motor-died-jibsail-only
     extension: .jpg
-    title: Motor died
-    caption: Poor Tim was stranded when his motor died and without a main sail, he had only his jig sail to get him back to port.
+    title: After engine failure, sailing the jib to berth
+    caption: After engine failure, sailing the jib to berth
   - filename: asa-101-day-2-iris-sailing-close-hauled
     extension: .jpg
-    title: Close hauled
+    title: Sailing close hauled
     caption: Sailing close hauled
   - filename: asa-101-day-2-spinnaker
     extension: .jpg
-    title: Spinnaker
+    title: Downwind sailing
     caption: Downwind sailing
 asa-2012-jan-first-charter:
   pictures:
   - filename: asa-first-charter-kids
     extension: .jpg
-    title: Kids sailing
-    caption: Kids dinghy sailing (a.k.a. wet sailing)
+    title: Kids dinghy sailing
+    caption: Kids dinghy sailing
   - filename: asa-first-charter-jody
     extension: .jpg
-    title: jody cockpit
+    title: Jody relaxes in the cockpit
     caption: Jody relaxes in the cockpit
   - filename: asa-first-charter-racing
     extension: .jpg
-    title: race boat
+    title: Where's the wind?
     caption: Where's the wind?
   - filename: asa-first-charter-sailing-close-hauled
     extension: .jpg
-    title: Close hauled
+    title: Sailing close hauled
     caption: Sailing close hauled
 asa-2012-mar-first-skipper:
   pictures:    
@@ -300,10 +300,6 @@ sanfran:
     extension: .jpg
     title: Route planning
     caption: Route planning
-  - filename: sf-2013-oct-denise-helm-crop
-    extension: .jpg
-    title: At the helm
-    caption: At the helm
   - filename: sf-2013-oct-schooner
     extension: .jpg
     title: Schooner
@@ -312,6 +308,10 @@ sanfran:
     extension: .jpg
     title: Sunset sail
     caption: Sunset sail
+  - filename: sf-2013-oct-denise-helm-crop
+    extension: .jpg
+    title: At the helm
+    caption: At the helm
   - filename: sf-2013-oct-wing-on-wing
     extension: .jpg
     title: Wing on wing
@@ -334,18 +334,56 @@ bvi:
     extension: .jpg
     title: Downwind to Jost van Dyke
     caption: Downwind to Jost van Dyke
-  - filename: dhn-bvi-sunrise
+  - filename: bvi-01-27-sunrise-0704
     extension: .jpg
     title: Sunrise
     caption: Sunrise
-  - filename: filename
+  - filename: bvi-01-23-denise-sailbag
     extension: .jpg
-    title: description
-    caption: description
-  - filename: filename
+    title: Well-ventilated sleeping
+    caption: Well-ventilated sleeping
+  - filename: bvi-01-29-charter-yacht
     extension: .jpg
-    title: description
-    caption: description
+    title: Define charter
+    caption: Define charter
+  - filename: bvi-01-29-split-tab
+    extension: .jpg
+    title: Split the tab
+    caption: Split the tab
+  - filename: bvi-01-29-hiking-out-2
+    extension: .jpg
+    title: Hiking out
+    caption: Hiking out
+  - filename: bvi-01-25-sunrise-0711
+    extension: .jpg
+    title: Sunrise over Pipsea
+    caption: Sunrise over Pipsea
+cyc:
+  pictures:    
+  - filename: cyc-2014-jun-25-pacific
+    extension: .jpg
+    title: Pacific Jeanneau 43
+    caption: Pacific Jeanneau 43
+  - filename: cyc-2014-jun-25-at-start
+    extension: .jpg
+    title: Starting line
+    caption: Starting line
+  - filename: cyc-2014-jun-25-owner-at-helm
+    extension: .jpg
+    title: Whitney at the helm
+    caption: Whitney at the helm
+  - filename: cyc-2014-jun-25-rail-meat
+    extension: .jpg
+    title: Rail meat
+    caption: Rail meat
+  - filename: cyc-2014-jun-25-overtaken
+    extension: .jpg
+    title: Overtaking vessel
+    caption: Overtaking vessel
+  - filename: cyc-2014-jun-25-spinnaker
+    extension: .jpg
+    title: Flying the spinnaker
+    caption: Flying the spinnaker
 greece:
   pictures:    
   - filename: dhn-ocean-greece-02

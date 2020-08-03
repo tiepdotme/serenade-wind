@@ -63,7 +63,7 @@ Given that she is a 50 foot custom-built staysail schooner who has been lovingly
 
 # Due Diligence
 
-Since late December, we have corresponded with the owner who was staying in SNevis in the Caribbean. We made arrangements in mid-March to see the boat when he and his wife would be back in Florida.
+Since late December, we have corresponded with the owner who was staying in Nevis in the Caribbean. We made arrangements in mid-March to see the boat when he and his wife would be back in Florida.
 
 While Andrew and I devoured every pixel of information we could on the owner's website, we quickly came to the conclusion that what we saw in the design and feature selection of the boat came from a very purposeful and thoughtful owner, who placed a high premium on the sailing capabilities of the boat while still ensuring that he and his wife would be sailing in safety and comfort across the high seas. 
 

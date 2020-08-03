@@ -46,3 +46,65 @@ challenge:
     extension: .jpg
     title: Lisa, Jen, Denise, Linda
     caption: Lisa, Jen, Denise, Linda
+hsu-family-1st-gen:
+  pictures:
+  - filename: dhn-hsu-family-in-taiwan
+    extension: .jpg
+    title: 1st Generation Hsu's
+    caption: 1st Generation Hsu's
+  - filename: dhn-uncle-david-motorbike
+    extension: .jpg
+    title: David
+    caption: David
+  - filename: dhn-almars-grandma
+    extension: .jpg
+    title: Almars & Mom
+    caption: Almars
+  - filename: dhn-almars-grandma-dad
+    extension: .jpg
+    title: Almars, Mom & Matthew
+    caption: Almars, Mom & Matthew
+  - filename: dhn-dad-mom
+    extension: .jpg
+    title: Matthew & Ruth
+    caption: Matthew & Ruth
+chen-family:
+  pictures:
+  - filename: dhn-mom
+    extension: .jpg
+    title: My mom, Ruth
+    caption: My mom, Ruth
+  - filename: dhn-chen-family-tainan
+    extension: .jpg
+    title: Mom's family based in Tainan
+    caption: Mom's family based in Tainan
+  - filename: dhn-chen-family-taipei
+    extension: .jpg
+    title: Mom's family based in Taipei
+    caption: Mom's family based in Taipei
+hsu-family-2nd-gen:
+  pictures:
+  - filename: dhn-hsu-family-chris-wedding
+    extension: .jpg
+    title: Hsu family at Chris' wedding, Mar 2019
+    caption: Hsu family at Chris' wedding, Mar 2019
+  - filename: ellen-wedding-mom-network
+    extension: .jpg
+    title: Mom network at our wedding, Feb 2015
+    caption: Mom network at our wedding, Feb 2015
+  - filename: dhn-yuki-birthday
+    extension: .jpg
+    title: Yuki's birthday, Jan 2017
+    caption: Yuki's birthday, Jan 2017  
+  - filename: ellen-wedding-eric-fam
+    extension: .jpg
+    title: Eric's family
+    caption: Eric's family
+  - filename: ellen-wedding-ellen-fam
+    extension: .jpg
+    title: Ellen's family
+    caption: Ellen's family
+  - filename: ellen-wedding-ellick-fam.jpg
+    extension: .jpg
+    title: Ellick's family
+    caption: Ellick's family

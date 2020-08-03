@@ -34,14 +34,16 @@ Kinda boggles the mind, doesn't it?
 
 Some time has passed since this episode, so I took this discussion a little further to try to see if there is a better projection map out there. 
 
-{% assign pwimg="map-of-world-authagraph" %}
-{% assign pwcaption="Photo by Geoawesomeness" %}
-{% assign pwpng="" %}
-{% include post-wide-image.html%}
+## Land-centric Map 
 
 Geoawesomeness spent a little time researching this same question in their article, ["Which is the best map projection?"](https://geoawesomeness.com/best-map-projection/) The crux of the issue is taking a 3 dimensional object and attempting to represent it in 2 dimensions, without any distortions to shape, distance, direction or land shape. 
 
 The findings of three of the maps are summarized below:
+
+{% assign pwimg="map-of-world-mercator" %}
+{% assign pwcaption="Photo by Geoawesomeness" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 > Mercator was designed as a navigational tool for sailors as it was
 > most convenient to hand-plot courses with parallel rules and triangles
@@ -53,6 +55,11 @@ The findings of three of the maps are summarized below:
 > Cons: Bad for understanding the real size and shape of continents
 > and countries
 
+{% assign pwimg="map-of-world-gall–peters" %}
+{% assign pwcaption="Photo by Geoawesomeness" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 > Peters argued that by enlarging Europe and North America, Mercator
 > maps were giving white nations a sense of supremacy over non-white
 > nations.
@@ -60,6 +67,11 @@ The findings of three of the maps are summarized below:
 > Pros: The only ‘area-correct’ map of its time 
 > 
 > Cons: Galled the cartographic community in the 1980s
+
+{% assign pwimg="map-of-world-authagraph" %}
+{% assign pwcaption="Photo by Geoawesomeness" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 > AuthaGraph realistically represents all oceans and continents,
 > including the neglected Antarctica. 
@@ -70,6 +82,10 @@ The findings of three of the maps are summarized below:
 > Cons: The Arctic Circle gets somewhat squashed
 
 I kinda like the representation shown in the AuthaGraph map. I also like its origami nature. If you want to learn more about this topic, check out [Geoawesomeness](https://geoawesomeness.com/best-map-projection/) to see various other projection maps and their pros and cons.
+
+## Ocean-centric Map 
+
+As you can see from all the examples above, these are all *land-centric* maps. And if representations of the world can be redrawn to suit different purposes, why not draw one that is *ocean-centric*?
 
 {% assign pwimg="spilhaus-map-ocean-currents" %}
 {% assign pwcaption="Projection Map by Spilhaus" %}

@@ -114,3 +114,9 @@ The benefits of this are:
 I'm sold! I can use this product for a year and simultaneously reduce waste, especially smelly waste.
 
 As we continue to discover products that align with zero waste, minimalism, self-sustainability or going green, we'll continue to provide updates on ethical sailing. Please note that we are providing links for convenience, and we are not earning any affiliate revenue.
+
+# Post Script
+
+## Update as of August 3, 2020
+
+The toothpaste powder lasted about 2 months. Andrew continues to swear by it while I have abandoned it since I have a sensitivity to the mint. I have switched to Burt's Bees Extra White Zen Peppermint. We both enjoy using the Ethique Shampoo. The bar is still quite an ample size and I expect at this rate, it will last a few more months and we may take it aboard when we move to Florida. 
