@@ -7,9 +7,9 @@ permalink: /posts/sailing-around-the-world/
 author: sw
 layout: post
 categories:
-    - Climbing Adventures
-    - Sailing Adventures
     - Relationships
+    - Sailing Adventures
+    - Climbing Adventures
 tags:
     - climbing
     - secondmountain

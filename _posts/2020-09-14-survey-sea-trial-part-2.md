@@ -56,7 +56,7 @@ Along with our quick chat, his Hold Fast Youtube channel has a few survey and se
 
 We are going into this phase hoping for the best and expecting the worst. 
 
- - "Hoping for the best" means that everything described in the previous survey and everything described by Bill who has done continuous upgrades and refits over the years means she truly is ready to go. 
+ - "Hoping for the best" means that everything described in the previous survey and everything described by Bill (who has done continuous upgrades and refits over the years) means she truly is ready to go. 
  
  - "Expecting the worst" means staring down the barrel of $100K in refit costs before the first season of sailing and therefore walking away from the boat.
 

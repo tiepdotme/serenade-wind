@@ -76,12 +76,12 @@ chen-family:
     caption: My mom, Ruth
   - filename: dhn-chen-family-tainan
     extension: .jpg
-    title: Mom's family based in Tainan
-    caption: Mom's family based in Tainan
+    title: Chen family in Tainan
+    caption: Chen family in Tainan
   - filename: dhn-chen-family-taipei
     extension: .jpg
-    title: Mom's family based in Taipei
-    caption: Mom's family based in Taipei
+    title: Chen family in Taipei
+    caption: Chen family in Taipei
 hsu-family-2nd-gen:
   pictures:
   - filename: dhn-hsu-family-chris-wedding

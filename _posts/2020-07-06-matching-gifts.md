@@ -15,6 +15,7 @@ tags:
     - itaintallaboutthemoney
     - transitions
 share: true
+featured: true
 image:
     thumbnail: /images/small/birthday-bow-box-card.jpg 
 excerpt: How do you prioritize what to do when you downsize your home? We independently came to the same conclusion - to maximize matching gifts is our first priority, then speed and lastly value. 
