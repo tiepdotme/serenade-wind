@@ -55,7 +55,7 @@ The findings of three of the maps are summarized below:
 > Cons: Bad for understanding the real size and shape of continents
 > and countries
 
-{% assign pwimg="map-of-world-gall–peters" %}
+{% assign pwimg="map-of-world-gall-peters" %}
 {% assign pwcaption="Photo by Geoawesomeness" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
