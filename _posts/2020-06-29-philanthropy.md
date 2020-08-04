@@ -24,7 +24,7 @@ excerpt: One of the first posts we published on SerenadeWind talks about our rel
 {% include toc %}
 
 {% assign pwimg="cash-dollars-hands-money" %}
-{% assign pwcaption="" %}
+{% assign pwcaption="Photo by Pixabay" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

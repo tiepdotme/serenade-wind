@@ -131,17 +131,16 @@ Earlier this year, I discovered a recipe from the Kitchen Magpie, and since then
 
 *Ingredients*
 
-1 carrot, diced 
-2 stalks of celery, diced 
-4 stalks of scallions, diced 
+ - 1 carrot, diced 
+ - 2 stalks of celery, diced 
+ - 4 stalks of scallions, diced 
 
-2/3 cup of Bisquick 
-2 cups of milk 
-4 eggs whisked 
+ - 2/3 cup of Bisquick 
+ - 2 cups of milk 
+ - 4 eggs whisked 
 
-1 (12 oz) can of canned corn beef
-
-1 cup of cheddar cheese 
+ - 1 (12 oz) can of canned corn beef
+ - 1 cup of cheddar cheese 
 
 *Directions*
 
@@ -149,13 +148,15 @@ Saute first three ingredients in a pan with olive oil until carmelized. Add pinc
 
 In a bowl, whisk eggs and then combine milk and Bisquick until there are no lumps.
 
-In a pie plate (I use a pyrex), spread cooked vegetables, then sprinkle corned beef and cheese on top, spreading evenly. Pour Bisquick milk mixture and place pie in a 400 degree pre-heated oven.
+In a pyrex pie plate, spread cooked vegetables, then sprinkle corned beef and cheese on top, spreading evenly. Pour Bisquick milk mixture and place pie in a 400 degree pre-heated oven.
 
 Bake for 25-35 minutes until puffed golden brown and custard is set. Cool for 10-15 minutes before serving.  
 
 *Galley notes*
 
 The canned corn beef can be overwhelming in these proportions. In the next iteration of this, I would halve the amount of corn beef for this recipe and save half of it for a corn beef hash with a fried eggs.
+
+For passage-making, you can reduce the cooking time by portioning this recipe in muffin tins. Baking time is halved and individual servings can be stored or served on napkins, thus reducing water use for washing dishes. 
 
 {% assign pwimg="dhn-canned-crabcakes" %}
 {% assign pwcaption="" %}
@@ -166,6 +167,29 @@ The canned corn beef can be overwhelming in these proportions. In the next itera
 
 Based on the success of the creole salmon cakes, I thought I would try my hand again at a creole crabcake. Here's [the recipe](/posts/canned-food-recipes/), but substitute salmon for crab.
 
+*Ingredients:*
+
+ - 1/2 cup Japanese mayonnaise (Kewpie)  
+ - 2 eggs
+ - 1 cup of celery, minced
+ - 1/2 cup spring onion, minced
+ - 1/2 cup cilantro, minced  
+ - 1/2 teaspoon black pepper  
+ - 1/2 teaspoon [Sunny Caribbee](https://sunnycaribbee.com/) Jerk spice seasoning
+
+ - 1 (8 oz) can crab  
+ - 1 cup panko bread crumbs  
+
+*Directions:*
+
+Drain crab and set aside. In a large bowl add minced vegetables, all the spices, mayonnaise and eggs, mix well. Fold in crab and panko bread crumbs.
+
+Form into 4 patties or you could make appetizer size if desired.
+
+Heat about 4 tablespoons of olive oil in a skillet over medium heat, add patties in brown for about 4-5 minutes per side until nice and golden brown.
+
+Finish in the oven 350 degrees for 10 minutes.
+
 {% assign pwimg="dhn-canned-clam-chowder" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
@@ -175,26 +199,26 @@ Based on the success of the creole salmon cakes, I thought I would try my hand a
 
 *Ingredients*
 
-3 strips of bacon, chopped
+ - 3 strips of bacon, chopped
 
-1 clove garlic, minced
-2 tbl butter
+ - 1 clove garlic, minced
+ - 2 tbl butter
 
-1 medium onion, diced
-5 stalks of celery, chopped
-2 cups of young gold potatoes
-2 cups shitake mushrooms
+ - 1 medium onion, diced
+ - 5 stalks of celery, chopped
+ - 2 cups of young gold potatoes
+ - 2 cups shitake mushrooms
 
-1/4 tsp white pepper
-1/2 tsp dried thyme
+ - 1/4 tsp white pepper
+ - 1/2 tsp dried thyme
 
-3 cups of chicken broth 
+ - 3 cups of chicken broth 
 
-1 can (6.5 oz) chopped clams with juice
-1 can (10 oz) whole clams with juice
+ - 1 can (6.5 oz) chopped clams with juice
+ - 1 can (10 oz) whole clams with juice
 
-1/3 cup AP flour
-2 cups half-and-half divided 
+ - 1/3 cup AP flour
+ - 2 cups half-and-half divided 
 
 Vegeta or salt to taste 
 
@@ -211,10 +235,52 @@ Vegeta or salt to taste
 *Galley notes*
 
 Be sure to whisk the flour and half-and-half slurry so there are no lumps.
-Add vegeta or salt at the end to taste, since the introduction of the clam juice also adds seasoning of its own. In retrospect, I also preferred the whole clams to the chopped clams. I would also add more flour to create a thicker soup. Otherwise, deelish!
+Add vegeta or salt at the end to taste, since the introduction of the clam juice also adds seasoning of its own. In retrospect, I also preferred the whole clams to the chopped clams. Andrew liked the consistency of this chowder, however I would add more flour to create a thicker soup. Otherwise, deelish!
 
 # Canned Spam Musubi
 
 *Ingredients*
 
 *Directions*
+
+{% assign pwimg="dhn-crack-salami" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
+# Crack Salami
+
+Years ago, I would watch [The Rachel Zoe Project](https://www.bravotv.com/the-rachel-zoe-project) and in [episode 8 of Season 4](https://www.bravotv.com/the-rachel-zoe-project/season-4/episode-8/videos/the-crack-of-salamis), she prepared this dish for her entourage. The recipe is dead simple and is pantry friendly, which makes it perfect for boat life.
+
+Since 2011, there are variations of this recipe floating around the internet. Here's mine:
+
+*Ingredients*
+
+ - 1 cup spicy brown mustard
+ - 1 cup apricot preserves
+
+ - 2 lbs [Hebrew National Beef Salami](https://www.instacart.com/products/58086-hebrew-national-beef-salami-2-lb) 
+
+*Directions*
+
+Preheat oven to 350.
+
+Combine mustard and preserves in a dish until well blended. I usually have a partially open jar of either, and so I will use this as my mixing bowl which cuts down on doing dishes and is great for storing leftover sauce for next time.
+
+Slice the summer sausage anywhere from 1/8 to 1/4" thick, however do not slice all the way through. You pretty much want to stop 1/4" from the end. When I first started, I would place a knife at the end, to stop the slice. Once you get used to it, you can eyeball when to stop.
+
+Fan the summer sausage roll as you spoon mustard-preserve sauce between each slice. Slather on the outside and arrange in a foil-lined baking dish. 
+
+Bake at 350 degrees for 1 hour. You may want to baste the sausage with the drippings a few times during the hour.
+
+If you prefer more char, you can place it under a broiler for a couple minutes.
+
+Serve while hot with and extra sauce for dipping. Great with some crusty bread or crackers. It's also a delicious snack to nosh on throughout the day. 
+
+*Galley notes*
+
+This is a pretty forgiving recipe. If you can't find Hebrew National Beef Salami, I have often used [beef summer sausage](https://www.ralphs.com/p/private-selection-beef-summer-sausage/0001111060259) in a pinch. 
+
+Your mustard choices can also vary from yellow mustard, brown mustard, spicy brown mustard and dijon mustard. If you don't have apricot preserves, feel free to substitute with honey, agave or any sweet jam/jelly. Basically, you want to arrive at a consistency of baby food. 
+
+If you want more caramelization, then go heavier on the preserves. If you prefer Carolina BBQ flavors, then go heavier on the mustard.
