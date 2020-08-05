@@ -3,7 +3,7 @@ id: 8
 title: Eye of the Storm
 date: 2020-02-16T16:20:12+00:00
 guid: https://www.serenadewind.com/posts/eye-of-the-storm/
-permalink: /posts/relationship-with-money/
+permalink: /posts/eye-of-the-storm/
 author: sw
 layout: post
 categories:
