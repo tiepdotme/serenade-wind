@@ -1,7 +1,7 @@
 ---
 id: 98
 title: Pantry Proteins
-date: 2020-09-03T12:03:12+00:00
+date: 2020-10-01T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/pantry-proteins/
 permalink: /posts/pantry-proteins/
 author: sw
