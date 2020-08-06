@@ -35,8 +35,8 @@ Given our decision to become liveaboard cruisers [this year](/posts/sailing-arou
 
  - Join a sailing club so we can test out different boats, including catamarans.
  - Sign up Andrew for some ASA courses.
-     - I have more qualifications and keelboat experience than Andrew, and I didn't want the responsibility of being captain 100% of the time. 
-     - The idea was I would tag along while he went through the courses and then we would both get up to speed and become co-captains.
+     + I have more qualifications and keelboat experience than Andrew, and I didn't want the responsibility of being captain 100% of the time. 
+     + The idea was I would tag along while he went through the courses and then we would both get up to speed and become co-captains.
  - Charter daysails to get some more experience in an unstructured setting. 
 
 We weighed the pros and cons. Ultimately, we decided against joining a sailing club because we knew the type of boat we'd want to buy wouldn't be in their fleet. We also didn't sign up Andrew for the ASA courses, as he comes up the learning curve faster when he learns by doing, rather than learn by rules or rote.

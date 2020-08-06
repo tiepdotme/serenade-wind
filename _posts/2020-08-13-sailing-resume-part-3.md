@@ -89,10 +89,10 @@ Using notes from the log book and photos on my hard drive, I was able to recall 
 ## Sailing Highlights 
 
  - hiking out on the windward side to decrease heel and increase our speed (a.k.a. human whisker pole)
- - racing Pipsea enroute to Virgin Gorda and again to Anegada
+ - racing *Pipsea* enroute to Virgin Gorda and again to Anegada
  - navigating through shallow channel on our approach to Anegada, where groundings are common
  - exhilarating downwind sailing through isolated storms from Anagada to Jost van Dyke
- - sailing with the crew of Pipsea from Diamond Cay to Great Harbor - they were so chill, while Serenite loved to race - it was good to experience the contrast
+ - sailing with the crew of *Pipsea* from Diamond Cay to Great Harbor - they were so chill, while *Serenite* loved to race - it was good to experience the contrast
 
 {% assign pwimg="bvi-01-29-saba-rock-laughter" %}
 {% assign pwcaption="Lounging at Saba Rock" %}
@@ -104,7 +104,7 @@ Using notes from the log book and photos on my hard drive, I was able to recall 
  - losing my credit card, debit card, and drivers license
  - Phoebe took a tumble down below and split her lip 
  - exploring the caves at the Baths
- - gas tank missing; must paddle back to the boat
+ - gas tank missing or stolen; must paddle back to the boat
  - exploring Spanish Town with Joanne
  - lounging at Saba Rock
  - crazy minivan drive to lobster dinner on Anegada
@@ -120,12 +120,12 @@ Using notes from the log book and photos on my hard drive, I was able to recall 
 
 ## Food Highlights
 
- - pan seared caribbean chicken with dirty rice
+ - pan seared Caribbean chicken with dirty rice
  - lobster dinner on Anegada 
  - shepherd's pie
  - ramen burgers
  - curry chicken bread pudding
- - painkillers, dark & stormy, and mystery punch aboard Serenite
+ - painkillers, dark & stormy, and mystery punch aboard *Serenite*
 
 After getting back home, I emailed my thanks to Hannah and wrote, "Hands down, it was one of the best times -- visually stunning, adventuresome sailing and silliest drinking vacation I could ever have."
 

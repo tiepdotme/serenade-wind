@@ -29,7 +29,7 @@ excerpt: On September 19th of each year since 2002, the world over celebrates in
 
 On September 19th of each year since 2002, the world over celebrates international talk like a pirate day. 
 
-When I first learned about it a while ago, I thought it was a cute, an interesting way to adapt some speech patterns into my writing, but really didn't invest too much in it.
+When I first learned about it a while ago, I thought it was a cute, interesting way to adapt some speech patterns into my writing, but I really didn't invest too much in it.
 
 Now that we are owners of a schooner, we thought we might get a little bit more into the spirit of things.
 
@@ -37,17 +37,13 @@ Now that we are owners of a schooner, we thought we might get a little bit more 
 
 There's a charming blog that goes into the history, [talklikeapirate.com](http://talklikeapirate.com/wordpress/). There are loads of fun information and resources, such as [glossaries](http://talklikeapirate.com/wordpress/how-to/for-further-study/) and [translators](https://www.syddware.com/cgi-bin/pirate.pl) so you can pick up some terms.
 
+Seems like most mentions of pirates, privateers and buccaneers are men, so I thought I would shine a spotlight on the few powerful women who have captained ships and went on to command hundreds of fleets and thousands of sailors.  
+
 # Grace O'Malley
-
-Current Text:
-
-I first learned of Grace O'Malley earlier this year through the Schooner Bums Facebook group. In it one of the members posted a link to an article written about the infamous [Irish pirate queen who conquered a man's world and faced down Queen Elizabeth I](https://allthatsinteresting.com/grace-omalley).
-
-I thought it was pretty cool.
 
 *A sea dog says 't this way. Arrr, so ye be wantin' t' go to sea an' ye don't be wantin' t' end up in Davy Jones' Locker. Then ye best be learnin' t' be talkin' like a buccaneer.*
 
-*I first learned o' Grace O`Malley earlier this voyage through the Schooner Bums Facebook squadron. In 't one o' th' members posted a link t' an article written about th' infamous Irish shipmate queen who conquered a man's world an' faced down Queen Elizabeth I.*
+*I first learned o' Grace O`Malley earlier this voyage through the Schooner Bums Facebook squadron. In 't one o' th' members posted a link t' an article written about th' infamous [Irish shipmate queen](https://allthatsinteresting.com/grace-omalley) who conquered a man's world an' faced down Queen Elizabeth I.*
 
 *I thought 't be pretty cool. Ya scurvy dog who ortin' t' be keel hauled! What else ye got? An' be quick about it, I be shippin' out soon!*
 
@@ -95,7 +91,6 @@ More is written up in the [Smithsonian article](https://www.historyireland.com/e
 
 # In other news...
 
-Andrew and I will be heading out to Ft. Lauderdale next week for the haulout, marine survey and sea trial of [s/v Rachel J Slocum](/about-rachel-j-slocum/). Stay tuned for more!
+Andrew and I will be heading out to Ft. Lauderdale next week for the haulout, marine survey and sea trial of our schooner, [s/v Rachel J Slocum](/about-rachel-j-slocum/). We'll be describing what we did during this phase of the due diligence process in a 5-part series, Survey and Sea Trial.
 
-
-
+Also, we wrapped up a massive weekend of purging and downsizing. Our house is completely decimated, and it feels great! We'll share this account in a future post updating our week 20 progress on [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/). 
