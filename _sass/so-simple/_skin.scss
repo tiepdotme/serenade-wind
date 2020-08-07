@@ -215,11 +215,9 @@ blockquote {
   }
 
   li {
-    ol {
-      
-    }
 
     a {
+
       &:hover,
       &:focus {
         border-bottom: 1px dotted $border-color;

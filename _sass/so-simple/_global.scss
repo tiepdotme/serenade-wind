@@ -39,13 +39,17 @@
     border:0;
     background-color: transparent;
   }
+
+  @include breakpoint ($medium){
+    width: 500px;
+  }
 }
 .site-nav {
   display: none;
   margin-bottom: 0.1em;
   text-align: center;
 
-  @include breakpoint($large){
+  @include breakpoint($medium){
     margin-bottom: 1em;
   }
   ul {
@@ -327,7 +331,7 @@
   border: 0;
   width: 285px;
 
-  @include breakpoint($large) {
+  @include breakpoint($xlarge) {
     display: none;
     position: fixed;
     left: 0.5em;
@@ -349,9 +353,6 @@
 
     .fa-elementor{
        margin-right:8px;
-    }
-
-    @include breakpoint($large){
     }
 
     .toc-toggle-icon {
@@ -378,18 +379,17 @@
     padding-left: 2rem;
     overflow: hidden;
     font-size: 0.9rem;
+    margin:0;
+    list-style:none;
+    padding:0;
 
-
-    @include breakpoint($large){
+    @include breakpoint($xlarge){
       -webkit-transition: height 350ms ease;
       transition: height 350ms ease;
-      margin:0;
-      list-style:none;
-      padding:0;
     }
 
     li, a {
-      @include breakpoint($large){
+      @include breakpoint($xlarge){
         font-size:1em;
         overflow-wrap:break-word;
         color:#aaa;
@@ -402,12 +402,11 @@
       list-style-position: inside;
       text-indent: -1.2rem;
       padding-left: 2rem;
-      list-style: disc;
+      list-style: none;
       
-      @include breakpoint($large){
+      @include breakpoint($xlarge){
         text-indent: -1rem;
         padding-left: 2.5rem;
-        list-style: none;
       }
 
       a {
