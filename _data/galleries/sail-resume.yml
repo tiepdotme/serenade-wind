@@ -386,31 +386,47 @@ cyc:
     caption: Flying the spinnaker
 greece:
   pictures:    
-  - filename: dhn-ocean-greece-02
+  - filename: dhn-greece-paxos
     extension: .jpg
-    title: description
-    caption: description
-  - filename: dhn-ocean-greece-05
+    title: Channel to Paxos
+    caption: Channel to Paxos
+  - filename: dhn-greece-paxos-nefertiti
     extension: .jpg
-    title: description
-    caption: description
-  - filename: dhn-ocean-greece-04
+    title: Nefertiti
+    caption: Nefertiti
+  - filename: dhn-greece-paxos-taka
     extension: .jpg
-    title: description
-    caption: description
-  - filename: dhn-ocean-greece-01
+    title: Dinner at Taka Taka in Paxos
+    caption: Dinner at Taka Taka in Paxos
+  - filename: dhn-greece-nidri-buddy-boat-2
     extension: .jpg
-    title: description
-    caption: description
-  - filename: greece-both-corinth-crossing
+    title: Buddy boat
+    caption: Buddy boat
+  - filename: dhn-greece-kefalonia-denise-overlook
     extension: .jpg
-    title: description
-    caption: description
-  - filename: profile-corinth-canal
+    title: Kefalonia
+    caption: Kefalonia
+  - filename: dhn-greece-buddy-boat
     extension: .jpg
-    title: description
-    caption: description
-  - filename: greece-andrew-bay
+    title: Buddy boat
+    caption: Buddy boat
+  - filename: dhn-greece-kefalonia-bus
     extension: .jpg
-    title: description
-    caption: description
+    title: Roadtrip in Russian
+    caption: Roadtrip in Russian
+  - filename: dhn-greece-navpaktos-marina
+    extension: .jpg
+    title: Favorite marina, Navpaktos
+    caption: Favorite marina, Navpaktos
+  - filename: dhn-greece-navpaktos-andrew-slava
+    extension: .jpg
+    title: Andrew and Slava
+    caption: Andrew and Slava
+  - filename: dhn-greece-corinth-denise-dogs
+    extension: .jpg
+    title: Welcoming crew in Corinth
+    caption: Welcoming crew in Corinth
+  - filename: dhn-greece-athens-andrew-cat
+    extension: .jpg
+    title: Friendly kitty in Athens
+    caption: Friendly kitty in Athens

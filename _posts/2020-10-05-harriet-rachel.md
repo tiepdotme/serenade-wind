@@ -102,7 +102,7 @@ When we took everyone through our home over the summer, we showed them the room 
 
 {% include sticky-note.html text="Reduce possessions" %}
 
-After 24 months of having written our goal on the [whiteboard](/posts/time-to-go-to-the-whiteboard/) on October 2018, we finally got a chance to get rid of all of our stuff. We have that light feeling that comes with an [empty backpack](/posts/sailing-around-the-world/) so we can begin to curate experiences and not possessions.
+After 2 years of having written our goal on the [whiteboard](/posts/time-to-go-to-the-whiteboard/) on August 2018, we finally got a chance to get rid of all of our stuff. We have that light feeling that comes with an [empty backpack](/posts/sailing-around-the-world/) so we can begin to curate experiences and not possessions.
 
 So with our 7x7 sq ft of possessions, we are ready to pack it all in a POD and ship it to Florida in November at the end of hurricane season.
 

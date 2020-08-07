@@ -59,19 +59,20 @@ So, after doing some research online, I signed up for the Basic Keelboat class a
 {% include post-image-gallery.html gallery=site.data.galleries.sail-resume.asa-101-2011-nov-day-1 galId="asa-101-2011-nov-day-1" hideArrows=true %}
 
 # ASA 101 Basic Keelboat - Nov 2011
-Catalina 30 "Valkyrie"
+
+*Valkyrie* Catalina 30
 
 On Saturday, the first day of the Basic Keelboat class, the weather was overcast and windy, with clear visibility. We spent the morning ashore outside the Bluewater Sailing offices and learned the parts of the boat, parts of the sail, the functions of various lines and parts, and points of sail. 
 
-After a couple hours, we broke for lunch and then headed to the slip to board "Valkyrie" a Catalina 30. Due to the stiff winds, our instructor Ash decided we should reef the main, explained why and how to go about placing a reef. 
+After a couple hours, we broke for lunch and then headed to the slip to board *Valkyrie* a Catalina 30. Due to the stiff winds, our instructor Ash decided we should reef the main, explained why and how to go about placing a reef. 
 
 Then we were on our way, backing out of the slip, pulling into the finger and motoring our way out the basin and towards the channel. We raised the sail in the channel, then headed out past the breakwater and sailed towards Catalina Island. All afternoon, we practiced trimming the sails depending on the various points of sail in Santa Monica Bay. It was a wonderful first day to be out on the water.  
 
 {% include post-image-gallery.html gallery=site.data.galleries.sail-resume.asa-101-2011-nov-day-2 galId="asa-101-2011-nov-day-2" hideArrows=true %}
 
-The following day was sunny and clear. We took out a Catalina 22 "Iris", and spent a little more time in the channel identifying stand-on and give-away boats. We also came across Tim aboard Pegasus. Her motor died and he was without a main sail, so he was sailing her jib back to port. 
+The following day was sunny and clear. We took out a Catalina 22 *Iris*, and spent a little more time in the channel identifying stand-on and give-away boats. We also came across Tim aboard Pegasus. Her motor died and he was without a main sail, so he was sailing her jib back to port. 
 
-The following weekend aboard Catalina 22's ("Iris" & "Golden Hind"), we practiced modified figure 8s and crew overboard sequences during a bit of rain and variable wind conditions. We primarily stayed in the marina to practice these drills. At the conclusion of Sunday, we all took the test, which was graded on the premises. If we passed, we rang the bell on our way out.
+The following weekend aboard Catalina 22's (*Iris* & *Golden Hind*), we practiced modified figure 8s and crew overboard sequences during a bit of rain and variable wind conditions. We primarily stayed in the marina to practice these drills. At the conclusion of Sunday, we all took the test, which was graded on the premises. If we passed, we rang the bell on our way out.
 
 {% assign pwimg="asa-first-charter-with-girls" %}
 {% assign pwcaption="First charter" %}
@@ -102,7 +103,7 @@ During the sailing portion of the class, we practiced crew overboard drills (fig
 {% include post-wide-image.html%}
 
 # First Skipper Experience
-Catalina 22 "Golden Hind"
+Catalina 22 *Golden Hind*
 
 Following the BCC course, I was excited to skipper my first charter and invited some friends along, Shannon and her husband Mark, as well as Brian, who had some previous sailing experience. 
 

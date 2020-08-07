@@ -26,7 +26,7 @@ excerpt: If you want to take your sailing education to the next level, how about
 {% include post-wide-image.html%}
 
 # British Virgin Islands, Jan 2014
-Leopard 384 "Serenite"
+Leopard 384 *Serenite*
 
 Hannah invited me to join her on a sailing trip around the BVIs for a couple weeks. As we were emailing each other to exchange information (flight, passport, address, etc.), I happened to ask her the cost of the charter and provisioning. Chartering a Leopard 384 at that time ran us $8,000 (about $1,500 per person), and she estimated food would run $300 per person for the trip. 
 
@@ -127,7 +127,9 @@ Using notes from the log book and photos on my hard drive, I was able to recall 
  - curry chicken bread pudding
  - painkillers, dark & stormy, and mystery punch aboard *Serenite*
 
-After getting back home, I emailed my thanks to Hannah and wrote, "Hands down, it was one of the best times -- visually stunning, adventuresome sailing and silliest drinking vacation I could ever have."
+After getting back home, I emailed my thanks to Hannah and wrote, 
+
+>"Hands down, it was one of the best times -- visually stunning, adventuresome sailing and silliest drinking vacation I could ever have."
 
 {% assign pwimg="bws-2013-jul-races" %}
 {% assign pwcaption="" %}

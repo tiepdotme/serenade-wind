@@ -48,12 +48,12 @@ During this summer, we've set aside 1-hour blocks of time each day to focus on s
 {% include post-wide-image.html%}
 
 # ASA 104 Bareboat Chartering, May 2013
-Hunter 41 "Faye"
+Hunter 41 *Faye*
 Instructor: Elliot, Ash
 
 The objective of taking a course in bareboat chartering is to gain the skills and knowledge to act as a skipper or crew of a 30-50 foot boat sailing by day in coastal waters. This would include learning boat systems and maintenance procedures. 
 
-Once again, I signed up with [Bluewater Sailing](https://bluewatersailing.com/) for a 2-day course sailing from Marina del Rey to Isthmus Cove of Catalina Island (distance of 62 nm round trip). We boarded a [Hunter 41 AC](https://sailboatdata.com/sailboat/hunter-41-ac) "Faye." She has a fin hull with a spade rudder, LOA 40.32 ft, beam 13.25 ft, and displacement of 19,400 lbs. The crew included Bob, Adam, Kevin, me and instructor Ash.
+Once again, I signed up with [Bluewater Sailing](https://bluewatersailing.com/) for a 2-day course sailing from Marina del Rey to Isthmus Cove of Catalina Island (distance of 62 nm round trip). We boarded a [Hunter 41 AC](https://sailboatdata.com/sailboat/hunter-41-ac) *Faye*. She has a fin hull with a spade rudder, LOA 40.32 ft, beam 13.25 ft, and displacement of 19,400 lbs. The crew included Bob, Adam, Kevin, me and instructor Ash.
 
 The week before the class, we exchanged emails to discuss provisioning before we set out, with each of us volunteering to handle one meal. 
 
@@ -97,7 +97,7 @@ I also met Hannah who eventually invited me along to a trip to the British Virgi
 {% include post-image-gallery.html gallery=site.data.galleries.sail-resume.bws-2013-sunset-races galId="bws-2013-sunset-races" hideArrows=true %}
 
 # CSC, Fall 2013 through 2014
-Catalina 36 "Mystic"
+Catalina 36 *Mystic*
 
 In the fall of 2013, my friend Mark put me in touch with his sailing club, [California Sailing Cooperative](http://www.californiasailingcoop.org/). He had been a member for quite some time and mentioned it to me during one of our bi-weekly Texas Hold'em games. There was a waiting list, but given my connection, I was quickly invited to a first test sail in September. 
 
@@ -139,13 +139,12 @@ With little visibility and no GPS, we resorted to downloading apps on our phones
 
 Sue probably hated me right then and there.
 
-As the night ticked on, we crawled our way across the bay, finally arriving in Sausalito at 2 a.m. Sue drove us back to her house and we collapsed in our beds.
+As the night ticked on, we crawled our way across the bay, finally arriving in Sausalito at 2 a.m. Sue drove us back to her house, and we collapsed in our beds.
 
 {% include post-image-gallery.html gallery=site.data.galleries.sail-resume.sanfran galId="sanfran" hideArrows=true %}
 
 When I recount this story to friends and family, I receive a sequence of reactions: 1) worry over the tribulation I faced, 2) relief that I made it back safely, and 3) surprise when I tell them I would do it again in a heartbeat because I had a chance to learn to sail under different conditions.
 
-When I told this story to Andrew, he aligned with my conclusion. This certainly played out when we experienced sailing together in Greece.
+When I told this story to Andrew, he readily agreed with my conclusion. This certainly played out when we experienced sailing together in Greece.
 
 Stay tuned for the final part of our series on Sailing Resume.
-
