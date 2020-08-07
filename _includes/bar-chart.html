@@ -1,0 +1,9 @@
+
+<div class="bchart">
+	{%- for bar in include.bar_chart -%}
+  		<div class="bar-{{bar.value}}">
+  			<span class="value">{{bar.value}}</span>
+  			<span class="label">{{bar.label}}</span>
+  		</div>
+  	{%- endfor -%}
+</div>
