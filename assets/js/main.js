@@ -40,9 +40,9 @@ $(document).ready(function() {
         // screens greater than >= 1024px
         breakpoint: 1024,
         settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-          itemWidth: 150,
+          slidesToShow: 3.5,
+          slidesToScroll: 1,
+          itemWidth: 250,
           duration: 0.25
         }
       }

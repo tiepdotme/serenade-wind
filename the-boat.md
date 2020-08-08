@@ -106,7 +106,7 @@ Rachel J. Slocum is a fast 8-knot cruiser in any wind and sea condition and at e
     <tr>
         <td class="spec-key">Sail Area</td>
         <td class="spec-value">
-            {% capture md-spec %}
+{% capture md-spec %}
 1,090 sq. ft. working sail area (not including fore staysail and fisherman). 
 - Fully battened Spectra main with Harken bat cars
 - Spectra battened main staysail (North Sails) on Harken furler
