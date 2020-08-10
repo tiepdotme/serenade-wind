@@ -394,6 +394,10 @@ greece:
     extension: .jpg
     title: Nefertiti
     caption: Nefertiti
+  - filename: alina-greece-nefertiti-crew
+    extension: .jpg
+    title: Crew of Nefertiti
+    caption: Crew of Nefertiti
   - filename: dhn-greece-paxos-taka
     extension: .jpg
     title: Dinner at Taka Taka in Paxos
@@ -402,18 +406,26 @@ greece:
     extension: .jpg
     title: Buddy boat
     caption: Buddy boat
+  - filename: dhn-greece-kefalonia-bus
+    extension: .jpg
+    title: Bus tour in Russian
+    caption: Bus tour in Russian
+  - filename: dhn-greece-kefalonia-caves
+    extension: .jpg
+    title: Caves of Kefalonia
+    caption: Caves of Kefalonia
   - filename: dhn-greece-kefalonia-denise-overlook
     extension: .jpg
     title: Kefalonia
     caption: Kefalonia
-  - filename: dhn-greece-buddy-boat
+  - filename: alina-greece-tour-bay-overlook
     extension: .jpg
-    title: Buddy boat
-    caption: Buddy boat
-  - filename: dhn-greece-kefalonia-bus
+    title: Kefalonia
+    caption: Kefalonia
+  - filename: alina-greece-bay-overlook-2
     extension: .jpg
-    title: Roadtrip in Russian
-    caption: Roadtrip in Russian
+    title: Kefalonia
+    caption: Kefalonia
   - filename: dhn-greece-navpaktos-marina
     extension: .jpg
     title: Favorite marina, Navpaktos
@@ -422,6 +434,10 @@ greece:
     extension: .jpg
     title: Andrew and Slava
     caption: Andrew and Slava
+  - filename: dhn-greece-buddy-boat
+    extension: .jpg
+    title: Buddy boat
+    caption: Buddy boat
   - filename: dhn-greece-corinth-denise-dogs
     extension: .jpg
     title: Welcoming crew in Corinth

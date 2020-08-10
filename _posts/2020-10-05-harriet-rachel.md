@@ -45,11 +45,11 @@ Once the word got out, many of the Hsu cousins (and there's 12 of us!) as well a
 
  - His younger sister, cousin Ellen, also came over to drop off photos from our wedding as well as find out more about our plans and find a home for many of our belongings. 
 
- - Cousin Janet came a few days later and offered to foster Xiaolong while we were travelling. By the end of the week, her husband Edi and her daughters Sabrina and Veronica also came to meet Xiaolong and check out our Mini Cooper S.
+ - Cousin Janet came a few days later and offered to foster Xiaolong while we were travelling. By the end of the week, her husband Edi and her daughters Sabrina and Veronica also came to meet Xiaolong.
 
- - Before the weekend was out, we also had a chat with cousin Grace's husband Gary who gave us some tips on ocean fishing. 
+ - Before the weekend was out, we also had a chat with cousin Grace's husband Gary who gave us some tips on ocean fishing, trawling lines and gifted us some of his fishing gear to get us started. 
 
-Our friends who we consider family as well have also pitched in to help, including Nick & Brit, Jason & Yoko, JC & Camille, Helen & Mar, Hasmik, Linda, Subu, Bill, Palace and others. 
+Our friends who we consider family as well have also pitched in to help, including Jenny & Danny, Nick & Brit, Jason & Yoko, JC & Camille, Helen & Mar, Hasmik, Linda, Subu, Bill, Palace and others. 
 
 {% assign pwimg="dhn-harriet-piano-move" %}
 {% assign pwcaption="" %}

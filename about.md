@@ -25,7 +25,7 @@ Born and raised in Romania, Andrew moved to Toronto at the age of 15. He studied
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-While living in British Columbia, he purchased Periwinkle, a 22 foot custom-built catamaran. She cost $1,200 and was nearly 30 years old. By the time he became her second owner, she had very little of the original color for which she was named. He learned the hard way, a few lessons about boat ownership while he sailed her in Boundary Bay.
+While living in British Columbia, he purchased [Periwinkle](http://cruisingundersail.com/wp/?page_id=53), a 22 foot custom-built catamaran. She cost $1,200 and was nearly 30 years old. By the time he became her second owner, she had very little of the original color for which she was named. He learned the hard way, a few lessons about boat ownership while he sailed her in Boundary Bay. 
 
 {% assign pwimg="ortega-climbing-andrew-rappel" %}
 {% assign pwcaption="Andrew rappelling down Ortega Falls route" %}
@@ -54,9 +54,9 @@ Throughout her career, she has worked in financial services, management consulti
 Images and experiences of sailing have also echoed throughout her life, including:
 - an overnight stay on a 90 foot merchantman brig [The Pilgrim](https://www.ocean-institute.org/sites/main/files/file-attachments/oi_teacherprograms_2016_spreads.pdf, "The Pilgrim Tallship, Dana Point") in Dana Point (see below)
 - sailing posters such as Homer’s [Breezing Up](https://www.nga.gov/collection/art-object-page.30228.html, "Breezing Up, painting by Homer"), Seurat’s [The Seine a la Grande Jatte](https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_Seurat_026.jpg, "The Seine a la Grande Jatte, painting by Georges Seurat"), and Hopper’s [Ground Swell](https://upload.wikimedia.org/wikipedia/commons/9/9e/Edward_Hopper%2C_Ground_Swell%2C_1939%2C_NGA_131206.jpg, ""Ground Swell, painting by Edward Hopper") adorning her dorm room at Wellesley
-- taking up sailing in her 30's (sunset regattas in Marina del Rey, moonlight sail in San Francisco, etc.).
+- taking up sailing in her 40's (sunset regattas in Marina del Rey, moonlight sail in San Francisco, charter sailing vacations, etc.).
 
-Sailing has been – and always will be – part of her life.
+Sailing has been – and always will be – part of her life. If you want to learn more about Denise's sailing experience, check out her [sailing resume](/posts/sailing-resume-part-1/).
 
 {% assign pwimg="joshua-tree-jun-89" %}
 {% assign pwcaption="Denise in Joshua Tree circa 1989" %}

@@ -111,6 +111,7 @@ Using notes from the log book and photos on my hard drive, I was able to recall 
  - rolly anchorage at Anegada
  - swimming to shore to Soggy Dollar Bar
  - snorkeling around the Indians
+ - listening to [Counting Stars](https://www.youtube.com/watch?v=hT_nvWreIhg) by One Republic
  - Benny's 35th birthday celebration and doing condiment shots  
 
 {% assign pwimg="bvi-01-29-sundowners-crop" %}

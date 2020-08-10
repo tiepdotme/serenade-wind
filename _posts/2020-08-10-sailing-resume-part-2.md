@@ -21,8 +21,8 @@ excerpt: Dinghy sailing and ASA courses are one thing, how about learning to rac
 ---
 {% include toc %}
 
-{% assign pwimg="bws-2012-july-races-scratched-sunset" %}
-{% assign pwcaption="Sunset over Marina del Rey after races scratched" %}
+{% assign pwimg="bws-2013-jul-31-denise-preventer" %}
+{% assign pwcaption="Human preventer" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -149,41 +149,4 @@ When I recount this story to friends and family, I receive a sequence of reactio
 When I told this story to Andrew, he readily agreed with my conclusion. This certainly played out when we experienced sailing together in Greece.
 
 Stay tuned for the final part of our series on Sailing Resume.
-
-{% assign pwimg="bws-2013-jul-31-denise-preventer" %}
-{% assign pwcaption="Human preventer" %}
-{% assign pwpng="" %}
-{% include post-wide-image.html%}
-
-# Post Script
-
-Recently, a question came up among the [Women Who Sail](https://www.facebook.com/groups/WomenWhoSail/) group: 
-
-> This may be one of those taboo questions, but how old were you when you started sailing full time?
-
-This question yielded a huge response in the span of 4 days, and it breaks down as follows:
-
-{% include bar-chart.html bar_chart=site.data.bar-charts.sailing-age %}
-
-Granted, some of the respondents didn't read the question properly and merely indicated when they first learned to sail and not when they first began to saill *full time.* Some commented on their stats even though they had not yet begun to sail full time. They were weekend sailors or seasonal cruisers. 
-
-Regardless, I was struck by the decades of experience from some and the fact that many started later in life. It takes quite a deal of courage at any age to jump into this lifestyle. I loved some of the responses that accompanied these stats:
-
->Learned to sail at 40...now 45...own a boat, sail-part time...hoping to be full-time on the boat before 50. Need to launch some teenagers who hate sailing first.
-
->I moved aboard my first sailboat and solo trip at 22...43 now, still cruising, bigger boat, couple of ex husbands that hated it...wouldn't change a minute.
-
->74 now, I sailed for several months a year since I was 50. The last 7 years single handed.
-
->65 years old. Left South Africa after one week instruction.
-
->35, introduced by boyfriend that didn't last long, never looked back. Been racing ever since, turning 70 this year.
-
->72 now. Started sailing when I was about 40 (after I divorced my first husband). Bought my first boat at 52, second boat at 56, cruising boat at 58, went cruising at 60.
-
->First sail aboard a half decker on the Norfolk Broads at six weeks old, 91 years ago. Seriously sailing at 14 as the war interrupted everything. Crewed my future husband's racing dinghy at 16. Cruised the world between 1976 and 2011. Miss it.
-
-> 62 - started as a baby.
-
-All of these women *inspire* me!
 
