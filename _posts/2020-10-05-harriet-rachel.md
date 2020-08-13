@@ -60,7 +60,13 @@ Within a few short weeks, cars, furniture and odds & ends were earmarked for new
 
 As you may recall, I was frustrated over the lack of progress we were making on downsizing and purging. However, as I sat one morning reviewing our [bullet journal](/posts/eye-of-the-storm/) and the [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/) plan, I counted out the weeks. 
 
-Fifteen weeks after the 30-weeks to minimalism post went out (April 20th), we had a plan for [giving](/posts/matching-gifts/) or selling a significant amount of our stuff. By week 20, [80%] of the stuff would be gone. 
+ - Week 3 - how to tackle [sentimental items](/posts/throw-back/)
+ - Week 6 - [what clothes](posts/packing-light/) should you bring for a cruising lifestyle and how many & what type of [linens](/posts/boat-head/) will we need on board 
+ - Week 7 - does a foodie need to sacrifice all her [kitchen gadgets](/posts/sea-foodie/) and what do we need for the [rest of the space](/posts/sea-foodie/)?
+ - Week 12 - once you've narrowed down what you want to take, here are some [strategies to upcycle](/posts/matching-gifts/) your stuff
+ - Week 15 - don't forget to deal with your [digital assets](/posts/shutterbug/)
+
+Fifteen weeks after the 30-weeks to minimalism post went out (April 20th), we had a plan for [giving](/posts/matching-gifts/) or selling a significant amount of our stuff. By week 20, 80% of the stuff would be gone. 
 
 Why did we delay moving the bulk of these items for another month? 
 
@@ -77,6 +83,8 @@ Not anymore.
 Andrew recounted a previous experience with his two Himalayan cats, Manny and Moe. When the last stick of furniture was moved out of his parents' house, the kitties would run headlong into walls over their torment. We suspect it was because their environment had changed so drastically.
 
 Given this backdrop, we wanted to come up with a plan that kept Xiaolong from prolonged anxiety. We decided to find him a home quickly, so he can go back to being his normal self: trilling in the hallways, hunting bugs, and napping in the sun. 
+
+On August 12, Janet and her family came over and picked up Xiaolong along with a lot of gear. For the first time in my life, I experienced the "empty nest" feeling many talk about. In the end, we knew we made the right decision, and we were happy that he will be living with family. 
 
 {% assign pwimg="dhn-harriet-dining-move" %}
 {% assign pwcaption="" %}
