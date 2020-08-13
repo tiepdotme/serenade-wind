@@ -138,13 +138,15 @@ After getting back home, I emailed my thanks to Hannah and wrote,
 {% include post-wide-image.html%}
 
 # CYC, Summer 2014
-Jeanneau 43 "Pacific"
+Jeanneau 43 *Pacific*
 
-Upon returning from the BVI trip, I continued to sail every other week with [CSC](http://www.californiasailingcoop.org/index.html). When I expressed an interest in racing again in the summer, Jan from CSC introduced me to [Cal Yacht Club](http://www.calyachtclub.com/). 
+Upon returning from the BVI trip, I continued to sail every other week with [CSC](http://www.californiasailingcoop.org/index.html). When I expressed an interest in racing in the summer again, Jan from CSC introduced me to a few members of the [Cal Yacht Club](http://www.calyachtclub.com/). 
 
-A few introductions later led me to Whitney, who owned a Jeanneau 43 "Pacific." She was recruiting for the upcoming CYC Wednesday summer races as well as Women at the Helm regattas. Out of a group of 15 crew, 8-10 of us would rotate in each Wednesday throughout the summer. 
+A few introductions later led me to Whitney, who owned a Jeanneau 43 *Pacific*. She was recruiting for the upcoming CYC Wednesday summer races as well as [Women at the Helm regattas](http://www.calyachtclub.com/files/ASMBYC2020WebCalendar.pdf). Out of a group of 15 crew, 8-10 of us would rotate in each Wednesday throughout the summer. 
 
-After the first outing on June 25th, I invited Andrew to join the crew on future races. To level-up, Whitney also hired an experienced racing coach, and we set aside one Sunday session so he could train us to work more seamlessly together. On the very next outing, we took first place.  
+After the first outing on June 25th, I invited Andrew to join the crew on future races. To level-up our skills, Whitney also hired an experienced racing coach, and we set aside one Sunday session so he could train us to work more seamlessly together. 
+
+On the very next outing, we took first place.  
 
 {% include post-image-gallery.html gallery=site.data.galleries.sail-resume.cyc galId="cyc" hideArrows=true %}
 

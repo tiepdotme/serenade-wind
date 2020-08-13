@@ -398,6 +398,10 @@ greece:
     extension: .jpg
     title: Crew of Nefertiti
     caption: Crew of Nefertiti
+  - filename: dhn-greece-andrew-helm
+    extension: .jpg
+    title: Andrew at the helm
+    caption: Andrew at the helm
   - filename: dhn-greece-paxos-taka
     extension: .jpg
     title: Dinner at Taka Taka in Paxos
@@ -426,6 +430,10 @@ greece:
     extension: .jpg
     title: Kefalonia
     caption: Kefalonia
+  - filename: dhn-greece-andrew-sugar-scoop
+    extension: .jpg
+    title: Short break on passage
+    caption: Short break on passage
   - filename: dhn-greece-navpaktos-marina
     extension: .jpg
     title: Favorite marina, Navpaktos

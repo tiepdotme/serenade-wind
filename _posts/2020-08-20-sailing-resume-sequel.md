@@ -67,7 +67,7 @@ Upon our return, James, Chanh, Andrew and I walked to dinner where I was delight
 
  - Day 6 (Friday, Oct 27) explore ancient Corinth in the morning. Cast off 12:00 and while waiting to cross Corinth Canal, have an impromptu photo shoot. Slow down for afternoon swim in the Saronic Sea. Arrive in Athens 21:30. (38 nm)
 
-{% assign pwimg="dhn-greece-both-helm" %}
+{% assign pwimg="dhn-greece-andrew-sugar-scoop" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -92,7 +92,7 @@ By day 3, we had experienced a bit of heavy weather sailing. We sat down with Sl
 
 We had rain, thunderstorms and lightning on Day 2, occasional showers and small to moderate chop on Day 3, and more rain on Day 4. By day 5 when we arrived in Corinth, three of our crew abandoned ship and decided to take a bus the rest of the way to Athens rather than sail the rest of the way. As it turns out, we had a glorious sunny day in Corinth and throughout the rest of the slow passage into Athens.
 
-We met up later in an Athens restaurant to catch up on their side excursion. They chose wisely given the had not planned on the [Gilligan's Island passage](https://www.youtube.com/watch?v=E-Fno5TBsqw). 
+We met up later in an Athens restaurant to catch up on their side excursion. They chose wisely given they had not planned on a [Gilligan's Island passage](https://www.youtube.com/watch?v=E-Fno5TBsqw). 
 
 {% assign pwimg="dhn-greece-cats-nose" %}
 {% assign pwcaption="Cats of Greece" %}
@@ -101,7 +101,6 @@ We met up later in an Athens restaurant to catch up on their side excursion. The
 
 ## Life Highlights
 
- - in the company of kitties throughout the islands of Greece
  - setting up a finance tracking spreadsheet (learned my lesson from tallying expenses manually during BVI trip)
  - bus tour of Kefalonia spoken completely in Russian
  - sundowners that began at 22:00 aboard *Nefertiti* 
@@ -109,6 +108,7 @@ We met up later in an Athens restaurant to catch up on their side excursion. The
  - sitting around in cafes drinking coffee and enjoying frozen Greek yogurt
  - early morning walk around the scenic Navpaktos marina 
  - impromptu photoshoot in Corinth canal
+ - in the company of kitties throughout the islands of Greece
 
 {% assign pwimg="dhn-greece-congee" %}
 {% assign pwcaption="" %}
@@ -135,6 +135,11 @@ On board his boat, you can expect a completely relaxed and chill environment. He
 
 I looked to him as a role model on how we can run our ship. So I am deeply grateful having had this experience with him twice. He was among the first to ask about our plans and to see [s/v Rachel J Slocum](/about-rachel-j-slocum/). Hoping in the next few years, we'll be able to meet up with him somewhere in a protected anchorage and share a cocktail or two.
 
+{% assign pwimg="dhn-greece-both-helm" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 # When is the right time?
 
 Recently, a question came up among the [Women Who Sail](https://www.facebook.com/groups/WomenWhoSail/) group: 
@@ -147,7 +152,7 @@ This question yielded a huge response in the span of 4 days, and it breaks down 
 
 Granted, some of the respondents didn't read the question properly and merely indicated when they first learned to sail and not when they first began to saill *full time.* Some commented on their stats even though they had not yet begun to sail full time. They were weekend sailors or seasonal cruisers. 
 
-Regardless, I was struck by the decades of experience from some and the fact that many started later in life. It takes quite a deal of courage at any age to jump into this lifestyle. I loved some of the responses that accompanied these stats:
+Regardless, I was struck by the decades of experience from some, and the fact that many started later in life. It takes quite a deal of courage at any age to jump into this lifestyle. I loved some of the responses that accompanied these stats:
 
 >Learned to sail at 40...now 45...own a boat, sail-part time...hoping to be full-time on the boat before 50. Need to launch some teenagers who hate sailing first.
 

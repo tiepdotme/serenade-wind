@@ -96,6 +96,8 @@ In addition, we also checked out various sailing channels, which are categorized
  
  - [Second Hand Smitty](https://www.youtube.com/watch?v=HhDyI-oQtNo) - Here is another DIY version following Don Casey's book to conduct a 30 minute survey a 1977 Cape Dory 28. I really like the information shared in this video, especially the title scrawl that annotates the tips from Don Casey's book. 
  
+ - [Port Credit Marine Surveys](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm) - Saving the best for last... this is a Marine Survey 101 which will save you hundreds of dollars if you're willing to make some observations to identify red flags for yourself and avoid having to hire a surveyor more than once. 
+
 However, I am at a loss what to do once I collect all of these observations from a DIY approach. How can one ascertain the cost of repairs based on this information? 
 
 An accredited marine surveyor would be able to supply you with those rough estimates.

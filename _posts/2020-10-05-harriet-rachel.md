@@ -49,7 +49,7 @@ Once the word got out, many of the Hsu cousins (and there's 12 of us!) as well a
 
  - Before the weekend was out, we also had a chat with cousin Grace's husband Gary who gave us some tips on ocean fishing, trawling lines and gifted us some of his fishing gear to get us started. 
 
-Our friends who we consider family as well have also pitched in to help, including Jenny & Danny, Nick & Brit, Jason & Yoko, JC & Camille, Helen & Mar, Hasmik, Linda, Subu, Bill, Palace and others. 
+Our friends who we consider family as well have also pitched in to help, including Hasmik, Jenny & Danny, Helen & Mar, Nick & Brit, Jason & Yoko, JC & Camille, Linda & Edwin, Subu & Sandhya, Bill, Palace and others. 
 
 {% assign pwimg="dhn-harriet-piano-move" %}
 {% assign pwcaption="" %}
@@ -60,7 +60,7 @@ Within a few short weeks, cars, furniture and odds & ends were earmarked for new
 
 As you may recall, I was frustrated over the lack of progress we were making on downsizing and purging. However, as I sat one morning reviewing our [bullet journal](/posts/eye-of-the-storm/) and the [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/) plan, I counted out the weeks. 
 
-Fifteen weeks after the 30-weeks to minimalism post went out (April 20th), we had a plan for [giving](/posts/matching-gifts/) or selling a significant amount of our stuff. By week 20, [80%] of the stuff would be gone. After another tranche the following week, [90%] of it would be gone before we left for the marine survey and sea trial. 
+Fifteen weeks after the 30-weeks to minimalism post went out (April 20th), we had a plan for [giving](/posts/matching-gifts/) or selling a significant amount of our stuff. By week 20, [80%] of the stuff would be gone. 
 
 Why did we delay moving the bulk of these items for another month? 
 
