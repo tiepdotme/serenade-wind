@@ -131,7 +131,6 @@ Much like identifying a waypoint, you head on a course knowing that winds may sh
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 # 2 - Learning to Sail a Schooner
 
 We are pretty excited to be sailing some time later this year. Meanwhile, we keep busy with our own preparations such as:

@@ -41,7 +41,7 @@ Rachel J. Slocum is a fast 8-knot cruiser in any wind and sea condition and at e
     <tr>
         <td class="spec-value">47'<span class="metric">21.3m</span></td>
         <td class="spec-value">39.8'<span class="metric">18m</span></td>
-        <td class="spec-value">23' 4"<span class="metric">7.11 m</span></td>
+        <td class="spec-value">13' 4"<span class="metric">7.11 m</span></td>
         <td class="spec-value">6.6'<span class="metric">2m</span></td>
     </tr>
     </tbody>

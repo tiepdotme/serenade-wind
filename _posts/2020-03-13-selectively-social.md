@@ -40,7 +40,6 @@ These days as we are sharing our story, we are being selectively social. It's th
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 # Finding Time to be Still
 
 During these early months of retirement, I am scheduling a few social interactions to reconnect with friends from the past. Mostly, however, I am leaving the calendar relatively clear to allow time for introspection. That's a difficult concept in this current "culture of personality" that relies on proving oneself, group think, and collaboration for success. We are in an era that rewards charisma in leaders over substance.
@@ -53,7 +52,6 @@ I chose the Tesla quote above because it reinforces the message that solitude is
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # The Gift of Time
 

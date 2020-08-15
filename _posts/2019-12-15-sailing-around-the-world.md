@@ -40,7 +40,6 @@ In today's story, we follow-up our [whiteboard discussion](/posts/time-to-go-to-
 {% include sticky-note.html text="Buy a boat" %}
 {% include sticky-note.html text="Paid to do what you love doing" %}
 
-
 ## More Sailing
 
 Before we met, Andrew and I both spent a bit of time sailing. When he was living in British Columbia, he owned a catamaran (her name was [Periwinkle](/resources/)), which he took out all the time on his own around Boundary Bay.

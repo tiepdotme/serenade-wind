@@ -58,7 +58,7 @@ Find ways to occupy your time. Read a book. Watch a movie. Go for a walk. Play w
 
 I am recently retired, so I've had to deal with a different transition alongside adjusting to coronavirus. Because I don't have work deliverables and work colleagues to distract me, I find other ways to distract myself from the media.
 
-I spend my days writing, knitting, talking to Andrew, chatting with my mom and my friends on the phone or Facetime, playing with my cats, going on walks, reading books about sailing, experimenting with a new recipe, generating new content for serenadewind.com, and brainstorming about our future plans on a [whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard "whiteboard")
+I spend my days writing, knitting, talking to Andrew, chatting with my mom and my friends on the phone or Facetime, playing with my cats, going on walks, reading books about sailing, experimenting with a new recipe, generating new content for serenadewind.com, and brainstorming about our future plans on a [whiteboard](/posts/time-to-go-to-the-whiteboard "whiteboard")
 
 {% assign pwimg="silhouette-photo-of-woman-facing-snow-capped-mountain" %}
 {% assign pwcaption="" %}

@@ -154,6 +154,11 @@ In the photo albums and boxes of photos, I saw my childhood unfold. All legs and
 
 And so with a light heart, I am happy to let these items go.
 
+{% assign pwimg="analogue-art-box-chest" %}
+{% assign pwcaption="Photo by David Bartus" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 # A Pirate's Booty
 
 Among my personal papers and travel documents, I found a treasure!

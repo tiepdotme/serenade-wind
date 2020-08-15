@@ -30,11 +30,17 @@ excerpt: Although we are still in the eye of the storm, it feels like we are abo
 
 # Old Whiteboard
 
-About a week ago, I glanced at the [Whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/) that we had set up in the summer of 2018 and revisited again in the fall of 2019. As I scanned through each of the stickies, - from discussion topic to parking lot to short term goals - a realization began to bubble up within me. I know we're not out of this yet. We are in the midst of the eye of the storm, but it feels fair weather is coming our way.
+About a week ago, I glanced at the [Whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/) that we had set up in the summer of 2018 and revisited again in the fall of 2019. As I scanned through each of the stickies - from discussion topic to parking lot to short term goals - a realization began to bubble up within me. I know we're not out of this yet. We are in the midst of the eye of the storm, but it feels fair weather is coming our way.
 
 These ideas that we had once sent out in 2018 and which were swirling around in the universe - without any assigned timeline or specific plan, without any judgment or apology, without any editing or justification - somehow we managed to make progress on each and every one of them. Whether working at a subconscious level and eventually making its way to the conscious level, each idea had been given some level of focus by us.
 
+{% include sticky-note.html text="Support family" %}
+{% include sticky-note.html text="Paid to do what you love doing" %}
+
 Some had pretty intense working sessions (e.g., buy a boat, balanced life, living budget). Others seemed to take shape as a side-effect of other activities or decisions (e.g., deciding to quit my job means reducing commute time and increasing time together).
+
+{% include sticky-note.html text="Travel" %}
+{% include sticky-note.html text="Live in another country" %}
 
 Another example is our desire to live in another country. We were both excited by the Sirius 40DS after seeing her for the first time at the [Boot show](https://www.serenadewind.com/posts/boot-2020/). We later discovered that the Sirius boatyard provides opportunities to apprentice. All of a sudden, we now have a very real and practical destination to play out this idea in the near future. Whether by luck or by fate - we can declare some progress on one of our goals.
 

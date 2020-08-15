@@ -36,7 +36,7 @@ For about a year now, I have been cutting my own hair. A large part of this had 
 
 # DIY Upskill
 
-So one Saturday morning, as I was browsing through Pinterest (one of my all-time favorite apps, btw), As we talked about in [Eye of the Storm](https://www.serenadewind.com/posts/eye-of-the-storm/ "Eye of the Storm"), I discovered Pick Up Limes a couple years ago and in particular their pin on [DIY Long Layers Haircut](https://www.youtube.com/watch?v=xNzZqVUl28E "PUL DIY Long Layers Haircut").
+So one Saturday morning, as I was browsing through Pinterest (one of my all-time favorite apps, btw), As we talked about in [Eye of the Storm](/posts/eye-of-the-storm/ "Eye of the Storm"), I discovered Pick Up Limes a couple years ago and in particular their pin on [DIY Long Layers Haircut](https://www.youtube.com/watch?v=xNzZqVUl28E "PUL DIY Long Layers Haircut").
 
 I watched it a couple times and headed straight to our bathroom with a pair of crafting scissors and started to snip away.
 

@@ -32,8 +32,9 @@ excerpt: 30 weeks to minimalism begins with a game plan and time. Rather than re
 If you are new to minimalism, here is the elevator pitch: [Minimalism](https://www.becomingminimalist.com/what-is-minimalism/ "Becoming Minimalist") is owning fewer possessions.
 
 {% include sticky-note.html text="Reduce possessions" %}
+{% include sticky-note.html text="Consolidate our stuff" %}
 
-This sticky note has been featured heavily on our original [whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard"). It was also among the first of our short-term goals Andrew and I tackled. We gave it a good go by taking the activity one room at a time in August 2018 and again in October 2019. In the process, I offloaded a lot of clothes, bags and shoes as well as underutilized kitchen items. Cherished items went to friends, and the rest went to charity.
+These sticky notes have been featured heavily on our original [whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard"). They wwere also among the first of our short-term goals Andrew and I tackled. We gave it a good go by taking the activity one room at a time in August 2018 and again in October 2019. In the process, I offloaded a lot of clothes, bags and shoes as well as underutilized kitchen items. Cherished items went to friends, and the rest went to charity.
 
 # Time to Take It Up a Notch
 

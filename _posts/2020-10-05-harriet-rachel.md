@@ -12,6 +12,8 @@ tags:
     - powerofwhy
     - lifereset
     - transitions
+    - coronavirus
+    - shelterathome
 share: true
 image:
     thumbnail: /images/small/dhn-harriet-living-room.jpg 
@@ -56,7 +58,7 @@ Our friends who we consider family as well have also pitched in to help, includi
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-Within a few short weeks, cars, furniture and odds & ends were earmarked for new homes with a near-term plan to move as much out of Harriet Lane over Labor Day weekend.
+Within a few short weeks, cars, furniture and odds & ends were earmarked for new homes with a near-term plan to move as much out of Harriet Lane over Labor Day weekend or earlier.
 
 As you may recall, I was frustrated over the lack of progress we were making on downsizing and purging. However, as I sat one morning reviewing our [bullet journal](/posts/eye-of-the-storm/) and the [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/) plan, I counted out the weeks. 
 
@@ -84,18 +86,7 @@ Andrew recounted a previous experience with his two Himalayan cats, Manny and Mo
 
 Given this backdrop, we wanted to come up with a plan that kept Xiaolong from prolonged anxiety. We decided to find him a home quickly, so he can go back to being his normal self: trilling in the hallways, hunting bugs, and napping in the sun. 
 
-On August 12, Janet and her family came over and picked up Xiaolong along with a lot of gear. For the first time in my life, I experienced the "empty nest" feeling many talk about. In the end, we knew we made the right decision, and we were happy that he will be living with family. 
-
-{% assign pwimg="dhn-harriet-dining-move" %}
-{% assign pwcaption="" %}
-{% assign pwpng="" %}
-{% include post-wide-image.html%}
-
-# Labor Day weekend
-
-possibly insert gallery instead of hero image. 
-write paragraphs of stuff. 
-take pictures of moving.
+On August 12, Janet and her family came over and picked up Xiaolong along with a lot of gear. For the first time in my life, I experienced the "empty nest" feeling many talk about. Less than 2 days later, he was exploring each of the rooms and making all kinds of funny noises. In the end, we knew we made the right decision, and we were happy that he will be living with our family.  
 
 {% assign pwimg="dhn-49-sq-ft-minimalism" %}
 {% assign pwcaption="7x7" %}
@@ -106,12 +97,15 @@ take pictures of moving.
 
 Looking around Harriet Lane, we realize that we no longer have a living room, dining room and all the trappings of a typical, suburban life. Instead, we have a yoga studio, climbing gym, and skatepark. Our belongings which once filled a 3-bedroom, 2-car garage house is now reduced to 49 sq ft of space. 
 
-When we took everyone through our home over the summer, we showed them the room where we had taped off 7x7 sq ft of space. It blew their minds. Everything outside of the square must go. The only things we are keeping and taking with us to our sailboat is reflected inside this square.
+As our family and friends came over to visit us (appropriately masked during the pandemic), we took showed them a couple taped off areas. The first one ran pretty much the length of the east wing of Harriet Lane. During Palace's visit, we taped off 50' LOA and 13'4" beam. This provided everyone the scale of [s/v Rachel J Slocum](/about-rachel-j-slocum/), while we described the location of the saloon, galley, and owner's stateroom.
+
+The second area was the room where we had taped off 7x7 sq ft of space. Everything outside of the square must go to new homes. The only things we are keeping and taking with us to our sailboat is reflected inside this square. It blew their minds. 
 
 {% include sticky-note.html text="Reduce possessions" %}
+{% include sticky-note.html text="Consolidate our stuff" %}
 
 After 2 years of having written our goal on the [whiteboard](/posts/time-to-go-to-the-whiteboard/) on August 2018, we finally got a chance to get rid of all of our stuff. We have that light feeling that comes with an [empty backpack](/posts/sailing-around-the-world/) so we can begin to curate experiences and not possessions.
 
-So with our 7x7 sq ft of possessions, we are ready to pack it all in a POD and ship it to Florida in November at the end of hurricane season.
+So with our 7x7 sq ft of possessions, we are ready to pack it all in a moving pod and ship it to Florida at the end of hurricane season.
 
 Farewell Harriet... Hello Rachel!

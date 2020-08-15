@@ -34,6 +34,9 @@ What does a life of philanthropy look like?
 
 Friends and colleagues who know me have witnessed that when I set a goal, there's a high certainty (approaching 100%) that the goal will be achieved. Whether I am quick to set an objective or take my time arriving at it, my value system is defined by [integrity](/posts/going-with-the-flow/) and honoring my commitments.
 
+{% include sticky-note.html text="Retirement plan" %}
+{% include sticky-note.html text="Paid to do what you love doing" %}
+
 So, at the beginning of this year, I drew a line in the sand and declared that I wanted to pursue a life of philanthropy. Andrew is in full agreement of this ethos (although I suspect he has embraced this tenet all his life).
 
 The shape and execution of philanthropy still needs to be defined. In the meantime, we have made donations to various causes every month since the line in the sand was drawn. These gifts were made as the needs have presented themselves.

@@ -69,6 +69,9 @@ As a result, we discovered the pleasure of staying nimble so we can take impromp
 
 So with this background, we turn to packing for the rest of our life in a 50' sailboat.
 
+{% include sticky-note.html text="Reduce possessions" %}
+{% include sticky-note.html text="Consolidate our stuff" %}
+
 # Packing Light
 
 How do you go about packing for the rest of your life?

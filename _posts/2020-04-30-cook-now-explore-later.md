@@ -31,6 +31,11 @@ excerpt: Cook now explore later is the story of our pandemic life as we are all 
 
 We are all doing our part to stay home and save lives. In other words... Cook now explore later. Many of you are cooking every single night, and my hat's off to you. I prefer to cook a feast, and enjoy leftovers throughout the week.
 
+Andrew and I chose a voyaging life in part because it would help us achieve some of out whiteboard goals:
+
+{% include sticky-note.html text="Balanced life" %}
+{% include sticky-note.html text="Cooking at home" %}
+
 Below are some of the tried and true recipes that we feature in our home throughout the year and especially now during the coronavirus pandemic. While we're staying at home, we are busy taking these recipes and boat-proofing them, so that we can glide into our new adventure well-fed and happy.
 
 {% assign pwimg="bacon-wrapped-dates" %}
