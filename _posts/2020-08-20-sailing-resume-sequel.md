@@ -11,7 +11,7 @@ categories:
 tags:
     - sailinglife
     - instasailing
-    - bestfriend.
+    - bestfriend
     - lifetransitions
 share: true
 image:
