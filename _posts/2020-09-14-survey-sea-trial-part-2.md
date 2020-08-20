@@ -26,9 +26,7 @@ excerpt: We're in Ft Lauderdale taking the next step of our due diligence proces
 
 First of all, thank you everyone for reaching out and sharing your stories with us. I was really touched to learn about each of your journeys... among the best birthday presents I have received! 
 
-In today's post, we want to update you on what's happening over the next couple weeks. We're now in Ft Lauderdale. 
-
-Recap yesterday's travel. 
+In today's post, we want to update you on what's happening over the next couple weeks. We're now in Ft Lauderdale and staying in Hotel Circ once again. 
 
 # Due Diligence
 
@@ -84,9 +82,9 @@ In addition, we also checked out various sailing channels, which are categorized
  - [Wandersailing](https://www.youtube.com/watch?v=ebOnRxSY8tI) - Eric and Natalie are upgrading to a 1988 Catalina 34, and this survey began in the water to evaluate the engine and equipment. In retrospect, they didn't think the survey was thorough, falling short of the following: the surveyor should climb to inspect the mast and rigging, examine the lazarettes, and complete a full inspection of the electrical and steering systems, plumbing and hull integrity. Sure seems like they got short-changed.
  
 {% assign pwimg="yrm-marine-surveys-slider-1" %}
- {% assign pwcaption="Photo by Yacht Refit Management" %}
- {% assign pwpng="" %}
- {% include post-wide-image.html%}
+{% assign pwcaption="Photo by Yacht Refit Management" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
   
 ## From Old Salts 
 
@@ -96,11 +94,7 @@ In addition, we also checked out various sailing channels, which are categorized
  
  - [Second Hand Smitty](https://www.youtube.com/watch?v=HhDyI-oQtNo) - Here is another DIY version following Don Casey's book to conduct a 30 minute survey a 1977 Cape Dory 28. I really like the information shared in this video, especially the title scrawl that annotates the tips from Don Casey's book. 
  
- - [Port Credit Marine Surveys](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm) - Saving the best for last... this is a Marine Survey 101 which will save you hundreds of dollars if you're willing to make some observations to identify red flags for yourself and avoid having to hire a surveyor more than once. 
-
-However, I am at a loss what to do once I collect all of these observations from a DIY approach. How can one ascertain the cost of repairs based on this information? 
-
-An accredited marine surveyor would be able to supply you with those rough estimates.
+ - [Port Credit Marine Surveys](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm) - Saving the best for last... this is a Marine Survey 101 which will save you hundreds of dollars if you're willing to make some observations to identify red flags for yourself and avoid having to hire a surveyor more than once. We have added this link to our [resources](https://serenadewind.com/resources/) page. 
 
 # Takeaways
 
@@ -109,10 +103,10 @@ Based on these videos, here are my takeaways:
  - be sure to wear kneepads 
  - bring something to sand or file down debris 
  - bring a small handheld mirror/camera to look behind tight locations
- - note location of [zinc](https://www.boatsafe.com/electrolysis-eat-prop)
+ - note location and condition of [zinc](https://www.boatsafe.com/electrolysis-eat-prop)
  - take copious notes or capture with audio or video 
 
-However, as mentioned before, one of our shortcomings is not knowing the cost of repairs. 
+A more comprehensive list can be found in the Marine Survey 101 from [Port Credit Marine Surveys](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm). However, as mentioned before, one of our shortcomings is not knowing the cost of repairs. What are newbies to do? An accredited marine surveyor would be able to supply you with those rough estimates.
 
 {% assign pwimg="yrm-logo" %}
 {% assign pwcaption="" %}

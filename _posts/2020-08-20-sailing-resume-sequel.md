@@ -27,7 +27,7 @@ excerpt: The cover photo belies the truth about sailing through Greece. We encou
 
 # Greece, Oct 2017
 
-Lagoon 38 *Nefertiti*
+Lagoon 380 *Nefertiti*
 
 Flying to Greece on a sailing vacation was a last minute decision. After clearing both our work schedules, we booked our flights late September to depart for Athens in less than a month.
 
