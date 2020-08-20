@@ -128,7 +128,7 @@ With my mom, I went through all these steps. I have chronicled our years of sail
 
 It was then that I realized that my responsibility ended there. She wouldn't meet me half way. I forgave her and moved on. Perhaps one day she will come around and see things from my perspective.
 
-# Stay positive
+# Stay Positive
 
 During this pre-departure phase, it's important to stay positive. It's enough to manage your own fears without having to manage the fears of others. And it's for this reason that this stage is an adventure in itself as we are tested emotionally and have an opportunity to grow through these experiences.
 
@@ -166,3 +166,8 @@ Mom even offered to help with handling our mail when we're traveling. I suspect 
 
 I always had her in mind for this role, but it took time for her to accept the situation before this generous offer could be voiced. As always, this is a reminder not to overly plan anything and be willing to [go with the flow](/posts/going-with-the-flow/).
 
+If you would like to read more, indepth stories are available across serenadewind.com and on our sister site:
+-   [Parental Reaction (Part 1)](https://www.patreon.com/posts/34999987)
+-   [Parental Reaction (Part 2)](https://www.patreon.com/posts/37729437)
+-   [Exit Stage Left](https://www.patreon.com/posts/38860268)
+-   [Sleepless to Seattle](/posts/seattle/)

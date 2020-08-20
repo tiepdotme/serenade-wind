@@ -25,14 +25,14 @@ Born and raised in Romania, Andrew moved to Toronto at the age of 15. He studied
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-While living in British Columbia, he purchased [Periwinkle](http://cruisingundersail.com/wp/?page_id=53), a 22 foot custom-built catamaran. She cost $1,200 and was nearly 30 years old. By the time he became her second owner, she had very little of the original color for which she was named. He learned the hard way, a few lessons about boat ownership while he sailed her in Boundary Bay. 
+While living in British Columbia, he purchased [Periwinkle](http://cruisingundersail.com/wp/?page_id=53), a 22 foot custom-built catamaran. She cost $1,200 and was nearly 30 years old. By the time he became her second owner, she had very little of the original color for which she was named. He learned the hard way, a few lessons about boat ownership while he sailed her in Boundary Bay. If you want to learn more about Andrew’s sailing experience, check out his [sailing resume](/posts/sailing-resume-prequel/).
 
 {% assign pwimg="ortega-climbing-andrew-rappel" %}
 {% assign pwcaption="Andrew rappelling down Ortega Falls route" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-As for climbing, Andrew has been in the mountains since he could walk. &nbsp;At a very early age, he and his parents did extensive day hiking in the beautiful southern Carpathian mountains, known as the Transylvanian Alps. With peaks over 8,000 feet, he spent many hours hiking in the Bucegi Mountains plateau and climbing over unique rock formations, such as [Babele](https://en.wikipedia.org/wiki/Babele "Babele (meaning The old women) is a name for an area on the Bucegi Mountains plateau in Romania")
+As for climbing, Andrew has been in the mountains since he could walk. &nbsp;At a very early age, he and his parents did extensive day hiking in the beautiful southern Carpathian mountains, known as the Transylvanian Alps. With peaks over 8,000 feet, he spent many hours hiking in the Bucegi Mountains plateau and climbing over unique rock formations, such as [Babele](https://en.wikipedia.org/wiki/Babele "Babele (meaning The old women) is a name for an area on the Bucegi Mountains plateau in Romania").
 
 After college, many miles away and all grown up (almost), the love of mountains extended to longer and longer hikes. &nbsp;In 2002, Andrew had completed the incredibly picturesque Wonderland Trail around Mt. Rainier.
 
