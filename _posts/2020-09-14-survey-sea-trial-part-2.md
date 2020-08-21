@@ -88,6 +88,8 @@ In addition, we also checked out various sailing channels, which are categorized
   
 ## From Old Salts 
 
+ - [The O'Kelly's](https://www.youtube.com/watch?v=biLiMWXAYSA) - based on common questions that came up during their consultancy, the O'Kelly's did a round-up video describing various items to consider if you're buying a cruising boat. I found the deal breaker section particularly useful.
+ 
  - [Grampian Marine](https://www.youtube.com/watch?v=xsnomC-SNuY) - This is a DIY for a limited condition and value survey that could be used for insurance purposes.
  
  - [Sailboat Rigging Survey](https://www.youtube.com/watch?v=bk2A60ymfB0) - This episode covers only the standing rigging, running rigging and sails however it goes through the review in a great bit of detail. Andrew found it particularly entertaining. 
