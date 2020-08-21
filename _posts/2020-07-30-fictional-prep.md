@@ -192,6 +192,7 @@ Some of the contributors didn't seem to pay too much attention to the request an
 
 ## South Pacific
 
+ - South Pacific - [The Cruise of the Snark](https://www.amazon.com/Cruise-Snark-100th-Anniversary-Collection/dp/1948132710) by Jack London
  - Solomon Islands - [Faraway](https://www.amazon.com/dp/0385600119) by Lucy Irvine
  - Suwarrow in Pacific - [An Island to Oneself](https://www.amazon.com/Island-Oneself-Tom-Neale/dp/0918024765) by Tom Neal
  - French Polynesia - [Tupaia, Captain Cook's Polynesian Navigator](https://www.amazon.com/dp/0995130906/) By Joan Druett
