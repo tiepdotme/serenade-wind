@@ -16,7 +16,6 @@ tags:
     - svrjslocum
     - transitions
 share: true
-featured: true
 image:
     thumbnail: /images/small/colosseum-rome-italy.jpg 
 excerpt: For those of you about to jump in the arena to begin a voyaging life, your critics will come from any (and all) directions. Depending on how much you value that relationship, you will need to come up with ways of dealing with this dynamic. Here are the five ways we handled this.

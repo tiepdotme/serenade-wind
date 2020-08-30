@@ -30,7 +30,12 @@ In today's post, we want to update you on what's happening over the next couple 
 
 # Due Diligence
 
-To prepare for this phase of the due diligence process, we gathered as much information as we could. The first resource was a "Limited Condition and Value Survey" that Bill had commissioned when he prepared to sell [RJ Slocum](/about-rachel-j-slocum/). The survey had some limitations due to (a) lack of sea trial and (b) lack of machinery and equipment operation. Using this as a starting point, we knew more information would be needed to assess the structural integrity, which would require a comprehensive ["Pre-purchase Survey."](https://abycinc.org/mpage/surveytypes) 
+To prepare for this phase of the due diligence process, we gathered as much information as we could. The first resource was a "Limited Condition and Value Survey" that Bill had commissioned when he imported [RJ Slocum](/about-rachel-j-slocum/) into the US. He subsequently made it available to prospective buyers. The survey had some limitations due to 
+
+ 1. lack of sea trial
+ 2. lack of machinery and equipment operation
+
+Using this as a starting point, we knew more information would be needed to assess the structural integrity, which would require a comprehensive ["Pre-purchase Survey."](https://abycinc.org/mpage/surveytypes) 
 
 {% assign pwimg="rjs-lugger-andrew" %}
 {% assign pwcaption="" %}
@@ -41,7 +46,7 @@ To prepare for this phase of the due diligence process, we gathered as much info
 
 Since some cruisers have documented their experience, we decided to aggregate and summarize our findings as a resource to you. In addition, you may want to check out their Youtube channels referenced on our [Survey and Sea Trial playlist](https://www.youtube.com/playlist?list=PLimDxpFOev-WfKfgZb6fJya0ukSnU98wT).  
 
-To begin, we had a one-on-one chat a couple months ago with Dale (a.k.a. John Sparrow and hereinafter referred to as John) of [Hold Fast](https://www.youtube.com/c/TheCorsair/featured). In 2013, John bought his Cabo Rico 38 and began sailing the Chesapeake Bay. To date, he has accumulated over 15,000 nm on a number of great sailboats. 
+To begin, we had a one-on-one chat a couple months ago with John of Youtube sailing channel [Hold Fast](https://www.youtube.com/c/TheCorsair/featured). In 2013, John bought his Cabo Rico 38 and began sailing the Chesapeake Bay. To date, he has accumulated over 15,000 nm on a number of great sailboats. 
 
 As many other sailors have commented, John said we would have our hands full when it comes to maintenance. Given [s/v Rachel J Slocum](/about-rachel-j-slocum/) is 30 years old, there will be a lot of projects. A quality surveyor conducting a pre-purchase survey will investigate the structural integrity of the yacht including the state of the following:
 

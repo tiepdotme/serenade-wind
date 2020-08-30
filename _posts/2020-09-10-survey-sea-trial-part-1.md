@@ -49,11 +49,11 @@ Comfort? Gone. Sentimentality? Gone. Stuff? All Gone.
 
 Over the course of time, I took solace in these writings from Buddha,
 
-> See them, floundering in their sense of mine, like fish in the puddles of a dried-up stream - and, seeing this, live with no mine, not forming attachment to experiences.
-
-...and its corollary...
-
 > Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness and benefit. 
+
+...and from John Steinbeck's *The Grapes of Wrath*...
+
+> The quality of owning freezes you forever in "I," and cuts you off forever from the "we."
 
 When we stop the automatic thoughts in our head and we begin to live with intention, we discover a feeling of lightness. Such is the benefit of [minimalist living](/posts/30-weeks-to-minimalism/). Possessions no longer end up [owning you](/posts/relationship-with-money/). Living with intention means living with a greater awareness of the impact you're making on the world around you and to do what you can to make a change, whether it is finding [causes to support](/posts/philanthropy/) or becoming [ethical sailors](/posts/ethical-sailing/).
 
@@ -74,7 +74,15 @@ Switching gears now to the practical day-to-day matters, we have set aside 2 wee
  - Thu-Fri: finalize payment and title transfer
  - Sat: travel day
 
-Much like the Project Slocum series, we will try to keep you up to date on this stage of the process over the next couple weeks in a Survey & Sea Trial series. Stay tuned for Part 2 on Monday.
+Much like the [Project Slocum series](/posts/project-slocum-part-1/), we will try to keep you up to date on this stage of the process over the next couple weeks in a Survey & Sea Trial series. Stay tuned for Part 2 on Monday.
+
+## Prep Work
+
+As we were [visiting family in Seattle](/posts/seattle/), we received a few updates from Bill who was already in Florida getting [RJ Slocum](/about-rachel-j-slocum/) prepped. There were some repairs that he had already mentioned wanting to handle, and he also found a few more based on a very thorough in-water survey and an assessment by a mechanic. 
+
+On one hand, we are grateful Bill is being diligent in getting the boat ready before we arrive and on the otherhand, we feel like we're missing out on a great learning experience. In the end, we know we have *years* of learning experience ahead, so we appreciate all that he is doing now so we're not quite so overwhelmed on the outset. 
+
+In the meantime, we've been debating our strategies with antifoul with this next haulout. Turns out, the decision wasn't so obvious so we have devoted a post on the topic. 
 
 # Seven Year Cycle
 

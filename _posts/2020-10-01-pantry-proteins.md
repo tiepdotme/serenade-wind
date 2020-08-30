@@ -239,9 +239,26 @@ Add vegeta or salt at the end to taste, since the introduction of the clam juice
 
 # Canned Spam Musubi
 
+This is Hawaii's go-to, all-season snack. It's an all-pantry recipe as you can see from the ingredient list, and incredibly delicious. It's perfect for passage-making or taking ashore while exploring. The recipe is quite simple and easy to find online. I referred to [Bon Appetit](https://www.bonappetit.com/story/spam-musubi) and [Serious Eats](https://www.seriouseats.com/recipes/2008/04/tutorial-how-to-make-hawaiian-spam-musubi-sushi.html).
+
 *Ingredients*
 
+ - 1 can (12 oz) low-sodium Spam
+ - 2-3 cups cooked white rice
+ - 2-3 tbl soy sauce (my favorite is Wuan Chuang which is made in Taiwan)
+ - 1 tbl brown sugar
+ - Furikake to taste
+ - Nori sheets
+
 *Directions*
+
+Slice Spam in 8 rectangular pieces. Sprinkle sugar on each side of spam and place in non-stick frying pan and fry on each side 1-2 minutes. Add soy sauce and continue to braise until each side is carmelized and you reach your desired level of crispness.
+
+Using the can of Spam as a mold (be sure each ends are removed), assemble quickly as follows: on a sheet of nori cut to the same length as the spam, place 3 tablespoons of rice and form in the same shape as the spam using the can. Sprinkle furikake on top of rice and place spam on top. Add another layer of rice on top and square off once again using the can. With a firm press, unmold the can and wrap the nori around the musubi. 
+
+*Galley notes*
+
+If preparing ahead, wrap in plastic and store in the refrigerator. To reheat, spam musubi can be microwaved or pan fry on all sides on low heat.
 
 {% assign pwimg="dhn-crack-salami" %}
 {% assign pwcaption="" %}
