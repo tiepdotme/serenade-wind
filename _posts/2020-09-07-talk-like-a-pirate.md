@@ -87,7 +87,7 @@ After finding out about her existence, I then began to explore the interwebs. I 
 -   Persian Coast
     -   [Artemisia I](https://historycollection.com/10-of-historys-most-fascinating-female-pirates/9/) - In the vast army of Xerxes, with all the various cultures that made up the Persian army, [Artemisia](https://www.factinate.com/people/lethal-facts-artemisia-i-caria-pirate-queen-ancient-greece/) was the only female commander. 
 
-More is written up in the [Smithsonian article](https://www.historyireland.com/early-modern-history-1500-1700/grainne-mhaol-pirate-queen-of-connacht-behind-the-legend/), profiling a book. 
+More is written up in the [Smithsonian article](https://www.historyireland.com/early-modern-history-1500-1700/grainne-mhaol-pirate-queen-of-connacht-behind-the-legend/). 
 
 {% assign pwimg="rjs-standing-rigging" %}
 {% assign pwcaption="" %}
@@ -96,6 +96,8 @@ More is written up in the [Smithsonian article](https://www.historyireland.com/e
 
 # In other news...
 
-Andrew and I will be heading out to Ft. Lauderdale next week for the haulout, marine survey and sea trial of our schooner, [s/v Rachel J Slocum](/about-rachel-j-slocum/). We'll be describing what we did during this phase of the due diligence process in a 5-part series, Survey and Sea Trial.
+Andrew and I will be heading out to Ft. Lauderdale next week for the haulout, marine survey and sea trial of our schooner, [s/v Rachel J Slocum](/about-rachel-j-slocum/). 
+
+As you remember, we were quite taken when we first saw her [online](/posts/when-first-we-saw-rachel-j-slocum/) as well as during [our first look trip](/posts/project-slocum-part-4/) in March. Typical [boat purchases](/posts/boat-purchase/) will close 30 days after the escrow opens. Due to the coronavirus pandemic, our escrow has lasted a few months. In the next phase of the due diligence process, we'll describe what we happened during our trip in a 5-part series, Survey and Sea Trial.
 
 Also, we wrapped up a massive weekend of purging and downsizing. Our house is completely decimated, and it feels great! We'll share this account in a future post updating our week 20 progress on [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/). 
