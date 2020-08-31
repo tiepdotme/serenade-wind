@@ -18,7 +18,6 @@ image:
     thumbnail: /images/small/art-beach-beautiful-clouds.jpg 
 excerpt: We would like to invite you to join the Serenade Wind crew. In this post, find out what it means to be part of the crew, unlock the pirate's booty, and receive other exclusive access and benefits. 
 ---
-{% include toc %}
 
 {% assign pwimg="art-beach-beautiful-clouds" %}
 {% assign pwcaption="" %}

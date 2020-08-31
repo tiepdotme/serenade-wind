@@ -14,13 +14,13 @@ tags:
     - svrjslocum
 share: true
 image:
-    thumbnail: /images/small/rhotel-circ-sunrise.jpg 
+    thumbnail: /images/small/rjs-saloon-lugger.jpg 
 excerpt: We're in Ft Lauderdale taking the next step of our due diligence process on s/v Rachel J Slocum. In Part 2 of the Survey & Sea Trial series, we cover some armchair sailing research on what's involved in marine surveys and sea trials.
 ---
 {% include toc %}
 
-{% assign pwimg="hotel-circ-sunrise" %}
-{% assign pwcaption="Sunrise from Hotel Circ, Ft. Lauderdale" %}
+{% assign pwimg="rjs-saloon-lugger" %}
+{% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

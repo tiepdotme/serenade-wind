@@ -89,6 +89,11 @@ After finding out about her existence, I then began to explore the interwebs. I 
 
 More is written up in the [Smithsonian article](https://www.historyireland.com/early-modern-history-1500-1700/grainne-mhaol-pirate-queen-of-connacht-behind-the-legend/), profiling a book. 
 
+{% assign pwimg="rjs-standing-rigging" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 # In other news...
 
 Andrew and I will be heading out to Ft. Lauderdale next week for the haulout, marine survey and sea trial of our schooner, [s/v Rachel J Slocum](/about-rachel-j-slocum/). We'll be describing what we did during this phase of the due diligence process in a 5-part series, Survey and Sea Trial.
