@@ -15,6 +15,7 @@ tags:
     - svrjslocum
     - philanthropy
     - minimalism
+    - tbt
 share: true
 image:
     thumbnail: /images/small/man-and-woman-holding-hands-walking-on-seashore.jpg 

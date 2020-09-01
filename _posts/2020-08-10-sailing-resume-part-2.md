@@ -13,6 +13,7 @@ tags:
     - instasailing
     - bestfriend
     - lifetransitions
+    - tbt
 share: true
 image:
     thumbnail: /images/small/bws-2013-jul-31-denise-preventer.jpg 

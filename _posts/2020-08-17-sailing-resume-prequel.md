@@ -13,6 +13,9 @@ tags:
     - instasailing
     - bestfriend
     - lifetransitions
+    - tbt
+    - unstructured
+    - gowiththeflow
 share: true
 image:
     thumbnail: /images/small/periwinkle-in-straits-of-georgia.jpg 

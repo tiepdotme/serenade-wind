@@ -12,6 +12,7 @@ tags:
     - duediligence
     - projectslocum
     - svrjslocum
+    - tbt
 share: true
 image:
     thumbnail: /images/small/rjs-cockpit.jpg 

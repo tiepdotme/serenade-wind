@@ -13,6 +13,7 @@ tags:
     - instasailing
     - bestfriend
     - lifetransitions
+    - tbt
 share: true
 image:
     thumbnail: /images/small/dhn-bvi-sunrise.jpg 
