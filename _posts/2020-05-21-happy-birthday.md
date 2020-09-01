@@ -10,6 +10,7 @@ categories:
     - Relationships
     - Culinary Adventures
 tags:
+    - boat-purchase
     - coronavirus
     - bestfriend
     - foodporn

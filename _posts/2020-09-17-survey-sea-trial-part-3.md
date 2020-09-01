@@ -9,6 +9,7 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
+    - boat-purchase
     - duediligence
     - projectslocum
     - svrjslocum
@@ -19,8 +20,8 @@ excerpt: What can you expect from a haul out for bottom paint and marine survey?
 ---
 {% include toc %}
 
-{% assign pwimg="rjs-wing-keel_2x" %}
-{% assign pwcaption="Temporary image" %}
+{% assign pwimg="pexels-sharon-mccutcheon-paint-hands" %}
+{% assign pwcaption="Photo by Sharon McCutcheon" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
@@ -38,33 +39,49 @@ In my mind, I didn't think this mystery needed belaboring, but I understood his 
 
 Andrew absorbed this recommendation and then spent hours researching bottom paint performance. He started by reading through write-ups from [Jamestown Distributor](https://www.jamestowndistributors.com/userportal/document.do?docId=1177) including [Interlux Micron 66](https://www.jamestowndistributors.com/userportal/show_product.do?pid=79), which was Bill's recommendation and [Sea Hawk Cukot](https://www.jamestowndistributors.com/userportal/show_product.do?pid=59368), which was the boatyard's recommendation given that RJ Slocum had been sitting in water with lower salinity. We then had a follow-up call with Bill on the topic along with finalizing the travel plans in September.
 
-{% assign pwimg="wws-website-logo" %}
+{% assign pwimg="dhn-bujo-haul-out-marine-survey-checklist" %}
 {% assign pwcaption="" %}
-{% assign pwpng="true" %}
+{% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-# More Resources
+# Preparing for a Haul Out
 
-I turned to my favorite resource, [Women Who Sail](https://www.womenwhosail.com/), and searched on previous related topics and uncovered some other datapoints. These included the following:
+Before we arrived in Florida, we did some research and found a useful checklist to refer to for a [Quick Haul Out](https://commutercruiser.com/quick-haul-out-checklist/). For annual haul outs, [Passage Maker](https://www.passagemaker.com/) also provides a good write-up for a [haul out game plan](https://www.passagemaker.com/cruiser-reviews/haul-out-game-plan). This applies to owners who would like to diagnose issues through a mechanical test run prior to the haul out so they can tackle areas that require servicing once the boat is out of the water. 
 
- - [Bottom Paint Test Report](https://www.practical-sailor.com/issues/34_10/features/Antifouling-Bottom-Paint-Evaluation_5675-1.html) - Practical Sailor examines antifouling paints after 1-year and 2-year in-water tests as 72 new paint panels are submerged in the Florida Keys and Long Island Sound. These test panels are pulled and examined for their resistance to hard growth and soft growth. Their detailed charts provide results for ablative paints, hard paints and specialty paints. The lineup of paints includes several low-copper and no-copper paints, as sailors look for viable alternatives to metal-based paints. 
+It's also important to take care to understand the details of the arrangements with the boatyard, i.e., [scope and cost](https://www.boatus.com/magazine/2018/october/boat-haul-out.asp). For example, you may want to ask the following [questions](http://www.anchorswaymarine.com/template/checklist_prehaul.pdf) of the yard when they are preparing a quote:
 
- - [Quick Haul Out checklist](https://commutercruiser.com/quick-haul-out-checklist/) - Commuter Cruiser created a checklist which we found useful as new boat owners. These are broken down into the following steps:
-     - Pre-Haulout Checklist: empty tanks, safe vessel lift points, instrumentation, propeller shaft, travel lift strap damage
-     - Haulout Checklist: pressure wash, inspection, blocking the boat, jack stand placement
-     - Hauled Out Checklist: to do list, check enginges, props, shafts, through-hulls, transducers, zincs & ground plates, anchors & chain, bottom prep, paint 
-     - Launch Checklist: doublecheck before boat is out of the slings, make sure engine starts and no bilge or other leaks
- 
-{% assign pwimg="rjs-sails-to-starboard" %}
-{% assign pwcaption="" %}
+ - How long bewteen coats of bottom paint and how long between the last coat and launch?
+ - How much more would you charge to buff and wax the hullsides?
+ - Will your crew clean my boat after launch and how long will it take?
+ - What warranty do you place on your work?
+ - How many days will you give me to complete my projects (if you are doing work)?
+
+If planning to winterize the boat, there's another helpful [haulout checklist](https://astrolabesailing.com/2014/02/19/haulout-checklist/).
+
+Finally, on splash day, check the work and talk to the yard about the work performed. Review the itemized invoice and check it against the estimate. Pay the bill and tip the workers. Compare the boat's condition (pre-haul and post-haul list and photos). Check the rigging.
+
+{% assign pwimg="rjs-wing-keel_2x" %}
+{% assign pwcaption="Haul out in Thailand" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
 # Choosing Antifoul 
 
-Choosing the right antifoul for your boat depends on a number of variables: water temperature, oxygenation levels, salinity, current or movement, how much you sail and at what speed, hull material, etc. Its performance also depends on how it is applied and the integrity of the layers of coats underneath.  
+Choosing the right antifoul for your boat depends on a number of variables: water temperature, oxygenation levels, salinity, current or movement, how much you sail and at what speed, hull material, etc. Its performance also depends on how it is applied and the integrity of the layers of coats underneath. 
 
-In this specific use case, we wanted to know whether it would be disasterous slapping on a few coats of Micron 66 at this point, and so I posed the following question to the Women Who Sail:
+In addition to [Jamestown Distributor](https://www.jamestowndistributors.com/userportal/document.do?docId=1177), we also referenced: 
+
+ - [Bottom Paint Test Report](https://www.practical-sailor.com/issues/34_10/features/Antifouling-Bottom-Paint-Evaluation_5675-1.html) - Practical Sailor examines antifouling paints after 1-year and 2-year in-water tests as 72 new paint panels are submerged in the Florida Keys and Long Island Sound. These test panels are pulled and examined for their resistance to hard growth and soft growth. Their detailed charts provide results for ablative paints, hard paints and specialty paints. The lineup of paints includes several low-copper and no-copper paints, as sailors look for viable alternatives to metal-based paints. 
+ - Other links
+
+{% assign pwimg="wws-website-logo" %}
+{% assign pwcaption="" %}
+{% assign pwpng="true" %}
+{% include post-wide-image.html%}
+
+## Opinions from Cruisers 
+
+In our specific use case, we wanted to know whether it would be disasterous slapping on a few coats of Micron 66 at this point, and so I posed the following question to the Women Who Sail:
 
 >In a couple weeks, we will be doing a pre-purchase survey and sea trial on this beauty. 
 >
@@ -82,7 +99,14 @@ Vanessa Linsley (who has lived and sailed for 30 years on *Anney Bonney* a CT 42
 
 I was gobsmacked. Their insights were detailed, specific, and actionable. 
 
-We also reached out to Interlux with the same question. Despite the fact that the representative sounded like he had marbles in his mouth, we understood enough to learn the following: 
+{% assign pwimg="pexels-pixabay-cornflakes" %}
+{% assign pwcaption="Photo by Pixabay" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
+## Guidance from Manufacturer
+
+We also reached out to [Interlux](https://www.interlux.com/en/us/) with the same question. Despite the fact that the representative sounded like he had marbles in his mouth, we understood enough to learn the following: 
 
  - With Micron 66, there's not enough salt water at 11 ppm to trigger ablation. Since RJ Slocum is sitting in fresh water, we won't know which product to use until after the pressure wash. 
 
@@ -95,7 +119,7 @@ I like the problem-solving aspect of this new lifestyle. Everyday is certainly a
 So, with that in mind, what did we see during the haul out?
 
 {% assign pwimg="asa-first-skipper-bluewater-marina" %}
-{% assign pwcaption="temporary image" %}
+{% assign pwcaption="Temporary image" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 

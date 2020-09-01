@@ -9,9 +9,11 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
+    - boat-purchase
     - duediligence
     - projectslocum
     - svrjslocum
+    - transitions
 share: true
 image:
     thumbnail: /images/small/rjs-saloon-lugger.jpg 

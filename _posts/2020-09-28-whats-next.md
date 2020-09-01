@@ -10,6 +10,7 @@ categories:
     - Sailing Adventures
     - Minimalist Living
 tags:
+    - boat-purchase
     - duediligence
     - projectslocum
     - svrjslocum
@@ -30,7 +31,7 @@ excerpt: Andrew and I have the best talks while we're traveling, and our discuss
 
 # Pre-Adventure Adventure
 
-After our [first whiteboard exercise](/posts/time-to-go-to-the-whiteboard/), we had some fits and starts. By October last year, we regrouped and set out a plan to change our lives and begin [a voyaging life](/posts/sailing-around-the-world/). When first we saw [Rachel J Slocum](/posts/when-first-we-saw-rachel-j-slocum/), we were smitten, however we took the time to see what other options were currently available at [BOOT 2020](/posts/boot-2020/). We also decided after a trip to San Diego on [our anniversary](/posts/happy-anniversary/), that it wasn't fair to see any other boats until we had a chance to have a first look at Rachel J Slocum in person. 
+After our [first whiteboard exercise](/posts/time-to-go-to-the-whiteboard/), we had some fits and starts. By October last year, we regrouped and set out a plan to change our lives and begin [a voyaging life](/posts/sailing-around-the-world/). When first we saw [Rachel J Slocum](/posts/when-first-we-saw-rachel-j-slocum/), we were smitten, however we took the time to see what other options were currently available at [BOOT](/posts/boot-2020/) in Dusseldorf. We also decided after a trip to San Diego on [our anniversary](/posts/happy-anniversary/), that it wasn't fair to see any other boats until we had a chance to have a first look at Rachel J Slocum in person. 
 
 No boats would ever stand a chance.
 

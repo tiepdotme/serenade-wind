@@ -9,6 +9,7 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
+    - boat-purchase
     - bluewater
     - cultureofcharacter
     - gowiththeflow
