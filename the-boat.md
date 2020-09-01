@@ -143,3 +143,9 @@ r/cruising RPM (1200 RPM), high torque. Completely rebuilt May 2018. Exclusively
 {% include post-image-gallery.html gallery=site.data.galleries.the-boat.interior galId="rjs-interior" %}
 
 If you would like to learn more about her design, check out the [research](/posts/history/) we uncovered, which includes articles published in Yachting World and Sailing Magazine.
+
+# Find us
+
+Currently, you can monitor the position and movement of [Rachel J Slocum](https://www.myshiptracking.com/?mmsi=235001830) 24/7. The AIS Class B transponder class is used by recreational crafts and has a transmission power of 2W (range of about 10 miles), typically broadcasting every 30 seconds when underway and every 6 minutes while at anchor.
+
+{% endunless %}
