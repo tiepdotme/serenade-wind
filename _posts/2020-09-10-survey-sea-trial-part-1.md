@@ -86,6 +86,22 @@ On one hand, we are grateful Bill is being diligent in getting the boat ready be
 
 In the meantime, we've been debating our strategies with antifoul with this next haulout. Turns out, the decision wasn't so obvious so we have devoted a post on the topic. 
 
+{% assign pwimg="bridge-colorful-colourful-dock" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
+## Dockage
+
+One of the decisions we'll need to make related to antifoul is where to dock the boat after the sale. The current dockage which is up a ways on New River, Ft Lauderdale has low salinity levels. In addition, we don't know yet whether  the owner will permit live aboards. 
+
+Because of both factors, we are looking at other dockage options in Ft Lauderdale and Miami, with the idea that we really only need 30 days at a dock so we can move in and get settled. After that, we're happy to pick up a mooring or anchor until we're ready to head set off for longer voyages.
+
+{% assign pwimg="woman-doing-hand-heart-sign" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 # Seven Year Cycle
 
 In the context of a tremendous year of transitions, turning 49 years old today holds a lot of meaning for me. For the longest time, the number "14" was my favorite number. Based on all that has happened this year, I think "49" is my new favorite number. Go '9ers!' 

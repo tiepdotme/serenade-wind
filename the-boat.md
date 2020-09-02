@@ -148,4 +148,3 @@ If you would like to learn more about her design, check out the [research](/post
 
 Currently, you can monitor the position and movement of [Rachel J Slocum](https://www.myshiptracking.com/?mmsi=235001830) 24/7. The AIS Class B transponder class is used by recreational crafts and has a transmission power of 2W (range of about 10 miles), typically broadcasting every 30 seconds when underway and every 6 minutes while at anchor.
 
-{% endunless %}

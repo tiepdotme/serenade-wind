@@ -116,7 +116,7 @@ We also reached out to [Interlux](https://www.interlux.com/en/us/) with the same
 
  - With Micron 66, there's not enough salt water at 11 ppm to trigger ablation. Since RJ Slocum is sitting in fresh water, we won't know which product to use until after the pressure wash. 
 
- - If we see cornflaking and need to put it back in fresh water, we'll need to go with another product such as Interlux Micron Extra. Since its ablation process is trigger by movement, we would have to clean the bottom every 2-3 weeks and then when we need to haul out for another bottom paint in the Caribbean, we can go back to Micron 66.
+ - If we see cornflaking and need to put it back in fresh water, we'll need to go with another product such as Interlux Micron Extra. Since its ablation process is triggered by movement, we would have to clean the bottom every 2-3 weeks and then when we need to haul out for another bottom paint in the Caribbean, we can go back to Micron 66.
 
  - If we find another location to dock with higher salinity, then we can stick with Micron 66 and it will self-polish until we come back to move aboard full time in October. 
 
