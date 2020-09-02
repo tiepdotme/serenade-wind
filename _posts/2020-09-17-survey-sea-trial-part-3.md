@@ -46,7 +46,13 @@ Andrew absorbed this recommendation and then spent hours researching bottom pain
 
 # Preparing for a Haul Out
 
-Before we arrived in Florida, we did some research and found a useful checklist to refer to for a [Quick Haul Out](https://commutercruiser.com/quick-haul-out-checklist/). For annual haul outs, [Passage Maker](https://www.passagemaker.com/) also provides a good write-up for a [haul out game plan](https://www.passagemaker.com/cruiser-reviews/haul-out-game-plan). This applies to owners who would like to diagnose issues through a mechanical test run prior to the haul out so they can tackle areas that require servicing once the boat is out of the water. 
+Before we arrived in Florida, we did some research and found some useful links on the topic:
+
+ - [Passage Maker](https://www.passagemaker.com/) - a [haul out game plan](https://www.passagemaker.com/cruiser-reviews/haul-out-game-plan) is helpful for owners who would like to diagnose issues through a mechanical test run prior to the haul out so they can tackle areas that require servicing once the boat is out of the water 
+ - [Mahina Expeditions](http:/www.mahina.com/forms/commissioning.pdf) - article of what to do when decommissioning and recommissioning in a foreign port
+ - [Commuter Cruiser](https://commutercruiser.com/quick-haul-out-checklist/) - reference for a quick haul out 
+ - [Sailing Totem](https://www.sailingtotem.com/2020/09/preparing-a-boat-for-haulout.html) - chronicled their 6th haul out while they are in Mexico
+ - [The Boat Galley](https://theboatgalley.com/tips-for-hauling-out-your-boat/) - offers tips for hauling out your boat
 
 It's also important to take care to understand the details of the arrangements with the boatyard, i.e., [scope and cost](https://www.boatus.com/magazine/2018/october/boat-haul-out.asp). For example, you may want to ask the following [questions](http://www.anchorswaymarine.com/template/checklist_prehaul.pdf) of the yard when they are preparing a quote:
 
