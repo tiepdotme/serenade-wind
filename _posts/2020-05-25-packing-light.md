@@ -24,6 +24,8 @@ excerpt:   How do you pack for the rest of your life in order to live full-time 
 ---
 {% include toc %}
 
+{% include responsive-embed url="https://www.youtube.com/embed/yAAwO8s1HJ0" ratio="16:9" %}
+
 Before jumping into our topic today about packing light, we wanted to highlight news about Patrick and Rebecca Childress of [s/v Brick House.](http://whereisbrickhouse.com/) Their [youtube](https://www.youtube.com/channel/UCC7DRvfDAoFn5eMyfTnaA8w) channel has been an inspiration for both of us, and we were quite literally shocked to find out that they were both diagnosed with coronavirus on May 15th.
 
 While Rebecca is slowly recovering aboard their boat in South Africa, Patrick was admitted into the ICU and has been on a ventilator and is experiencing kidney failure. Their insurance claim has been denied since it does not cover pandemic, so we have donated to help them out.

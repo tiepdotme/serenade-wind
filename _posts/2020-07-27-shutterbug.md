@@ -89,7 +89,7 @@ To see a more exhausive list of images, check out our [Pexels profile](https://w
 
 # Shutterbug Gear
 
-As some of you know, our primary camera equipment (Nikon D7000 and 18-200 mm f:3.5-5.6G II ED lens) fell in the drink on [our first trip to Ft Lauderdale](/posts/project-slocum-part-5/) in March. Luckily, Hasmik had [some camera gear](/posts/go-no-go-decision/) she was willing to part with. All of her Nikon equipment was available since she had recently purchased a Sony mirrorless camera (D90) and was heavily investing in the Sony product line. 
+As some of you know, our primary camera equipment (Nikon D7000 and 18-200 mm f:3.5-5.6G II ED lens) fell in the drink on [our first trip to Ft Lauderdale](/posts/project-slocum-part-5/) in March. Luckily, Hasmik had [some camera gear](/posts/go-no-go-decision/) she was willing to part with. All of her Nikon equipment was available since she had recently purchased a Sony mirrorless camera (A7) and was heavily investing in the Sony product line. 
 
 I walked out of her apartment with 3 canvas bags full of gear and only recently did Andrew and I pull everything out to take an inventory of what was there. Here is the full complement of our current inventory of camera equipment.
 

@@ -46,7 +46,7 @@ Before we met, Andrew and I both spent a bit of time sailing. When he was living
 
 I had taken a variety of ASA courses, joined a sailing club which got me out on a 36’ Catalina twice a month for a few years, chartered yachts from time to time, raced in the summer Wednesday sunset regattas out of Marina Del Rey, did a moonlight sail in San Francisco (caught in the fog with strong currents was a memorable experience), and crewed a 10-day trip island hopping in the British Virgin Islands.
 
-{% assign pwimg="greece-both-corinth-crossing" %}
+{% assign pwimg="dhn-greece-both-helm" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

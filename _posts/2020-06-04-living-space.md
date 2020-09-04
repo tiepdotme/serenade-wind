@@ -131,10 +131,9 @@ Corrosion is also a big factor, so we can't be cavalier and buy just anything, w
 Finally, there is also the issue about creepy, crawlies. Living closer to nature sometimes means living closer to bugs, so we'll need to address our habits when it provisioning food (bugs can nest in cardboard, so we will need to process/sanitize everything before it is stored on the boat), Mosquitoes love me. Andrew? Not so much. So we'll need to figure out what sort of netting or screens exist or are required on the boat.
 
 {% assign pwimg="dhn-climbing-gear" %}
-{% assign pwcaption="Circa 2017. Our climbing gear has doubled in quantity since then! Luckily harnesses, webbing and caribiners can be repurposed for sailing." %}
+{% assign pwcaption="Circa 2017" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Rest of the living space
 

@@ -25,13 +25,13 @@ excerpt: During the pandemic, we've been having fun performing culinary experime
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## Time to Level-Up
+# Time to Level-Up
 
 When it comes to preparing meals at home, the last area I tend to stock up is canned food. Canned ingredients are seldom prioritized because I prefer to cook with the freshest ingredients, farm fresh being the goal. The same comes to cooking, and I realized that I am lacking this skill in my cooking arsenal when it comes to preparing canned food recipes.
 
 This seems like an essential skill while living on a boat. So, it's high time to level-up.
 
-## What's in your pantry?
+# What's in your pantry?
 
 In one of the recent [episodes](https://youtu.be/hRHskbdRFFs?t=932) from [Sailing Project Atticus](https://www.youtube.com/user/ProjectAtticus), Desiree was providing a tour of the galley, including where she stored provisions and her use of combining canned goods with fresh produce to create meals. Behan from [Sailing Totem](https://www.sailingtotem.com/2020/03/provisioning-for-a-pandemic.html "provisioning for a pandemic") also offers her strategies for cooking pantry meals as the basis for provisioning.
 
@@ -55,7 +55,7 @@ Cooking primarily with canned food is not really in my repertoire, so I have an 
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## Canned Food Recipes
+# Canned Food Recipes
 
 From a simple google query, I discovered some recipes that I would tackle over the next few weeks. These resources include:
 
@@ -72,7 +72,7 @@ From a simple google query, I discovered some recipes that I would tackle over t
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## Pantry Buster
+# Pantry Buster
 
 Since I already have identified specific uses with most of my pantry canned items, I had another look at what else is currently stocked in the pantry. After taking inventory, I discovered we have one can of baked beans, 3 cans of sockeye salmon and 1 can of pineapple chunks.
 
@@ -80,19 +80,19 @@ A few of these items had expiration dates that had long since passed. When I had
 
 If you want to evaluate your pantry, feel free to reference this [guideline from FoodPrint](https://foodprint.org/blog/should-you-follow-expiration-dates-and-sell-by-dates/).
 
-### Sockeye salmon options:
+## Sockeye salmon options
 
 -   [Creole salmon cakes](https://www.creolecontessa.com/2014/03/18/creole-salmon-cakes-with-hot-mayonnaise/) - uses salmon, panko bread crumbs and spices
 -   [Mediterranean salmon pasta](https://chickenofthesea.com/recipes/mediterranean-salmon-pasta) - salmon, dry pasta and other pantry staple items
 -   [Salmon chowder](https://www.crumbblog.com/quick-salmon-chowder/) - I like the idea of having a steaming mug of chowder to warm up a chilly day while on passage
 
-### Baked beans options
+## Baked beans options
 
 -   [all-in-one baked breakfast](https://www.lovecannedfood.com/recipes/breakfast-baked-eggs/) - a twist on a shakshuka
 -   [taste homemade](https://feastandfarm.com/make-canned-baked-beans-taste-homemade/) - freshen up a canned version into homemade
 -   [beef and bean meatloaf](https://www.foodinaminute.co.nz/Recipes/Beef-and-Bean-Meatloaf) - a meatloaf that can stretch for days as tasty sandwiches
 
-### Pineapple chunks options
+## Pineapple chunks options
 
 -   [Taiwanese pineapple cake](https://tasteasianfood.com/taiwanese-pineapple-cake/) - hoping canned can reasonably substitute for the fresh pineapple called for. [Alternate recipe](https://kirbiecravings.com/chinese-pineapple-cakes/) based on canned pineapple. Here is a well-researched [comparison](http://www.bakeforhappykids.com/2016/01/best-taiwanese-pineapple-cakes.html) of pineapple cake recipes.
 -   [Carrot cake](https://www.thespruceeats.com/best-carrot-cake-482725) - in cake form, this sweet treat will stretch for days
@@ -106,7 +106,7 @@ So without further ado, here are our top 5 choices from this experiment to seek 
 {% include post-wide-image.html%}
 
 
-## #5 - Salmon Chowder
+# #5 - Salmon Chowder
 
 Given we continue to observe social distancing and staying safe at home, I had to do a number of substitutions on the [salmon chowder](https://www.crumbblog.com/quick-salmon-chowder/) since I didn't have all of the ingredients readily available.
 
@@ -131,7 +131,7 @@ Okay, next up....
 {% include post-wide-image.html%}
 
 
-## #4 - Beef and Bean Meatloaf
+# #4 - Beef and Bean Meatloaf
 
 Using this recipe from [Food in a Minute](https://www.foodinaminute.co.nz/Recipes/Beef-and-Bean-Meatloaf) as a jumping off point, I took into account what other items we currently have stocked in the house, substituting where applicable and supplementing based on preferences:
 
@@ -150,8 +150,7 @@ Even though Andrew doesn't mind eating the same meals over and over again, I pre
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
-## #3 - Caribbean Salmon Cakes
+# #3 - Caribbean Salmon Cakes
 
 After scanning the pantry and refrigerator. I was missing some ingredients for the [creole salmon cakes](https://www.creolecontessa.com/2014/03/18/creole-salmon-cakes-with-hot-mayonnaise/) and had to substitute. This also makes for a completely different recipe, so here is my modified version, now renamed "Caribbean Salmon Cakes".
 
@@ -190,7 +189,7 @@ Served hot with [cilantro scallion rice](https://www.marthastewart.com/316139/sc
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## #2 - Spicy Pineapple Linzer Cookies
+# #2 - Spicy Pineapple Linzer Cookies
 
 I really wanted to bake a traditional Taiwanese pineapple cake, especially since I'm Taiwanese. It's the national symbol of Taiwan and of good fortune, as the word "pineapple" in Chinese means "prosperity arrives." Unfortunately, I really don't like it because it's dense and dry.
 
@@ -221,7 +220,7 @@ Otherwise, the recipe is identical and delicious! Yields 3 dozen cookies and the
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-## #1 - Condensed Milk Chocolate Chip Cookies
+# #1 - Condensed Milk Chocolate Chip Cookies
 
 The beauty of this recipe for [condensed milk chocolate chip cookies](https://marshasbakingaddiction.com/condensed-milk-chocolate-chip-cookies/) is the fact that - perhaps with the exception of butter - everything is shelf-stable. It can also be argued that you can source [canned butter](https://www.amazon.com/Feather-Zealand-100-artificial-flavors-Great-Preparedness/dp/B004HZWFRU#ace-g3379618840), in which case the whole recipe is shelf stable.
 
@@ -239,7 +238,7 @@ Deer in headlights.
 
 He nodded and continued his conference call. Suffice it to say, these cookies were a hit. I may add slightly more salt next time to round out the flavor profile. The crumb is certainly tender and stays moist even going into our 3rd day of keeping them at room temperature.
 
-## All-Pantry Meals
+# All-Pantry Meals
 
 We hope you'll have a chance to try out these canned food recipes. We had a lot of fun experimenting with them and riffing on the ones published.
 

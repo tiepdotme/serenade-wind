@@ -149,7 +149,7 @@ When First We Saw Rachel J Slocum, she was described as follows:
 {% include post-wide-image.html%}
 
 
-When I first read the website's write-up on [s/v Rachel J. Slocum](https://serenadewind.netlify.app/about-rachel-j-slocum/), these words stood out to me:
+When I first read the website's write-up on [s/v Rachel J. Slocum](/about-rachel-j-slocum/), these words stood out to me:
 
 - Nothing must compromise sailing ability
 - No consideration to cost

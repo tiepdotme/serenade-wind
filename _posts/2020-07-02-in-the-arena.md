@@ -71,7 +71,7 @@ As Nick aptly put it, "The reality is that the adventure begins when you decide 
 
 # The adventure before the adventure
 
-I am a huge fan of podcasts since it gives me an opportunity to multitask. Whether cooking, cleaning or knitting, I am able to stay entertained while going through the motions of whatever it is I also need to accomplish. These days, I am listening to quite a few sailing podcasts ([Ocean Sailing Podcast](https://www.oceansailingpodcast.com/), [Sail Geeks](https://sailgeeks.com/home), [Sailing Ruby Rose](http://yachtrubyrose.com/category/podcasts/)) and most recently have binge-listened to [Under the Sheets](https://podcasts.apple.com/us/podcast/under-the-sheets-with-the-okellys/id1470844381).
+I am a huge fan of podcasts since it gives me an opportunity to multitask. Whether cooking, cleaning or knitting, I am able to stay entertained while going through the motions of whatever it is I also need to accomplish. These days, I am listening to quite a few sailing podcasts ([Ocean Sailing Podcast](https://www.oceansailingpodcast.com/), [Sail Geeks](https://sailgeeks.com/home), [Offshore Explorer](https://offshore-explorer.simplecast.com/)) and most recently have binge-listened to [Under the Sheets](https://podcasts.apple.com/us/podcast/under-the-sheets-with-the-okellys/id1470844381).
 
 Episode 12, which was published August 2019, is particularly poignant to me with its topic, "[The adventure before the adventure](https://podcasts.apple.com/us/podcast/12-the-adventure-before-the-adventure/id1470844381?i=1000447703230)." It reinforces and validates what we have been experiencing, so that you do not disregard what is happening to you now.
 

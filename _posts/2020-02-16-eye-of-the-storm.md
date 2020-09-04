@@ -64,9 +64,9 @@ Forever the saver and archivist (a trait I inherited from my mom), I did transfe
 
 Last year, I discovered the [Pick Up Limes](https://www.pickuplimes.com/)  youtube channel via pinterest when a video on [DIY long layers cut](https://www.youtube.com/watch?v=xNzZqVUl28E "DIY Long layers cut") was posted. I love Sadia's videos and once again, I found something useful in how she set up her own bullet journal.
 
-{% include responsive-embed url="https://www.youtube.com/embed/xNzZqVUl28E" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/ZK5VUuxGYr0" ratio="16:9" %}
 
-Given that I’ll be leaving my corporate life behind in a couple weeks, I thought it made a lot of sense to start thinking about how I want to organize my time. [Pick Up Limes](https://www.youtube.com/watch?v=xNzZqVUl28E "Pick Up Limes") was my first glimpse into this type of journaling, and I must say that what I saw piqued my interest.
+Given that I’ll be leaving my corporate life behind in a couple weeks, I thought it made a lot of sense to start thinking about how I want to organize my time. [Pick Up Limes](https://www.youtube.com/watch?v=ZK5VUuxGYr0 "Pick Up Limes") was my first glimpse into this type of journaling, and I must say that what I saw piqued my interest.
 
 Over lunch with Andrew, I gave him a brief rundown of what it was I discovered, and he was supportive.
 
