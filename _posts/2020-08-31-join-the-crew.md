@@ -14,6 +14,7 @@ tags:
     - lifereset
     - transitions
 share: true
+featured: true
 image:
     thumbnail: /images/small/art-beach-beautiful-clouds.jpg 
 excerpt: We would like to invite you to join the Serenade Wind crew. In this post, find out what it means to be part of the crew, unlock the pirate's booty, and receive other exclusive access and benefits. 
@@ -40,7 +41,7 @@ We value the *time* you have chosen to spend with us, reading our blog or follow
 
 # Join the Crew
 
-If you would like to contribute, please consider joining the [Serenade Wind crew](https://www.patreon.com/user?u=30149836&fan_landing=true). Our sister site provides more information on what it means to be part of the crew, unlock the pirate's booty, and receive other exclusive access and benefits. 
+If you would like to contribute, please consider joining the [Serenade Wind crew](https://www.patreon.com/serenadewind?fan_landing=true). Our sister site provides more information on what it means to be part of the crew, unlock the pirate's booty, and receive other exclusive access and benefits. 
 
 If you're not in a position to contribute, our content is available for free here and represents about 80% of the total content we produce. 
 
