@@ -29,7 +29,7 @@ excerpt: While on the hard, we decided to make the most of our time and mapped o
 
 A few weeks before we set out for this trip, we tried to get up to speed on electrical systems. While we can totally geek out on this topic, we decided to take a practical approach and understand electrical systems and wiring but creating our own diagram of what's going on behind the panels. 
 
-After reviewing a few [Pacific Yacht Systems](https://www.youtube.com/user/PacificYachtSystems) videos, we spent a few hours mapping out the wiring from shore/solar/alternator to batteries including charge regulators, jotting down the wire and fuse sizes that were installed, battery switches, breaker panels, etc. and comparing this information to Bill's diagrams.
+After reviewing a few [Pacific Yacht Systems](https://www.youtube.com/user/PacificYachtSystems) videos, we spent a few hours mapping out the wiring from shore/solar/alternator to batteries including charge regulators, jotting down the wire and fuse sizes that were installed, battery switches, breaker panels, etc. and comparing this information to Bill's diagrams. Unlike many boats which would house breakers behind 1 or 2 panels, Bill has them localized throughout the boat. As we were chatting with Ian a few weeks prior, he says this custom wiring will take some getting used to. So we're glad we took the time to understand it now. 
 
 {% assign pwimg="rjs-wiring-red-cable" %}
 {% assign pwcaption="" %}

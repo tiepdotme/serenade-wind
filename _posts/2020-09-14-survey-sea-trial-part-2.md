@@ -136,4 +136,10 @@ As for maintenance:
 
 >Experience alone is the only qualification upon which any decisions can be made when writing specifications or providing advice on yacht construction/refit, maintenance, equipment, systems, materials and operation. YRM has been using, testing, replacing, evaluating and recommending the different options available to use in the many designs and budgets and operations we have been involved in during the last 4 decades and know what works best for what is required.
 
+# Head's up 
+
+Because Bill had started working on the boat in August, Ian had a chance to do the in-water survey and provide some feedback on areas that needed attention, for example the [heat exchanger](https://www.yachtingmagazine.com/cooling-system-tips/). 
+
+We had a chance to chat with Ian in advance of our trip to Florida, and he shared with us some of his findings. We also solicited his advice on which boatyard in Ft Lauderdale he trusted to do bottom paint. As much as we will become DIY boaters, we have a lot on our plate and the best use of our time isn't painting. As we explore in a future post, we have plenty of work cut out for us during our 2 weeks in Ft Lauderdale. 
+
 Hope you find this post helpful. Stay tuned for the next installment on Thursday after we have a chance to do the haul out and marine survey. 

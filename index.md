@@ -7,7 +7,6 @@ image: /images/small/serenade-wind-background.jpg
 author: sw
 
 ---
-
 Welcome and thank you for visiting Serenade Wind, which also happens to be an anagram of our first names, Andrew & Denise.  
 
 After a combined 50-years in the corporate world, we decided to try a different approach to life, one that focuses on what is important to us instead of one that is prescribed to us by parents, society, or even peer pressure. This includes pushing ourselves out of our comfort zone, trying the unconventional, and using our own judgments to decide how life *could* be and not how life *should* be, all in an effort to grow and give back to the community what we have learned.

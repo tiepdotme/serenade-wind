@@ -17,6 +17,7 @@ tags:
     - minimalist
     - shelterathome
     - transitions
+    - instaknit
 share: true
 image:
     thumbnail: /images/small/photo-lavender-flower-field-under-pink-sky.jpg 

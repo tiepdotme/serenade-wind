@@ -95,7 +95,7 @@ In the meantime, we've been debating our strategies with antifoul with this next
 
 One of the decisions we'll need to make related to antifoul is where to dock the boat after the sale. The current dockage which is up a ways on New River, Ft Lauderdale has low salinity levels. In addition, we don't know yet whether  the owner will permit live aboards. 
 
-Because of both factors, we are looking at other dockage options in Ft Lauderdale and Miami, with the idea that we really only need 30 days at a dock so we can move in and get settled. After that, we're happy to pick up a mooring or anchor until we're ready to head set off for longer voyages.
+Because of both factors, we are looking at other dockage options in Ft Lauderdale and Miami, with the idea that we really only need 30 days at a dock so we can move in and get settled. After that, we're happy to pick up a mooring or anchor until we're ready to set off for longer voyages.
 
 {% assign pwimg="woman-doing-hand-heart-sign" %}
 {% assign pwcaption="" %}
@@ -116,11 +116,10 @@ So in the spirit of growth through self-reflection, I would like to make a small
 
 >What happened when you turned *14 years old* and *21 years old*? Write these down.
 
+{% include post-image-gallery.html gallery=site.data.galleries.retrospective.denise galId="denise" hideArrows=true %}
+
 >Keep making your way through the years of your life at *28*, *35*, *42* and so on. 
 
 >Then, for my birthday, please send those events in a direct message to me. And in return, I will send you the Seven Year Cycle post. 
 
-This reflection may yield revelations too personal to share, for which I can empathize. Direct message me a quick "hello" or send pictures of yourself at each stage (see below), and I will send you the "Seven Year Cycle" story anyway. 
-
-{% include post-image-gallery.html gallery=site.data.galleries.retrospective.denise galId="denise" hideArrows=true %}
-
+This reflection may yield revelations too personal to share, for which I can empathize. Direct message me a quick "hello" or send pictures of yourself at each stage, and I will send you the "Seven Year Cycle" story anyway. 

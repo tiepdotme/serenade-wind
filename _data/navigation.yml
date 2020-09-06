@@ -10,6 +10,9 @@ main:
   - title: Resources
     url: /resources/
 social:
+  - title: Subscribe to our Feed
+    url: http://feeds.feedburner.com/SerenadeWind
+    icon: fas fa-rss-square
   - title: Join our Facebook Page
     url: https://www.facebook.com/serenade.wind.ventures
     icon: fab fa-facebook-square

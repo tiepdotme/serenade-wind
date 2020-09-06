@@ -24,7 +24,7 @@
     {%- comment -%}
       Add Atom feed link if jekyll-feed plugin is enabled
     {%- endcomment -%}
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+    {% feed_meta %}
   {%- endif -%}
 
   {%- if site.head_scripts -%}

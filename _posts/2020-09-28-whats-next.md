@@ -15,7 +15,7 @@ tags:
     - projectslocum
     - svrjslocum
     - philanthropy
-    - minimalism
+    - minimalist
     - tbt
 share: true
 image:
@@ -105,6 +105,8 @@ Given the higher risk we took to travel by plane, we are spending the next 2 wee
 
 Rather than dwell on what could have been, we will focus on a welcome back get together some time in the future rather than a farewell send off. 
 
+During this time, we are finalizing the inventory of items we are taking aboard. We have scheduled dates for the final pick up of the remaining 20% of our items, dropping off some items with my mom, see Xiaolong one last time, eat our way through the freezer of mystery meals, and prepping the house for the next tenant. The goal is to be done in a week or two so we can get back to Florida as soon as we can. 
+
 {% assign pwimg="dhn-bujo-minimalism-update" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
@@ -112,8 +114,14 @@ Rather than dwell on what could have been, we will focus on a welcome back get t
 
 # Minimalism Update
 
-Finally, now that we have a better idea of stowage aboard RJ Slocum, we are setting aside the remaining items we will be taking aboard. As we talked about in [Living Space](/posts/living-space/), tools, linens, galley equipment were the big unknowns prior to the trip. Now, we can close out those items and pack them up. We have a POD scheduled to come next week and will deliver our personal items to Florida within 12 days.
+Now that we have a better idea of stowage aboard RJ Slocum, we are setting aside the remaining items we will be taking aboard. As we talked about in [Living Space](/posts/living-space/), tools, linens, galley equipment were the big unknowns prior to the trip. Now, we can close out those items and pack them up. We have a POD scheduled to come next week and will deliver our personal items to Florida within 12 days.
 
-As we look around, we are amazed to see how much progress has been made. We'll elaborate on each of those steps in our next post. A few smaller items still remain. Luckily, my cousin Janet offered to include them in her family's semi-annual trip to Mexico to donate to the missionaries. 
+As we look around, we are amazed to see how much progress has been made. We'll elaborate on each of those steps in our next post on minimalism. A few smaller items still remain. Luckily, my cousin Janet offered to include them in her family's semi-annual trip to Mexico to donate to the missionaries. 
 
-It feels good to be able to give away these items to those in need. 
+It feels good to be able to give away these items to those in need. The spreadsheet that helped us track roughly 150 moving pieces going to roughly 30 recipients was really the only way that we could stay on top of this process. It was also a great tool to consolidate information on the items in each room, the dimensions, a description that we could use to post on various online marketplaces, as well as tracking the original price, asking price and final sale price. 
+
+We are embarking on a lot of changes this year, one of which is, pursuing a [life of philanthropy](/posts/philanthropy/). To date, we have given away over $150,000 in cash and assets since February, and we are still giving to causes that we connect with. Much as we had described in [matching gifts](/posts/matching-gifts/), we wanted to place the resources to those who needed or wanted them most. We have also reassessed our [relationship with money](/posts/relationship-with-money/). 
+
+More isn't better. More is just more.   
+
+What's in [your backpack](https://www.youtube.com/watch?v=UsRP9EUrXjo "What’s in your backpack")? Our backpack is nearly empty. As we set out with our goal two years ago to [sail around the world](/posts/sailing-around-the-world/), we can now selectively curate experiences rather than possessions.

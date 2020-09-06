@@ -31,13 +31,13 @@ On September 19th of each year since 2002, the world over celebrates internation
 
 When I first learned about it a while ago, I thought it was a cute, interesting way to adapt some speech patterns into my writing, but I really didn't invest too much in it.
 
-Now that we are owners of a schooner, we thought we might get a little bit more into the spirit of things.
+Now that we are one signature away from becoming owners of a schooner, we thought we might get a little bit more into the spirit of things.
 
 # International Talk Like a Pirate Day
 
 There's a charming blog that goes into the history, [talklikeapirate.com](http://talklikeapirate.com/wordpress/). There are loads of fun information and resources, such as [glossaries](http://talklikeapirate.com/wordpress/how-to/for-further-study/) and [translators](https://www.syddware.com/cgi-bin/pirate.pl) so you can pick up some terms.
 
-Seems like most mentions of pirates, privateers and buccaneers are men, so I thought I would shine a spotlight on the few powerful women who have captained ships and went on to command hundreds of fleets and thousands of sailors.  
+Seems like most mentions of pirates, privateers and buccaneers are men, so I thought I would shine a spotlight on the few, powerful women who have captained ships and went on to command hundreds of fleets and thousands of sailors.  
 
 # Grace O'Malley
 
@@ -100,4 +100,8 @@ Andrew and I will be heading out to Ft. Lauderdale next week for the haulout, ma
 
 As you remember, we were quite taken when we first saw her [online](/posts/when-first-we-saw-rachel-j-slocum/) as well as during [our first look trip](/posts/project-slocum-part-4/) in March. Typical [boat purchases](/posts/boat-purchase/) will close 30 days after the escrow opens. Due to the coronavirus pandemic, our escrow has lasted a few months. In the next phase of the due diligence process, we'll describe what we happened during our trip in a 5-part series, Survey and Sea Trial.
 
-Also, we wrapped up a massive weekend of purging and downsizing. Our house is completely decimated, and it feels great! We'll share this account in a future post updating our week 20 progress on [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/). 
+Also, we wrapped up a massive weekend of purging and downsizing during a scorching heatwave in southern California, topping 107 degrees on both days. Our house is completely decimated. Our bed, night stands and dressers are gone. Couch, chaise longue, coffee table and TV are gone. We're down to about 20% of what we used to have.
+
+How do we feel about it? 
+
+It feels great! We'll share this account in a future post updating our week 20 progress on [30-weeks to Minimalism](/posts/30-weeks-to-minimalism/). 

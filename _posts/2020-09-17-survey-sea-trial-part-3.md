@@ -37,7 +37,7 @@ I shrugged.
 
 In my mind, I didn't think this mystery needed belaboring, but I understood his point. Andrew was taking every step of this process seriously. I took on faith what Bill had said in July. Bill has a history of sparing no cost when it comes to maintaining his boat over 30 years. He recommended using Interlux Micron 66 for the bottompaint. That was good enough for me.
 
-Andrew absorbed this recommendation and then spent hours researching bottom paint performance. He started by reading through write-ups from [Jamestown Distributor](https://www.jamestowndistributors.com/userportal/document.do?docId=1177) including [Interlux Micron 66](https://www.jamestowndistributors.com/userportal/show_product.do?pid=79), which was Bill's recommendation and [Sea Hawk Cukot](https://www.jamestowndistributors.com/userportal/show_product.do?pid=59368), which was the boatyard's recommendation given that RJ Slocum had been sitting in water with lower salinity. We then had a follow-up call with Bill on the topic along with finalizing the travel plans in September.
+Andrew absorbed this recommendation and then spent hours researching bottom paint performance. He started with the knowledge that Micron 66 is what's on the bottom now and by reading through write-ups from [Jamestown Distributor](https://www.jamestowndistributors.com/userportal/document.do?docId=1177) including [Interlux Micron 66](https://www.jamestowndistributors.com/userportal/show_product.do?pid=79), which was Bill's recommendation and [Sea Hawk Cukote](https://www.jamestowndistributors.com/userportal/show_product.do?pid=59368), which was the boatyard's recommendation given that RJ Slocum had been sitting in water with lower salinity. We then had a follow-up call with Bill on the topic along with finalizing the travel plans in September.
 
 {% assign pwimg="dhn-bujo-haul-out-marine-survey-checklist" %}
 {% assign pwcaption="" %}
@@ -62,8 +62,6 @@ It's also important to take care to understand the details of the arrangements w
  - What warranty do you place on your work?
  - How many days will you give me to complete my projects (if you are doing work)?
 
-If planning to winterize the boat, there's another helpful [haulout checklist](https://astrolabesailing.com/2014/02/19/haulout-checklist/).
-
 Finally, on splash day, check the work and talk to the yard about the work performed. Review the itemized invoice and check it against the estimate. Pay the bill and tip the workers. Compare the boat's condition (pre-haul and post-haul list and photos). Check the rigging.
 
 {% assign pwimg="rjs-wing-keel_2x" %}
@@ -75,10 +73,10 @@ Finally, on splash day, check the work and talk to the yard about the work perfo
 
 Choosing the right antifoul for your boat depends on a number of variables: water temperature, oxygenation levels, salinity, current or movement, how much you sail and at what speed, hull material, etc. Its performance also depends on how it is applied and the integrity of the layers of coats underneath. 
 
-In addition to [Jamestown Distributor](https://www.jamestowndistributors.com/userportal/document.do?docId=1177), we also referenced: 
+In addition to [Antifouling Paint Test Report 2015](https://www.jamestowndistributors.com/userportal/document.do?docId=1177, "Antifouling Paint Test Report 2015"), we also referenced: 
 
  - [Bottom Paint Test Report](https://www.practical-sailor.com/issues/34_10/features/Antifouling-Bottom-Paint-Evaluation_5675-1.html) - Practical Sailor examines antifouling paints after 1-year and 2-year in-water tests as 72 new paint panels are submerged in the Florida Keys and Long Island Sound. These test panels are pulled and examined for their resistance to hard growth and soft growth. Their detailed charts provide results for ablative paints, hard paints and specialty paints. The lineup of paints includes several low-copper and no-copper paints, as sailors look for viable alternatives to metal-based paints. 
- - Other links
+ - [Effectiveness of Anti-fouling Coatings in Southwest Florida](https://www.jstor.org/stable/24321879?read-now=1&seq=1#page_scan_tab_contents, "EFFECTIVENESS OF ANTI-FOULING COATINGS IN SOUTHWEST FLORIDA") - This study's goal was to compare eight commercially available anti-fouling coatings at three RECON stations (Redfish Pass, Gulf of Mexico and Shell Point). At all locations, PVC frames holding six plates (each ~10.2cm²) with various treatments were deployed. At the RECON sites, plates were deployed for four months and sampled monthly using digital photography. Plate images were analyzed using image analysis software Coral Point Count, for percent cover of organisms such as biofilm and barnacles.
 
 {% assign pwimg="wws-website-logo" %}
 {% assign pwcaption="" %}
@@ -136,3 +134,16 @@ Yesterday, we met Bill at RJ Slocum and motored down the channel to [Harbour Tow
 Describe our experiences during the haul out...
 
 Recap marine survey...
+
+# Second Haul Out
+
+In advance of the trip, we had some reservations about the reviews being given for the boat yard, so we decided to go with another. [Lauderdale Marine Center](https://www.lauderdalemarinecenter.com/) came highly recommended by Ian and [Royale Palm Marina](https://royalepalmmarina.com/) was recommended by a WWS member. 
+
+Show screenshot of price comparisons.
+
+On an apples to apples basis, we asked for quotes on the same scope. The differences lay with the level of detail and transparency that came through by each of the vendors. As you can see in the first column, YMG had line items for "paint upgrade" which did not have explanation. They were however one of very few yards that would be willing to haul a vessel without liability insurance and in large part because they did charge extra for it (2.4% of the invoiced amount). 
+
+What to look for in wax and compound the hull and topsides...
+
+We referred to some guidance once again from [Jamestown Distributors](https://www.jamestowndistributors.com/userportal/document.do?docId=265) who had a Boat Polishing Guide - Restoring Gelcoat to a Perfect Finish.
+

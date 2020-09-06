@@ -301,3 +301,10 @@ This is a pretty forgiving recipe. If you can't find Hebrew National Beef Salami
 Your mustard choices can also vary from yellow mustard, brown mustard, spicy brown mustard and dijon mustard. If you don't have apricot preserves, feel free to substitute with honey, agave or any sweet jam/jelly. Basically, you want to arrive at a consistency of baby food. 
 
 If you want more caramelization, then go heavier on the preserves. If you prefer Carolina BBQ flavors, then go heavier on the mustard.
+
+# Powdered stuff
+
+We were telling our friend Lydia about this culinary adventure in pantry proteins, and she chimed in, "Wait until you get to powdered peanut butter!" Sounds like we're in for another culinary adventure. 
+
+Challenge accepted.
+

@@ -22,6 +22,7 @@ image:
 excerpt: 30 weeks to minimalism begins with a game plan and time. Rather than replace a busy schedule with another busy schedule, give yourself time. Find stillness in the day for introspection and self-discovery. 
 ---
 {% include toc %}
+
 {% assign pwimg="green-wooden-chair-on-white-surface" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
@@ -56,7 +57,6 @@ At the end of the purge, we will be left with a handful of suitcases and ready t
 {% assign pwcaption="Serenade Wind 2020 Bullet Journal" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # Game Plan
 
@@ -93,7 +93,9 @@ Here is how we fared in this effort over the summer of 2020.
  - Week 7 - does a foodie need to sacrifice all her [kitchen gadgets](/posts/sea-foodie/) and what do we need for the [rest of the space](/posts/sea-foodie/)?
  - Week 12 - once you've narrowed down what you want to take, here are some [strategies to upcycle](/posts/matching-gifts/) your stuff
  - Week 15 - don't forget to deal with your [digital assets](/posts/shutterbug/)
- - Week 20 - all the furniture can't come with us aboard, so 80% of the large items moved out over Labor Day weekend
+ - Week 20 - all the furniture can't come with us aboard, so 80% of the large items moved out over [Labor Day weekend](/posts/talk-like-a-pirate/)
  - Week 22 - inventory s/v Rachel J Slocum and determine what we will keep
  - Week 25 - after the survey and sea trial, edit some more
  - Week 26 - moving aboard s/v Rachel J Slocum
+
+So in less than 30 weeks, we pretty much nailed it. We officially became minimalists. All it takes to become a minimalist: a bullet journal, tenacity and a willing partner in life. 
