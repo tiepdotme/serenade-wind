@@ -10,6 +10,7 @@ excerpt: Rachel J. Slocum is a fast, comfortable one-off staysail schooner capab
 {% include responsive-embed url="https://www.youtube.com/embed/QNjSZePbJYk" ratio="16:9" %}
 
 # Highlights
+
 > Custom Tanton-designed one-off ready-to-go world cruising staysail schooner
 
 Rachel J. Slocum is a fast 8-knot cruiser in any wind and sea condition and at every point of sail. With her first owner, she has completed a world circumnavigation via Cape of Good Hope & Cape Horn, including fast crossings of the Pacific Ocean (seven times), Indian Ocean (twice) and Atlantic Ocean (twice). 

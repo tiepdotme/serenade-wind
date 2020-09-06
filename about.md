@@ -77,4 +77,5 @@ While she occasionally visited some indoor gyms thereafter, it was only after me
 > It must be fate that brought these two together on the brink of a new adventure.
 
 ## Post Script
+
 Over the last weekend of March, 2020, the Ocean Institute's tall ship Pilgrim sank in Dana Point Harbor. The event was [covered in the OC Register](https://www.ocregister.com/2020/03/29/ocean-institutes-tall-ship-pilgrim-is-sinking-in-dana-point-harbor/,"Ocean Institute, tall ship, Pilgrim is sinking in Dana Point")

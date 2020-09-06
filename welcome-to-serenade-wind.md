@@ -26,5 +26,6 @@ After a combined 50-years in the corporate world, we decided to try a different 
 
 We are embarking on a new adventure which will include discovering alternative lifestyles such as minimalist living, self-sustainability, living off the grid, offshore cruising, climbing adventures, exploring different cultures, culinary experiments, and more.
         
-If these topics interest you, please subscribe or follow us on the various social media platforms. We are deeply grateful that you would like to share your time with us.
+If these topics interest you, please subscribe or follow us on the various social media platforms. If you would like to support us, [join the crew](/posts/join-the-crew/). We are deeply grateful that you would like to share your time with us.
+
 > *“Time is the most valuable thing a man can spend.”* ~ Theophrastus
