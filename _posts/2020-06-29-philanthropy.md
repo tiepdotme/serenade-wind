@@ -16,6 +16,7 @@ tags:
     - philanthropy
     - secondmountain
     - transitions
+    - tedtalks
 share: true
 image:
     thumbnail: /images/small/hiking-yosemite-both.jpg 

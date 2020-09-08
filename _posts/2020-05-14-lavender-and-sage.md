@@ -71,7 +71,7 @@ At the same time, I have so many knitted and crocheted finished objects.
 >
 >50+ Mittens, socks, etc.
 
-Bear in mind that this is also one of the areas targeted for downsizing since they all cannot come aboard our sailboat with us. We have a plan for this, which we will reveal in the upcoming weeks.
+Bear in mind that this is also one of the areas targeted for downsizing since they all cannot come aboard our sailboat with us. We have a plan for this, which we will reveal in the upcoming weeks. Check out our story about [branding](/posts/branding/) Serenade Wind.
 
 {% include responsive-embed url="https://www.youtube.com/embed/ApmwOOjadYI" ratio="16:9" %}
 

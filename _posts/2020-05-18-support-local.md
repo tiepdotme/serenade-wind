@@ -35,11 +35,11 @@ Usually, I will wake up in the small hours of the morning and stay awake for a f
 
 Over the course of the past 6 months, the events which caused upheaval include:
 
--   Internalizing on the debate that began on the [Whiteboard](https://www.serenadewind.com/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard")
--   My mind [pinballing](https://www.serenadewind.com/posts/past-present-and-future/ "Past, present and future") on the implications of turning my life 180 degrees
+-   Internalizing on the debate that began on the [Whiteboard](/posts/time-to-go-to-the-whiteboard/ "Time to go to the whiteboard")
+-   My mind [pinballing](/posts/past-present-and-future/ "Past, present and future") on the implications of turning my life 180 degrees
 -   Post-Warner Bros. and experiencing retirement living
 
-Couple these factors with the coronavirus pandemic and it's impact on our near-term [sailing plans](https://www.serenadewind.com/posts/2020-sailing-plan/ "Serenade Wind's 2020 Sailing Plans"). and it's no wonder insomnia has been an on-going battle.
+Couple these factors with the coronavirus pandemic and it's impact on our near-term [sailing plans](/posts/2020-sailing-plan/ "Serenade Wind's 2020 Sailing Plans"). and it's no wonder insomnia has been an on-going battle.
 
 Many of you may also be experiencing insomnia. Sleep has become the latest casualty of the coronavirus pandemic as reported in [The Harvard Gazette](https://news.harvard.edu/gazette/story/2020/04/sleep-problems-becoming-risk-factor-as-pandemic-continues/ "Sleep problems reported").
 
@@ -99,7 +99,7 @@ At each visit, I provide him with a rundown of my sleeping pattern chronicled in
 
 Dr. Lee may be surprised that a near 50-year old woman engages in these types of activities that would cause injury, but he is also sympathetic and worried. Here is a rundown of what has happened so far this year:
 
-The first accident came as a result of taking a [whipper](https://rockandice.com/how-to-climb/climbing-terminology/ "What does whipper mean") in the climbing gym and my spine took a blow against the harness. The second accident came from the dock debacle detailed in [Project Slocum, Part 5](https://www.serenadewind.com/posts/project-slocum-part-5/ "Project Slocum Part 5"), and while I had a few bruises and scrapes, nothing really required treatment. The third came from a longboard accident earlier this week.
+The first accident came as a result of taking a [whipper](https://rockandice.com/how-to-climb/climbing-terminology/ "What does whipper mean") in the climbing gym and my spine took a blow against the harness. The second accident came from the dock debacle detailed in [Project Slocum, Part 5](/posts/project-slocum-part-5/ "Project Slocum Part 5"), and while I had a few bruises and scrapes, nothing really required treatment. The third came from a longboard accident earlier this week.
 
 In the spirit of maintaining our social distance while still trying to stay active, Andrew and I started to longboard around our neighborhood. Five minutes into the activity, I took a hard fall and landed on my butt. Luckily, I didn't land on my tailbone. This fall however injured my wrist and compressed my spine, which needed some acupuncture treatment.
 
@@ -141,7 +141,7 @@ Besides that, we are also supporting other small businesses from A to Z such as:
 
 ## as of May 19, 2020
 
-This post was originally written April 17. Since then, we've had more progress and conversations about moving, downsizing and buying a boat. Here is an update on where we stand on our [boat purchase](https://www.serenadewind.com/posts/boat-purchase/ "boat purchase").
+This post was originally written April 17. Since then, we've had more progress and conversations about moving, downsizing and buying a boat. Here is an update on where we stand on our [boat purchase](/posts/boat-purchase/ "boat purchase").
 
 We revised the purchase agreement and sent it to Bill for review and comment. We also placed our security deposit on RJ Slocum into an escrow account. This marks one pivotal step in becoming a boat owner. 
 

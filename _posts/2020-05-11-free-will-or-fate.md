@@ -148,7 +148,7 @@ This is a bit counter to some cruisers who suggest you buy a "starter boat" i.e,
 
 ## Doing it the hard way
 
-Do you remember the post about [climbing until you fall](https://www.serenadewind.com/posts/climb-until-you-fall/ "balls out sailing") ?
+Do you remember the post about [climbing until you fall](/posts/climb-until-you-fall/ "balls out sailing") ?
 
 That leap of faith is certainly present in Andrew. For me, it's been a slower process of letting go of mental blocks and gaining confidence. In some respects, I keep thinking I am a [drogue](https://www.dictionary.com/browse/drogue?s=t "drogue definition") in this relationship, holding Andrew back. He is confident, and I am conservative.
 
@@ -224,7 +224,7 @@ Guaranteed, I would answer #5. No question.
 
 Here we are today and I am answering #4. With such bold changes being made, one has to ask the question. Is this free will or fate?
 
-Andrew reminded me of what happened in the case of our decision to go to [Boot](https://www.serenadewind.com/posts/boot-2020/ "Boot 2020") in Dusseldorf. Intrinsically, something within Andrew compelled him to say, "Let's go to Boot."
+Andrew reminded me of what happened in the case of our decision to go to [Boot](/posts/boot-2020/ "Boot 2020") in Dusseldorf. Intrinsically, something within Andrew compelled him to say, "Let's go to Boot."
 
 Instinctively, I replied, "Whoa, wait a minute..."
 
