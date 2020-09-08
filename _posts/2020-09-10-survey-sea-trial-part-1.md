@@ -14,6 +14,7 @@ tags:
     - projectslocum
     - svrjslocum
     - tbt
+    - tedtalks
 share: true
 image:
     thumbnail: /images/small/woman-doing-hand-heart-sign.jpg 
@@ -58,6 +59,16 @@ Over the course of time, I took solace in these writings from Buddha,
 > The quality of owning freezes you forever in "I," and cuts you off forever from the "we."
 
 When we stop the automatic thoughts in our head and we begin to live with intention, we discover a feeling of lightness. Such is the benefit of [minimalist living](/posts/30-weeks-to-minimalism/). Possessions no longer end up [owning you](/posts/relationship-with-money/). Living with intention means living with a greater awareness of the impact you're making on the world around you and to do what you can to make a change, whether it is finding [causes to support](/posts/philanthropy/) or becoming [ethical sailors](/posts/ethical-sailing/).
+
+{% include responsive-embed url="https://www.youtube.com/embed/FF34Bz2MaU0" ratio="16:9" %}
+
+# 1 Second Everyday
+
+I realize as the years go by that my memory isn't what it used to be. I used to be great with names and faces. Not anymore. Just as in the [Throwback](/posts/throw-back/) story, I realized that relying on my memory of events becomes more precarious with each passing year. 
+
+So when I came across the [TED Talks video](https://www.ted.com/talks/cesar_kuriyama_one_second_every_day/) by Cesar Kuriyama, I appreciated the benefits that come with a visual reminder and so I put together a short montage of the highlights of this year for those of you who are visually inclined. 
+
+Why not take advantage of technology to jog your memory and at the same time reconnect with your younger self? 
 
 {% assign pwimg="rjs-lugger-andrew" %}
 {% assign pwcaption="" %}
@@ -123,3 +134,4 @@ So in the spirit of growth through self-reflection, I would like to make a small
 >Then, for my birthday, please send those events in a direct message to me. And in return, I will send you the Seven Year Cycle post. 
 
 This reflection may yield revelations too personal to share, for which I can empathize. Direct message me a quick "hello" or send pictures of yourself at each stage, and I will send you the "Seven Year Cycle" story anyway. 
+
