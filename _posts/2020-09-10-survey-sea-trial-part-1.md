@@ -16,8 +16,8 @@ tags:
     - tbt
 share: true
 image:
-    thumbnail: /images/small/rjs-cockpit.jpg 
-excerpt: We wanted to do a round-up post of what we've done so far this year and then introduce part 1 of the Survey & Sea Trial series.
+    thumbnail: /images/small/woman-doing-hand-heart-sign.jpg 
+excerpt: It's been quite a year of transitions and so we wanted to do a round-up post of what we've done so far this year, introduce part 1 of the Survey & Sea Trial series and of course celebrate Denise's birthday.
 ---
 {% include toc %}
 
@@ -47,7 +47,7 @@ To take the boat off the market and to give Bill piece of mind, we placed a [dep
 
 As we wrote about [In the Arena](/posts/in-the-arena/), the adventure begins when you decide to go, so we have spent most of the spring and summer chronicling those adventures about making some pretty tough decisions and having [emotional conversations](/posts/parental-reaction-part-1/). The hardest part was learning not be a control freak and to [go with the flow](/posts/going-with-the-flow/). You name it, and we let it go. 
 
-Comfort? Gone. Sentimentality? Gone. Stuff? All Gone. 
+Comfort? Gone. Sentimentality? Gone. Stuff? 80% of it is gone. 
 
 Over the course of time, I took solace in these writings from Buddha,
 

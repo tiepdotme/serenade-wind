@@ -35,7 +35,7 @@ Generally, his preference when approaching anything new is to figure things out 
 
 I shrugged. 
 
-In my mind, I didn't think this mystery needed belaboring, but I understood his point. Andrew was taking every step of this process seriously. I took on faith what Bill had said in July. Bill has a history of sparing no cost when it comes to maintaining his boat over 30 years. He recommended using Interlux Micron 66 for the bottompaint. That was good enough for me.
+In my mind, I didn't think this mystery needed belaboring, but I understood his point. Andrew was taking every step of this process seriously. I took on faith what Bill had said in July. Bill has a history of sparing no cost when it comes to maintaining his boat over 30 years. He recommended using Interlux Micron 66 for the bottom paint. That was good enough for me.
 
 Andrew absorbed this recommendation and then spent hours researching bottom paint performance. He started with the knowledge that Micron 66 is what's on the bottom now and by reading through write-ups from [Jamestown Distributor](https://www.jamestowndistributors.com/userportal/document.do?docId=1177) including [Interlux Micron 66](https://www.jamestowndistributors.com/userportal/show_product.do?pid=79), which was Bill's recommendation and [Sea Hawk Cukote](https://www.jamestowndistributors.com/userportal/show_product.do?pid=59368), which was the boatyard's recommendation given that RJ Slocum had been sitting in water with lower salinity. We then had a follow-up call with Bill on the topic along with finalizing the travel plans in September.
 
@@ -50,9 +50,9 @@ Before we arrived in Florida, we did some research and found some useful links o
 
  - [Passage Maker](https://www.passagemaker.com/) - a [haul out game plan](https://www.passagemaker.com/cruiser-reviews/haul-out-game-plan) is helpful for owners who would like to diagnose issues through a mechanical test run prior to the haul out so they can tackle areas that require servicing once the boat is out of the water 
  - [Mahina Expeditions](http:/www.mahina.com/forms/commissioning.pdf) - article of what to do when decommissioning and recommissioning in a foreign port
- - [Commuter Cruiser](https://commutercruiser.com/quick-haul-out-checklist/) - reference for a quick haul out 
+ - [Commuter Cruiser](https://commutercruiser.com/quick-haul-out-checklist/) - provides a reference for a quick haul out 
  - [Sailing Totem](https://www.sailingtotem.com/2020/09/preparing-a-boat-for-haulout.html) - chronicled their 6th haul out while they are in Mexico
- - [The Boat Galley](https://theboatgalley.com/tips-for-hauling-out-your-boat/) - offers tips for hauling out your boat
+ - [The Boat Galley](https://theboatgalley.com/tips-for-hauling-out-your-boat/) - offers tips for hauling out your boat 
 
 It's also important to take care to understand the details of the arrangements with the boatyard, i.e., [scope and cost](https://www.boatus.com/magazine/2018/october/boat-haul-out.asp). For example, you may want to ask the following [questions](http://www.anchorswaymarine.com/template/checklist_prehaul.pdf) of the yard when they are preparing a quote:
 
