@@ -120,28 +120,43 @@ We also reached out to [Interlux](https://www.interlux.com/en/us/) with the same
 
 I like the problem-solving aspect of this new lifestyle. Everyday is certainly an adventure! 
 
-So, with that in mind, what did we see during the haul out?
+# Catch 22
+
+Another problem to solve included finding a boat yard to haul out the boat for the survey and sea trial without insurance. Virtually all boat yards we talked to required insurance in order to do a haul out.
+
+It's a classic catch 22.
+
+We called around found out there are instances in which temporary insurance can be granted in order to do the haul out.
+
+List out companies and conversations.
+
+With all this squared away finally, what did we see during the haul out?
 
 {% assign pwimg="asa-first-skipper-bluewater-marina" %}
 {% assign pwcaption="Temporary image" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-# Harbour Towne Marina
+# First Haul Out
 
-Yesterday, we met Bill at RJ Slocum and motored down the channel to [Harbour Towne Marina](http://www.harbourtownemarina.com/) for the haul out. 
+Yesterday, we met Bill at RJ Slocum and motored down New River to [Harbour Towne Marina](http://www.harbourtownemarina.com/) where [Yacht Management Group](https://yachtmanagementdania.com/) would be doing the haul out. 
+
 
 Describe our experiences during the haul out...
+
+# Marine Survey 
 
 Recap marine survey...
 
 # Second Haul Out
 
-In advance of the trip, we had some reservations about the reviews being given for the boat yard, so we decided to go with another. [Lauderdale Marine Center](https://www.lauderdalemarinecenter.com/) came highly recommended by Ian and [Royale Palm Marina](https://royalepalmmarina.com/) was recommended by a WWS member. 
+In advance of the trip, we had some reservations about the [reviews](https://www.google.com/search?sxsrf=ALeKk01gBZYIFkSzkdmDfg4mJp1Qx8Qyhg%3A1599663291497&source=hp&ei=u-xYX426G5LR0PEPiomkuAs&q=yacht+management+group&oq=yacht+management+group&gs_lcp=CgZwc3ktYWIQAzINCC4QxwEQrwEQJxCTAjICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46DQguEMcBEKMCECcQkwI6BAgjECc6CwguEMcBEKMCEJECOgUIABCRAjoFCAAQsQM6CAguELEDEIMBOhAILhDHARCvARDqAhAnEJMCOgcIIxDqAhAnOgQIABBDOggIABCxAxCDAToHCAAQFBCHAjoICC4QxwEQowI6CAgAELEDEJECOg0ILhDHARCvARAUEIcCOggILhDHARCvAVCPDljkLWDOL2gBcAB4AIABdogBhROSAQQzLjIwmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwjNg_2RqtzrAhWSKDQIHYoECbcQ4dUDCAk&uact=5#lrd=0x88d9aa92cf6309f9:0xb87c5ae81151fe9c,1,,,) being given for the boat yard, so we looked for other options. [Lauderdale Marine Center](https://www.lauderdalemarinecenter.com/) came highly recommended by Ian and [Royale Palm Marina](https://royalepalmmarina.com/) was recommended by Suky Cannon. 
 
 Show screenshot of price comparisons.
 
 On an apples to apples basis, we asked for quotes on the same scope. The differences lay with the level of detail and transparency that came through by each of the vendors. As you can see in the first column, YMG had line items for "paint upgrade" which did not have explanation. They were however one of very few yards that would be willing to haul a vessel without liability insurance and in large part because they did charge extra for it (2.4% of the invoiced amount). 
+
+Lauderdale Marine Center 
 
 What to look for in wax and compound the hull and topsides...
 

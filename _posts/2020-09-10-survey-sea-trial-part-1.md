@@ -80,7 +80,7 @@ Why not take advantage of technology to jog your memory and at the same time rec
 Switching gears now to the practical day-to-day matters, we have set aside 2 weeks in Ft Lauderdale. Here's the plan so far:
 
  - Sun: travel day 
- - Mon-Tue: inventory everything on RJ Slocum, decide with Bill on what items to keep
+ - Mon-Tue: inventory everything on RJ Slocum
  - Wed: haul out and marine survey
  - Thu-Wed (roughly 1 week): bottom prep/paint, repairs
  - Wed: sea trial
