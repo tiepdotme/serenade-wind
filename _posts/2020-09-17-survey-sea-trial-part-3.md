@@ -99,9 +99,7 @@ Some responses mentioned having a great experience with [Pettit Trinidad Pro](ht
 
 [Suky Cannon](https://www.shambalasailingadventures.com/) (who has a USCG Master Mariner 100 Ton License and sails *Shambala*, a classic Morgan 41 sloop and teaches in the Bahamas and Florida Keys) recommended that we not to put it on until we leave the low salinity waters and referred us to [Royale Palm Marina](https://royalepalmmarina.com/), a fast, efficient boatyard in Dania. The boatyard has no fixed bridges between its location and the ocean, which allows for quick and easy access.
 
-Vanessa Linsley (who has lived and sailed for 30 years on *Anney Bonney* a CT 42 designed by William Garden) added that if the paint isn't breaking down now when we do the haul out, do it when we're ready to splash and head south. She went on to describe the current water condition in south Florida and in particular oxygenation levels (not salinity) which leads to brackish content. She describes that the water in New River is different than normal, and she wouldn't be surprised if the water changes due to human assistance to agitate more oxygen into the water to deal with the problem. 
-
-I was gobsmacked. Their insights were detailed, specific, and actionable. 
+I was gobsmacked. Her insights were detailed, specific, and actionable. 
 
 {% assign pwimg="pexels-pixabay-cornflakes" %}
 {% assign pwcaption="Photo by Pixabay" %}
@@ -122,43 +120,23 @@ I like the problem-solving aspect of this new lifestyle. Everyday is certainly a
 
 # Catch 22
 
-Another problem to solve included finding a boat yard to haul out the boat for the survey and sea trial without insurance. Virtually all boat yards we talked to required insurance in order to do a haul out.
+Another problem to solve included finding a boat yard to haul out the boat for the survey and sea trial without insurance. Virtually all boat yards we talked to required insurance in order to do a haul out. 
 
 It's a classic catch 22.
 
-We called around found out there are instances in which temporary insurance can be granted in order to do the haul out.
+We called around and learned from a Geico rep that there are instances in which temporary insurance can be granted in order to do the haul out, but that we would need to speak with the [Florida Office of Insurance Regulation](https://www.floir.com/Office/AboutOIRdefault.aspx). 
 
-List out companies and conversations.
-
-With all this squared away finally, what did we see during the haul out?
+If we could secure this, we could theoretically have our preferred boat yard (Lauderdale Marine Center or Royale Palm Marina) handle the bottom job. However, given we had little time to go down this rabbit hole, we kept calling boat yards to see if anyone would be willing to help us with the haul out.
 
 {% assign pwimg="asa-first-skipper-bluewater-marina" %}
 {% assign pwcaption="Temporary image" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-# First Haul Out
+# Short Haul Out
 
-Yesterday, we met Bill at RJ Slocum and motored down New River to [Harbour Towne Marina](http://www.harbourtownemarina.com/) where [Yacht Management Group](https://yachtmanagementdania.com/) would be doing the haul out. 
-
-
-Describe our experiences during the haul out...
-
-# Marine Survey 
+Yesterday, we met Bill at RJ Slocum and motored down New River to [Harbour Towne Marina](http://www.harbourtownemarina.com/) where [Starboard Yacht Group](https://starboardyacht.com/) would be doing the short haul out. They were willing to help us out with our catch 22 issue by covering the boat while in the sling and on the hard.
 
 Recap marine survey...
 
-# Second Haul Out
-
-In advance of the trip, we had some reservations about the [reviews](https://www.google.com/search?sxsrf=ALeKk01gBZYIFkSzkdmDfg4mJp1Qx8Qyhg%3A1599663291497&source=hp&ei=u-xYX426G5LR0PEPiomkuAs&q=yacht+management+group&oq=yacht+management+group&gs_lcp=CgZwc3ktYWIQAzINCC4QxwEQrwEQJxCTAjICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46DQguEMcBEKMCECcQkwI6BAgjECc6CwguEMcBEKMCEJECOgUIABCRAjoFCAAQsQM6CAguELEDEIMBOhAILhDHARCvARDqAhAnEJMCOgcIIxDqAhAnOgQIABBDOggIABCxAxCDAToHCAAQFBCHAjoICC4QxwEQowI6CAgAELEDEJECOg0ILhDHARCvARAUEIcCOggILhDHARCvAVCPDljkLWDOL2gBcAB4AIABdogBhROSAQQzLjIwmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwjNg_2RqtzrAhWSKDQIHYoECbcQ4dUDCAk&uact=5#lrd=0x88d9aa92cf6309f9:0xb87c5ae81151fe9c,1,,,) being given for the boat yard, so we looked for other options. [Lauderdale Marine Center](https://www.lauderdalemarinecenter.com/) came highly recommended by Ian and [Royale Palm Marina](https://royalepalmmarina.com/) was recommended by Suky Cannon. 
-
-Show screenshot of price comparisons.
-
-On an apples to apples basis, we asked for quotes on the same scope. The differences lay with the level of detail and transparency that came through by each of the vendors. As you can see in the first column, YMG had line items for "paint upgrade" which did not have explanation. They were however one of very few yards that would be willing to haul a vessel without liability insurance and in large part because they did charge extra for it (2.4% of the invoiced amount). 
-
-Lauderdale Marine Center 
-
-What to look for in wax and compound the hull and topsides...
-
-We referred to some guidance once again from [Jamestown Distributors](https://www.jamestowndistributors.com/userportal/document.do?docId=265) who had a Boat Polishing Guide - Restoring Gelcoat to a Perfect Finish.
-
+Stay tuned for the next post where we go over the sea trial. 

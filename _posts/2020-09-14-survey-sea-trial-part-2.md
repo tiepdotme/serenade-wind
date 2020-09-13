@@ -26,9 +26,9 @@ excerpt: We're in Ft Lauderdale taking the next step of our due diligence proces
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-First of all, thank you everyone for reaching out and sharing your stories with us. I was really touched to learn about each of your journeys... among the best birthday presents I have received! 
+In today's post, we want to update you on what's happening over the next couple weeks. We're now in Ft Lauderdale and staying at [Hotel Circ](https://www.hollywoodcirclefl.com/circ-hotel) once again. 
 
-In today's post, we want to update you on what's happening over the next couple weeks. We're now in Ft Lauderdale and staying in Hotel Circ once again. 
+Tropical depression 19 moved across south Florida over the weekend, and another system is developing after Wednesday, which will affect our plans as rain and storm conditions are expected through the rest of the week.  
 
 # Due Diligence
 
@@ -115,7 +115,7 @@ Based on these videos, here are my takeaways:
  - note location and condition of [zinc](https://www.boatsafe.com/electrolysis-eat-prop)
  - take copious notes or capture with audio or video 
 
-A more comprehensive list can be found in the Marine Survey 101 from [Port Credit Marine Surveys](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm). However, as mentioned before, one of our shortcomings is not knowing the cost of repairs. What are newbies to do? An accredited marine surveyor would be able to supply you with those rough estimates.
+A more comprehensive list can be found in the Marine Survey 101 from [Port Credit Marine Surveys](http://www.pcmarinesurveys.com/Marine%20Survey%20101.htm). However, as mentioned before, one of our shortcomings is not knowing the cost of repairs. What are newbies to do? Hire an expert. An accredited marine surveyor would be able to supply you with those rough estimates.
 
 {% assign pwimg="yrm-logo" %}
 {% assign pwcaption="" %}
