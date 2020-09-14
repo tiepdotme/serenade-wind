@@ -87,7 +87,11 @@ Andrew recounted a previous experience with his two Himalayan cats, Manny and Mo
 
 Given this backdrop, we wanted to come up with a plan that kept Xiaolong from prolonged anxiety. We decided to find him a home quickly, so he can go back to being his normal self: trilling in the hallways, hunting bugs, and napping in the sun. 
 
-On August 12, Janet and her family came over and picked up Xiaolong along with a lot of gear. For the first time in my life, I experienced the "empty nest" feeling many talk about. Less than 2 days later, he was exploring each of the rooms in his new home and making all kinds of funny noises. In the end, we knew we made the right decision, and we were happy that he will be living with our family. 
+On August 12, Janet and her family came over and picked up Xiaolong along with a lot of gear. For the first time in my life, I experienced the "empty nest" feeling many talk about. Less than 2 days later, he was exploring each of the rooms in his new home and making all kinds of funny noises. What a relief it was to hear that.
+
+Before heading to Florida, I wanted to visit Xiaolong in his new home. It had been a month and I missed him every day, though not as much when we were in Seattle with Emma and Silvia. When we arrived, he was friendly and curious as he usually was with strangers. He behaved as if he had no memory of living with us since he was a kitten.
+
+Realizing that, I knew I would be the only one to remember the bond we shared. I scooped him up, gave him a belly kiss, and said goodbye.
 
 {% assign pwimg="dhn-49-sq-ft-minimalism" %}
 {% assign pwcaption="7x7 sq ft" %}

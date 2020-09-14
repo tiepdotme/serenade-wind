@@ -64,7 +64,7 @@ It's also important to take care to understand the details of the arrangements w
 
 Finally, on splash day, check the work and talk to the yard about the work performed. Review the itemized invoice and check it against the estimate. Pay the bill and tip the workers. Compare the boat's condition (pre-haul and post-haul list and photos). Check the rigging.
 
-{% assign pwimg="rjs-wing-keel_2x" %}
+{% assign pwimg="rjs-wing-keel" %}
 {% assign pwcaption="Haul out in Thailand" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}

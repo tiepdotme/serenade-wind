@@ -28,7 +28,7 @@ excerpt: We're in Ft Lauderdale taking the next step of our due diligence proces
 
 In today's post, we want to update you on what's happening over the next couple weeks. We're now in Ft Lauderdale and staying at [Hotel Circ](https://www.hollywoodcirclefl.com/circ-hotel) once again. 
 
-Tropical depression 19 moved across south Florida over the weekend, and another system is developing after Wednesday, which will affect our plans as rain and storm conditions are expected through the rest of the week.  
+Tropical Storm Sally moved across south Florida over the weekend, and another system is developing after Wednesday, which will affect our plans as rain and storm conditions are expected through the rest of the week.  
 
 # Due Diligence
 
