@@ -128,15 +128,25 @@ We called around and learned from a Geico rep that there are instances in which 
 
 If we could secure this, we could theoretically have our preferred boat yard (Lauderdale Marine Center or Royale Palm Marina) handle the bottom job. However, given we had little time to go down this rabbit hole, we kept calling boat yards to see if anyone would be willing to help us with the haul out.
 
-{% assign pwimg="asa-first-skipper-bluewater-marina" %}
-{% assign pwcaption="Temporary image" %}
+{% assign pwimg="dhn-rjs-haul-out" %}
+{% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
 # Short Haul Out
 
-Yesterday, we met Bill at RJ Slocum and motored down New River to [Harbour Towne Marina](http://www.harbourtownemarina.com/) where [Starboard Yacht Group](https://starboardyacht.com/) would be doing the short haul out. They were willing to help us out with our catch 22 issue by covering the boat while in the sling and on the hard.
+Yesterday, we met Bill at RJ Slocum and cast off from the dock at 9:30. We motored down New River to [Harbour Towne Marina](http://www.harbourtownemarina.com/), which took a bit of effort given we had to wait for bridges to open in order to pass through. We had done some recon earlier that morning and met Eddie who told us to give him a call at the 17th Street Bridge before proceeding further. The lift was not operational as of 8:30 that morning. We took a chance to be turned away at lunchtime and be forced to reschedule the marine survey for another day.
 
-Recap marine survey...
+As luck would have it, Eddie put us second in line when we got to the designated bridge. Trouble was... we were still quite a ways and wouldn't be there by 11 a.m. We continued to motor and made as good a time as we could and rounded up the Dania Cut-off Canal toward the marina where [Starboard Yacht Group](https://starboardyacht.com/) would be doing the short haul out. They were willing to help us out with our catch 22 issue by covering the boat while in the sling.
 
-Stay tuned for the next post where we go over the sea trial. 
+Bill was very specific about the placement of the slings given the hull shape and location of the prop. You'll note this in the photo above. While in the slings, the barnacles were scraped followed by a pressure wash so that Ian can evaluate the hull. Since we were early, we were able to get the sea trial done on the same day.
+
+A couple of stressful moments occurred during the day, and as I debriefed with Andrew, I told him I was struck at how calm Bill appeared to be. Not surprisingly, these moments happened when... 
+
+ - approaching the marina and not anticipating a strong gust across the hull, pushing us into a dock; luckily there was no damage except to the rudder of the windvane
+ - while attempting to leave the sling, Bill was down below trying to prime the impeller with water which took about 10 minutes... 10 minutes we didn't have as there was a particularly grumpy man screaming and yelling at us to get the hell out
+ - on our return, we had arrived at the second New River bridge that was 10 minutes away from shutting down due to rush hour. We would be in limbo for an hour and a half doing doughnuts in the channel as the sun slowly set.
+ 
+Bill seemed to take this all in stride and this gave a sense of calm (at least to me) during these flare-up of stress and emotions. 
+
+It's been a lengthy and headspinning day, so we'll recap the sea trial in our next post while we wait for Ian's marine survey write-up. 
