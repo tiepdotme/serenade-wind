@@ -143,10 +143,10 @@ Bill was very specific about the placement of the slings given the hull shape an
 
 A couple of stressful moments occurred during the day, and as I debriefed with Andrew, I told him I was struck at how calm Bill appeared to be. Not surprisingly, these moments happened when... 
 
- - approaching the marina and not anticipating a strong gust across the hull, pushing us into a dock; luckily there was no damage except to the rudder of the windvane
+ - approaching the marina and not anticipating a strong current pushing against the hull and onto a dock; luckily there was no damage except to the rudder of the windvane
  - while attempting to leave the sling, Bill was down below trying to prime the impeller with water which took about 10 minutes... 10 minutes we didn't have as there was a particularly grumpy man screaming and yelling at us to get the hell out
- - on our return, we had arrived at the second New River bridge that was 10 minutes away from shutting down due to rush hour. We would be in limbo for an hour and a half doing doughnuts in the channel as the sun slowly set.
+ - on our return, we had arrived at the second New River bridge that was 10 minutes away from shutting down due to rush hour. We would be in limbo for an hour and a half doing doughnuts in the channel as the sun slowly set
  
-Bill seemed to take this all in stride and this gave a sense of calm (at least to me) during these flare-up of stress and emotions. 
+Bill seemed to take this all in stride and this gave a sense of calm (at least to me) during these flare-up of stress and emotions. If you want a more detailed account of the day, we will elaborate on the experience in a future post.
 
 It's been a lengthy and headspinning day, so we'll recap the sea trial in our next post while we wait for Ian's marine survey write-up. 
