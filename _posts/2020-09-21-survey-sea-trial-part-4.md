@@ -95,7 +95,7 @@ Bill and Andrew handled the myriad of steps to set up the crane, upend the dingh
 
 Once the deck was cleared of the kayak and the dinghy, Raquel got to work hosing down the deck, while I went down below to take meticulous measurements of the fridge & freezer boxes as well as the stowage for the compressor and other components related to the refrigeration system. 
 
-Bill and Andrew also uncovered other small boat projects: fixing cars on the staysail, compounding wood and replacing eyelets on the dinghy, replacing one of the blocks on the staysail, etc. It was our first exposure to another aspect of daily life aboard a sailboat...endless boat jobs. 
+Bill and Andrew also uncovered other small boat projects: fixing the existing car on the staysail boom and attaching a new block, replacing eyelets on the dinghy, etc. It was our first exposure to another aspect of daily life aboard a sailboat...endless boat jobs. 
 
 Four hours later, we were well-past lunch, and I checked in with Andrew on what we wanted to accomplish for the rest of the day. While we could easily spend the rest of the day on the boat, we needed to do laundry and more importantly meet with Ian.
 
