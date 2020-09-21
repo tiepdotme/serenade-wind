@@ -69,6 +69,11 @@ These 90 minutes of sailing was by far the highlight of our day. After dropping 
 
 It turned out to be the longest sea trial ever. If you want to read more about the survey and sea trial, we'll capture what happened behind-the-scenes in a [future post](https://www.patreon.com/posts/41702312). 
 
+{% assign pwimg="dhn-rjs-sea-trial-bridge-lift" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 # Survey results
 
 On Friday, Andrew and I had just finished breakfast from [Bake Shack](http://www.bakeshackfl.com/menu/) on the rooftop of our hotel. He stayed to have a smoke while I went back to the room. He forwarded the survey findings from Ian, and I scanned the contents, jumping straight to the recommendations. 
@@ -86,13 +91,18 @@ We made plans with Bill and Raquel to check out the dinghy on Saturday morning a
 
 As you know, [International Talk Like a Pirate Day](https://serenadewind.com/posts/talk-like-a-pirate/) was on September 19th, and it turns out that was the same day that we wanted to deploy the dinghy, which would allow us, in part, to "swab the decks." Aaaarrgh!
 
-Bill and Andrew handled the myriad of steps to set up the crane, upend the dinghy, hoist her off the deck, and drop her in the water. As we progressed through each of the steps, fastening points (e.g., cleats, buckles, lines) and their uses revealed themselves. At first blush, all these little features would not make sense except when put to use. Andrew and I enjoyed this discovery each step of the way, as marked by our occasional exclamation.
+Bill and Andrew handled the myriad of steps to set up the crane, upend the dinghy, hoist her off the deck, and drop her in the water. As we progressed through each of the steps, fastening points (e.g., cleats, shackles, lines) and their uses revealed themselves. At first blush, all these little features would not make sense except when put to use. Andrew and I enjoyed this discovery each step of the way, as marked by our occasional exclamation.
 
 Once the deck was cleared of the kayak and the dinghy, Raquel got to work hosing down the deck, while I went down below to take meticulous measurements of the fridge & freezer boxes as well as the stowage for the compressor and other components related to the refrigeration system. 
 
 Bill and Andrew also uncovered other small boat projects: fixing cars on the staysail, compounding wood and replacing eyelets on the dinghy, replacing one of the blocks on the staysail, etc. It was our first exposure to another aspect of daily life aboard a sailboat...endless boat jobs. 
 
-Four hours later, we were well-past lunch, and I checked in with Andrew on what we wanted to accomplish for the rest of the day. We needed to do laundry and more importantly meet with Ian.
+Four hours later, we were well-past lunch, and I checked in with Andrew on what we wanted to accomplish for the rest of the day. While we could easily spend the rest of the day on the boat, we needed to do laundry and more importantly meet with Ian.
+
+{% assign pwimg="dhn-tarpon-brewing-shrimp" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 # Survey Q&A
 
