@@ -1,0 +1,44 @@
+average-week-time:
+  - value: 30
+    label: "Work 50h"
+  - value: 12
+    label: "Commute 20h"
+  - value: 30
+    label: "Sleep 50h"
+  - value: 28
+    label: "Personal Time 48h"
+sailing-age:
+  - value: 49
+    label: "<20"
+    color: "blue"
+  - value: 59
+    label: "20's"
+    color: "blue"
+  - value: 70
+    label: "30's"
+    color: "blue" 
+  - value: 100
+    label: "40's"
+    color: "blue"
+  - value: 110
+    label: "50's"
+    color: "blue"
+  - value: 36
+    label: "60's"
+    color: "blue"
+  - value: 6
+    label: "70+"
+    color: "blue"
+boat-inventory:
+  - value: 58.2
+    label: "Spares"
+  - value: 11.4
+    label: "Clothes"
+  - value: 11.2
+    label: "Household"
+  - value: 8.8
+    label: "Boat Systems"
+  - value: 6.2
+    label: "Food"
+  - value: 4.2
+    label: "Personal"

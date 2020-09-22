@@ -1,3 +1,11 @@
+:root {
+    --pie-slice-1-color: #2d3e50;
+    --pie-slice-2-color: #395167;
+    --pie-slice-3-color: #466380;
+    --pie-slice-4-color: #547698;
+    --pie-slice-5-color: #6185A8;
+    --pie-slice-6-color: #6E8FAF;
+}
 #mychart {
     width: 280px;
     height: 280px;
@@ -9,11 +17,61 @@
     box-shadow: 0 .075em .2em .05em rgba(0,0,0,.25);
     background-origin: border-box; 
     background-image: conic-gradient(
-        #2d3e50 calc(3.6deg * var(--segment1, 100)),
-        #395167 0 calc(3.6deg * var(--segment2, 100)),
-        #466380 0 calc(3.6deg * var(--segment3, 100)),
-        #547698 0 calc(3.6deg * var(--segment4, 100))
+        var(--pie-slice-1-color) calc(3.6deg * var(--slice1, 100)),
+        var(--pie-slice-2-color) 0 calc(3.6deg * var(--slice2, 100)),
+        var(--pie-slice-3-color) 0 calc(3.6deg * var(--slice3, 100)),
+        var(--pie-slice-4-color) 0 calc(3.6deg * var(--slice4, 100)),
+        var(--pie-slice-5-color) 0 calc(3.6deg * var(--slice5, 100)),
+        var(--pie-slice-6-color) 0 calc(3.6deg * var(--slice6, 100))
     );
+
+    .chart-legend {
+        float: right;
+        padding: 0;
+        margin: 0 -30px;
+        @include breakpoint($medium) {
+            margin: 0 -130px;
+        }
+        .slice {
+            position:relative;
+            text-align:left;
+            padding-right: 4px;
+            span{
+                display: inline-block;
+                margin-right: 4px;
+                font-size: 0.75em;
+                margin-left: 4px;
+                padding: 1px;
+                width: 40px;
+                text-align: center;
+                box-shadow: 1px 1px 1px black;
+            }
+
+            &.slice1 span {
+                background-color: var(--pie-slice-1-color);
+            }   
+
+            &.slice2 span {
+                background-color: var(--pie-slice-2-color);
+            }   
+
+            &.slice3 span {
+                background-color: var(--pie-slice-3-color);
+            }  
+
+            &.slice4 span {
+                background-color: var(--pie-slice-4-color);
+            }   
+
+            &.slice5 span {
+                background-color: var(--pie-slice-5-color);
+            }   
+
+            &.slice6 span {
+                background-color: var(--pie-slice-6-color);
+            }
+        }
+    }
     .slice {
         position: absolute;
         display: block;
@@ -44,6 +102,8 @@
             bottom:15%;
             left:30%;
         }
+   
+
     }
 }
 

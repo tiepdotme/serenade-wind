@@ -1,0 +1,19 @@
+<div id="mychart" style="
+	{% assign cumulative_value = 0 %}
+	{%- for slice in include.pie_chart -%}
+		{% assign cumulative_value = cumulative_value | plus: slice.value %}
+		{%- if forloop.index < 2 -%}
+			--slice1: {{slice.value}};
+		{%- else -%}
+			--slice{{forloop.index}}: {{cumulative_value}};
+		{%- endif -%}
+  	{%- endfor -%}
+  	">
+  	<ul class="chart-legend">
+  		{%- for slice in include.pie_chart -%}
+  			<li class="slice slice{{forloop.index}}"><span>{{slice.value}}%</span>{{slice.label}}</li>
+  		{%- endfor -%}
+  	</ul>
+</div>
+
+
