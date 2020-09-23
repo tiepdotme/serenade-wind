@@ -31,7 +31,7 @@ excerpt: Andrew and I have the best talks while we're traveling, and our discuss
 
 # Pre-Adventure Adventure
 
-After our [first whiteboard exercise](/posts/time-to-go-to-the-whiteboard/), we had some fits and starts. By October last year, we regrouped and set out a plan to change our lives and begin [a voyaging life](/posts/sailing-around-the-world/). When first we saw [Rachel J Slocum](/posts/when-first-we-saw-rachel-j-slocum/), we were smitten, however we took the time to see what other options were currently available at [BOOT](/posts/boot-2020/) in Dusseldorf. We also decided after a trip to San Diego on [our anniversary](/posts/happy-anniversary/), that it wasn't fair to see any other boats until we had a chance to have a first look at Rachel J Slocum in person. 
+After our [first whiteboard exercise](/posts/time-to-go-to-the-whiteboard/), we had some fits and starts. By October last year, we regrouped and set out a plan to change our lives and begin [a voyaging life](/posts/sailing-around-the-world/). When first we saw [Rachel J Slocum](/posts/when-first-we-saw-rachel-j-slocum/), we were smitten, however we took the time to see what other options were currently available at [BOOT](/posts/boot-2020/) in Dusseldorf. We also decided, after a trip to San Diego on [our anniversary](/posts/happy-anniversary/), that it wasn't fair to see any other boats until we had a chance to have a first look at Rachel J Slocum in person. 
 
 No boats would ever stand a chance.
 
@@ -68,11 +68,14 @@ It isn't lost on us that the stories we tell here are at times meant to entertai
 
 So while most boat purchases occur within 30 days from opening to closing escrow, ours took 6 months. As you can see in this recap, we found ways to manage this transition during the coronavirus pandemic. By the time we went through the [pre-purchase survey and sea trial](/posts/survey-sea-trial-part-1/), we had cleared a path forward to jump into the new life with whole hearts.
 
-{% include responsive-embed url="https://www.youtube.com/embed/gSUHgAp7V7c" ratio="16:9" %}
+{% assign pwimg="nbc-the-west-wing" %}
+{% assign pwcaption="Photo by NBC" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 # What's next?
 
-One of my favorite television series is the West Wing. The [White House](https://www.youtube.com/watch?v=DUwm6WJRPIQ) portrayed is a highly idealized world of intellectual debate and listening to the merits of an argument before making a decision. In this 60-second clip, President Barlet asks, "What's next?" which is his way of communicating that he is prepared to take on the next weighty issue as he grinds through each day while in the Oval office. 
+One of my favorite television series is the West Wing. The [White House](https://www.youtube.com/watch?v=DUwm6WJRPIQ) portrayed is a highly idealized world of intellectual debate and listening to the merits of an argument before making a decision. In this 60-second clip, President Barlet asks, ["What's next?"](https://www.youtube.com/embed/gSUHgAp7V7c) which is his way of communicating that he is prepared to take on the next weighty issue as he grinds through each day while in the Oval office. 
 
 When looking back at the past year of changes in our lives, we are not resting on our laurels. We recognize that there is a lot more to do, and we eagerly look forward to tackling what's next.
 
@@ -125,3 +128,8 @@ We are embarking on a lot of changes this year, one of which is, pursuing a [lif
 More isn't better. More is just more.   
 
 What's in [your backpack](https://www.youtube.com/watch?v=UsRP9EUrXjo "What’s in your backpack")? Our backpack is nearly empty. As we set out with our goal two years ago to [sail around the world](/posts/sailing-around-the-world/), we can now selectively curate experiences rather than possessions.
+
+{% assign pwimg="person-holding-mug-adventure-begins" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
