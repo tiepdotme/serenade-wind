@@ -45,12 +45,7 @@ If you really break down how you spend your time in a given week, it may look so
 
 ## How we spend our time (average week)
 
-<div id="mychart" style="--segment1: 30; --segment2: 42; --segment3: 72">
-    <div class="slice personal">Personal Time<span>48h</span> </div>
-    <div class="slice sleep">Sleep<span>50h</span></div>
-    <div class="slice work">Work<span>50h</span></div>
-    <div class="slice commute">Commute<span>20h</span></div>
-</div>
+{% include pie-chart.html pie_chart=site.data.charts.average-week-time %}
 
 We took a hard look at this distribution of time. While we didn’t like the reality we were living, we also saw this as an opportunity to not be complacent. So, we spent a few hours on a sunny Sunday morning challenging ourselves with the following questions:
 
@@ -69,7 +64,6 @@ We took a hard look at this distribution of time. While we didn’t like the rea
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
 
-
 There were many more questions and ideas that were thrown up on a whiteboard.
 
 -  Ideas were organized between short term goals and long term goals.
@@ -84,7 +78,6 @@ That Sunday morning session concluded with a decision to start knocking out some
 {% assign pwcaption="Current Life" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
-
 
 # One year later&#8230;
 

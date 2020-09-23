@@ -149,7 +149,7 @@ Recently, a question came up among the [Women Who Sail](https://www.facebook.com
 
 This question yielded a huge response in the span of 4 days, and it breaks down as follows:
 
-{% include bar-chart.html bar_chart=site.data.bar-charts.sailing-age %}
+{% include bar-chart.html bar_chart=site.data.charts.sailing-age %}
 
 Granted, some of the respondents didn't read the question properly and merely indicated when they first learned to sail and not when they first began to saill *full time.* Some commented on their stats even though they had not yet begun to sail full time. They were weekend sailors or seasonal cruisers. 
 

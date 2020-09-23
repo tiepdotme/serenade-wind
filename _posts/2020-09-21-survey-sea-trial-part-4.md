@@ -15,12 +15,12 @@ tags:
     - svrjslocum
 share: true
 image:
-    thumbnail: /images/small/rjs-full-sails-to-port.jpg 
-excerpt: In Part 4 of the Survey & Sea Trial series, we also describe what to expect from a sea trial and how RJ Slocum fared.
+    thumbnail: /images/small/dhn-rjs-sea-trial.jpg 
+excerpt: In Part 4 of the Survey & Sea Trial series, we describe what to expect from a sea trial and how RJ Slocum fared.
 ---
 {% include toc %}
 
-{% assign pwimg="rjs-full-sails-to-port" %}
+{% assign pwimg="dhn-rjs-sea-trial" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
