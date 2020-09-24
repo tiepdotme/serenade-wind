@@ -117,7 +117,7 @@ During this time, we are finalizing the inventory of items we are taking aboard.
 
 # Minimalism Update
 
-Now that we have a better idea of stowage aboard RJ Slocum, we are setting aside the remaining items we will be taking aboard. As we talked about in [Living Space](/posts/living-space/), tools, linens, galley equipment were the big unknowns prior to the trip. Now, we can close out those items and pack them up. We have a POD scheduled to come next week and will deliver our personal items to Florida within 12 days.
+Now that we have a better idea of stowage aboard RJ Slocum, we are setting aside the remaining items we will be taking aboard. As we talked about in [Living Space](/posts/living-space/), tools, linens, galley equipment were the big unknowns prior to the trip. Now, we can close out those items and pack them up. We have a POD scheduled to come later today and will deliver our personal items to Florida within 12 days.
 
 As we look around, we are amazed to see how much progress has been made. We'll elaborate on each of those steps in our next post on minimalism. A few smaller items still remain. Luckily, my cousin Janet offered to include them in her family's semi-annual trip to Mexico to donate to the missionaries. 
 

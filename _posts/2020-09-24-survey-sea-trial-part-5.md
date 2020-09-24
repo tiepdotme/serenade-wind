@@ -114,7 +114,7 @@ Truth be told, when I looked behind each door, it did seem like well over 80% of
 
 # Ship Shape
 
-Andrew and I spent the past few days deep cleaning the boat from bow to stern. We will be moving aboard in a couple weeks, and we wanted the boat to be in move-in condition, which it currently was not. 
+Andrew and I spent the past few days deep cleaning the boat from bow to stern. We will be moving aboard in a couple weeks, and we wanted the boat to be in ship shape and move-in condition, which it currently was not. 
 
 Many stowage spaces needed clearing out, airing out the contents, and then make decisions about what to keep and what to toss. Just as we applied the [30-weeks to minimalism strategy](/posts/30-weeks-to-minimalism/) to our own house, we needed to apply it to the boat as well. We also knew once our boxes arrived from California, we'll want a place to stow the items in some way that made sense to us. 
 
