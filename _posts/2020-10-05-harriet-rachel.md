@@ -102,7 +102,7 @@ Realizing that, I knew I would be the only one to remember the bond we shared. I
 
 Looking around Harriet Lane, we realize that we no longer have a living room, dining room and all the trappings of a typical, suburban life. Instead, we have a yoga studio, climbing gym, and skatepark. Our belongings which once filled a 3-bedroom, 2-car garage house is now reduced to 49 sq ft of space. 
 
-As our family and friends came over to visit us (appropriately masked during the pandemic), we took showed them a couple taped off areas. The first one ran pretty much the length of the east wing of Harriet Lane. During Palace's visit, we taped off 50' LOA and 13'4" beam. This provided everyone the scale of [s/v Rachel J Slocum](/about-rachel-j-slocum/), while we described the location of the saloon, galley, and owner's stateroom.
+As our family and friends came over to visit us (appropriately masked during the pandemic), we showed them a couple taped off areas. The first one ran pretty much the length of the east wing of Harriet Lane. During Palace's visit, we taped off 50' LOA and 13'4" beam. This provided everyone the scale of [s/v Rachel J Slocum](/about-rachel-j-slocum/), while we described the location of the saloon, galley, and owner's stateroom.
 
 The second area was the room where we had taped off 7x7 sq ft of space. Everything outside of the square must go to new homes. The only things we are keeping and taking with us to our sailboat is reflected inside this square. It blew their minds. 
 
