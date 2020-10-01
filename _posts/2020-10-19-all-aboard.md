@@ -27,13 +27,13 @@ excerpt: Pick one room and make it yours. Go slowly through the boat. Be polite,
 
 # Moving aboard 
 
-Over the course of the past few days, we have been slowly moving our gear aboard. We are trying to become [ethical sailors](/posts/ethical-sailing/), which means the following:
+Over the course of the past few days, we have been slowly moving our gear aboard. This is a challenge in itself without also trying to become [ethical sailors](/posts/ethical-sailing/), which means the following:
 
  - eliminating single use items such as Ziploc bags and investing in food-grade silicone storage bags
  - using reef-safe cleaning products (sunscreen, shampoo, soaps, detergents)
- - making use of whatever Bill has left behind (plates, rechargeable batteries)
+ - making use of whatever Bill has left behind (tools, plates, rechargeable batteries)
 
-Countless decisions are being made as we merge and edit, rinse and repeat. In other words, we are continuing what we started with our home in [30-weeks to minimalism](/posts/30-weeks-to-minimalism/) and applying it to our boat, hopefully within a week or two. 
+Countless decisions are being made as we merge and edit, purge and wedge, rinse and repeat. In other words, we are continuing what we started with our home in [30-weeks to minimalism](/posts/30-weeks-to-minimalism/) and applying it to our boat, hopefully within a week or two. 
 
 {% assign pwimg="dhn-rjs-scratched-teak-hinge" %}
 {% assign pwcaption="" %}
@@ -50,7 +50,7 @@ Our sanctuary was the [aft cabin](/posts/packing-light/) (or master bedroom). We
 
 Speaking of teak, we also discovered that a half inch of rod was protruding from the hinge and scraped jagged lines into the wood as the bed was being raised by the hydraulic thrusters.
 
-The next room to tackle was the [head](/posts/boat-head/) (or bathroom). Imagine laboring in sauna-like conditions for 8+ hours and not showering. We have relied on baby wipes in the past while camping, but I think even this is too much to expect from a baby wipe. 
+The next room to tackle was the [head](/posts/boat-head/) (or bathroom). Imagine laboring in sauna-like conditions for 8 plus hours and not showering. In the past, we have relied on baby wipes while camping, but I think even this is too much to expect from a baby wipe. 
 
 {% assign pwimg="rjs-saloon-wide-angle" %}
 {% assign pwcaption="" %}
@@ -62,8 +62,11 @@ The next room to tackle was the [head](/posts/boat-head/) (or bathroom). Imagine
 Buying a used boat "as is" means *not* having a blank canvas with which to work. While the color palette has been chosen (a classic forest green), we have an opportunity to soften and personalize the space to suit our sensibilities with neutral tones, declutter the sightlines and update the look while complementing the significant investment already made in long-lasting Sunbrella fabrics. 
 
 {% include sticky-note.html text="Maintain comfort" %}
+{% include sticky-note.html text="Sleep well" %}
 
-Andrew believes airflow and firm support is paramount to a restful slumber. Since people spend a third of their lives asleep, it makes sense to focus some effort to improve or replace a 15-year old foam mattress. So he will tackle a DIY upgrade to the heavy, one-inch plank as well as the mattress which comprises our bed. 
+Andrew believes airflow and firm support is paramount to restful slumber. Since people spend a third of their lives asleep [(one quarter for me)](/posts/support-local/), it makes sense to focus some effort to improve or replace a 15-year old foam mattress. So he will tackle a DIY upgrade to the heavy, one-inch plank as well as the mattress, which comprises our bed. 
+
+As we go through this phase of moving in, I am reminded of the [whiteboard](/posts/time-to-go-to-the-whiteboard/) and the goals we listed. We made a conscious effort a couple years ago to change our life and to fill our time with what is important to us. The whiteboard has become our touchstone that allows us to keep ourselves focused as you have witnessed these past few months. 
 
 {% assign pwimg="under-the-tuscan-sun-one-grape" %}
 {% assign pwcaption="Photo by Touchstone Pictures" %}
@@ -76,9 +79,9 @@ Andrew believes airflow and firm support is paramount to a restful slumber. Sinc
 
 I am reminded of the scene from [Under the Tuscan Sun](http://www.script-o-rama.com/movie_scripts/u/under-the-tuscan-sun-script-transcript.html), when Frances (played by Diane Lane) decided to buy and restore a run-down villa in Tuscany, where she has inherited ten thousand empty wine bottles, one grape, every issue of *La Nazione* printed in 1958, and assorted previous tenants. 
 
-As I wipe each surface, I take my time imagining the stories the walls could tell. With each layer of crud that I scrape up, I appreciate the craftsmanship and detail underneath. But when I vacuumed the carcasses of assorted previous tenants, I blanched at the sight, blasted a cloud of [diatomacous earth](http://npic.orst.edu/factsheets/degen.html), and imagine future critters shriveling up within their exoskeletons. 
+As I wipe each surface, I take my time imagining the stories these walls could tell. With each layer of crud that I scrape up, I appreciate the craftsmanship and detail underneath. But when I vacuumed the carcasses of assorted previous tenants, I blanched at the sight, blasted a cloud of [diatomacous earth](http://npic.orst.edu/factsheets/degen.html), and imagine future critters shriveling up within their exoskeletons. 
 
-> Fefe said you have to live spherically in many directions. Never lose your childish enthusiasm, and things will come your way. ~ Katherine, Under the Tuscan Sun
+> Never lose your childish enthusiasm, and things will come your way. ~ Katherine, Under the Tuscan Sun
 
 I must admit that I have a tiny bit of new-boat envy. Instagram snaps of sparkling [brightwork](https://en.wikipedia.org/wiki/Brightwork) - varnished wood, polished exposed metal - are not my reality, at least not yet. And then I assure myself, we will get there one day. 
 
