@@ -18,7 +18,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/dhn-harriet-living-room.jpg 
-excerpt: Here is an update on how we stand in the final weeks of our 30-weeks to minimalism initiative. 
+excerpt: When we returned from Florida, we spent an exhausting week packing and loading the POD. Why is it that when we had 20% left to go, it was so much harder than going through 80% of our stuff? Here is an update on how we stand in the final weeks of our 30-weeks to minimalism initiative. 
 ---
 {% include toc %}
 

@@ -94,7 +94,7 @@ Here is how we fared in this effort over the summer of 2020.
  - Week 12 - once you've narrowed down what you want to take, here are some [strategies to upcycle](/posts/matching-gifts/) your stuff
  - Week 15 - don't forget to deal with your [digital assets](/posts/shutterbug/)
  - Week 20 - all the furniture can't come with us aboard, so 80% of the large items moved out over [Labor Day weekend](/posts/talk-like-a-pirate/)
- - Week 22 - [inventory s/v Rachel J Slocum](/posts/survey-sea-trial-part-4/) and determine what we will keep
+ - Week 22 - [inventory s/v Rachel J Slocum](/posts/survey-sea-trial-part-5/) and determine what we will keep
  - Week 25 - after the survey and sea trial, [edit some more](/posts/harriet-rachel/) 
  - Week 26 - [moving out](/posts/mini-me/) and [moving aboard](/posts/all-aboard/) s/v Rachel J Slocum 
 
